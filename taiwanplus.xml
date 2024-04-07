@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://www.taiwanplus.com</id>
+  <title>TaiwanPlus Latest News</title>
+  <updated>2024-04-07T05:03:25.133497+00:00</updated>
+  <link href="https://www.taiwanplus.com"/>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>240406007</id>
+    <title>Hundreds of Quake-Hit Buildings Across Taiwan Surveyed for Safety</title>
+    <updated>2024-04-07T05:03:25.133497+00:00</updated>
+    <content>Demolition of a partially collapsed in Hualien County is set to take weeks, while hundreds of buildings across Taiwan require safety surveys following damage from Wednesday's deadl</content>
+    <link href="https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240406007"/>
+    <published>2024-04-06T09:28:02+00:00</published>
+    <media:group>
+      <media:thumbnail url="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/06c14f04-b99e-4d6e-9354-c31940111303.webp"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>240406011</id>
+    <title>Chinese Officials Allegedly Stalked Taiwan VP-Elect in Prague</title>
+    <updated>2024-04-07T05:03:25.133497+00:00</updated>
+    <content>Taiwan's Vice President-elect Bi-khim Hsiao was reportedly stalked by a Chinese official during her visit to the Czech Republic in March.</content>
+    <link href="https://www.taiwanplus.com/taiwan-news/taiwan-china-relations/240406011"/>
+    <published>2024-04-06T09:57:25+00:00</published>
+    <media:group>
+      <media:thumbnail url="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/2909b769-bd18-4d07-9aca-f7ff52dd5802.webp"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>240406012</id>
+    <title>Hualien Earthquake Death Toll Rises to 13, 6 Still Missing</title>
+    <updated>2024-04-07T05:03:25.133497+00:00</updated>
+    <content>The total number of fatalities from the Hualien earthquake has risen to thirteen with six people still unaccounted for.</content>
+    <link href="https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240406012"/>
+    <published>2024-04-06T10:00:42+00:00</published>
+    <media:group>
+      <media:thumbnail url="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/f7d6e9fc-b75e-4980-975b-53d98f22175e.webp"/>
+    </media:group>
+  </entry>
+  <entry>
+    <id>240406013</id>
+    <title>Hualien Building Demolition Suspended Due to Aftershocks</title>
+    <updated>2024-04-07T05:03:25.133497+00:00</updated>
+    <content>Authorities have temporarily suspended demolition efforts at the partially collapsed Uranus Building in Hualien due to aftershocks.</content>
+    <link href="https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240406013"/>
+    <published>2024-04-06T10:03:44+00:00</published>
+    <media:group>
+      <media:thumbnail url="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/cb1de777-2b12-4678-889e-0718aaf89e0d.webp"/>
+    </media:group>
+  </entry>
+</feed>
