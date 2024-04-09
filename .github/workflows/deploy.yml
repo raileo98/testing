@@ -1,4 +1,4 @@
-name: 部署並上傳 RSS
+name: 抓取並上傳 RSS
 
 on:
   workflow_dispatch:
@@ -31,16 +31,13 @@ jobs:
 
     - name: 執行 Python 腳本
       run: |
-        if python rss.py; then
-          echo "Python 腳本執行成功。"
-        else
-          echo "錯誤：Python 腳本執行失敗。"
-          exit 1
-        fi
+        python rss.py
 
     - name: 上傳 RSS 文件
       if: success()
-      uses: actions/upload-artifact@v4
-      with:
-        name: taiwanplus-rss
-        path: taiwanplus.rss
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+        git add taiwanplus.rss
+        git commit -m "Upload RSS file"
+        git push
