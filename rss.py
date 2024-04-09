@@ -1,6 +1,8 @@
 import niquests
 import json
 import feedgen.feed
+import xml.dom.minidom
+import xml.etree.ElementTree as ET
 
 imageCdn = 'https://images.weserv.nl/?n=-1&url='
 faviconUrl = f'{ imageCdn }https://external-content.duckduckgo.com/ip3/www.taiwanplus.com.ico'
@@ -31,4 +33,21 @@ for item in data:
     entry.published( item[ 'publishTime' ] )
 
 # 將 feed 輸出為 .rss 文件
-feed.rss_file( 'taiwanplus.rss', pretty=True )
+feed.rss_file( outputRssName, pretty = True )
+
+tree = ET.parse( outputRssName )
+root = tree.getroot()
+
+# 找到並刪除<lastBuildDate>標籤
+last_build_date = root.find( 'lastBuildDate' )
+
+if last_build_date is not None:
+    root.remove( last_build_date )
+
+# 美化輸出的 RSS/XML 檔案
+dom = xml.dom.minidom.parse( outputRssName )
+pretty_xml = dom.toprettyxml()
+
+# 將美化後的 XML 內容寫回檔案
+with open( outputRssName, 'w', encoding = 'utf-8' ) as file:
+    file.write( pretty_xml )
