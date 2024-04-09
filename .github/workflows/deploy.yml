@@ -27,8 +27,7 @@ jobs:
 
     - name: 安裝依賴
       run: |
-        python -m pip install --upgrade pip
-        pip install niquests feedgen
+        python -m pip install --upgrade pip niquests qh3 feedgen
 
     - name: 執行 Python 腳本
       run: |
