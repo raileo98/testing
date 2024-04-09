@@ -1,16 +1,12 @@
 name: 部署並上傳 RSS
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: ['latest']
 
     steps:
     - name: 檢出代碼
@@ -19,7 +15,7 @@ jobs:
     - name: 設置 Python 環境
       uses: actions/setup-python@latest
       with:
-        python-version: ${{ matrix.python-version }}
+        python-version: latest
 
     - name: 安裝依賴
       run: |
@@ -36,6 +32,7 @@ jobs:
         fi
 
     - name: 上傳 RSS 文件
+      if: success()
       uses: actions/upload-artifact@latest
       with:
         name: taiwanplus-rss
