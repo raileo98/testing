@@ -14,7 +14,7 @@ feed = feedgen.feed.FeedGenerator()
 feed.id( 'https://www.taiwanplus.com' )
 feed.title( 'TaiwanPlus - Latest News' )
 feed.description( f'Your source of news, culture, and infotainment from Taiwan, a voice of freedom in Asia.' )
-feed.link( href='https://www.taiwanplus.com', rel='alternate' )
+feed.link( href='https://www.taiwanplus.com' )
 feed.logo( faviconUrl )
 
 # 遍歷 JSON 數據並將條目添加到 feed 中
