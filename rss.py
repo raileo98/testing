@@ -45,4 +45,4 @@ last_build_date = root.find( 'lastBuildDate' )
 if last_build_date is not None:
     root.remove( last_build_date )
 
-tree.write(outputRssName, encoding='utf-8', xml_declaration=True)
+tree.write( outputRssName, encoding = 'utf-8', xml_declaration = False )
