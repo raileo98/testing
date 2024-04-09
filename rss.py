@@ -46,3 +46,4 @@ if last_build_date is not None:
     root.remove( last_build_date )
 
 tree.write( outputRssName, encoding = 'utf-8', xml_declaration = False )
+tree.write( 'asd.rss', encoding = 'utf-8', xml_declaration = False )
