@@ -49,4 +49,4 @@ if last_build_date is not None:
 
 # 使用 tree.write() 將修改後的 XML 樹直接寫入文件
 tree = ET.ElementTree(root)
-tree.write(outputRssName, encoding='utf-8', xml_declaration=True)
+tree.write(outputRssName)
