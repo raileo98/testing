@@ -37,7 +37,7 @@ jobs:
       if: success()
       run: |
         git config --global user.email "github-actions@github.com"
-        git config --global user.name "GitHub Actions"
+        git config --global user.name "github-actions"
         git add taiwanplus.rss
         git commit -m "Upload RSS file"
         git push
