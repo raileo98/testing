@@ -22,7 +22,7 @@ jobs:
     - name: 設置 Python 環境
       uses: actions/setup-python@v5
       with:
-        python-version: '3.12'
+        # python-version: '3.12'
         check-latest: true
 
     - name: 安裝依賴
