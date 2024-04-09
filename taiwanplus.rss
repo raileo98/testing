@@ -1,128 +1,44 @@
-<?xml version="1.0" ?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
-	
-  
-	<channel>
-		
-    
-		<title>TaiwanPlus - Latest News</title>
-		
-    
-		<link>https://www.taiwanplus.com</link>
-		
-    
-		<description>Your source of news, culture, and infotainment from Taiwan, a voice of freedom in Asia.</description>
-		
-    
-		<docs>http://www.rssboard.org/rss-specification</docs>
-		
-    
-		<generator>python-feedgen</generator>
-		
-    
-		<image>
-			
-      
-			<url>https://images.weserv.nl/?n=-1&amp;url=https://external-content.duckduckgo.com/ip3/www.taiwanplus.com.ico</url>
-			
-      
-			<title>TaiwanPlus - Latest News</title>
-			
-      
-			<link>https://www.taiwanplus.com</link>
-			
-    
-		</image>
-		
-    
-		<lastBuildDate>Tue, 09 Apr 2024 04:31:03 +0000</lastBuildDate>
-		
-    
-		<item>
-			
-      
-			<title>First Ever Low-Earth Orbit Satellite To Help Taiwan Rescue Efforts</title>
-			
-      
-			<link>https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240408021</link>
-			
-      
-			<description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/a1068891-1232-428c-9700-58f49f83531c.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;Taiwan's digital ministry says its using satellites to send information to earthquake rescue personnel for the first time.</description>
-			
-      
-			<guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240408021</guid>
-			
-      
-			<pubDate>Mon, 08 Apr 2024 13:10:15 +0000</pubDate>
-			
-    
-		</item>
-		
-    
-		<item>
-			
-      
-			<title>Fishing Boat Missing Since Major Earthquake Found Off Southern Coast</title>
-			
-      
-			<link>https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240408024</link>
-			
-      
-			<description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/dab9179c-419e-4a90-b371-fd4229424387.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;A fishing boat that went missing after a magnitude 7.2 earthquake struck Taiwan has been found and returned to harbor.</description>
-			
-      
-			<guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240408024</guid>
-			
-      
-			<pubDate>Mon, 08 Apr 2024 13:35:39 +0000</pubDate>
-			
-    
-		</item>
-		
-    
-		<item>
-			
-      
-			<title>Visiting Australian Lawmaker Discusses Security Ties With Taipei</title>
-			
-      
-			<link>https://www.taiwanplus.com/taiwan-news/diplomacy/240408025</link>
-			
-      
-			<description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/6e4672ab-4520-4af9-8c54-3d16d2dbd215.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;Australian lawmaker Andrew Wallace raised the issue of security cooperation with Taiwan at a meeting with President Tsai Ing-wen in Taipei. Members of his delegation said Australia</description>
-			
-      
-			<guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/diplomacy/240408025</guid>
-			
-      
-			<pubDate>Mon, 08 Apr 2024 13:41:08 +0000</pubDate>
-			
-    
-		</item>
-		
-    
-		<item>
-			
-      
-			<title>Taiwan Launches New Electronic Referendum Campaign System</title>
-			
-      
-			<link>https://www.taiwanplus.com/taiwan-news/politics/240408026</link>
-			
-      
-			<description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/0c45f932-b9c6-4a85-bdce-6c943e80fdd6.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;Taiwan is launching a new online platform that will allow members of the public to sign referendum petitions electronically.</description>
-			
-      
-			<guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/politics/240408026</guid>
-			
-      
-			<pubDate>Mon, 08 Apr 2024 13:45:46 +0000</pubDate>
-			
-    
-		</item>
-		
-  
-	</channel>
-	
-
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>TaiwanPlus - Latest News</title>
+    <link>https://www.taiwanplus.com</link>
+    <description>Your source of news, culture, and infotainment from Taiwan, a voice of freedom in Asia.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://images.weserv.nl/?n=-1&amp;url=https://external-content.duckduckgo.com/ip3/www.taiwanplus.com.ico</url>
+      <title>TaiwanPlus - Latest News</title>
+      <link>https://www.taiwanplus.com</link>
+    </image>
+    <lastBuildDate>Tue, 09 Apr 2024 04:36:10 +0000</lastBuildDate>
+    <item>
+      <title>Fishing Boat Missing Since Major Earthquake Found Off Southern Coast</title>
+      <link>https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240408024</link>
+      <description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/dab9179c-419e-4a90-b371-fd4229424387.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;A fishing boat that went missing after a magnitude 7.2 earthquake struck Taiwan has been found and returned to harbor.</description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/climate-and-natural-disasters/240408024</guid>
+      <pubDate>Mon, 08 Apr 2024 13:35:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Visiting Australian Lawmaker Discusses Security Ties With Taipei</title>
+      <link>https://www.taiwanplus.com/taiwan-news/diplomacy/240408025</link>
+      <description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/6e4672ab-4520-4af9-8c54-3d16d2dbd215.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;Australian lawmaker Andrew Wallace raised the issue of security cooperation with Taiwan at a meeting with President Tsai Ing-wen in Taipei. Members of his delegation said Australia</description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/diplomacy/240408025</guid>
+      <pubDate>Mon, 08 Apr 2024 13:41:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Taiwan Launches New Electronic Referendum Campaign System</title>
+      <link>https://www.taiwanplus.com/taiwan-news/politics/240408026</link>
+      <description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/0c45f932-b9c6-4a85-bdce-6c943e80fdd6.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;Taiwan is launching a new online platform that will allow members of the public to sign referendum petitions electronically.</description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/politics/240408026</guid>
+      <pubDate>Mon, 08 Apr 2024 13:45:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>TSMC Wins US$6.6B U.S. Subsidy for Advanced Chips at Arizona Plant </title>
+      <link>https://www.taiwanplus.com/taiwan-news/technology-and-science/240409002</link>
+      <description>&lt;img src=https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/872db9c2-ce5f-4415-997b-5293fa045938.webp referrerpolicy=no-referrer&gt;&lt;br&gt;&lt;br&gt;The U.S. has said it will provide up to US$6.6 billion for Tawain's chip giant TSMC to expand its semiconductor fabs in the U.S. state of Arizona. </description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/technology-and-science/240409002</guid>
+      <pubDate>Mon, 08 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
 </rss>
