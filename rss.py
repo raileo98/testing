@@ -23,7 +23,7 @@ feed.logo(faviconUrl)
 # for item in data['items']:
 for item in data:
     thumbnailUrl = f"{imageCdn}{item['image']}"
-    feedDescription = f'<img src="{thumbnailUrl}" referrerpolicy="no-referrer"><br><br>{item["shortDescription"]}'
+    feedDescription = f'<img src="{thumbnailUrl}" referrerpolicy="no-referrer"><br>{item["shortDescription"]}'
     fullUrl = f'https://www.taiwanplus.com/{item["encodedDefaultCategoryFullPath"]}/{item["vodId"]}'
 
     entry = feed.add_entry()
