@@ -6,6 +6,7 @@ import xml.etree.ElementTree as ET
 
 imageCdn = 'https://images.weserv.nl/?n=-1&url='
 faviconUrl = f'{ imageCdn }https://external-content.duckduckgo.com/ip3/www.taiwanplus.com.ico'
+outputRssName = 'taiwanplus.rss'
 
 # 從 TaiwanPlus 獲取 JSON 數據
 response = niquests.get( 'https://www.taiwanplus.com/api/cms/latestnews' )
