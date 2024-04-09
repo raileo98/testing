@@ -30,7 +30,7 @@ for item in data:
     entry.id(fullUrl)
     entry.title(item['title'])
     entry.description(feedDescription)
-    entry.link(href=fullUrl, rel='alternate')
+    entry.link(href=fullUrl)
     entry.published(item['publishTime'])
 
 # 使用 feed.rss_str() 在內存中創建 RSS 字符串
@@ -50,5 +50,3 @@ if last_build_date is not None:
 # 使用 tree.write() 將修改後的 XML 樹直接寫入文件
 tree = ET.ElementTree(root)
 tree.write(outputRssName)
-tree.write('asd.rss')
-tree.write('123.rss')
