@@ -49,4 +49,3 @@ if last_build_date is not None:
 
 # 保存修改後的 .rss 文件
 tree.write(outputRssName, encoding='utf-8')
-tree.write('asd.rss', encoding = 'utf-8' )
