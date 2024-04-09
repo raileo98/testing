@@ -48,4 +48,5 @@ if last_build_date is not None:
     channel.remove(last_build_date)
 
 # 保存修改後的 .rss 文件
-tree.write(outputRssName, encoding='utf-8', xml_declaration=False)
+tree.write(outputRssName, encoding='utf-8')
+tree.write('asd.rss', encoding = 'utf-8' )
