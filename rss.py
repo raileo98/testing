@@ -20,7 +20,8 @@ feed.link(href='https://www.taiwanplus.com', rel='alternate')
 feed.logo(faviconUrl)
 
 # 遍歷 JSON 數據並將條目添加到 feed 中
-for item in data['items']:
+# for item in data['items']:
+for item in data:
     thumbnailUrl = f"{imageCdn}{item['image']}"
     feedDescription = f'<img src="{thumbnailUrl}" referrerpolicy="no-referrer"><br><br>{item["shortDescription"]}'
     fullUrl = f'https://www.taiwanplus.com/{item["encodedDefaultCategoryFullPath"]}/{item["vodId"]}'
