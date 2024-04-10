@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>視頻範例</title>
+    <link>您的網站鏈接</link>
+    <description>頻道描述</description>
+    <item>
+      <title>視頻標題</title>
+      <link>視頻播放頁面的鏈接</link>
+      <description>視頻描述</description>
+      <enclosure url="https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6282251407001/c1d9c01e-42eb-4ad3-93c9-077ac7ede6bc/2c40cfa6-388a-476b-bfc2-860def4d6b2c/6s/rendition.m3u8?fastly_token=NjYxNjQ0OWJfNTk3Yzg0MzgxZTk2NGFlNTBjMjVkNDMzMWI4NWI1YzYwNWJiMWJiNzg1NGE5OTBkZDg2ODdkNzY3YWZjOTRlYQ%3D%3D" type="application/x-mpegURL" />
+      <media:content url="https://manifest.prod.boltdns.net/manifest/v1/dash/live-baseurl/clear/6282251407001/c1d9c01e-42eb-4ad3-93c9-077ac7ede6bc/6s/manifest.mpd?fastly_token=NjYxNjU4N2FfMWRlMjE5NzZkYWQ1ZTA0NGI4ODgzYzViYTQ1ZmFkMzFhYTU0NThmMDM4N2FmNTg5NjViNGRlMWMxZGQwMDMyYg%3D%3D" type="application/dash+xml">
+        <media:title>視頻標題</media:title>
+        <media:description>視頻描述</media:description>
+        <media:thumbnail url="視頻縮略圖的鏈接" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
