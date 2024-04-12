@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - '.github/workflows/deploy.yml'
-      - 'rss.py'
+      - '*.py'
   schedule:
     - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
 
@@ -32,12 +32,13 @@ jobs:
     - name: 執行 Python 腳本
       run: |
         python rss.py
+        python pts.py
 
     - name: 上傳 RSS 文件
       if: success()
       run: |
         git config --global user.email "github-actions@github.com"
         git config --global user.name "github-actions"
-        git add .
+        git add *.rss
         git commit -m "Upload RSS file"
         git push
