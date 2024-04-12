@@ -3,12 +3,16 @@ import json
 import feedgen.feed
 import xml.etree.ElementTree as ET
 
+session = niquests.Session(happy_eyeballs=True)
+session.headers['Cache-Control'] = 'no-cache'
+session.headers['Pragma'] = 'no-cache'
+
 imageCdn = 'https://images.weserv.nl/?n=-1&url='
 faviconUrl = f'{ imageCdn }https://external-content.duckduckgo.com/ip3/www.taiwanplus.com.ico'
 outputRssName = 'taiwanplus.rss'
 
 # 從 TaiwanPlus 獲取 JSON 數據
-response = niquests.get('https://www.taiwanplus.com/api/cms/latestnews')
+response = session.get('https://www.taiwanplus.com/api/cms/latestnews')
 data = response.json()
 
 # 創建一個新的 rss feed
