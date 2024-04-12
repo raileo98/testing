@@ -1,11 +1,15 @@
-import requests
+import niquests
 from bs4 import BeautifulSoup
 import urllib.parse
 import html
 
+session = niquests.Session(happy_eyeballs=True)
+session.headers['Cache-Control'] = 'no-cache'
+session.headers['Pragma'] = 'no-cache'
+
 # 使用 requests 獲取 RSS 源 URL
 url = 'https://rsshub.app/pts'
-response = requests.get(url)
+response = session.get(url)
 xml_content = response.text
 
 # 解析 XML 內容
