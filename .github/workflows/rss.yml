@@ -18,7 +18,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Run RSSHub container
-        run: docker run -d --name rsshub -p 1200:1200 -e CACHE_EXPIRE=1 diygod/rsshub:chromium-bundled
+        run: 
+          docker run -d --name rsshub -p 1200:1200 -e CACHE_EXPIRE=1 diygod/rsshub:chromium-bundled
+          docker ps
+          docker logs rsshub
+          docker restart rsshub
+          docker ps
+          docker logs rsshub
 
       - name: Fetch data
         run: |
