@@ -1,9 +1,15 @@
 name: RSSHub Workflow
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - '.github/workflows/rss.yml'
+      - '*.py'
+  schedule:
+    - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
 
 jobs:
   deploy-and-fetch:
