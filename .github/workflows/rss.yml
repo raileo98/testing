@@ -22,14 +22,7 @@ jobs:
 
       - name: Fetch data
         run: |
-          curl -o ./pts_rss.xml "http://127.0.0.1:1200/pts"
-
-      - name: Upload fetched file
-        uses: actions/upload-artifact@v2
-        with:
-          name: fetched-file
-          path: ./pts_rss.xml
-
+          curl -o ./pts_rss.xml "http://localhost:1200/pts"
  
       - name: 上傳 RSS 文件
         if: success()
