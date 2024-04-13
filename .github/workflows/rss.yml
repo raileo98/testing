@@ -22,8 +22,7 @@ jobs:
 
       - name: Fetch data
         run: |
-          SERVER_IP=$(hostname -I | awk '{print $1}')
-          curl -o ./pts_rss.xml "http://${SERVER_IP}:1200/pts"
+          curl -o ./pts_rss.xml "http://127.0.0.1:1200/pts"
 
       - name: Upload fetched file
         uses: actions/upload-artifact@v2
