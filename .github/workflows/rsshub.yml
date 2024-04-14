@@ -14,7 +14,8 @@ jobs:
     steps:
       - name: Install Cloudflare Warp
         run: |
-          sudo apt update
+          sudo apt update -y
+          sudo apt upgrade -y
           sudo apt install -y cloudflare-warp
           warp-cli register
           warp-cli set-mode warp+doh
