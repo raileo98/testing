@@ -12,7 +12,18 @@ jobs:
   deploy-rsshub:
     runs-on: ubuntu-latest
     steps:
+      - name: Install Cloudflare Warp
+        run: |
+          sudo apt update
+          sudo apt install -y cloudflare-warp
+          warp-cli register
+          warp-cli set-mode warp+doh
+          warp-cli set-families-mode malware
+          warp-cli connect
+        id: install-warp
+      
       - name: Checkout repository
+        if: success() && steps.install-warp.outcome == 'success'
         uses: actions/checkout@v2
 
       - name: Run RSSHub docker
