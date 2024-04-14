@@ -19,10 +19,11 @@ jobs:
           sudo apt update -y
           sudo apt upgrade -y
           sudo apt install -y cloudflare-warp
-          warp-cli register --accept-tos
+          warp-cli --accept-tos register
           warp-cli set-mode warp+doh
           warp-cli set-families-mode malware
-          warp-cli connect
+          warp-cli --accept-tos connect
+          warp-cli --accept-tos enable-always-on
         id: install-warp
       
       - name: Checkout repository
