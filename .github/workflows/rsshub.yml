@@ -22,7 +22,6 @@ jobs:
           warp-cli --accept-tos set-mode warp+doh
           warp-cli --accept-tos set-families-mode malware
           warp-cli --accept-tos connect
-          warp-cli --accept-tos enable-always-on
         id: install-warp
       
       - name: Checkout repository
