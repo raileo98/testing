@@ -1,0 +1,5 @@
+pip
+niquests
+qh3
+feedgen
+beautifulsoup4
