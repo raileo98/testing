@@ -1,5 +1,5 @@
 import niquests
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, CData
 import urllib.parse
 import html
 
@@ -63,8 +63,9 @@ for item in root.find_all('item'):
             # 替換原始的圖片 URL
             description_text = description_text.replace(src, new_src)
         
-        # 更新 <description> 標籤的內容
-        description.string = description_text
+        # 使用 CDATA 包裹更新後的描述內容
+        description.string = ''
+        description.append(CData(description_text))
 
 # 將修改後的 XML 內容寫入到 pts.rss 文件
 with open('pts.rss', 'w', encoding='utf-8') as file:
