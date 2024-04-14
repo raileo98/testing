@@ -19,7 +19,7 @@ jobs:
           sudo apt update -y
           sudo apt upgrade -y
           sudo apt install -y cloudflare-warp
-          warp-cli register
+          warp-cli register --accept-tos
           warp-cli set-mode warp+doh
           warp-cli set-families-mode malware
           warp-cli connect
