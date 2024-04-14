@@ -3,11 +3,12 @@ from bs4 import BeautifulSoup
 import urllib.parse
 import html
 
+# 創建一個 niquests 會話
 session = niquests.Session(happy_eyeballs=True)
 session.headers['Cache-Control'] = 'no-cache'
 session.headers['Pragma'] = 'no-cache'
 
-# 使用 requests 獲取 RSS 源 URL
+# 使用 niquests 獲取 RSS 源 URL
 url = 'https://rsshub.app/pts'
 response = session.get(url)
 xml_content = response.text
@@ -18,13 +19,17 @@ root = BeautifulSoup(xml_content, 'xml')
 # 遍歷所有的 <channel> 標籤
 channel = root.find('channel')
 
-# 檢查是否存在 <image> 標籤，如果不存在則添加
-if channel.find('image') is None:
+# 檢查是否存在 <image> 標籤，如果存在則替換
+image_tag = channel.find('image')
+if image_tag is not None:
     # 提取 feed domain
     feed_domain = urllib.parse.urlparse(channel.find('link').text).hostname
     # 對 feed domain 進行 URL 編碼
     encoded_feed_domain = urllib.parse.quote_plus(feed_domain)
-    # 創建 <image> 標籤
+    # 替換 <image> 標籤下的 <url> 標籤內容
+    image_tag.find('url').string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
+else:
+    # 如果不存在 <image> 標籤，則添加
     image_tag = root.new_tag('image')
     url_tag = root.new_tag('url')
     url_tag.string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
@@ -35,7 +40,6 @@ if channel.find('image') is None:
     link_tag = root.new_tag('link')
     link_tag.string = channel.find('link').text
     image_tag.append(link_tag)
-    # 將 <image> 標籤添加到 <channel> 標籤中
     channel.append(image_tag)
 
 # 遍歷所有的 <item> 標籤
