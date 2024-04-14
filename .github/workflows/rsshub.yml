@@ -2,11 +2,11 @@ name: RSSHub Workflow
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
+  # push:
+    # branches:
+      # - main
+  # schedule:
+    # - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
 
 jobs:
   deploy-rsshub:
