@@ -19,13 +19,14 @@ root = BeautifulSoup(xml_content, 'xml')
 # 遍歷所有的 <channel> 標籤
 channel = root.find('channel')
 
+# 提取 feed domain
+feed_domain = urllib.parse.urlparse(channel.find('link').text).hostname
+# 對 feed domain 進行 URL 編碼
+encoded_feed_domain = urllib.parse.quote_plus(feed_domain)
+
 # 檢查是否存在 <image> 標籤，如果存在則替換
 image_tag = channel.find('image')
 if image_tag is not None:
-    # 提取 feed domain
-    feed_domain = urllib.parse.urlparse(channel.find('link').text).hostname
-    # 對 feed domain 進行 URL 編碼
-    encoded_feed_domain = urllib.parse.quote_plus(feed_domain)
     # 替換 <image> 標籤下的 <url> 標籤內容
     image_tag.find('url').string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
 else:
