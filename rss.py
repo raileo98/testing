@@ -47,9 +47,9 @@ root = ET.fromstring(rss_str)
 channel = root.find('channel')
 
 # 在<channel>內找到並刪除<lastBuildDate>標籤
-last_build_date = channel.find('lastBuildDate')
-if last_build_date is not None:
-    channel.remove(last_build_date)
+#last_build_date = channel.find('lastBuildDate')
+#if last_build_date is not None:
+#    channel.remove(last_build_date)
 
 # 使用 tree.write() 將修改後的 XML 樹直接寫入文件
 tree = ET.ElementTree(root)
