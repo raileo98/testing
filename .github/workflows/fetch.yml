@@ -19,6 +19,10 @@ jobs:
     - name: 檢出代碼
       uses: actions/checkout@v4
 
+    - name: Run RSSHub docker
+      run: |
+        docker run -d --name rsshub -p 1200:1200 diygod/rsshub:chromium-bundled
+
     - name: 設置 Python 環境
       uses: actions/setup-python@v5
       with:
