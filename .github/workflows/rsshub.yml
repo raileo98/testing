@@ -2,43 +2,25 @@ name: RSSHub Workflow
 
 on:
   workflow_dispatch:
-  # push:
-    # branches:
-      # - main
-  # schedule:
-    # - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
 
 jobs:
   deploy-rsshub:
     runs-on: ubuntu-latest
     steps:
-      - name: Install Cloudflare Warp
-        run: |
-          curl https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
-          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
-          sudo apt update -y
-          sudo apt install -y cloudflare-warp
-          warp-cli --accept-tos registration new
-          warp-cli --accept-tos set-mode warp+doh
-          warp-cli --accept-tos set-families-mode malware
-          warp-cli --accept-tos add-excluded-route ::/0
-          warp-cli --accept-tos add-excluded-route 0.0.0.0/0
-          warp-cli --accept-tos add-excluded-route 10.0.0.0/8
-          warp-cli --accept-tos connect
-        id: install-warp
-      
       - name: Checkout repository
-        if: success() && steps.install-warp.outcome == 'success'
         uses: actions/checkout@v2
 
       - name: Run RSSHub docker
         run: |
           docker run -d --name rsshub -p 1200:1200 diygod/rsshub:chromium-bundled
-
       - name: Fetch and download file
         run: |
           wget http://localhost:1200/pts -O ./rsshub_file.rss
-
       - name: 上傳 RSS 文件
         run: |
           git config --global user.email "github-actions@github.com"
