@@ -38,10 +38,6 @@ jobs:
         python rss.py
         python rsss.py
 
-    - name: 拉取遠程存儲庫的更改
-      run: |
-        git pull origin main --rebase
-
     - name: 上傳 RSS 文件
       if: success()
       run: |
