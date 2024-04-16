@@ -10,8 +10,8 @@ session.headers['Cache-Control'] = 'no-cache'
 session.headers['Pragma'] = 'no-cache'
 
 urls = [
-    'https://rsshub.app/pts',
-    'https://rsshub.app/8world',
+    #'https://rsshub.app/pts',
+    #'https://rsshub.app/8world',
     'http://localhost:1200/pts',
     'http://localhost:1200/8world'
 ]
