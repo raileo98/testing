@@ -9,15 +9,14 @@ session = niquests.Session(happy_eyeballs=True)
 session.headers['Cache-Control'] = 'no-cache'
 session.headers['Pragma'] = 'no-cache'
 
-urls = [
-    #'https://rsshub.app/pts',
-    #'https://rsshub.app/8world',
-    'http://localhost:1200/pts',
-    'http://localhost:1200/8world'
-]
+# 將 urls 列表轉換為字典
+feeds = {
+    'pts': 'http://localhost:1200/pts',
+    '8world': 'http://localhost:1200/8world'
+}
 
-# 遍歷列表中的每個 RSS 源地址
-for url in urls:
+# 遍歷字典中的每個 RSS 源地址
+for name, url in feeds.items():
     # 使用 niquests 發送 HTTP GET 請求到 RSS 源地址
     response = session.get(url)
     # 獲取響應中的 XML 內容
@@ -77,7 +76,7 @@ for url in urls:
             description.append(CData(description_text))
 
     # 將修改後的 XML 內容寫入到對應的 RSS 文件中
-    with open(f'{urllib.parse.urlparse(url).hostname}.rss', 'w', encoding='utf-8') as file:
+    with open(f'{name}.rss', 'w', encoding='utf-8') as file:
         file.write(root.prettify())
 
 # 輸出完成信息
