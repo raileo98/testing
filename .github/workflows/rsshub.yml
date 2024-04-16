@@ -14,8 +14,14 @@ jobs:
     steps:
       - name: Install Cloudflare Warp
         run: |
-          wget git.io/warp.sh
-          sudo bash warp.sh wgd
+          curl https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --dearmor -o /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
+          echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
+          sudo apt update -y
+          sudo apt install -y cloudflare-warp
+          warp-cli --accept-tos register
+          warp-cli --accept-tos set-mode warp+doh
+          warp-cli --accept-tos set-families-mode malware
+          warp-cli --accept-tos connect
         id: install-warp
       
       - name: Checkout repository
@@ -28,7 +34,7 @@ jobs:
 
       - name: Fetch and download file
         run: |
-          wget http://127.0.0.1:1200/pts -O ./rsshub_file.rss
+          wget http://localhost:1200/pts -O ./rsshub_file.rss
 
       - name: 上傳 RSS 文件
         run: |
