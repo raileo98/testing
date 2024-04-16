@@ -14,7 +14,8 @@ jobs:
     steps:
       - name: Install Cloudflare Warp
         run: |
-          sudo bash <(curl -fsSL git.io/warp.sh) wgd
+          wget git.io/warp.sh
+          sudo bash warp.sh wgd
         id: install-warp
       
       - name: Checkout repository
