@@ -35,8 +35,8 @@ jobs:
 
     - name: 執行 Python 腳本
       run: |
-        python rss.py
-        python rsss.py
+        python code/rss.py
+        python code/rsss.py
 
     - name: 上傳 RSS 文件
       if: success()
