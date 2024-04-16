@@ -21,6 +21,9 @@ jobs:
           warp-cli --accept-tos register
           warp-cli --accept-tos set-mode warp+doh
           warp-cli --accept-tos set-families-mode malware
+          warp-cli --accept-tos add-excluded-route ::/0
+          warp-cli --accept-tos add-excluded-route 0.0.0.0/0
+          warp-cli --accept-tos add-excluded-route 10.0.0.0/8
           warp-cli --accept-tos connect
         id: install-warp
       
