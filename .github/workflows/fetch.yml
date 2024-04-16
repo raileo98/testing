@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - '.github/workflows/deploy.yml'
+      - '.github/workflows/fetch.yml'
       - '*.py'
   schedule:
     - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
@@ -32,7 +32,7 @@ jobs:
     - name: 執行 Python 腳本
       run: |
         python rss.py
-        python pts.py
+        python rsss.py
 
     - name: 上傳 RSS 文件
       if: success()
