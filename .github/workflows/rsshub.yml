@@ -34,7 +34,7 @@ jobs:
 
       - name: Fetch and download file
         run: |
-          wget http://localhost:1200/pts -O ./rsshub_file.rss
+          wget http://127.0.0.1:1200/pts -O ./rsshub_file.rss
 
       - name: 上傳 RSS 文件
         run: |
