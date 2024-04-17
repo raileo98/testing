@@ -13,6 +13,7 @@ session.headers['Pragma'] = 'no-cache'
 feeds = {
     'tw_pts': 'http://localhost:1200/pts',
     'tw_cts': 'http://localhost:1200/cts/real',
+    'tw_rti': 'https://www.rti.org.tw/rss',
     'sg_8world': 'http://localhost:1200/8world',
     'jp_nhk_zt': 'http://localhost:1200/nhk/news/zt',
     'jp_nhk_zh': 'http://localhost:1200/nhk/news/zh',
