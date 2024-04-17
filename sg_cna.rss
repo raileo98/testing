@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 05:25:56 +0800
+   Thu, 18 Apr 2024 05:36:04 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    EU leaders mull new Iran sanctions after attack on Israel
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/eu-leaders-mull-new-iran-sanctions-after-attack-israel-4273631
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 05:27:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/eu-leaders-mull-new-iran-sanctions-after-attack-israel-4273631
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1eKuRSs_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t110102z_1_lynxnpek3g0ei_rtroptp_3_israel-palestinians-iran-missile.jpg?itok=snfZ1ksQ" width="1600"/>
+  </item>
   <item>
    <title>
     ATP roundup: Stefanos Tsitsipas advances in Barcelona
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cstt_oXd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t153409z_1_lynxnpek3g0nh_rtroptp_3_imf-worldbank-trilateral.jpg?itok=mopcc_Y2" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Amazon to push cashierless shopping tech into more third-party stores, while backing off itself
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/amazon-push-cashierless-shopping-tech-more-third-party-stores-while-backing-itself-4273026
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 00:47:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amazon-push-cashierless-shopping-tech-more-third-party-stores-while-backing-itself-4273026
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
