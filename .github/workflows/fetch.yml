@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - '.github/workflows/fetch.yml'
-      - '*.py'
+      - 'code/*.py'
   schedule:
     - cron: '*/5 * * * *'  # 每隔 5 分鐘運行一次
 
