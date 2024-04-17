@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 23:48:29 +0800
+   Wed, 17 Apr 2024 23:57:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Banks told to anticipate risks from using AI, machine learning
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/banks-told-anticipate-risks-using-ai-machine-learning-4272881
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 23:44:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/banks-told-anticipate-risks-using-ai-machine-learning-4272881
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VBGLJfP5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t154452z_1_lynxnpek3g0nu_rtroptp_3_basel-banks-ai.jpg?itok=3wydpY-U" width="1600"/>
+  </item>
   <item>
    <title>
     Meta should give users free option without targeted ads, EU privacy watchdog says
@@ -436,27 +457,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a3mpiRKw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t110102z_1_lynxnpek3g0ec_rtroptp_3_israel-palestinians.jpg?itok=EaKIY_ux" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Embraer's Eve says it signed letter of intention with AirX to sell up to 50 eVTOL
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/embraers-eve-says-it-signed-letter-intention-airx-sell-50-evtol-4272251
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 19:28:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/embraers-eve-says-it-signed-letter-intention-airx-sell-50-evtol-4272251
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--L9QOOMOh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t112805z_1_lynxnpek3g0fm_rtroptp_3_embraer-order-airforce.jpg?itok=g6B-hkuM" width="1600"/>
   </item>
  </channel>
 </rss>
