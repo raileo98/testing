@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<rss version="2.0">
+ <channel>
+  <title>
+   rthk.hk - 即時新聞: 財經
+  </title>
+  <link>
+   https://news.rthk.hk
+  </link>
+  <description>
+   rthk.hk - 即時新聞: 財經
+  </description>
+  <language>
+   zh-HK
+  </language>
+  <copyright>
+   香港電台
+  </copyright>
+  <webMaster>
+   webmaster@rthk.hk (webmaster)
+  </webMaster>
+  <pubDate>
+   Wed, 17 Apr 2024 11:10:42 +0800
+  </pubDate>
+  <lastBuildDate>
+   Wed, 17 Apr 2024 10:49:53 +0800
+  </lastBuildDate>
+  <category>
+   新聞
+  </category>
+  <docs>
+   http://blogs.law.harvard.edu/tech/rss
+  </docs>
+  <ttl>
+   10
+  </ttl>
+  <image>
+   <url>
+    https://images.weserv.nl/?n=-1&amp;url=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fip3%2Fnews.rthk.hk.ico
+   </url>
+   <title>
+    rthk.hk - 即時新聞: 財經
+   </title>
+   <link>
+    https://news.rthk.hk
+   </link>
+  </image>
+  <item>
+   <title>
+    日股半日跌約0.2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749239-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749239-20240417.htm
+   </link>
+   <description>
+    <![CDATA[日本股市半日微跌，日經平均指數上午收市報38404點，跌66點，跌幅0.17%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 10:49:53 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    內地股市初段向上
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749232-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749232-20240417.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市在開市初段上升。
+
+上證綜合指數較早時報3026點，升19點，升幅0.65%。
+
+深證成份指數報9268點，升113點，升幅1.24%。
+
+創業板指數報1787點，升27點，升幅1.56%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 09:51:28 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    人行逆回購20億元人民幣
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749229-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749229-20240417.htm
+   </link>
+   <description>
+    <![CDATA[人民銀行公開市場今日進行20億元人民幣逆回購操作，中標利率維持1.8厘，期限7日，完全對沖今日到期量，不過今日有1700億元中期借貸便利(MLF)錯位到期，公開市場單日轉為等量淨回籠。
+
+人行已經在星期一縮量續做1000億元MLF，利率維持不變。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 09:47:46 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    恒指競價時段跌23點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749227-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749227-20240417.htm
+   </link>
+   <description>
+    <![CDATA[恒生指數在競價時段報16225點，跌23點，跌幅0.14%。
+
+科技指數報3340點，升2點，升幅0.09%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 09:24:05 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    人民幣兌美元中間價微升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749226-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749226-20240417.htm
+   </link>
+   <description>
+    <![CDATA[人民幣中間價報7.1025兌1美元，較上日中間價上升3點子，與市場預測偏離縮窄至1400點以內。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 09:20:52 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    台股初段升1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749224-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749224-20240417.htm
+   </link>
+   <description>
+    <![CDATA[台灣股市在開市初段上升，加權指數較早時報20107點，升205點，升幅1.03%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 09:05:04 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日本3月出口按年增長7.3%　進口轉跌4.9%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749222-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749222-20240417.htm
+   </link>
+   <description>
+    <![CDATA[日本財務省公布的數據顯示，日本3月出口按年增長7.3%，連續4個月錄得按年增長，升幅高過市場預期的7%，但較2月的7.8%有所放緩。
+
+期內，進口按年轉跌4.9%，跌幅多過預期的4.7%；2月為增長0.5% 。
+
+3月貿易順差為3665億日圓，多過預期的2999億日圓。
+
+期內，日本對美國和歐盟出口按年分別增長8.5%和3%，對亞洲出口增長6.6%，對中國出口增長12.6%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 08:36:14 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股初段微升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749219-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749219-20240417.htm
+   </link>
+   <description>
+    <![CDATA[日本股市在開市初段微升，日經平均指數較早時報38512點，升41點，升幅0.11%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 08:12:45 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    韓股初段上升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749220-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749220-20240417.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市在開市初段上升，首爾綜合指數較早時報2623點，升14點，升幅0.54%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 08:11:27 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    鮑威爾：近期通脹數據表明或需要更長時間內維持高利率
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749217-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749217-20240417.htm
+   </link>
+   <description>
+    <![CDATA[美國聯儲局主席鮑威爾表示，最近的通脹數據表明當局可能需要更長時間才能對減息有足夠信心。
+
+鮑威爾指出，目前勞動力市場的強勁表現，和至今為止在通脹方面取得的進展，讓限制性政策有更多時間發揮作用，讓數據和不斷變化的前景指引是妥善的做法。
+
+他指，如果通脹仍居高不下，只要有需要，聯儲局可以保持目前的限制性水平，同時，如果勞動力市場意外疲弱，當局有很大的放鬆政策空間。
+
+在鮑威爾講話後，利率期貨價格下跌，反映交易商認為聯儲局今年減息不止1次的前景更為渺茫。兩星期前，利率期貨市場仍認為聯儲局將在年底前減息3次，每次減息0.25厘。
+
+另外，聯儲局副主席杰斐遜表示，如果通脹未能如預期回落，聯儲局準備將緊縮貨幣政策維持更長時間。他指，他的基線預測仍是通脹將進一步回落，政策利率將穩定在目前水平，勞動力市場將保持強勁，其供求將繼續恢復平衡。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 07:41:56 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    港股美國預託證券普遍較本港收市下跌
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749215-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749215-20240417.htm
+   </link>
+   <description>
+    <![CDATA[港股美國預託證券(ADR)普遍較本港收市下跌。
+
+金融股方面，滙控ADR較本港收市低約0.5%，友邦低約0.7%。
+
+至於科技股，ATMXJ的ADR較本港收市低1%以內。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 06:20:15 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    紐約期金高收1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749214-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749214-20240417.htm
+   </link>
+   <description>
+    <![CDATA[紐約期金高收1%，現貨金變動不大，中東地緣政治緊張局勢帶來的避險需求，抵銷美國今年減息次數可能減少的影響。
+
+現貨金一度逼近每盎司2400美元，高見2398.09美元，較早時報2380.99美元，跌近0.1%。
+
+紐約期金收市報每盎司2407.8美元，升24.8美元，升幅1%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 06:20:02 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    國際油價變動不大
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749213-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749213-20240417.htm
+   </link>
+   <description>
+    <![CDATA[國際期油價格變動不大，市場繼續關注地緣政治局勢風險。
+
+6月交割的倫敦布蘭特期油收市報每桶90.02美元，跌8美仙。
+
+5月交割的紐約期油收市報每桶85.36美元，跌5美仙。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 06:19:44 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    美元曾升至5個月高位　鮑威爾指可能於更長時間內維持高利率
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749211-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749211-20240417.htm
+   </link>
+   <description>
+    <![CDATA[美元兌一籃子貨幣曾升至5個月高位，美國聯儲局主席鮑威爾表示，可能需要在更長時間內維持高利率。
+
+美元指數高見106.51，在紐約尾市升約0.2%，報106.37。
+
+歐元兌美元一度觸及5個月低位，低見1.0602美元，尾市跌近0.1%，報1.0616美元。
+
+日圓兌美元再創34年低位，低見154.78日圓，尾市跌約0.3%，報154.71日圓。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 05:50:02 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    道指結束6日跌勢　納指反覆偏軟
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749210-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749210-20240417.htm
+   </link>
+   <description>
+    <![CDATA[美股3大指數收市個別發展，道瓊斯指數結束連續6個交易日跌勢。美國聯儲局主席鮑威爾表示，近期通脹數據反映聯儲局可能需要更長時間才能對減息有足夠信心。美國10年期債息逼近4.7厘，高見4.696厘，觸及5個月高位。
+
+道指最多曾升近260點，收市報37798點，升63點，升幅0.17%。納斯達克指數反覆偏軟，收報15865點，跌19點，跌幅0.12%。標準普爾500指數報5051點，跌10點，跌幅0.21%。
+
+多間大型企業公布上季業績，聯合健康上季經調整每股盈利6.91美元，收入升近9%至998億美元，兩者都好過市場預期，帶動股價高收逾5%，是表現最好的道指成份股。
+
+強生上季業績扭虧為盈，經調整每股盈利2.71美元，高過預期；收入升2%至213.8億美元，略低過預期。股價低收逾2%，是表現最差的道指成份股。
+
+摩根士丹利上季每股盈利2.02美元，收入升4%至151.4億美元，兩者都好過預期，股價高收逾2%。美國銀行上季經調整每股盈利83美仙，收入跌近2%至259.8億美元，盈利及收入均下跌，但仍好過預期，股價跌逾3%收市。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 05:49:08 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    歐股低收逾1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749209-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749209-20240417.htm
+   </link>
+   <description>
+    <![CDATA[歐洲主要股市收市跌逾1%，礦業和銀行股跌幅較大，因中東緊張局勢加劇，投資者避開風險資產。
+
+德國DAX指數收市報17766點，跌260點，跌幅1.44%。
+
+法國CAC指數收市報7932點，跌112點，跌幅1.4%。
+
+英國富時100指數收市報7820點，跌145點，跌幅1.82%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 05:11:06 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    耶倫指中國清潔能源產品投資導致不公平競爭　需緩解有關風險
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749197-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749197-20240417.htm
+   </link>
+   <description>
+    <![CDATA[美國財長耶倫表示，中國對先進清潔能源產品製造業的大規模投資已導致不公平的競爭環境，令美國工人和企業面臨風險，需要加以緩解。
+
+耶倫星期二在出席國際貨幣基金組織和世界銀行春季會議期間向傳媒表示，當中國企業繼續獲得支持時，電動車、電池、太陽能電池板和其他商品的過度生產，可能導致美國和其他國家的企業倒閉。因此這不是一個公平的競爭環境。從供應鏈的角度來看，這樣會導致風險並對美國工人和企業不公平，美方正尋求緩解這些風險。
+
+耶倫同日亦召開了美中金融和經濟兩個工作小組第四次會議，討論工業產能過剩等問題。耶倫在會談前表示，她期待在共同目標上推進與中國的合作並消除誤解。中國財政部副部長廖岷就表示，中美早前會談是坦誠和具建設性，並表示希望雙方繼續深化交流。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 01:20:02 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    中證監：退市規則修改並非針對小型股
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749192-20240416.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749192-20240416.htm
+   </link>
+   <description>
+    <![CDATA[中國證監會表示，退市規則修改並非主要針對小型股，認為市場有關觀點純屬誤讀，又表示根據測算，滬深兩市明年適用組合財務指標觸及退市的公司預計在30家左右。
+
+中證監上市公司監管司司長郭瑞明答記者問，表示分紅不達標實施其他風險警示（ST），主要著眼於提升上市公司分紅穩定性及可預期性。公司如只是因為這個原因被ST，並不會導致退市，只要滿足一定條件，就可以申請撤銷ST。
+
+他重申，今次退市指標調整目的為加大力度出清「僵屍空殼」及「害群之馬」，在標準設置、過渡期安排等方面均作出穩妥安排，短期內不會對市場造成衝擊。]]>
+   </description>
+   <pubDate>
+    Tue, 16 Apr 2024 23:13:00 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    香港國際創科展及春季電子產品展吸引約9萬名買家參與
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749188-20240416.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749188-20240416.htm
+   </link>
+   <description>
+    <![CDATA[第2屆香港國際創科展及第20屆香港春季電子產品展4日展期圓滿結束，吸引來自139個國家及地區大約8.8萬名買家參與，香港以外買家主要來自內地、印度、日本、南韓及美國等。
+
+展覽期間有多項活動，當中「東盟圓桌會議」匯聚東盟及內地政府官員和研究機構代表，分享發展智慧城市的策略及需求。今屆展覽亦增設人才配對活動，協助展商招聘專才，吸引有意投身創科行業的人士到場物色工作，以及與僱主交流。
+
+貿發局副總裁張淑芬表示，國際創科展和春季電子產品展作為國際創科營商周兩大盛事，推進香港國際科技創新，驅動經濟及社會高質量發展。大會的問卷調查反映不少展商及買家對營商前景感到樂觀。
+
+出席展覽的中國螞蟻集團數字科技事業群資深業務總監曾冬表示，創科展規模非常大，同時非常國際化，公司可以藉此接觸東南亞和歐美展商，其中對深圳展商印象最深刻，產品已經很成熟，具有市場領導地位。]]>
+   </description>
+   <pubDate>
+    Tue, 16 Apr 2024 23:01:44 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    IMF上調今年全球經濟增長預測至3.2%　美國增長2.7%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749186-20240416.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749186-20240416.htm
+   </link>
+   <description>
+    <![CDATA[國際貨幣基金組織（IMF）上調今年全球經濟增長預測至3.2%，較1月時《全球展望》提高0.1個百分點，原因是美國經濟前景獲大幅上調。明年全球經濟增長預測亦是3.2%。
+
+基金組織首席經濟學家古蘭沙指出，全球經濟仍然頗具韌性。各國央行加息對抗通脹，不少國家的經濟並無受到衰退的悲觀預測影響。
+
+基金組織上調美國今年經濟增長預測0.6個百分點，達到2.7%，原因是去年底及今年就業與消費開支較預期強勁。基金組織估計，美國貨幣與財政政策緊縮的滯後效應，將令美國明年經濟增長放緩至1.9%，但仍較1月時預測高0.2個百分點。
+
+基金組織維持中國今年經濟增長預測4.6%，明年放緩至4.1%；基金組織又分別下調歐元區及英國今年經濟增長預測至0.8%及0.5%。]]>
+   </description>
+   <pubDate>
+    Tue, 16 Apr 2024 22:56:49 +0800
+   </pubDate>
+  </item>
+ </channel>
+</rss>
