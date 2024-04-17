@@ -50,13 +50,15 @@ for name, url in feeds.items():
     image_tag = channel.find('image')
     if image_tag is not None:
         # 如果存在，則替換 <image> 標籤下的 <url> 標籤內容
-        image_tag.find('url').string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
+        image_url = f"https://external-content.duckduckgo.com/ip3/{encoded_feed_domain}.ico"
+        image_tag.find('url').replace_with(root.new_string(CData(image_url)))
     else:
         # 如果不存在 <image> 標籤，則添加一個新的 <image> 標籤
         image_tag = root.new_tag('image')
         url_tag = root.new_tag('url')
         # 設置 <url> 標籤的內容
-        url_tag.string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
+        image_url = f"https://external-content.duckduckgo.com/ip3/{encoded_feed_domain}.ico"
+        url_tag.string = CData(image_url)
         image_tag.append(url_tag)
         # 添加 <title> 和 <link> 標籤
         title_tag = root.new_tag('title')
@@ -66,7 +68,7 @@ for name, url in feeds.items():
         link_tag.string = channel.find('link').text
         image_tag.append(link_tag)
         # 將 <image> 標籤添加到 <channel> 標籤下
-        channel.append(image_tag)
+        channel.insert(0, image_tag)
 
     # 遍歷 <channel> 標籤下的所有 <item> 標籤
     for item in root.find_all('item'):
@@ -79,10 +81,8 @@ for name, url in feeds.items():
             img_tags = [img['src'] for img in BeautifulSoup(description_text, 'html.parser').find_all('img')]
             # 遍歷所有的圖片 URL
             for src in img_tags:
-                # 對圖片 URL 進行 URL 編碼
-                encoded_image_url = urllib.parse.quote_plus(src)
                 # 替換原始的圖片 URL 為使用 images.weserv.nl 服務的 URL
-                new_src = f"https://images.weserv.nl/?n=-1&url={encoded_image_url}"
+                new_src = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus(src)}"
                 description_text = description_text.replace(src, new_src)
             # 清空原始的 <description> 標籤內容
             description.string = ''
