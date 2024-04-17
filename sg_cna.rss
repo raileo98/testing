@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 22:19:52 +0800
+   Wed, 17 Apr 2024 22:36:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's Uniqlo opens Rome store as part of European expansion
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-uniqlo-opens-rome-store-part-european-expansion-4272646
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 22:31:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-uniqlo-opens-rome-store-part-european-expansion-4272646
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OWXnmpBF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t143141z_1_lynxnpek3g0ls_rtroptp_3_fast-retailing-italy.jpg?itok=2yjHtZrt" width="1600"/>
+  </item>
+  <item>
+   <title>
+    EU privacy watchdog is against Meta's fee model, source says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/eu-privacy-watchdog-against-metas-fee-model-source-says-4272611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 22:21:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/eu-privacy-watchdog-against-metas-fee-model-source-says-4272611
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EmIG6X7c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t142139z_1_lynxnpek3g0lg_rtroptp_3_tech-privacy-meta-platforms.jpg?itok=jWOwzhei" width="1600"/>
+  </item>
   <item>
    <title>
     James to headline another US "Dream Team" in Paris
@@ -415,48 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SIi6QdS_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t103342z_2_lynxnpek3g0df_rtroptp_3_tech-ai.jpg?itok=uMP9yjYM" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Vietnam's VinFast's jump in EV deliveries drives Q1 revenues higher
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/vietnams-vinfasts-jump-ev-deliveries-drives-q1-revenues-higher-4272116
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:28:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/vietnams-vinfasts-jump-ev-deliveries-drives-q1-revenues-higher-4272116
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hJBES1Z1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t102831z_2_lynxnpek3g0d5_rtroptp_3_vietnam-vinfast-vingroup.jpg?itok=y3G1LeT6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Want to WFH? Here's how to ask your boss when guidelines for flexi-work requests kick in this December
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/flexible-work-arrangements-how-request-wfh-work-home-4271711
-   </link>
-   <description>
-    <![CDATA[You will have to make the request in writing and your boss should respond within two months.]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/flexible-work-arrangements-how-request-wfh-work-home-4271711
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--60yciL2D--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/work_from_home_flexible_work_arrangements.jpg?itok=qRI_PgGu" width="1600"/>
   </item>
  </channel>
 </rss>
