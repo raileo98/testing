@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 23:39:16 +0800
+   Wed, 17 Apr 2024 23:48:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Meta should give users free option without targeted ads, EU privacy watchdog says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/meta-should-give-users-free-option-without-targeted-ads-eu-privacy-watchdog-says-4272871
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 23:39:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/meta-should-give-users-free-option-without-targeted-ads-eu-privacy-watchdog-says-4272871
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CBOpWDdp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t153933z_1_lynxnpek3g0no_rtroptp_3_france-tech.jpg?itok=WqZOIiQs" width="1600"/>
+  </item>
   <item>
    <title>
     Young high-income earners more likely to 'buy now, pay later': 5 findings of IPS-CNA survey on youth finances
@@ -436,27 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--L9QOOMOh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t112805z_1_lynxnpek3g0fm_rtroptp_3_embraer-order-airforce.jpg?itok=g6B-hkuM" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Wales hooker Owens retires from rugby due to injury
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/wales-hooker-owens-retires-rugby-due-injury-4272216
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 19:10:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/wales-hooker-owens-retires-rugby-due-injury-4272216
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
