@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 18:19:56 +0800
+   Wed, 17 Apr 2024 18:24:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Indonesia amends import rules after business group complaints
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indonesia-amends-import-rules-after-business-group-complaints-4272096
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 18:20:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indonesia-amends-import-rules-after-business-group-complaints-4272096
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08xKkIQV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t102045z_1_lynxnpek3g0cx_rtroptp_3_indonesia-economy-gdp.jpg?itok=NPtQAGfj" width="1600"/>
+  </item>
   <item>
    <title>
     Netflix subscriber growth in focus as gains from password-sharing crackdown seen easing
@@ -156,7 +177,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 17 Apr 2024 17:45:17 +0800
+    Wed, 17 Apr 2024 17:45:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/united-states-china-trade-steel-aluminium-tariffs-triple-exports-competition-4271981
@@ -177,7 +198,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 17 Apr 2024 17:45:17 +0800
+    Wed, 17 Apr 2024 17:45:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/united-states-china-trade-steel-aluminium-tariffs-triple-exports-competition-4271981
@@ -198,7 +219,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 17 Apr 2024 17:45:17 +0800
+    Wed, 17 Apr 2024 17:45:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/united-states-china-trade-steel-aluminium-tariffs-triple-exports-competition-4271981
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2pJ11Qa_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t084513z_1_lynxnpek3g09p_rtroptp_3_japan-economy-orders.jpg?itok=IAU-gXji" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Part of Denmark's historic stock exchange reduced to empty shell after blaze
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/parts-denmark-historic-stock-exchange-empty-shell-after-copenhagen-fire-4271736
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 16:43:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/parts-denmark-historic-stock-exchange-empty-shell-after-copenhagen-fire-4271736
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v4urbNt7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t080427z_2_lynxnpek3g07d_rtroptp_3_denmark-fire.jpg?itok=Ud3zvcK0" width="1600"/>
   </item>
  </channel>
 </rss>
