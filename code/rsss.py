@@ -31,6 +31,7 @@ feeds = {
 
 # 遍歷字典中的每個 RSS 源地址
 for name, url in feeds.items():
+    print( f'url: {url}' )
     # 使用 niquests 發送 HTTP GET 請求到 RSS 源地址
     response = session.get(url)
     # 獲取響應中的 XML 內容
@@ -41,10 +42,15 @@ for name, url in feeds.items():
     # 找到 XML 中的 <channel> 標籤
     channel = root.find('channel')
 
-    # 從 <channel> 標籤中提取 feed domain
-    feed_domain = urllib.parse.urlparse(channel.find('link').text).hostname
-    # 對 feed domain 進行 URL 編碼
-    encoded_feed_domain = urllib.parse.quote_plus(feed_domain)
+    if channel.find('link').text is not None:
+        # 從 <channel> 標籤中提取 feed domain
+        feed_domain = urllib.parse.urlparse(channel.find('link').text).hostname
+        # 對 feed domain 進行 URL 編碼
+        encoded_feed_domain = urllib.parse.quote_plus(feed_domain)
+    else:
+        print( f'url: {url} failed' )
+        # pass
+        continue
 
     # 檢查 <channel> 標籤下是否存在 <image> 標籤
     image_tag = channel.find('image')
