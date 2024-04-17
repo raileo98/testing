@@ -50,14 +50,14 @@ for name, url in feeds.items():
     image_tag = channel.find('image')
     if image_tag is not None:
         # 如果存在，則替換 <image> 標籤下的 <url> 標籤內容
-        image_tag.find('url').string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
+        image_tag.find('url').string = CData(f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}")
     else:
         # 如果不存在 <image> 標籤，則添加一個新的 <image> 標籤
         image_tag = root.new_tag('image')
         url_tag = root.new_tag('url')
         # 設置 <url> 標籤的內容
         url_tag.string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
-        image_tag.append(url_tag)
+        image_tag.append(CData(url_tag))
         # 添加 <title> 和 <link> 標籤
         title_tag = root.new_tag('title')
         title_tag.string = channel.find('title').text
