@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 18:34:50 +0800
+   Wed, 17 Apr 2024 18:42:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Exclusive-Mobileye set to ship at least 46 million new assisted driving chips
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-mobileye-set-ship-least-46-million-new-assisted-driving-chips-4272146
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 18:33:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-mobileye-set-ship-least-46-million-new-assisted-driving-chips-4272146
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SIi6QdS_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t103342z_2_lynxnpek3g0df_rtroptp_3_tech-ai.jpg?itok=uMP9yjYM" width="1600"/>
+  </item>
   <item>
    <title>
     Vietnam's VinFast posts higher Q1 revenue as vehicle deliveries increase
@@ -72,7 +93,7 @@
     <![CDATA[You will have to make the request in writing and your boss should respond within two months.]]>
    </description>
    <pubDate>
-    Wed, 17 Apr 2024 18:26:33 +0800
+    Wed, 17 Apr 2024 18:26:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/flexible-work-arrangements-how-request-wfh-work-home-4271711
@@ -93,7 +114,7 @@
     <![CDATA[You will have to make the request in writing and your boss should respond within two months.]]>
    </description>
    <pubDate>
-    Wed, 17 Apr 2024 18:26:33 +0800
+    Wed, 17 Apr 2024 18:26:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/flexible-work-arrangements-how-request-wfh-work-home-4271711
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SfdLBOX---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t091433z_1_lynxnpek3g0am_rtroptp_3_olympics-2024-athletics-duplantis.jpg?itok=jRArgPhc" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Apple supplier Foxconn introduces rotating CEO role
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/apple-supplier-foxconn-introduces-rotating-ceo-role-4271926
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 17:05:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apple-supplier-foxconn-introduces-rotating-ceo-role-4271926
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3Es0EYPG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t090510z_1_lynxnpek3g0af_rtroptp_3_lordstown-foxconn.jpg?itok=J8ZxyG1k" width="1600"/>
   </item>
  </channel>
 </rss>
