@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 04:10:31 +0800
+   Thu, 18 Apr 2024 04:50:14 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 01:41:00 +0800
+   Thu, 18 Apr 2024 04:49:31 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,41 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Wall Street slips again as rates hopes fade
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749358-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749358-20240418.htm
+   </link>
+   <description>
+    <![CDATA[US stocks fell in choppy trading on Wednesday as investors assessed the Federal Reserve's interest rate stance and a batch of soft earnings early in the financial reporting season.
+
+Travelers tumbled 7.41 percent and was among the biggest drags on the S&P 500 and largest on the Dow Industrials after the insurance giant missed Wall Street expectations for first-quarter profit.
+
+Also weighing on the benchmark S&P index after quarterly results were Prologis, with the warehouse-focused real estate investment trust dropping 7.19 percent, and Abbott Laboratories, which fell 3.03 percent after topping quarterly estimates but disappointing on its annual forecast.
+
+After a rally in the last two months of 2023 that extended into the first quarter, equities have struggled with the S&P 500 registering its fourth straight session of declines. The index is on pace for its third straight weekly loss as investors have dialed back expectations for the timing and size of the Fed's rate cuts.
+
+On Tuesday, US central bank officials including Fed Chair Jerome Powell backed away from providing guidance on when rates may be cut, saying instead that monetary policy needs to be restrictive for longer.
+
+"The markets are dealing with a couple things - inflation is hotter than most expect, rate cut expectations are coming down and we've had a ramp higher in geopolitical tensions, particularly out of the Middle East," said Anthony Saglimbene, chief market strategist at Ameriprise Financial in Troy, Michigan.
+
+"It's just an excuse for traders to kind of move to the sidelines and markets to kind of take a breath after a really, really strong five months of gains."
+
+The Dow Jones Industrial Average fell 0.12 percent, to 37,753, the S&P 500 lost 0.58 percent, to 5,022 and the Nasdaq Composite lost 1.15 percent, to 15,683.
+
+Fed Board Governor Michelle Bowman and Cleveland Fed President Loretta Mester are scheduled to speak later in the day.
+
+Among gainers, United Airlines surged 17.45 percent after it forecast stronger-than-expected current-quarter numbers. JB Hunt Transport Services slumped 8.12 percent as the worst performer on the S&P 500 after the trucking firm missed Wall Street estimates for first-quarter results. (Reuters)]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 04:49:31 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     EU says Facebook can't charge users for privacy
@@ -591,27 +626,6 @@ Separately, Secretary for Innovation, Technology and Industry Sun Dong stressed 
    </description>
    <pubDate>
     Fri, 12 Apr 2024 13:17:20 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks sell off in spite of Wall Street
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748558-20240412.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748558-20240412.htm
-   </link>
-   <description>
-    <![CDATA[Shares fell at the opening of business in Hong Kong on Friday as tech firms suffered early selling, while traders shrugged off a positive lead from Wall Street.
-
-The Hang Seng Index slipped 0.68 percent, or 116.33 points, to 16,978.70.
-
-The Shanghai Composite Index was flat, nudging up 1.33 points to 3,035.58, while the Shenzhen Composite Index was also barely moved, inching down 0.60 points to 1,721.00. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 12 Apr 2024 09:39:41 +0800
    </pubDate>
   </item>
  </channel>

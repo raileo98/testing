@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 04:41:46 +0800
+   Thu, 18 Apr 2024 04:50:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Atalanta challenge different to Barcelona comeback, says Liverpool boss Klopp
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/atalanta-challenge-different-barcelona-comeback-says-liverpool-boss-klopp-4273556
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 04:47:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/atalanta-challenge-different-barcelona-comeback-says-liverpool-boss-klopp-4273556
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Japan, US finance chiefs agree to closely communicate on FX
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CBOpWDdp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t153933z_1_lynxnpek3g0no_rtroptp_3_france-tech.jpg?itok=WqZOIiQs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Young high-income earners more likely to 'buy now, pay later': 5 findings of IPS-CNA survey on youth finances
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/young-people-rising-cost-living-buy-now-pay-later-retirement-plan-income-expenditure-4272751
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 23:36:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/young-people-rising-cost-living-buy-now-pay-later-retirement-plan-income-expenditure-4272751
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FkvQREK9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/20231126_ili_jb_cost_of_living_br-4.jpg?itok=DG6q8HJ-" width="1600"/>
   </item>
  </channel>
 </rss>
