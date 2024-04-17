@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 17 Apr 2024 15:20:26 +0800
+   Wed, 17 Apr 2024 15:41:09 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 17 Apr 2024 14:50:48 +0800
+   Wed, 17 Apr 2024 15:27:20 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬深股市升逾2%收市
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749276-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749276-20240417.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市全日反彈逾2%。兩市逾5000隻股份上升。
+
+上證指數收報3071點，升64點，升幅2.14%，是今年2月6日以來最大單日升幅，以全日高位收市。
+
+深證成份指數報9381點，升226點，升2.48%，同樣以全日高位收市。
+
+創業板指數報1797點，接近全日高位，升37點，升幅2.11%。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 15:27:20 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     韓股跌約1%收市
@@ -441,25 +464,6 @@
    </description>
    <pubDate>
     Wed, 17 Apr 2024 09:51:28 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人行逆回購20億元人民幣
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749229-20240417.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749229-20240417.htm
-   </link>
-   <description>
-    <![CDATA[人民銀行公開市場今日進行20億元人民幣逆回購操作，中標利率維持1.8厘，期限7日，完全對沖今日到期量，不過今日有1700億元中期借貸便利(MLF)錯位到期，公開市場單日轉為等量淨回籠。
-
-人行已經在星期一縮量續做1000億元MLF，利率維持不變。]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 09:47:46 +0800
    </pubDate>
   </item>
  </channel>
