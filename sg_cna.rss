@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 01:20:18 +0800
+   Thu, 18 Apr 2024 01:25:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -164,7 +164,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2szvL1_G--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t162903z_2_lynxnpek3g0ot_rtroptp_3_usa-election-trump-pennsylvania.jpg?itok=Hzf901jM" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
