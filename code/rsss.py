@@ -28,6 +28,7 @@ feeds = {
     'hk_rthk_international_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml',
     'hk_rthk_finance_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml',
     'hk_rthk_sport_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml',
+    'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
 }
 
 # 遍歷字典中的每個 RSS 源地址
