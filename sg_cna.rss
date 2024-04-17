@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 22:36:34 +0800
+   Wed, 17 Apr 2024 22:40:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Brasher predicts elite women's London Marathon race to be better than Paris Olympics
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/brasher-predicts-elite-womens-london-marathon-race-be-better-paris-olympics-4272641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 22:32:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/brasher-predicts-elite-womens-london-marathon-race-be-better-paris-olympics-4272641
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SG3rv62c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t143733z_1_lynxnpek3g0lt_rtroptp_3_athletics-london.jpg?itok=hA-85f6P" width="1600"/>
+  </item>
   <item>
    <title>
     Japan's Uniqlo opens Rome store as part of European expansion
@@ -436,27 +457,6 @@
     Singapore ,Entertainment ,CNA Lifestyle ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hp5sGuCb--/c_crop,h_893,w_1588,x_9,y_52/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/georgette_chen_chua_mia_tee_national_gallery.jpg?itok=ysloytT8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Exclusive-Mobileye set to ship at least 46 million new assisted driving chips
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/exclusive-mobileye-set-ship-least-46-million-new-assisted-driving-chips-4272146
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:33:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/exclusive-mobileye-set-ship-least-46-million-new-assisted-driving-chips-4272146
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SIi6QdS_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t103342z_2_lynxnpek3g0df_rtroptp_3_tech-ai.jpg?itok=uMP9yjYM" width="1600"/>
   </item>
  </channel>
 </rss>
