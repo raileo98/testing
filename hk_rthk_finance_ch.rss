@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 17 Apr 2024 18:50:11 +0800
+   Wed, 17 Apr 2024 19:10:08 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 17 Apr 2024 18:14:20 +0800
+   Wed, 17 Apr 2024 18:54:48 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    豐田召回在日生產逾13萬部Prius　日當局指車門防水性不足
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749321-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749321-20240417.htm
+   </link>
+   <description>
+    <![CDATA[日本國土交通省表示，豐田汽車正召回去年11月24日至今年4月3日期間，在日本生產的超過13萬部Prius車型汽車。
+
+國土交通省指出，該款車輛外側後車門的開關，存在防水性能不足問題，在大量沖水的情況下，可能導致內部零件短路，最嚴重情況可能會在行車期間，車門突然打開，目前已有3宗低速行駛中車門打開的報告。
+
+豐田發言人表示，公司暫停接受該款車型的訂單，又指公司最近暫停日本一間工廠的一條生產線，進行車輛品質檢查。]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 18:54:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     本年度「M」品牌12項活動預算撥款約2億元
@@ -453,23 +474,6 @@
    </description>
    <pubDate>
     Wed, 17 Apr 2024 14:44:29 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股反彈約1.6%收市　重上2萬點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749268-20240417.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749268-20240417.htm
-   </link>
-   <description>
-    <![CDATA[台股反彈，加權指數重上2萬點以上，收市報20213點，升311點，升幅1.56%。]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 14:12:32 +0800
    </pubDate>
   </item>
  </channel>
