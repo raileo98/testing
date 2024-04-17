@@ -30,6 +30,7 @@ feeds = {
     'hk_rthk_sport_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
     'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
+    'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
 }
 
 # 遍歷字典中的每個 RSS 源地址
