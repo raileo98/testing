@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 01:20:15 +0800
+   Thu, 18 Apr 2024 01:50:21 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 17 Apr 2024 16:23:11 +0800
+   Thu, 18 Apr 2024 01:41:00 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    EU says Facebook can't charge users for privacy
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749350-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749350-20240418.htm
+   </link>
+   <description>
+    <![CDATA[Facebook owner Meta and other online platforms must not force users to pay for the right to data protection enshrined in EU law when offering ad-free subscriptions, the European data regulator said Wednesday.
+
+"Online platforms should give users a real choice when employing 'consent or pay' models," the European Data Protection Board (EDPB) chair Anu Talus said in a statement.
+
+"The models we have today usually require individuals to either give away all their data or to pay," he said. "As a result, most users consent to the processing in order to use a service, and they do not understand the full implications of their choices."
+
+Meta in November launched a "pay or consent" system allowing users to withhold use of their data for ad targeting in exchange for a monthly fee – a model that has faced several challenges from privacy and consumer advocates.
+
+Meta has long profited from selling user data to advertisers but this business model has led to multiple battles with EU regulators over data privacy.
+
+The latest announcement came after the data protection authorities of The Netherlands, Norway and the German state of Hamburg went to the EDPB for an opinion regarding the pay-or-consent model used by Meta.
+
+All digital platforms must comply with the European Union's mammoth general data protection regulation (GDPR), which has been at the root of EU court cases against Meta.
+
+The EDPB in its opinion argued that Meta's model was at odds with the GDPR's requirement that consent for data use must be freely given.
+
+"In most cases, it will not be possible for large online platforms to comply with the requirements for valid consent if they confront users only with a binary choice between consenting to processing of personal data for behavioural advertising purposes and paying a fee," the opinion read.
+
+The EDPB also warned the type of subscription service put forward by Meta "should not be the default way forward" for platforms.
+
+It suggested that platforms should consider an alternative that would give users the right to reject being tracked for advertising purposes without the need to pay. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 01:41:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks finish flat
@@ -575,39 +612,6 @@ The Shanghai Composite Index was flat, nudging up 1.33 points to 3,035.58, while
    </description>
    <pubDate>
     Fri, 12 Apr 2024 09:39:41 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    US markets end higher despite inflation rise
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748522-20240412.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748522-20240412.htm
-   </link>
-   <description>
-    <![CDATA[Apple and other tech shares led US equities higher on Thursday following mixed inflation data and a European Central Bank decision that signalled a possible imminent interest rate cut.
-
-US wholesale inflation rose by 0.2 percent in March, less than expected. However, on an annual level the index for final demand increased 2.1 percent for the 12 months ending in March -- its highest level since April 2023.
-
-Tom Cahill of Ventura Wealth Management said the equity gains reflected investor "relief" that the inflation report "wasn't worse than expected" after Wednesday's consumer price report sent stocks tumbling.
-
-The Dow Jones Industrial Average finished flat at 38,459.
-
-The S&P 500 gained 0.7 percent to 5,199, and the Nasdaq Composite Index advanced 1.7 percent to 16,442.
-
-Apple jumped nearly four percent following a JPMorgan Chase report that pointed to improving investor sentiment on the company, in part due to enthusiasm that iPhones will benefit from upgrades for more AI technology.
-
-Chip companies also had a good day, with Nvidia, Broadcom and Micron all winning more than four percent.
-
-The European Central Bank, as expected, held interest rates steady again but said slowing inflation could open the door to easing monetary policy, raising hopes of a first cut in June.
-
-Investors are looking ahead to earnings from major banks on Friday. JPMorgan Chase was flat, while Wells Fargo fell 0.4 percent and Citi climbed 0.9 percent. All three report on Friday. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 12 Apr 2024 04:37:59 +0800
    </pubDate>
   </item>
  </channel>
