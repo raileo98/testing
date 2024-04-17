@@ -56,8 +56,8 @@ for name, url in feeds.items():
         image_tag = root.new_tag('image')
         url_tag = root.new_tag('url')
         # 設置 <url> 標籤的內容
-        url_tag.string = f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}"
-        image_tag.append(CData(url_tag))
+        url_tag.string = CData(f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}")
+        image_tag.append(url_tag)
         # 添加 <title> 和 <link> 標籤
         title_tag = root.new_tag('title')
         title_tag.string = channel.find('title').text
