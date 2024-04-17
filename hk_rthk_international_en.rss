@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 03:20:27 +0800
+   Thu, 18 Apr 2024 03:40:35 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 00:53:04 +0800
+   Thu, 18 Apr 2024 03:39:12 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Boeing safety in spotlight before US Senate
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749355-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749355-20240418.htm
+   </link>
+   <description>
+    <![CDATA[Boeing's safety culture and manufacturing quality, both at the centre of a full-blown crisis following a January mid-air panel blowout, faced scrutiny on Wednesday in two US Senate hearings.
+
+Boeing has been grappling with a safety crisis after the door plug panel blew off an Alaska Airlines flight that took off from Portland, Oregon, on January 5. The planemaker has undergone a management shakeup, US regulators have put curbs on its production, and deliveries fell by half in March.
+
+Testimony at the US senate permanent subcommittee on investigations raised questions about missing records surrounding the panel, along with production concerns over two separate Boeing widebody jets.
+
+Former Boeing engineer Ed Pierson said he turned over records, sent to him from an internal whistleblower, to the FBI that he said provided information about the plug.
+
+Boeing has said it believed that required documents detailing the removal of the door plug were never created. Boeing directed questions to the National Transportation Safety Board, which was not immediately available for comment.
+
+The FBI declined to comment.
+
+Whistleblower Sam Salehpour, a Boeing quality engineer who raised questions about two of the planemaker's widebody jets, claimed he was told to "shut up" when he flagged safety concerns. He has said that he was removed from the 787 programme and transferred to the 777 jet due to his questions.
+
+Salehpour has claimed Boeing failed to adequately shim, or use a thin piece of material to fill tiny gaps in a manufactured product, an omission that could cause premature fatigue failure over time in some areas of the Boeing 787 Dreamliner.
+
+Salehpour said he had reached out to Boeing official Lisa Fahl but was not provided specific safety data.
+
+Fahl has said the 787, which was launched in 2004, had a specification of five-thousandths of an inch gap allowance within a five-inch area, or "the thickness of a human hair."
+
+"When you are operating at 35,000 feet," the size of a human hair can be a matter of life and death, Salehpour told the hearing. (Reuters)]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 03:39:12 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Indonesia issues highest alert as volcano erupts
@@ -835,35 +872,6 @@ A landslide and flooding swept away dozens of houses and destroyed a hotel near 
    </description>
    <pubDate>
     Sun, 14 Apr 2024 21:27:43 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    China concerned at latest escalation in Middle East
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748827-20240414.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748827-20240414.htm
-   </link>
-   <description>
-    <![CDATA[The Foreign Ministry in Beijing on Sunday expressed deep concern over escalation in the conflict in the Middle East, after Iran launched a massive drone and missile attack on Israel in response to an Israeli strike on its consulate in Damascus.
-
-A spokesperson for the ministry called on all parties to exercise calm and restraint after the attacks in the early hours of Sunday.
-
-“The ongoing situation is the latest spillover of the Gaza conflict,” the spokesperson said.
-
-“There should be no more delays in implementing UN Security Council Resolution 2728 and the conflict must end now.”
-
-The spokesperson added: “China calls on the international community, especially countries with influence, to play a constructive role for the peace and stability of the region.”
-
-Earlier on Sunday, the Chinese embassy in Iran advised Chinese nationals and companies in the country to strengthen security precautions, according to official broadcaster CCTV.
-
-A UN Security Council meeting is scheduled to take place later on Sunday. (Additional reporting by Reuters)]]>
-   </description>
-   <pubDate>
-    Sun, 14 Apr 2024 12:31:43 +0800
    </pubDate>
   </item>
  </channel>
