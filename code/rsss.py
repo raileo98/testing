@@ -11,8 +11,22 @@ session.headers['Pragma'] = 'no-cache'
 
 # 將 urls 列表轉換為字典
 feeds = {
-    'pts': 'http://localhost:1200/pts',
-    '8world': 'http://localhost:1200/8world'
+    'tw_pts': 'http://localhost:1200/pts',
+    'tw_cts': 'http://localhost:1200/cts/real',
+    'sg_8world': 'http://localhost:1200/8world',
+    'jp_nhk_zt': 'http://localhost:1200/nhk/news/zt',
+    'jp_nhk_zh': 'http://localhost:1200/nhk/news/zh',
+    'mn_vom': 'http://localhost:1200/vom/featured/zh',
+    'hk_rthk_local_ch': 'https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml',
+    'hk_rthk_greaterchina_ch': 'https://rthk.hk/rthk/news/rss/c_expressnews_greaterchina.xml',
+    'hk_rthk_international_ch': 'https://rthk.hk/rthk/news/rss/c_expressnews_cinternational.xml',
+    'hk_rthk_finance_ch': 'https://rthk.hk/rthk/news/rss/c_expressnews_cfinance.xml',
+    'hk_rthk_sport_ch': 'https://rthk.hk/rthk/news/rss/c_expressnews_csport.xml',
+    'hk_rthk_local_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_elocal.xml',
+    'hk_rthk_greaterchina_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_egreaterchina.xml',
+    'hk_rthk_international_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml',
+    'hk_rthk_finance_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml',
+    'hk_rthk_sport_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml',
 }
 
 # 遍歷字典中的每個 RSS 源地址
