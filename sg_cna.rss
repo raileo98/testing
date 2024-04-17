@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 21:20:18 +0800
+   Wed, 17 Apr 2024 21:30:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,25 @@
   </image>
   <item>
    <title>
+    SiTime introduces chip aimed at saving power in AI data centers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 21:16:53 +0800
+   </pubDate>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YxViXCik--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t132729z_1_lynxnpek3g0jm_rtroptp_3_adecco-ai.jpg?itok=l9QaDBPL" width="1600"/>
+  </item>
+  <item>
+   <title>
     Social media platform X blocked in Pakistan over national security, ministry says
    </title>
    <link>
@@ -59,7 +78,7 @@
    <category>
     Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LGGo6Q81--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t130221z_2_lynxnpek3g0dd_rtroptp_3_twitter-musk-hate-speech-lawsuit.jpg?itok=_7_yWwqp" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NaKBYKQS--/c_crop,h_450,w_800,x_0,y_19/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-03-26t211723z_1_lynxnpek2p0u8_rtroptp_3_twitter-musk-x-sign.jpg?itok=DhmghOVf" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +457,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--60yciL2D--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/work_from_home_flexible_work_arrangements.jpg?itok=qRI_PgGu" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia amends import rules after business group complaints
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/indonesia-amends-import-rules-after-business-group-complaints-4272096
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:20:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indonesia-amends-import-rules-after-business-group-complaints-4272096
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08xKkIQV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t102045z_1_lynxnpek3g0cx_rtroptp_3_indonesia-economy-gdp.jpg?itok=NPtQAGfj" width="1600"/>
   </item>
  </channel>
 </rss>
