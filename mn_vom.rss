@@ -22,7 +22,7 @@
   </language>
   <image>
    <url>
-    https://images.weserv.nl/?n=-1&amp;url=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fip3%2Fdocs.rsshub.app.ico
+    <![CDATA[https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fip3%2Fdocs.rsshub.app.ico]]>
    </url>
    <title>
     VoM.mn - Voice of Mongolia
@@ -30,7 +30,7 @@
    <link/>
   </image>
   <lastBuildDate>
-   Wed, 17 Apr 2024 04:37:21 GMT
+   Wed, 17 Apr 2024 04:46:33 GMT
   </lastBuildDate>
   <ttl>
    5
