@@ -15,6 +15,7 @@ feeds = {
     'tw_cts': 'http://localhost:1200/cts/real',
     'tw_rti': 'https://www.rti.org.tw/rss',
     'sg_8world': 'http://localhost:1200/8world',
+    'sg_cna': 'https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml',
     'jp_nhk_zt': 'http://localhost:1200/nhk/news/zt',
     'jp_nhk_zh': 'http://localhost:1200/nhk/news/zh',
     'mn_vom': 'http://localhost:1200/vom/featured/zh',
