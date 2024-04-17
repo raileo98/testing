@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 07:36:03 +0800
+   Thu, 18 Apr 2024 07:45:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ancelotti proud as Real Madrid dig deep for revenge in Manchester
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ancelotti-proud-real-madrid-dig-deep-revenge-manchester-4273896
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 07:42:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ancelotti-proud-real-madrid-dig-deep-revenge-manchester-4273896
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SXDU_qg---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t234258z_1_lynxnpek3g10l_rtroptp_3_soccer-champions-mci-mad-report.jpg?itok=YJdn1coH" width="1600"/>
+  </item>
   <item>
    <title>
     Climate Conversations Podcast: How else can an air-con nation keep cool in a heatwave?
@@ -177,7 +198,7 @@
     <![CDATA[Mediacorp Gold 905 DJ Denise Tan visits Guan Hoe Soon and Coffee Break to learn about the Hainanese connection.]]>
    </description>
    <pubDate>
-    Thu, 18 Apr 2024 07:23:14 +0800
+    Thu, 18 Apr 2024 07:23:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/dining/guan-hoe-soon-coffee-break-hainanese-peranakan-food-4267996
@@ -198,7 +219,7 @@
     <![CDATA[Mediacorp Gold 905 DJ Denise Tan visits Guan Hoe Soon and Coffee Break to learn about the Hainanese connection.]]>
    </description>
    <pubDate>
-    Thu, 18 Apr 2024 07:23:14 +0800
+    Thu, 18 Apr 2024 07:23:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/dining/guan-hoe-soon-coffee-break-hainanese-peranakan-food-4267996
@@ -219,7 +240,7 @@
     <![CDATA[Mediacorp Gold 905 DJ Denise Tan visits Guan Hoe Soon and Coffee Break to learn about the Hainanese connection.]]>
    </description>
    <pubDate>
-    Thu, 18 Apr 2024 07:23:14 +0800
+    Thu, 18 Apr 2024 07:23:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/dining/guan-hoe-soon-coffee-break-hainanese-peranakan-food-4267996
@@ -438,27 +459,6 @@
     Commentary ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P29zmmdJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/ccf0101c5b3057c91d6d4fdc2626d44af7a6f7e1.jpg?itok=MBGkdLc0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Kimmich heads Bayern past Arsenal into Champions League semis
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/kimmich-heads-bayern-past-arsenal-champions-league-semis-4273601
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 05:51:57 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/kimmich-heads-bayern-past-arsenal-champions-league-semis-4273601
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KbmFjZS4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/64733d2e3826a7f24b161cfff2ef9e0744e98e7b.jpg?itok=Fvn5a32T" width="1600"/>
   </item>
  </channel>
 </rss>
