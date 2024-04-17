@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 01:35:48 +0800
+   Thu, 18 Apr 2024 01:48:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Microsoft-OpenAI deal set to dodge formal EU merger probe, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/microsoft-openai-deal-set-dodge-formal-eu-merger-probe-sources-say-4273151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 01:40:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/microsoft-openai-deal-set-dodge-formal-eu-merger-probe-sources-say-4273151
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lYw6NPdk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t174041z_3_lynxnpek3g0pq_rtroptp_3_microsoft-g42-investment.jpg?itok=b_7xn84m" width="1600"/>
+  </item>
   <item>
    <title>
     Exclusive-Billing software firm Zuora explores sale after takeover interest, sources say
@@ -436,27 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YxViXCik--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t132729z_1_lynxnpek3g0jm_rtroptp_3_adecco-ai.jpg?itok=l9QaDBPL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Social media platform X blocked in Pakistan over national security, ministry says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/pakistan-x-twitter-ban-elections-security-concerns-social-media-imran-khan-4272126
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 20:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/pakistan-x-twitter-ban-elections-security-concerns-social-media-imran-khan-4272126
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NaKBYKQS--/c_crop,h_450,w_800,x_0,y_19/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-03-26t211723z_1_lynxnpek2p0u8_rtroptp_3_twitter-musk-x-sign.jpg?itok=DhmghOVf" width="1600"/>
   </item>
  </channel>
 </rss>
