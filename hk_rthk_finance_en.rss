@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 17 Apr 2024 16:20:06 +0800
+   Wed, 17 Apr 2024 16:30:50 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 17 Apr 2024 09:54:48 +0800
+   Wed, 17 Apr 2024 16:23:11 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks finish flat
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749294-20240417.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749294-20240417.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks ended Wednesday marginally higher as bargain-buying after a recent sell-off was offset by the prospect that US interest rates will be kept elevated longer than expected.
+
+The Hang Seng Index inched up 2.9 points, to 16,251.
+
+The Shanghai Composite Index rallied 2.1 percent, or 64 points, to end at 3,071, while the Shenzhen Composite Index rose 3.8 percent, or 62 points, to 1,700. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 16:23:11 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK market opens down after Fed chair's comments
@@ -587,39 +608,6 @@ Investors are looking ahead to earnings from major banks on Friday. JPMorgan Cha
    </description>
    <pubDate>
     Fri, 12 Apr 2024 04:37:59 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Fast Retailing lifts FY profit forecast to record
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748517-20240412.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748517-20240412.htm
-   </link>
-   <description>
-    <![CDATA[The operator of Japan's high-street fashion giant Uniqlo on Thursday revised up its full-year net profit forecast to what would be a record performance, citing strong global sales.
-
-Retail behemoth Fast Retailing now expects to make 320 billion yen (HK$16.4 billion) in the year to August, up from the previous estimate of 310 billion yen.
-
-It also sees full-year operating profit of 450 billion yen on sales of 3.03 trillion yen, both of which would also be record figures if realised.
-
-Operating profit and sales during the first half to February "represented a new record consolidated performance fuelled primarily by considerably higher first-half profits from Uniqlo operations in North America, Europe, and Southeast Asia", the company said.
-
-Its low-cost GU clothing brand has been another key driver of the retail group's expansion, Fast Retailing added.
-
-For the six months to February, the company posted a 195.9 billion net profit, a 27.7 percent jump year-on-year.
-
-Operating profit stood at 257.0 billion yen, up 16.7 percent.
-
-Last month, Zara owner Inditex, the world's biggest fashion retailer, said it had enjoyed its highest-ever profits last year despite a complicated global backdrop.
-
-The firm, which has seen a strong performance on Spain's stock market over the past year, posted a net profit of 5.4 billion euros (US$5.9 billion), up 30 percent from 4.1 billion euros in 2022, which was also a record. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 12 Apr 2024 01:11:41 +0800
    </pubDate>
   </item>
  </channel>
