@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 05:10:03 +0800
+   Thu, 18 Apr 2024 05:20:33 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 04:49:31 +0800
+   Thu, 18 Apr 2024 05:10:15 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HSBC, Morgan Stanley 'laying off Asia-Pacific bankers'
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749360-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749360-20240418.htm
+   </link>
+   <description>
+    <![CDATA[Morgan Stanley and HSBC are cutting dozens of investment banking jobs in the Asia Pacific region this week, sources said, as they ramp up cost-cutting, with weaker dealmaking and sluggish markets weighing on business prospects.
+
+Morgan Stanley is cutting at least 50 investment banking jobs in the region starting this week, three sources with knowledge of the matter said, affecting around 13 percent of the Wall Street bank's Asia investment banking workforce of 400.
+
+Layoffs at the investment banking unit of HSBC, which makes the bulk of its profits in Asia, started on Tuesday and are expected to see the departure of around 30 dealmakers in the region this week, three separate sources said.
+
+All of the sources declined to be named as they were not authorised to speak to the media.
+
+Morgan Stanley declined to comment on the job cuts.
+
+An HSBC spokesperson said the banks is continuing to invest in and grow its business, allocating people and resources to the immediate opportunities, but declined to comment on the job cuts.
+
+In January, Bank of America laid off around 20 bankers in the region, following a flurry of investment bank downsizing by UBS, Citigroup and other boutique firms.
+
+Outside Asia, US banking giants overall continued to shed employees in the first quarter, with Citigroup seeing the biggest drop. Banks are under pressure to control costs due to the uncertain economic outlook. (Reuters)]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 05:10:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Wall Street slips again as rates hopes fade
@@ -595,37 +626,6 @@ The Shanghai Composite Index lost 0.5 percent, or 14 points, to end at 3,019, wh
    </description>
    <pubDate>
     Fri, 12 Apr 2024 16:36:04 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Core proposals made to ramp up digital economy
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748584-20240412.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748584-20240412.htm
-   </link>
-   <description>
-    <![CDATA[Financial Secretary Paul Chan on Friday said the government's Digital Economy Development Committee, which he chairs, has come up with 12 recommendations.
-
-They cover five key areas, namely strengthening digital policy, IT infrastructure, cross-border data flow, getting businesses to adopt new technology and attracting qualified people, Chan said.
-
-The proposals include setting up a digital policy office to help make the city smarter, getting a super computing centre up and running by the end of the year, extending commercial data interchange to offer loans to businesses effectively, and a study on data trading.
-
-“We see clear potential for international data trading to become a new and thriving industry in this city. With that in mind, we have commissioned an expert group to study how best to develop a robust data trading system in Hong Kong. This is an area of tremendous promise for us,” Chan said.
-
-The minister's remarks were made at the Digital Economy Summit, where he also said that the digital economy has clearly emerged as a new “driving force” for global economic development.
-
-“The landscape is complex and rapidly changing, competition among cities and economies in this field is intense, Hong Kong must move fast to stay ahead of the curve,” Chan said.
-
-Separately, Secretary for Innovation, Technology and Industry Sun Dong stressed that new technology should be used in a sustainable way.
-
-“How we are going to achieve a sustainable future is the development by maintaining a balance between using technology in an intelligent way while at the same time promoting, creating, and maximising the long-term value by using technology in a safe and responsible way,” he said.]]>
-   </description>
-   <pubDate>
-    Fri, 12 Apr 2024 13:17:20 +0800
    </pubDate>
   </item>
  </channel>

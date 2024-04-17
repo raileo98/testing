@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 05:16:18 +0800
+   Thu, 18 Apr 2024 05:25:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    ATP roundup: Stefanos Tsitsipas advances in Barcelona
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/atp-roundup-stefanos-tsitsipas-advances-barcelona-4273636
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 05:21:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/atp-roundup-stefanos-tsitsipas-advances-barcelona-4273636
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Kimmich heads Bayern Munich past Arsenal and into semi-finals
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Bank of Korea chief signals readiness to deal with volatile currency moves
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/bank-korea-chief-signals-readiness-deal-volatile-currency-moves-4272926
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 00:08:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bank-korea-chief-signals-readiness-deal-volatile-currency-moves-4272926
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ef-06erj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t160824z_1_lynxnpek3g0ox_rtroptp_3_imf-worldbank.jpg?itok=YgzAlQz0" width="1600"/>
   </item>
  </channel>
 </rss>
