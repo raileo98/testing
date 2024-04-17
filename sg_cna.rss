@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 20:48:53 +0800
+   Wed, 17 Apr 2024 20:59:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Social media platform X blocked in Pakistan over national security, ministry says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/pakistan-x-twitter-ban-elections-security-concerns-social-media-imran-khan-4272126
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 20:51:30 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/pakistan-x-twitter-ban-elections-security-concerns-social-media-imran-khan-4272126
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dVKv6S6d--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t103237z_1_lynxnpek3g0dd_rtroptp_3_twitter-musk-hate-speech-lawsuit.jpg?itok=xGWl9ZtX" width="1600"/>
+  </item>
   <item>
    <title>
     Lee strike earns Ulsan slender advantage in Asian Champions League
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Netflix subscriber growth in focus as gains from password-sharing crackdown seen easing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/netflix-subscriber-growth-focus-gains-password-sharing-crackdown-seen-easing-4272081
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:16:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/netflix-subscriber-growth-focus-gains-password-sharing-crackdown-seen-easing-4272081
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--R6kRMvui--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t101604z_2_lynxnpek3g0cq_rtroptp_3_netflix-india.jpg?itok=GDZP0ojz" width="1600"/>
   </item>
  </channel>
 </rss>
