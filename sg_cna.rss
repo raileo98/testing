@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 23:57:44 +0800
+   Thu, 18 Apr 2024 00:29:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bank of Korea chief signals readiness to deal with volatile currency moves
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/bank-korea-chief-signals-readiness-deal-volatile-currency-moves-4272926
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 00:08:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/bank-korea-chief-signals-readiness-deal-volatile-currency-moves-4272926
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ef-06erj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t160824z_1_lynxnpek3g0ox_rtroptp_3_imf-worldbank.jpg?itok=YgzAlQz0" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Microsoft finds Russian influence operations targeting US election have slowly begun
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/microsoft-finds-russian-influence-operations-targeting-us-election-have-slowly-begun-4272916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 00:05:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/microsoft-finds-russian-influence-operations-targeting-us-election-have-slowly-begun-4272916
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fuWxbDAK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t160558z_1_lynxnpek3g0ot_rtroptp_3_usa-election-trump-pennsylvania.jpg?itok=4X-jQTFn" width="1600"/>
+  </item>
   <item>
    <title>
     Banks told to anticipate risks from using AI, machine learning
@@ -415,48 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3GlDLIMV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t114836z_1_lynxnpek3g0ga_rtroptp_3_asml-results-high-na.jpg?itok=cFmxmQ-v" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New tariffs on Chinese metals won't impact inflation, White House says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/new-tariffs-chinese-metals-wont-impact-inflation-white-house-says-4272291
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 19:47:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/new-tariffs-chinese-metals-wont-impact-inflation-white-house-says-4272291
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gV-TiO90--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t114739z_1_lynxnpek3g0g2_rtroptp_3_usa-biden-bernstein.jpg?itok=imZOIskB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel-Hamas talks on Gaza truce 'stalling': Mediator Qatar
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-talks-gaza-truce-stalling-mediator-qatar-4272226
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 19:42:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-talks-gaza-truce-stalling-mediator-qatar-4272226
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a3mpiRKw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t110102z_1_lynxnpek3g0ec_rtroptp_3_israel-palestinians.jpg?itok=EaKIY_ux" width="1600"/>
   </item>
  </channel>
 </rss>
