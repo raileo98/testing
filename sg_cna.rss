@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 04:22:47 +0800
+   Thu, 18 Apr 2024 04:27:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan, US finance chiefs agree to closely communicate on FX
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-us-finance-chiefs-agree-closely-communicate-fx-4273501
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 04:22:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-us-finance-chiefs-agree-closely-communicate-fx-4273501
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Middle East, Ukraine wars cast shadow over G7 foreign ministers meeting
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FkvQREK9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/20231126_ili_jb_cost_of_living_br-4.jpg?itok=DG6q8HJ-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Head of Russian space agency says work under way on modernised Angara rocket
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/head-russian-space-agency-says-work-under-way-modernised-angara-rocket-4272791
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 23:05:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/head-russian-space-agency-says-work-under-way-modernised-angara-rocket-4272791
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--g1Tmamqn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t150554z_1_lynxnpek3g0mi_rtroptp_3_space-exploration-iss.jpg?itok=g4NYPbV5" width="1600"/>
   </item>
  </channel>
 </rss>
