@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 20:59:54 +0800
+   Wed, 17 Apr 2024 21:20:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -51,7 +51,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 17 Apr 2024 20:51:30 +0800
+    Wed, 17 Apr 2024 20:51:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/pakistan-x-twitter-ban-elections-security-concerns-social-media-imran-khan-4272126
@@ -59,7 +59,28 @@
    <category>
     Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dVKv6S6d--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t103237z_1_lynxnpek3g0dd_rtroptp_3_twitter-musk-hate-speech-lawsuit.jpg?itok=xGWl9ZtX" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LGGo6Q81--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t130221z_2_lynxnpek3g0dd_rtroptp_3_twitter-musk-hate-speech-lawsuit.jpg?itok=_7_yWwqp" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Indonesia ditches tough import curbs on its migrant workers after public outcry
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-migrant-workers-relax-import-goods-curbs-4272281
+   </link>
+   <description>
+    <![CDATA[The strict curbs had sparked criticism, with concerns over their effectiveness and the added pressure on Indonesian migrant workers.]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 20:49:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-migrant-workers-relax-import-goods-curbs-4272281
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l6vRfjYI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/memorial_day_travel_11876.jpg?itok=DBRKMy_L" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08xKkIQV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t102045z_1_lynxnpek3g0cx_rtroptp_3_indonesia-economy-gdp.jpg?itok=NPtQAGfj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Kazakhstan claims against Kashagan oil firms top $150 billion, Bloomberg reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/kazakhstan-claims-against-kashagan-oil-firms-top-150-billion-bloomberg-reports-4272086
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:16:26 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/kazakhstan-claims-against-kashagan-oil-firms-top-150-billion-bloomberg-reports-4272086
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
