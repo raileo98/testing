@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 03:11:50 +0800
+   Thu, 18 Apr 2024 03:16:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -311,7 +311,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ql1c82ye--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t164728z_1_lynxnpek3g0qe_rtroptp_3_amazon-com-shopping.jpg?itok=8TdT48n7" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
