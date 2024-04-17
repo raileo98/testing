@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>TaiwanPlus - Latest News</title>
+    <link>https://www.taiwanplus.com</link>
+    <description>Your source of news, culture, and infotainment from Taiwan, a voice of freedom in Asia.</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://images.weserv.nl/?n=-1&amp;url=https://external-content.duckduckgo.com/ip3/www.taiwanplus.com.ico</url>
+      <title>TaiwanPlus - Latest News</title>
+      <link>https://www.taiwanplus.com</link>
+    </image>
+    <lastBuildDate>Wed, 17 Apr 2024 04:36:49 +0000</lastBuildDate>
+    <item>
+      <title>Mickey Huang Scandal Exposes Global Challenge of Online Child Sexual Abuse</title>
+      <link>https://www.taiwanplus.com/taiwan-news/crime/240416017</link>
+      <description>&lt;img src="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/71775ca0-4ac4-4e07-ae21-c812383c9429.webp" referrerpolicy="no-referrer"&gt;&lt;br&gt;The recent local scandal involving TV host Mickey Huang has exposed the global nature of child sexual abuse online. </description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/crime/240416017</guid>
+      <pubDate>Tue, 16 Apr 2024 11:17:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mother Alleges Nanny Hospitalized Child in Another Child Abuse Case in Taiwan</title>
+      <link>https://www.taiwanplus.com/taiwan-news/crime/240416018</link>
+      <description>&lt;img src="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/85362875-63d7-4304-9503-271735ec727b.webp" referrerpolicy="no-referrer"&gt;&lt;br&gt;A mother has alleged that her nanny abused and seriously injured her five-month-old baby in what has become a string of child abuse scandals in Taiwan in recent months. </description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/crime/240416018</guid>
+      <pubDate>Tue, 16 Apr 2024 11:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tsai and Visiting New Zealand Parliamentarians Seek To Deepen Ties</title>
+      <link>https://www.taiwanplus.com/taiwan-news/diplomacy/240416023</link>
+      <description>&lt;img src="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/9c540677-adbc-43c1-aded-7ec7872321de.webp" referrerpolicy="no-referrer"&gt;&lt;br&gt;President Tsai Ing-wen has met with a delegation of New Zealand parliamentarians in Taipei. Both countries have vowed to strenghten cooperation on Indigenous culture, renewable ene</description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/diplomacy/240416023</guid>
+      <pubDate>Tue, 16 Apr 2024 12:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xiaoliuqiu Island To Start Charging Conservation Fee to Tourists</title>
+      <link>https://www.taiwanplus.com/taiwan-news/environment/240416025</link>
+      <description>&lt;img src="https://images.weserv.nl/?n=-1&amp;url=https://prod-img.taiwanplus.com/img/resize/960x540/e99264f5-1105-4e8e-9739-919ba835f8c9.webp" referrerpolicy="no-referrer"&gt;&lt;br&gt;Southern Taiwan's Xiaoliuqiu Island will start charging visitors a conservation fee for entering protected coastal zones. The island's beaches, corals reefs and wildlife attract hu</description>
+      <guid isPermaLink="false">https://www.taiwanplus.com/taiwan-news/environment/240416025</guid>
+      <pubDate>Tue, 16 Apr 2024 12:59:13 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
