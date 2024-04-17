@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 17 Apr 2024 23:34:19 +0800
+   Wed, 17 Apr 2024 23:39:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Young high-income earners more likely to 'buy now, pay later': 5 findings of IPS-CNA survey on youth finances
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/young-people-rising-cost-living-buy-now-pay-later-retirement-plan-income-expenditure-4272751
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 17 Apr 2024 23:36:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/young-people-rising-cost-living-buy-now-pay-later-retirement-plan-income-expenditure-4272751
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FkvQREK9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/20231126_ili_jb_cost_of_living_br-4.jpg?itok=DG6q8HJ-" width="1600"/>
+  </item>
   <item>
    <title>
     Head of Russian space agency says work under way on modernised Angara rocket
@@ -436,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    US NHTSA upgrades probe into braking issues in 3 million Honda vehicles
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-nhtsa-upgrades-probe-braking-issues-3-million-honda-vehicles-4272171
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 18:52:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-nhtsa-upgrades-probe-braking-issues-3-million-honda-vehicles-4272171
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7w33gN2u--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t105241z_2_lynxnpek3g0br_rtroptp_3_autoshow-bangkok.jpg?itok=njeCpwXv" width="1600"/>
   </item>
  </channel>
 </rss>
