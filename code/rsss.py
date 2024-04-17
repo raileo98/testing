@@ -103,7 +103,7 @@ for name, url in feeds.items():
     # 將修改後的 XML 內容寫入到對應的 RSS 文件中
     with open(f'{name}.rss', 'w', encoding='utf-8') as file:
         file.write(root.prettify())
-    print( f'url: {url}' done!)
+    print( f'url: {url} done!' )
     
 # 輸出完成信息
 print('所有 RSS 源已經輸出到對應的文件中。')
