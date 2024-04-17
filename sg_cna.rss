@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 01:25:44 +0800
+   Thu, 18 Apr 2024 01:35:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Exclusive-Billing software firm Zuora explores sale after takeover interest, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-billing-software-firm-zuora-explores-sale-after-takeover-interest-sources-say-4273111
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 01:28:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-billing-software-firm-zuora-explores-sale-after-takeover-interest-sources-say-4273111
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Nadal's Barcelona return ended by De Minaur
@@ -436,27 +457,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NaKBYKQS--/c_crop,h_450,w_800,x_0,y_19/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-03-26t211723z_1_lynxnpek2p0u8_rtroptp_3_twitter-musk-x-sign.jpg?itok=DhmghOVf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia ditches tough import curbs on its migrant workers after public outcry
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-migrant-workers-relax-import-goods-curbs-4272281
-   </link>
-   <description>
-    <![CDATA[The strict curbs had sparked criticism, with concerns over their effectiveness and the added pressure on Indonesian migrant workers.]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 20:49:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-migrant-workers-relax-import-goods-curbs-4272281
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l6vRfjYI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/memorial_day_travel_11876.jpg?itok=DBRKMy_L" width="1600"/>
   </item>
  </channel>
 </rss>
