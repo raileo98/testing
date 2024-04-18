@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 23:57:53 +0800
+   Fri, 19 Apr 2024 00:28:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Meta releases early versions of its Llama 3 AI model
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/meta-releases-early-versions-its-llama-3-ai-model-4275886
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 00:02:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/meta-releases-early-versions-its-llama-3-ai-model-4275886
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bWV8pTfL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t160228z_1_lynxnpek3h0pf_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=k_lnXYBU" width="1600"/>
+  </item>
   <item>
    <title>
     Exclusive-Microsoft's OpenAI partnership could face EU antitrust probe, sources say
@@ -415,27 +436,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Whistleblowers slam Boeing's safety culture at US Senate hearing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/boeing-safety-whistleblowers-us-senate-hearings-4275326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 19:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/boeing-safety-whistleblowers-us-senate-hearings-4275326
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kjdlH-24--/c_crop,h_576,w_1024,x_0,y_45/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/063_2147882865.jpg?itok=a4FxN25y" width="1600"/>
   </item>
   <item>
    <title>
