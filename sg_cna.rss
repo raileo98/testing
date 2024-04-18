@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 04:20:25 +0800
+   Fri, 19 Apr 2024 04:29:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Martinez avoids red card, saves penalties to send Villa into semis
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/martinez-avoids-red-card-saves-penalties-send-villa-semis-4276476
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 04:20:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/martinez-avoids-red-card-saves-penalties-send-villa-semis-4276476
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     ATP roundup: Casper Ruud moves on in Barcelona
    </title>
    <link>
@@ -63,10 +84,10 @@
   </item>
   <item>
    <title>
-    Netflix crushes subscriber forecasts for a second straight quarter
+    Netflix crushes subscriber targets but misses on revenue forecast
    </title>
    <link>
-    https://www.channelnewsasia.com/business/netflix-crushes-subscriber-forecasts-second-straight-quarter-4276421
+    https://www.channelnewsasia.com/business/netflix-crushes-subscriber-targets-misses-revenue-forecast-4276421
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +96,7 @@
     Fri, 19 Apr 2024 04:02:27 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/netflix-crushes-subscriber-forecasts-second-straight-quarter-4276421
+    https://www.channelnewsasia.com/business/netflix-crushes-subscriber-targets-misses-revenue-forecast-4276421
    </guid>
    <category>
     Business
@@ -126,10 +147,10 @@
   </item>
   <item>
    <title>
-    BOJ's Ueda signals chance of rate hike if weak yen boosts inflation
+    BOJ's Ueda signals possible rate hike if weak yen boosts inflation
    </title>
    <link>
-    https://www.channelnewsasia.com/business/bojs-ueda-signals-chance-rate-hike-if-weak-yen-boosts-inflation-4276361
+    https://www.channelnewsasia.com/business/bojs-ueda-signals-possible-rate-hike-if-weak-yen-boosts-inflation-4276361
    </link>
    <description>
     <![CDATA[]]>
@@ -138,12 +159,12 @@
     Fri, 19 Apr 2024 03:20:28 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bojs-ueda-signals-chance-rate-hike-if-weak-yen-boosts-inflation-4276361
+    https://www.channelnewsasia.com/business/bojs-ueda-signals-possible-rate-hike-if-weak-yen-boosts-inflation-4276361
    </guid>
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CDTpDnHr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t194159z_1_lynxnpek3h0uk_rtroptp_3_japan-economy-boj.jpg?itok=4WtT4fWy" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kFHT_rOn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t202218z_2_lynxnpek3h0uk_rtroptp_3_japan-economy-boj.jpg?itok=ctxI3pNv" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,25 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZoTC3g-d--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t150618z_1_lynxnpek3h0n0_rtroptp_3_usa-chips-tsmc.jpg?itok=LNIKPxjk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Fossils of colossal snake Vasuki unearthed in India mine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 23:05:36 +0800
-   </pubDate>
-   <guid isPermaLink="false"/>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
