@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 00:54:49 +0800
+   Fri, 19 Apr 2024 01:20:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel bombs Gaza as West sanctions Iran drones over attack
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-bombs-gaza-west-sanctions-iran-drones-over-attack-4275291
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 01:19:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-bombs-gaza-west-sanctions-iran-drones-over-attack-4275291
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m1FwA-Pw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d7526dc87a94b0822953c25ff8d01d9334f0f35b.jpg?itok=3K07dEHJ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    US power, tech companies lament snags in meeting AI energy needs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-power-tech-companies-lament-snags-meeting-ai-energy-needs-4276061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 00:54:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-power-tech-companies-lament-snags-meeting-ai-energy-needs-4276061
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W7OMJHUC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t165407z_1_lynxnpek3h0qt_rtroptp_3_usa-power-datacenters.jpg?itok=Yeb0jzic" width="1600"/>
+  </item>
   <item>
    <title>
     Breast cancer survivor to run London marathon topless to help erase mastectomy stigma
@@ -415,48 +457,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5yI0ewam--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t120933z_1_lynxnpek3h0hu_rtroptp_3_soccer-europa-mil-rom-preview.jpg?itok=86GBYjtv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Binance working closely with Nigeria authorities to resolve exec's detention, CEO says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/binance-working-closely-nigeria-authorities-resolve-execs-detention-ceo-says-4275346
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 20:02:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/binance-working-closely-nigeria-authorities-resolve-execs-detention-ceo-says-4275346
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FHb6u_LM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t120227z_1_lynxnpek3h0ho_rtroptp_3_nigeria-binance.jpg?itok=Ro6vUEa2" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Stability AI to lay off staff weeks after founder Mostaque resigned as CEO - memo
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/stability-ai-lay-staff-weeks-after-founder-mostaque-resigned-ceo-memo-4275331
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 19:58:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/stability-ai-lay-staff-weeks-after-founder-mostaque-resigned-ceo-memo-4275331
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
