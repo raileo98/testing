@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 09:50:11 +0800
+   Thu, 18 Apr 2024 10:30:46 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 05:10:15 +0800
+   Thu, 18 Apr 2024 09:54:08 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks flat at open
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749391-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749391-20240418.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks were barely moved at the beginning of trade on Thursday as investors weighed the outlook for US interest rates while keeping a close eye on developments in the Middle East crisis.
+
+The Hang Seng Index inched up 1.4 points, to 16,253.
+
+The Shanghai Composite Index fell 0.3 percent, or 11.35 points to 3,060, while the Shenzhen Composite Index shed 0.3 percent, or 5.6 points to 1,695. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 09:54:08 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HSBC, Morgan Stanley 'laying off Asia-Pacific bankers'
@@ -605,27 +626,6 @@ He said he expects the country’s trade to stabilise in the second quarter. (Re
    </description>
    <pubDate>
     Fri, 12 Apr 2024 17:52:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks end week with steep losses
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748618-20240412.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748618-20240412.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks closed sharply lower on Friday following a recent run-up, with traders spooked by the prospect of US interest rates not coming down as soon or quickly as hoped.
-
-The Hang Seng Index shed 2.2 percent, or 373 points, to 16,721.
-
-The Shanghai Composite Index lost 0.5 percent, or 14 points, to end at 3,019, while the Shenzhen Composite Index slipped 0.8 percent, or 13 points, to 1,707. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 12 Apr 2024 16:36:04 +0800
    </pubDate>
   </item>
  </channel>
