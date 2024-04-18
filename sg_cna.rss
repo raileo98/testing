@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 22:36:29 +0800
+   Thu, 18 Apr 2024 22:47:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Exclusive-Northrop Grumman working with Musk's SpaceX on US spy satellite system
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-northrop-grumman-working-musks-spacex-us-spy-satellite-system-4275706
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 22:41:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-northrop-grumman-working-musks-spacex-us-spy-satellite-system-4275706
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0ltjI2Y1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t144135z_1_lynxnpek3h0mh_rtroptp_3_spacex-musk.jpg?itok=iH9Lg2Eg" width="1600"/>
+  </item>
   <item>
    <title>
     US, UK unveil sweeping sanctions on Iran in response to its attack on Israel
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1RziIbCb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/e400eccbbff16cf62f383fb00c3ffcaed16773f9.jpg?itok=i5TYsX1z" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'We're still here': Real Madrid survival instincts pulling them towards glory
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/were-still-here-real-madrid-survival-instincts-pulling-them-towards-glory-4275076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 18:37:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/were-still-here-real-madrid-survival-instincts-pulling-them-towards-glory-4275076
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--leOoksDk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a300e77e1b52ee79ac7584bd725077e74a2dcebe.jpg?itok=la5l6wMm" width="1600"/>
   </item>
  </channel>
 </rss>
