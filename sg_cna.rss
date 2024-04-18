@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 17:40:41 +0800
+   Thu, 18 Apr 2024 17:45:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan court denies fishing rights to Ainu people
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/japan-court-denies-fishing-rights-ainu-people-4274886
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 17:45:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/japan-court-denies-fishing-rights-ainu-people-4274886
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oPaiDPVM--/c_crop,h_432,w_768,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/402ff84998bd7c8bb266d3bd6b9a51dc3011be3e.jpg?itok=00eBI__l" width="1600"/>
+  </item>
   <item>
    <title>
     Scoot cancels some flights between Singapore and East Malaysia after eruption of Indonesia's Ruang volcano
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qrB94dlg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t064355z_1_lynxnpek3h075_rtroptp_3_soccer-europaconf-abe-sge-report.jpg?itok=9mlWRdut" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former No 1 Momota retires from international badminton at 29
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/former-no-1-momota-retires-international-badminton-29-4274146
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 14:36:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/former-no-1-momota-retires-international-badminton-29-4274146
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MCK5owYq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/b5d122faf6d392695df21dbe0f6e0713a82c58c1.jpg?itok=RT4hJSB5" width="1600"/>
   </item>
  </channel>
 </rss>
