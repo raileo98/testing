@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 05:18:38 +0800
+   Fri, 19 Apr 2024 05:24:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Liverpool eliminated as Atalanta book Europa League semi-final place
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/liverpool-eliminated-atalanta-book-europa-league-semi-final-place-4276611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 05:13:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/liverpool-eliminated-atalanta-book-europa-league-semi-final-place-4276611
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Why are so many famous chefs opening restaurants in Singapore's new hotels?
@@ -395,7 +416,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W7OMJHUC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t165407z_1_lynxnpek3h0qt_rtroptp_3_usa-power-datacenters.jpg?itok=Yeb0jzic" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MiVFvpT7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t211956z_2_lynxnpek3h0qt_rtroptp_3_usa-power-datacenters.jpg?itok=xpaEQXKz" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Meta releases early versions of its Llama 3 AI model
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/meta-releases-early-versions-its-llama-3-ai-model-4275886
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 00:02:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/meta-releases-early-versions-its-llama-3-ai-model-4275886
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bWV8pTfL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t160228z_1_lynxnpek3h0pf_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=k_lnXYBU" width="1600"/>
   </item>
  </channel>
 </rss>
