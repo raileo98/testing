@@ -21,11 +21,34 @@
    en
   </language>
   <lastBuildDate>
-   Thu, 18 Apr 2024 07:21:11 GMT
+   Thu, 18 Apr 2024 07:29:42 GMT
   </lastBuildDate>
   <ttl>
    5
   </ttl>
+  <item>
+   <title>
+    讓南沙太平島通訊效能增加3.9倍 中軌衛星系統是什麼？
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199253%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">為了解決南沙太平島長久以來通訊頻寬不足、對外通訊不便的困擾，數發部與所屬的電信技術中心合作，於島上開通SES中軌衛星訊號，並於16日啟用Wi-Fi與行動網路服務，讓島上的總傳輸頻寬可達25Mbps，通訊效能為之前的3.9倍。什麼是中軌衛星系統？</div>
+                                        <p>位於南沙群島的太平島是我國最南端的國土，由於與台灣本土相距約1600公里遠，導致島上無法鋪設海底電纜，僅能完全依靠衛星通訊對外聯絡。</p><p>而為強化我國通訊韌性，數發部自去（2023）年起推動為期2年的「非同步衛星應變網路驗證計畫」，建置由低軌衛星及中軌衛星組成的衛星應變網路。該計畫研擬的優先建置地點為台灣本島與離島重要節點或無異質備援通訊地區，太平島即為其中之一。</p><p>數發部從去年9月開始與海委會及中華電信等單位合作，於太平島進行SES mPower中軌衛星設備設置，並於今（2024）年4月正式開通衛星通訊服務。</p><p>而在中華電信以遠端方式開通基地台衛星傳輸鏈路，並完成相關測試後，16日正式啟用島上Wi-Fi與行動網路服務。經實測目前島上總傳輸頻寬可達25Mbps，通訊效能約為之前的3.9倍。</p><h2 id="zhong-xingshishen">中軌衛星是什麼？</h2><p>所謂的中軌衛星，指的就是以「中地球軌道」運行的人造衛星，軌道高度通常在5000至2萬公里，介於低地球軌道（距地表2000公里以下）和地球同步軌道（距地表約3.6萬公里）之間，一般最常見應用於GPS等衛星導航系統上。</p><p>中軌衛星與近年熱門的低軌衛星同樣屬於非同步軌道衛星，根據本次太平島上所使用的<a href="https://www.ses.com/power-medium-earth-orbit-meo-satellites">SES系統官網指出</a>，中軌衛星因軌道高度較高、可覆蓋的地表範圍較廣，因此僅需6顆衛星即可將訊號範圍擴及全球，不像低軌衛星動輒須上千顆才可提供全球性服務；在衛星的切換頻率上則是每小時切換一次，也比低軌衛星的每10分鐘切換一次更低。</p><figure class="table"><table><tbody><tr><td colspan="4">3種不同軌道衛星差異比較</td></tr><tr><td> </td><td>低軌衛星</td><td>中軌衛星</td><td>地球同步軌道衛星</td></tr><tr><td>覆蓋全球範圍需要的衛星數量</td><td>上千顆</td><td>6</td><td>3</td></tr><tr><td>資料傳輸速率</td><td>最高</td><td>高</td><td>低</td></tr><tr><td>資料傳輸延遲率</td><td>最低</td><td>低</td><td>高</td></tr><tr><td>衛星切換頻率</td><td>10分鐘</td><td>1小時</td><td>不須切換</td></tr><tr><td>地面接收站</td><td>所需數量較多、規模較小、成本較低</td><td>可使用行動接收站</td><td>所需硬體設施最簡單</td></tr></tbody></table></figure><h2 id="feitongbu-dao-xingdegongneng-he">非同步軌道衛星的功能為何？</h2><p>繞著地球運行的眾多人造衛星中，其中有些是以和地球自轉相同的速度在軌道上運行，從地面上看起來就像是永遠靜止在同一點上空，這種衛星就稱為地球同步軌道衛星，其他衛星的則被稱為非同步軌道衛星。</p><p>根據<a href="https://moda.gov.tw/press/clarification/2788">數發部官網</a>，非同步軌道衛星可以確保在遭遇戰爭或天災等緊急狀況時，仍然能保有高品質的通訊系統，因此在通訊網路應變韌性前瞻計畫中，即規劃以概念驗證（PoC）方式建置由低、中軌衛星組成的衛星應變網路，也就是「非同步衛星應變網路驗證計畫」。</p><ul><li><a href="https://news.pts.org.tw/projects/taiwan-submarine-cable/">水面下的台海危機？海底電纜：中國灰色地帶戰略新章</a></li></ul><p>數發部表示，該計畫將在全台建置700個終端設備站點、70個基地台衛星後傳鏈路站點，另外還將在海外設置3處終端設備站點，預計於今年年底前全面架設完成。</p><p>而在7百多個站點中，首階段16個地點的其中9處屬於中軌衛星系統，位在台灣本島的7處和馬祖的1處先前皆已開通，此次太平島是補上系統中的最後一塊拼圖。</p><ul><li><a href="https://news.pts.org.tw/article/649506">英OneWeb衛星訊號 年底可望覆蓋全台</a></li></ul><figure class="image"><img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Flh7-us.googleusercontent.com%2FZu5HWvg23jbQxNI2MZ2CLdRa7xuCzQ0xvrYHhhGw69s4NvK-uOD7ErwWusXI2DVRzQ8-PpPud5GHg7U9hPMdVKFnnSZiqvqx10GXgssFrEj3gchCprJO_arTwjsQNKkTIwkTNYqu4XcoNi57290J484" referrerpolicy="no-referrer"><figcaption>（圖／取自數發部臉書）</figcaption></figure><p>除了中軌衛星以外，此次花蓮震災時投入救災通訊使用的低軌衛星，也是在同一計畫下進行建置，數發部也為此首度出動應變網路行動車前往花蓮，藉由連接非同步軌道衛星，提供救難人員通訊與災民緊急聯繫使用。</p><ul><li><a href="https://news.pts.org.tw/article/689316">低軌衛星進駐花蓮斷訊災區 衛星訊號如何克服地形支援通訊？</a></li></ul><h2 id="taiping-shangshiyongdeses-mpowershishen-xi">太平島上使用的SES mPower是什麼系統？</h2><figure class="image"><img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Flh7-us.googleusercontent.com%2FL9bo0j4OMUeZ6YAUeq25WpxDwMfnnbEAJKuH07nF-gCFo-lqYonZAGuKATwfmDPhWXscvEy0irbzjuPl3xXBTj7crm0Dz2zV-WvlpPTl4Pkd4MJQkI0Q80K6ESt5GkyhqslpKDg5QdagkrzR5cmA1xU" referrerpolicy="no-referrer"><figcaption>（圖／取自管碧玲臉書）</figcaption></figure><p>SES是來自盧森堡的衛星通訊公司，主要提供中軌道衛星跟同步軌道衛星服務，此次太平島上設置的mPower系統就是其4月剛開通的第2代衛星通訊服務。</p><p>根據SES公司官網表示，包含微軟的雲端服務平台Azure、公主郵輪等皆是其客戶，另外也跟電信業者合作，在庫克群島等南太平洋島國提供4G以上的網路服務。</p><p>目前台灣在中、低軌衛星的使用上，主要合作廠商除了SES外，還有提供低軌衛星訊號的英國One Web公司，未來可能也還會再有其他公司加入合作。</p><p>國防院助理研究員許智翔指出，透過不同的衛星訊號組成混合軌道的系統，對於強化通訊韌性上是有幫助的。</p><p>在改善太平島上的通訊問題後，海委會主委管碧玲表示，下一個改善目標將會是同樣位在南海的東沙島。</p>
+                 ]]>
+   </description>
+   <link>
+    https://news.pts.org.tw/article/690971
+   </link>
+   <guid isPermaLink="false">
+    https://news.pts.org.tw/article/690971
+   </guid>
+   <pubDate>
+    Thu, 18 Apr 2024 07:15:00 GMT
+   </pubDate>
+   <author>
+    李彥穎
+   </author>
+  </item>
   <item>
    <title>
     為保護瀕危原生「鴞鸚鵡」 紐西蘭斥資千萬台幣追殺1隻白鼬
@@ -571,53 +594,6 @@
    </category>
    <category>
     桃園市產業總工會
-   </category>
-  </item>
-  <item>
-   <title>
-    國會改革黨團版本排審 綠批藍白聯手蓋牌
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199242%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">立法院司法及法制委員會15日初審通過國民黨團、民眾黨團提出的國會改革版本，民進黨團反擊，上午排審黨團的修法版本，藍委認為可併案協商，但民進黨團總召柯建銘批評，藍白聯手蓋牌，會在朝野協商否決民進黨團版本，趕在520前通過，目的要準總統賴清德赴立法院國情報，並即問即答。</div>
-                                        <p>攸關國會改革的立法院職權行使法修法，15日在國民黨團、民眾黨團握有優勢下，強勢初審通過藍白版本，全數條文保留直接送交朝野協商。</p><p>民進黨團反擊，民進黨立委鍾佳濱18日排審自家提案版本，以及國民黨呂玉玲、鄭天財、翁曉玲等人提案，不過國民黨林思銘提出併案協商，民進黨吳思瑤喊話，沒有任何法案該被丟包。</p><p>國民黨立委林思銘表示，「今天的議程，我認為在程序上沒有什麼正面效益，法案已經向前推了。」</p><p>民進黨立委吳思瑤說道，「我們還新增了2個章節名，所以連章節整個《職權行使法》的章節排序，這個法律秩序又大不相同。」</p><p>林思銘認為一事不二議，吳思瑤表示，國民黨版本只有14項條文，民進黨版本有多達24項，堅持逐條討論，而藍綠白三黨的國會改革法案各有差異，藍白提出立院聽證權、調查權，綠營則就特定議案行使調查權。</p><p>此外藍白要求總統國情報告，並即問即答，藍營還提案刑法藐視國會，民進黨團都反對，柯建銘直言藍白聯手蓋牌，目的就是為了趕在520前通過。</p><p>民進黨團總召柯建銘質疑，「陽謀很清楚，在520年以前要通過，要找賴清德總統來做國情報告、要即問即答、要書面報告，這可得嗎？這違憲了吧？」</p><p>國民黨立委羅智強表示，「說謊官員要罰，這是2016年民進黨版本裡面，可是我不懂為什麼2024年版本，特特別別把虛偽陳述拿掉。</p><p>立法院秘書長周萬來回應，「我們現行上並沒有對這方面有做規範。」</p><p>民眾黨團總召黃國昌提及，「民進黨心中他們在意的，從來就不是立法院要怎麼建立規矩，從來關心的就是我喜歡怎麼樣就怎麼樣。」</p><p>針對正副立法院長投票，藍白都支持記名投票，民進黨則是提出強化國會資通安全、完備黨團協商規範。</p>
-                 ]]>
-   </description>
-   <link>
-    https://news.pts.org.tw/article/690947
-   </link>
-   <guid isPermaLink="false">
-    https://news.pts.org.tw/article/690947
-   </guid>
-   <pubDate>
-    Thu, 18 Apr 2024 04:31:00 GMT
-   </pubDate>
-   <author>
-    黃子杰, 張梓嘉
-   </author>
-   <category>
-    版本
-   </category>
-   <category>
-    藍白
-   </category>
-   <category>
-    國會改革
-   </category>
-   <category>
-    民進黨立委
-   </category>
-   <category>
-    民進黨團
-   </category>
-   <category>
-    國民黨立委
-   </category>
-   <category>
-    林思銘
-   </category>
-   <category>
-    黨團總召
    </category>
   </item>
   <image>
