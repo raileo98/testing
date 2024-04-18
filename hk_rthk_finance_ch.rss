@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 11:30:42 +0800
+   Thu, 18 Apr 2024 11:50:17 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 11:26:58 +0800
+   Thu, 18 Apr 2024 11:41:46 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    內地股市半日轉升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749409-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749409-20240418.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市由跌轉升，家電、景點旅遊相關股份上升；油氣開採、貴金屬和電力股向下。
+
+上證綜合指數一度升穿3100點，高見3102點，半日收報3088點，升16點，升幅0.55%。
+
+深證成份指數報9449點，升67點，升幅0.72%。
+
+創業板指數突破1800點，半日收市報1805點，升8點，升幅0.45%。]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 11:41:46 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     工信部：工業經濟回升向好積極因素持續累積　發展空間大
@@ -431,29 +454,6 @@
    </description>
    <pubDate>
     Thu, 18 Apr 2024 08:05:35 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    紐約聯儲銀行：聯儲局或於明年結束縮表
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749370-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749370-20240418.htm
-   </link>
-   <description>
-    <![CDATA[紐約聯邦儲備銀行預計，美國聯儲局可能會在2025年停止縮表，視乎金融體系對銀行儲備的需求而定。
-
-根據紐約聯儲銀行在年度報告中預測的兩種情景，聯儲局可能在2025年年中或年初結束縮表，銀行準備金餘額將在2026年，降至2.5萬億或3萬億美元左右。
-
-在紐約聯儲報告中描述的「準備金較多」情景下，資產負債表規模將縮減至6.5萬億美元左右，而在「準備金較少」情景下，資產負債表規模將降至6萬億美元。
-
-聯儲局官員在上月的政策會議上開始討論放慢縮表，但會議未有作出任何決定。]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 07:30:46 +0800
    </pubDate>
   </item>
  </channel>
