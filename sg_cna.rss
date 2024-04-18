@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 13:36:22 +0800
+   Thu, 18 Apr 2024 13:42:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Champions League exit not the end of Arsenal's season, says Arteta
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/champions-league-exit-not-end-arsenals-season-says-arteta-4274546
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 13:35:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/champions-league-exit-not-end-arsenals-season-says-arteta-4274546
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qw3p5BaF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t053507z_1_lynxnpek3h056_rtroptp_3_soccer-champions-bay-ars-report.jpg?itok=jzgyTi3V" width="1600"/>
+  </item>
   <item>
    <title>
     In a rebel-held Myanmar town, fragile unity pushes junta to the brink
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oWgElaNL--/c_crop,h_450,w_800,x_0,y_74/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t033003z_1_lynxnpek3g02s_rtroptp_3_australia-crime-church.jpg?itok=kz1hCMj3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Trump, in shadow diplomacy, seeks to be anti-Biden
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/trump-shadow-diplomacy-seeks-be-anti-biden-4274086
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 10:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/trump-shadow-diplomacy-seeks-be-anti-biden-4274086
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---mTYm7B4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/cdb0f3909c9b92cebebff32f4122d8dc3b07b07c.jpg?itok=ZvwciqCZ" width="1600"/>
   </item>
  </channel>
 </rss>
