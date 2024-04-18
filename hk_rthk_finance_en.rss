@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 17:10:22 +0800
+   Thu, 18 Apr 2024 17:20:50 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 16:27:27 +0800
+   Thu, 18 Apr 2024 17:11:24 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Unemployment rate rises to 3 percent
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749468-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749468-20240418.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong's unemployment rate rose to 3 percent in three-month period ending in March, according to official figures released on Thursday. 
+
+That's a 0.1 percentage point increase compared with the December-to-February period. 
+
+Another 9,400 people became jobless during the first quarter of 2024, with officials noting that there were 111,700 unemployed persons in the three-month period ending in March. 
+
+Meanwhile, the underemployment rate edged up slightly to 1.1 percent. 
+
+In a statement, Secretary for Labour and Welfare, Chris Sun, said the unemployment rate was generally low despite the uptick. 
+
+"The unemployment rates of most sectors increased in January - March 2024 compared with the preceding three-month period, but stayed low in general," he said. 
+ 
+"As the economy continues to grow, the labour market will likely remain tight in the near term."]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 17:11:24 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks close higher
@@ -577,41 +606,6 @@ The Shanghai Composite Index lost 0.19 percent to 3,014, while the Shenzhen Comp
    </description>
    <pubDate>
     Mon, 15 Apr 2024 09:41:08 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    'Iran strikes to boost oil, but maybe not for long'
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748862-20240414.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748862-20240414.htm
-   </link>
-   <description>
-    <![CDATA[Iran's attack on Israel has injected fresh anxiety into oil markets already roiled by regional tensions, but analysts stress that it is unclear if a durable price spike is imminent.
-
-Saturday's overnight drone and missile barrage was Iran's first-ever direct assault on Israeli territory.
-
-Tehran says it was triggered by the April 1 air strike on its consulate building in the Syrian capital that was widely blamed on Israel.
-
-The Iranian mission to the United Nations warned on X of "considerably more severe" actions should Israel "make another mistake," raising the prospect of intensifying violence in the days ahead.
-
-Oil prices had already jumped in the build-up to the Iranian attack, with benchmark Brent North Sea Crude closing on Friday at US$90.45 per barrel.
-
-Prices are expected to climb further when markets reopen on Monday, perhaps as high as US$95 per barrel, though it is too soon to say whether they will stay elevated, said Kuwaiti oil expert Kamel al-Harami.
-
-"The picture is not clear about the future. We do not know if and how Israel will respond and whether Iran will also resort to stopping oil supplies as a response," he said.
-
-The Islamic republic was the world's seventh-largest crude producer in 2022, and has the third-largest proven oil reserves behind Venezuela and Saudi Arabia, according to the United States Energy Information Administration.
-
-Iran also has a range of ways to wreak havoc with markets, including disrupting maritime traffic through the Strait of Hormuz and pressuring countries such as Iraq to cut supply, Harami said.
-
-"There are several scenarios... The fear is that Iran will stop exporting oil or attack oil facilities," Harami said. (AFP)]]>
-   </description>
-   <pubDate>
-    Sun, 14 Apr 2024 23:20:03 +0800
    </pubDate>
   </item>
  </channel>
