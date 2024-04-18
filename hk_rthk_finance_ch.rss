@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 07:30:55 +0800
+   Fri, 19 Apr 2024 07:40:31 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 06:49:19 +0800
+   Fri, 19 Apr 2024 07:39:52 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    多名聯儲局官員認為不急於減息
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749549-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749549-20240419.htm
+   </link>
+   <description>
+    <![CDATA[多名聯儲局官員認為不急於減息，但對具體開始減息時間意見不一。
+
+紐約聯邦儲備銀行總裁威廉姆斯表示，聯儲局不急於減息，經濟數據將決定時機，今年甚至仍有可能加息。他表示，貨幣政策處於良好位置，目前的利率水平正逐步推動實現目標，因此完全不覺得有減息的迫切性。
+
+亞特蘭大聯儲銀行總裁博斯蒂克表示，減息應該等到臨近年底時。他仍信通脹率正在朝著聯儲局2%的目標前進，如果通脹不似預期，聯儲局需要考慮加息。
+
+明尼亞波利斯聯儲銀行總裁卡什卡利表示，聯儲局需對通脹回落更有信心之後才會減息，他希望保持耐性，第一次減息可能要到明年才會適。
+
+另外，摩根大通總裁平托表示，鑒於通脹水平居高不下，聯儲局今年可能不會減息。他指，聯儲局可能要等更長一段時間才會減息，但加息可能性非常低。他認為當局不會急於採取行動，因為太早減息可能導致經濟衰退。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 07:39:52 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股美國預託證券與本港收市比較個別發展
@@ -457,25 +482,6 @@ Netflix收市後公布業績，上季每股盈利5.28美元，收入升約15%至
    </description>
    <pubDate>
     Thu, 18 Apr 2024 18:32:04 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人民幣兌美元收市跌41點子
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749473-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749473-20240418.htm
-   </link>
-   <description>
-    <![CDATA[在岸人民幣兌美元收市報7.239元兌1美元，下跌41點子。中間價則微升，較市場預測偏離收窄至1260點子左右。
-
-有交易員說，近兩日美元回軟，但總體仍處於上行通道，人民幣缺乏關鍵利好因素，預計短期較難擺脫貶值壓力。]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 18:28:22 +0800
    </pubDate>
   </item>
  </channel>
