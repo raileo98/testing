@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 23:43:02 +0800
+   Thu, 18 Apr 2024 23:57:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Exclusive-Microsoft's OpenAI partnership could face EU antitrust probe, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-microsofts-openai-partnership-could-face-eu-antitrust-probe-sources-say-4275851
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 23:41:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-microsofts-openai-partnership-could-face-eu-antitrust-probe-sources-say-4275851
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6gcA4QJ9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t154630z_2_lynxnpek3h0oj_rtroptp_3_eu-microsoft-antitrust-openai.jpg?itok=fhXztZZ8" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Masks are for Zorro, says Juventus keeper Szczesny
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/masks-are-zorro-says-juventus-keeper-szczesny-4275856
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 23:41:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/masks-are-zorro-says-juventus-keeper-szczesny-4275856
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--b5rtNPeX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t154112z_1_lynxnpek3h0ok_rtroptp_3_soccer-italy-tor-juv-report.jpg?itok=c_1f3-BJ" width="1600"/>
+  </item>
   <item>
    <title>
     Wall St turns higher, gold climbs, oil dips amid economic, geopolitical crosswinds
@@ -415,48 +457,6 @@
     World ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kjdlH-24--/c_crop,h_576,w_1024,x_0,y_45/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/063_2147882865.jpg?itok=a4FxN25y" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bruised Arsenal seek healing win at Wolves to re-ignite title charge
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bruised-arsenal-seek-healing-win-wolves-re-ignite-title-charge-4275336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 19:56:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bruised-arsenal-seek-healing-win-wolves-re-ignite-title-charge-4275336
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    More university graduates in China turning to smaller cities for employment: Report
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-university-graduates-smaller-cities-employment-wages-shanghai-beijing-4275211
-   </link>
-   <description>
-    <![CDATA[Improved incomes, less pressure and keeping closer to family were among the reasons given by young Chinese for seeking employment farther afield.]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 19:34:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-university-graduates-smaller-cities-employment-wages-shanghai-beijing-4275211
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TWRLhOaG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/23/000_9cx6az.jpg?itok=8LR4Hs62" width="1600"/>
   </item>
  </channel>
 </rss>
