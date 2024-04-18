@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 19:29:52 +0800
+   Thu, 18 Apr 2024 19:39:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More university graduates in China turning to smaller cities for employment: Report
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-university-graduates-smaller-cities-employment-wages-shanghai-beijing-4275211
+   </link>
+   <description>
+    <![CDATA[Improved incomes, less pressure and keeping closer to family were among the reasons given by young Chinese for seeking employment farther afield.]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 19:34:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-university-graduates-smaller-cities-employment-wages-shanghai-beijing-4275211
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TWRLhOaG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/23/000_9cx6az.jpg?itok=8LR4Hs62" width="1600"/>
+  </item>
   <item>
    <title>
     FA Cup replays to be scrapped from 2024-25 season
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Rmlm4e05--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t090605z_1_lynxnpek3h0bi_rtroptp_3_soccer-champions-bay-ars-report.jpg?itok=rMxc6vP9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    From Jakarta to Nusantara: Indonesia’s new capital set to welcome first batch of over 10,000 civil servants
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-jakarta-nusantara-new-capital-welcome-civil-servants-first-batch-4274856
-   </link>
-   <description>
-    <![CDATA[Official apartment units will be provided, with special allowances also in store for the pioneer batch. The government will bear the cost of flights and packing goods as well.]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 16:51:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-jakarta-nusantara-new-capital-welcome-civil-servants-first-batch-4274856
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_1rvhQtd--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/28/New%20capital%20Nusantara.jpg?itok=itKxYgCl" width="1600"/>
   </item>
  </channel>
 </rss>
