@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 04:30:37 +0800
+   Fri, 19 Apr 2024 05:10:03 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 23:37:15 +0800
+   Fri, 19 Apr 2024 05:09:05 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    歐股收市上升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749540-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749540-20240419.htm
+   </link>
+   <description>
+    <![CDATA[歐洲主要股市收市上升。
+
+德國DAX指數收市報17837點，升67點，升幅約0.4%。
+
+法國CAC指數收市報8023點，升41點，升幅0.5%。
+
+英國富時100指數收市報7877點，升29點，升幅約0.4%。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 05:09:05 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     新一期綠置居暫收4.9萬份申請
@@ -453,27 +476,6 @@
    </description>
    <pubDate>
     Thu, 18 Apr 2024 18:04:38 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    DHL：香港第2季空運前景改善
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749475-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749475-20240418.htm
-   </link>
-   <description>
-    <![CDATA[國際物流服務商DHL發布的調查結果顯示，今年第2季香港整體空運指數錄得適度改善，入口及出口/轉口指數都上升。紅海事件令大約40%用家在第1季將貨運由船運轉為空運，預計今季情況相若。
-
-DHL委託生產力促進局進行的空運貿易指數調查顯示，亞太地區、歐洲及美洲指數在第2季回升，尤其是銷售量，而亞太地區指數在一眾市場中排名最高。
-
-調查又發現，願意參與減少碳排放的受訪空運用家持續增長，本季上升至77%。當中逾90%受訪者願意分配最多10%物流成本以達致目標。]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 17:56:49 +0800
    </pubDate>
   </item>
  </channel>
