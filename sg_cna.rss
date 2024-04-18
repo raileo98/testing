@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 18:54:36 +0800
+   Thu, 18 Apr 2024 19:14:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    FA Cup replays to be scrapped from 2024-25 season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fa-cup-replays-be-scrapped-2024-25-season-4275201
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 18:55:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fa-cup-replays-be-scrapped-2024-25-season-4275201
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P_IgAtz9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t105543z_1_lynxnpek3h0fl_rtroptp_3_soccer-england-facup.jpg?itok=2b3eV3gb" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Google terminates 28 employees for protest of Israeli cloud contract
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/google-terminates-28-employees-protest-israeli-cloud-contract-4275196
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 18:54:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/google-terminates-28-employees-protest-israeli-cloud-contract-4275196
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9IhrkDys--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t105421z_1_lynxnpek3h0fi_rtroptp_3_el-salvador-google.jpg?itok=dnFkjHS_" width="1600"/>
+  </item>
   <item>
    <title>
     Human cases of bird flu 'an enormous concern': WHO
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_1rvhQtd--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/28/New%20capital%20Nusantara.jpg?itok=itKxYgCl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Start-ups behind sustainable aviation fuel and cricket snacks win S$1m in funding each
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/cricket-insect-snacks-food-sustainable-aviation-fuel-start-ups-winners-liveability-challenge-4274816
-   </link>
-   <description>
-    <![CDATA[Cricket One, a Vietnamese food technology start-up, and clean aviation fuels venture GAFT from the Netherlands were the top winners of The Liveability Challenge 2024.]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 16:46:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/cricket-insect-snacks-food-sustainable-aviation-fuel-start-ups-winners-liveability-challenge-4274816
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_hdgsNQZ--/c_crop,h_724,w_1287,x_142,y_87/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/screenshot_2024-04-18_155917.png?itok=47z0i9x9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    England's Archer desperate to avoid another stop-start year
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/englands-archer-desperate-avoid-another-stop-start-year-4274861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 16:41:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/englands-archer-desperate-avoid-another-stop-start-year-4274861
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Nio4gI0B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t084155z_1_lynxnpek3h0a5_rtroptp_3_cricket-worldcup-eng-zaf-preview.jpg?itok=B8g0JH9i" width="1600"/>
   </item>
  </channel>
 </rss>
