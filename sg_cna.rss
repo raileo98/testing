@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 15:52:47 +0800
+   Thu, 18 Apr 2024 16:27:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Binance obtains Dubai licence to target retail clients
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/binance-obtains-dubai-licence-target-retail-clients-4274806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 16:21:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/binance-obtains-dubai-licence-target-retail-clients-4274806
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kThaEf0m--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t082149z_1_lynxnpek3h09q_rtroptp_3_eu-cryptocurrency-regulator.jpg?itok=ZtD0-K3y" width="1600"/>
+  </item>
+  <item>
+   <title>
+    De Rossi to continue as Roma manager
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/de-rossi-continue-roma-manager-4274771
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 15:55:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/de-rossi-continue-roma-manager-4274771
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wziym4wk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t075550z_1_lynxnpek3h094_rtroptp_3_soccer-europa-mil-rom-report.jpg?itok=IGxcMLRy" width="1600"/>
+  </item>
   <item>
    <title>
     China's Wang Yi meets Jokowi, Indonesian president-elect Prabowo
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mAehpk5s--/c_crop,h_413,w_734,x_0,y_401/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/img_1532.png?itok=Ns14flos" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taiwan's TSMC posts 9% profit rise in Q1
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tsmc-profit-rises-9-cent-first-quarter-2024-4274551
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 13:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tsmc-profit-rises-9-cent-first-quarter-2024-4274551
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WeF78Bmb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t053958z_1_lynxnpek3h05a_rtroptp_3_tsmc-results.jpg?itok=VxeQPp0B" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Champions League exit not the end of Arsenal's season, says Arteta
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/champions-league-exit-not-end-arsenals-season-says-arteta-4274546
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 13:35:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/champions-league-exit-not-end-arsenals-season-says-arteta-4274546
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qw3p5BaF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t053507z_1_lynxnpek3h056_rtroptp_3_soccer-champions-bay-ars-report.jpg?itok=jzgyTi3V" width="1600"/>
   </item>
  </channel>
 </rss>
