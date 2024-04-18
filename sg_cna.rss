@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 00:28:06 +0800
+   Fri, 19 Apr 2024 00:36:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Breast cancer survivor to run London marathon topless to help erase mastectomy stigma
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/breast-cancer-survivor-run-london-marathon-topless-help-erase-mastectomy-stigma-4275966
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 00:27:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/breast-cancer-survivor-run-london-marathon-topless-help-erase-mastectomy-stigma-4275966
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vmmY1gxO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t162756z_1_lynxnpek3h0pz_rtroptp_3_athletcis-london-marathon.jpg?itok=tyzuwB3L" width="1600"/>
+  </item>
   <item>
    <title>
     Meta releases early versions of its Llama 3 AI model
@@ -436,27 +457,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Whistleblowers slam Boeing's safety culture at US Senate hearing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/boeing-safety-whistleblowers-us-senate-hearings-4275326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 19:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/boeing-safety-whistleblowers-us-senate-hearings-4275326
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kjdlH-24--/c_crop,h_576,w_1024,x_0,y_45/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/063_2147882865.jpg?itok=a4FxN25y" width="1600"/>
   </item>
  </channel>
 </rss>
