@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 16:37:04 +0800
+   Thu, 18 Apr 2024 16:45:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    England's Archer desperate to avoid another stop-start year
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/englands-archer-desperate-avoid-another-stop-start-year-4274861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 16:41:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/englands-archer-desperate-avoid-another-stop-start-year-4274861
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Nio4gI0B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t084155z_1_lynxnpek3h0a5_rtroptp_3_cricket-worldcup-eng-zaf-preview.jpg?itok=B8g0JH9i" width="1600"/>
+  </item>
   <item>
    <title>
     Foreigners remain buyers of Japanese stocks in week to April 12
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BaVKOiSp--/c_crop,h_900,w_1600,x_0,y_176/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/taylorswift.jpg?itok=8q2CZ4bu" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ann Kok: What were the 5 roles that defined her acting career?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/ann-kok-star-awards-all-time-favourite-artiste-trophy-4274321
-   </link>
-   <description>
-    <![CDATA[The actress, who ascends the All-Time Favourite Artiste altar this Sunday (Apr 21) at the Star Awards, talks to 8days about her most iconic roles from her past three decades in showbusiness. ]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 13:46:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/ann-kok-star-awards-all-time-favourite-artiste-trophy-4274321
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mAehpk5s--/c_crop,h_413,w_734,x_0,y_401/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/img_1532.png?itok=Ns14flos" width="1600"/>
   </item>
  </channel>
 </rss>
