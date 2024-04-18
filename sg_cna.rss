@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 10:32:33 +0800
+   Thu, 18 Apr 2024 10:42:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Stabbed Sydney Assyrian bishop says recovering quickly, forgives attacker
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/australia-sydney-assyrian-bishop-stabbing-church-attacker-4273961
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 10:32:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/australia-sydney-assyrian-bishop-stabbing-church-attacker-4273961
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oWgElaNL--/c_crop,h_450,w_800,x_0,y_74/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-17t033003z_1_lynxnpek3g02s_rtroptp_3_australia-crime-church.jpg?itok=kz1hCMj3" width="1600"/>
+  </item>
+  <item>
+   <title>
     Trump, in shadow diplomacy, seeks to be anti-Biden
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 18 Apr 2024 10:26:28 +0800
+    Thu, 18 Apr 2024 10:26:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/trump-shadow-diplomacy-seeks-be-anti-biden-4274086
@@ -438,27 +459,6 @@
     Advertorial
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TeQqKWWW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/03/btudio_dell_women_lead.jpg?itok=2Cqhl2L-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oracle to invest over $8 billion in Japan in cloud computing, AI
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oracle-invest-over-8-billion-japan-cloud-computing-ai-4274031
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 09:14:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oracle-invest-over-8-billion-japan-cloud-computing-ai-4274031
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fLmyTKli--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t011437z_1_lynxnpek3h00y_rtroptp_3_global-tax.jpg?itok=iT9jTc3q" width="1600"/>
   </item>
  </channel>
 </rss>
