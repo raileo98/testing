@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 21:55:39 +0800
+   Thu, 18 Apr 2024 22:23:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US, UK unveil sweeping sanctions on Iran in response to its attack on Israel
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-uk-unveil-sweeping-sanctions-iran-after-attack-israel-4275611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 22:15:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-uk-unveil-sweeping-sanctions-iran-after-attack-israel-4275611
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fDauPIdt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-15t080421z_1_lynxnpek3e06y_rtroptp_3_israel-palestinians-iran.jpg?itok=rXTywOLX" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Mediacorp wins 19 awards at New York Festivals TV &amp; Film Awards 2024, including five golds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/mediacorp-new-york-festivals-tv-film-awards-2024-cna-documentary-programmes-4275436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 21:57:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/mediacorp-new-york-festivals-tv-film-awards-2024-cna-documentary-programmes-4275436
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jRZRls5o--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/mediacorp_nyf_awards_comp.jpg?itok=zTs_D9KK" width="1600"/>
+  </item>
   <item>
    <title>
     Jail terms sought for accused in US$1.8 billion 1MDB fund fraud
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--leOoksDk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a300e77e1b52ee79ac7584bd725077e74a2dcebe.jpg?itok=la5l6wMm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China and ASEAN need to work together on Myanmar crisis: Observers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/myanmar-conflict-crisis-china-asean-mediation-4275096
-   </link>
-   <description>
-    <![CDATA[Beijing, for its efforts, has been unable to hold Myanmar’s military or armed groups to a ceasefire brokered in January.]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 18:34:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/myanmar-conflict-crisis-china-asean-mediation-4275096
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TAd75qqf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-11t144116z_1_lynxnpek3a0od_rtroptp_3_thailand-myanmar-border.jpg?itok=RN0qlU6v" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Leclerc says Ferrari will be closer to dominant Red Bull in Shanghai
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/leclerc-says-ferrari-will-be-closer-dominant-red-bull-shanghai-4274746
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 18:33:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/leclerc-says-ferrari-will-be-closer-dominant-red-bull-shanghai-4274746
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sqLIG2_B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/2896c1bc4074d62220bf45898ce6a83e5e42d3fb.jpg?itok=TFsYWDmQ" width="1600"/>
   </item>
  </channel>
 </rss>
