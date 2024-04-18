@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 05:36:20 +0800
+   Fri, 19 Apr 2024 05:44:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US stops UN from recognising a Palestinian state through membership
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-vetoes-palestine-membership-un-security-council-4276636
+   </link>
+   <description>
+    <![CDATA[The veto - cast by the United States at the UN Security Council - denies the Palestinian Authority full membership of the world body.]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 05:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-vetoes-palestine-membership-un-security-council-4276636
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MOlsNdUR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/436f972356407c242a2c1423d108e8d0d2d5a5c0.jpg?itok=kZD0kJVH" width="1600"/>
+  </item>
   <item>
    <title>
     Ten-man Roma beat Milan to set up Europa League semi-final with Leverkusen
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m1FwA-Pw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d7526dc87a94b0822953c25ff8d01d9334f0f35b.jpg?itok=3K07dEHJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US power, tech companies lament snags in meeting AI energy needs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-power-tech-companies-lament-snags-meeting-ai-energy-needs-4276061
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 00:54:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-power-tech-companies-lament-snags-meeting-ai-energy-needs-4276061
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MiVFvpT7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t211956z_2_lynxnpek3h0qt_rtroptp_3_usa-power-datacenters.jpg?itok=xpaEQXKz" width="1600"/>
   </item>
  </channel>
 </rss>
