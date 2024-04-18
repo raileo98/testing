@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 01:47:29 +0800
+   Fri, 19 Apr 2024 02:23:59 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    UN chief warns Mideast on brink of 'full-scale regional conflict'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/un-chief-warns-mideast-brink-full-scale-regional-conflict-4275721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 02:22:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/un-chief-warns-mideast-brink-full-scale-regional-conflict-4275721
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aZYohIE0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0b61897caf52c3d1a83108aa16c0ec251ff2359e.jpg?itok=LPWdQ2QK" width="1600"/>
+  </item>
   <item>
    <title>
     The Paris Olympics menu: more French, more local, less meat
@@ -436,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_dVzojzn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t132940z_2_lynxnpek3h0jv_rtroptp_3_soccer-saudi-alh-ana-report.jpg?itok=xDe0Go6B" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tata plans Jaguar Land Rover EV imports to India under new policy, sources say
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tata-plans-jaguar-land-rover-ev-imports-india-under-new-policy-sources-say-4275531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 21:24:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tata-plans-jaguar-land-rover-ev-imports-india-under-new-policy-sources-say-4275531
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uj37dSs---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t132435z_1_lynxnpek3h0js_rtroptp_3_tata-motors-india-electric-vehicle.jpg?itok=Ryn3tyLj" width="1600"/>
   </item>
  </channel>
 </rss>
