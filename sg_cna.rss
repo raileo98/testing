@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 01:36:24 +0800
+   Fri, 19 Apr 2024 01:47:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -123,6 +123,27 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vmmY1gxO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t162756z_1_lynxnpek3h0pz_rtroptp_3_athletcis-london-marathon.jpg?itok=tyzuwB3L" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Exclusive-Bentley Systems explores options amid takeover interest, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-bentley-systems-explores-options-amid-takeover-interest-sources-say-4275891
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 00:07:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-bentley-systems-explores-options-amid-takeover-interest-sources-say-4275891
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -436,27 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uj37dSs---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t132435z_1_lynxnpek3h0js_rtroptp_3_tata-motors-india-electric-vehicle.jpg?itok=Ryn3tyLj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Data could help solve ACL crisis in women's game, says software firm
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/data-could-help-solve-acl-crisis-womens-game-says-software-firm-4275481
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 21:05:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/data-could-help-solve-acl-crisis-womens-game-says-software-firm-4275481
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ya2fRJJc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t151604z_1_lynxnpek3h0nj_rtroptp_3_soccer-women-health.jpg?itok=AEhB5v3H" width="1600"/>
   </item>
  </channel>
 </rss>
