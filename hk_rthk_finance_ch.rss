@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 18 Apr 2024 18:20:34 +0800
+   Thu, 18 Apr 2024 18:31:01 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 18 Apr 2024 18:17:54 +0800
+   Thu, 18 Apr 2024 18:28:22 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    人民幣兌美元收市跌41點子
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749473-20240418.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749473-20240418.htm
+   </link>
+   <description>
+    <![CDATA[在岸人民幣兌美元收市報7.239元兌1美元，下跌41點子。中間價則微升，較市場預測偏離收窄至1260點子左右。
+
+有交易員說，近兩日美元回軟，但總體仍處於上行通道，人民幣缺乏關鍵利好因素，預計短期較難擺脫貶值壓力。]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 18:28:22 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     銀行公會：撤辣後按揭申請倍增　審批時間延長可以理解
@@ -479,25 +498,6 @@ DHL委託生產力促進局進行的空運貿易指數調查顯示，亞太地�
    </description>
    <pubDate>
     Thu, 18 Apr 2024 15:07:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股高收0.31%　重上38000點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749433-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749433-20240418.htm
-   </link>
-   <description>
-    <![CDATA[日股低開高走，重上38000點。
-
-日經指數收報38079點，升117點，升幅0.31%，結束3日跌勢。]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 14:43:35 +0800
    </pubDate>
   </item>
  </channel>
