@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 18 Apr 2024 23:36:06 +0800
+   Thu, 18 Apr 2024 23:43:02 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Wall St turns higher, gold climbs, oil dips amid economic, geopolitical crosswinds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/wall-st-turns-higher-gold-climbs-oil-dips-amid-economic-geopolitical-crosswinds-4274171
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 18 Apr 2024 23:34:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/wall-st-turns-higher-gold-climbs-oil-dips-amid-economic-geopolitical-crosswinds-4274171
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GgZCFtZ9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t094831z_1_lynxnpek3h0dg_rtroptp_3_global-banks-credit-suisse.jpg?itok=Y9VQOpbT" width="1600"/>
+  </item>
   <item>
    <title>
     Seeking edge over rivals, Intel first to assemble ASML's next-gen chip tool
@@ -436,27 +457,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TWRLhOaG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/23/000_9cx6az.jpg?itok=8LR4Hs62" width="1600"/>
-  </item>
-  <item>
-   <title>
-    FA Cup replays to be scrapped from 2024-25 season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fa-cup-replays-be-scrapped-2024-25-season-4275201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 18:55:43 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fa-cup-replays-be-scrapped-2024-25-season-4275201
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P_IgAtz9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t105543z_1_lynxnpek3h0fl_rtroptp_3_soccer-england-facup.jpg?itok=2b3eV3gb" width="1600"/>
   </item>
  </channel>
 </rss>
