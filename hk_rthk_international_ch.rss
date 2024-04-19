@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 22:50:13 +0800
+   Fri, 19 Apr 2024 23:30:28 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 21:26:35 +0800
+   Fri, 19 Apr 2024 23:17:04 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    菲律賓證實3名菲籍工人在阿聯酋暴雨中喪生
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749687-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749687-20240419.htm
+   </link>
+   <description>
+    <![CDATA[阿聯酋日前暴雨成災，菲律賓政府證實，有3名菲籍工人喪生，令這場洪災導致的死亡人數增至最少4人。
+
+菲律賓移工部門表示，迪拜有兩名女子在車內遇到洪水，最終窒息而死，沙迦就有一名男子的汽車墮坑，重傷不治。
+
+迪拜國際機場的運作仍未恢復正常，機場發言人表示，需要暫時限制入境航班數量至星期日中午，出發航班不受影響。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 23:17:04 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     布林肯：美國沒參與襲擊伊朗　中方反對導致局勢緊張升級行為
@@ -459,27 +480,6 @@
    </description>
    <pubDate>
     Fri, 19 Apr 2024 06:30:16 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    阿聯酋仍受暴雨引致水浸影響　迪拜國際機場運作連續三天受阻
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749541-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749541-20240419.htm
-   </link>
-   <description>
-    <![CDATA[阿聯酋日前出現75年來最強的暴雨後，多處街道仍然水浸，迪拜國際機場運作連續三天受嚴重影響。
-
-阿聯酋航空和迪拜航空星期四已開始恢復辧理登機服務，但機場當局表示，需要多24小時才能將航班升降回復至平時水平。
-
-受暴雨影響，迪拜國際機場在星期二和星期三，合共取消1244個航班升降，另有41個航班需要轉飛其他機場。連接迪拜和阿布扎比的主要道路由於仍然水浸，交通陷入癱瘓。緊急救援人員正努力清理積水。當局已開始評估水災對住宅和商業造成的損失。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 05:08:51 +0800
    </pubDate>
   </item>
  </channel>
