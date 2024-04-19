@@ -18,7 +18,7 @@ feeds = {
     'tw_rti': 'https://www.rti.org.tw/rss',
     'tw_twreporter': 'https://www.twreporter.org/a/rss2.xml',
     'tw_twreporter.morss': 'https://morss.it/https://www.twreporter.org/a/rss2.xml',
-    'tw_twreporter.RSSHub': 'https://localhost:1200/twreporter/newest',
+    'tw_twreporter.RSSHub': 'http://localhost:1200/twreporter/newest',
     'sg_8world': 'http://localhost:1200/8world',
     'sg_cna': 'https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml',
     'jp_nhk_zt': 'http://localhost:1200/nhk/news/zt',
