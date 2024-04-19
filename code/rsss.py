@@ -29,8 +29,9 @@ feeds = {
     'hk_rthk_international_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_einternational.xml',
     'hk_rthk_finance_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_efinance.xml',
     'hk_rthk_sport_en': 'https://rthk.hk/rthk/news/rss/e_expressnews_esport.xml',
+    # 'hk_u-beat': 'https://ubeat.com.cuhk.edu.hk/feed/',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
-    'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
+    # 'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
 }
 
