@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 07:50:34 +0800
+   Fri, 19 Apr 2024 10:01:48 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 05:33:03 +0800
+   Fri, 19 Apr 2024 09:56:50 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks open with losses
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749566-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749566-20240419.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks sank at the open on Friday morning as traders fret over the rumbling crisis in the Middle East and the prospect that the Federal Reserve will not cut interest rates as much as hoped this year.
+
+The Hang Seng Index fell 0.8 percent, or 139 points, to 16,246.
+
+The Shanghai Composite Index retreated 0.4 percent, or 13 points to 3,060, while the Shenzhen Composite Index lost 0.5 percent, or 10 points to 1,688. (AFP)]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 09:56:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     L'Oreal cautious on China despite sales growth
@@ -593,27 +614,6 @@ It's the 13th time since 2010 that the airport has been named the busiest cargo 
    </description>
    <pubDate>
     Mon, 15 Apr 2024 21:28:18 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks close down after Iran attacks Israel
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1748970-20240415.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1748970-20240415.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares fell on Monday in line with the rest of Asia after Iran's weekend attack on Israel fanned fresh fears of a major conflict in the Middle East.
-
-The Hang Seng Index sank 0.7 percent, or 121 points, to 16,600.
-
-The Shanghai Composite Index rose 1.3 percent, or 37 points, to end at 3,057, while the Shenzhen Composite Index slipped 0.3 percent, or 5 points, to 1,702. (AFP)]]>
-   </description>
-   <pubDate>
-    Mon, 15 Apr 2024 16:22:44 +0800
    </pubDate>
   </item>
  </channel>
