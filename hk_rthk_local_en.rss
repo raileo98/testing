@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 20:50:20 +0800
+   Fri, 19 Apr 2024 21:20:32 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 20:22:09 +0800
+   Fri, 19 Apr 2024 21:19:37 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Insufficient load test led to DC poll glitch: EAC
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749677-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749677-20240419.htm
+   </link>
+   <description>
+    <![CDATA[A technical team behind the electronic poll register system, which failed during December's District Council polls, did not conduct sufficient load test on the programme, the Electoral Affairs Commission (EAC) concluded on Friday. 
+
+In a report on the citywide polls, the watchdog also recommended the Registration and Electoral Office to identify experts in fixing the system's issues and run simulations of a large-scale election regularly. 
+
+Last year, the glitch led to authorities extending voting hours by one and a half hours, and polling stations switching to printed copies of the voter register to issue ballot papers.
+
+The report noted that design issues of the electronic poll register system caused the central processing unit to overload and unnecessarily tied up a substantial amount of resources in the server when electoral staff tried to log in to the programme. 
+
+"When altering the system design, the [Registration and Electoral Office's] technical team did not fully consider the cumulative effect and impacts on loading that might be induced to the system during actual operation, and therefore did not conduct sufficient and comprehensive load test," the report said. 
+
+The commission said the electoral office should identify suitable experts to rectify design issues and conduct "adequate, comprehensive and stringent tests", while running simulated large-scale elections on a regular basis.
+
+"The [Registration and Electoral Office] should learn a lesson from this system failure, and actively implement the above recommendations to prevent the recurrence of similar incidents in future," it said. 
+
+"As to whether any individual officers should be held responsible for the incident, it will be followed up by the administration according to the established procedures."]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 21:19:37 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     'Beijing officials approve of Law Society's work'
@@ -637,49 +668,6 @@ The hearing was set to continue on Monday.]]>
    </description>
    <pubDate>
     Thu, 18 Apr 2024 15:55:03 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HA says mainland nurses doing well in SAR hospitals
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749436-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749436-20240418.htm
-   </link>
-   <description>
-    <![CDATA[The Hospital Authority (HA) on Thursday said the second batch of mainland nurses participating in an exchange programme were integrating well into their new work environments, with some already carrying out tasks under supervision.
-
-The 100 Guangdong nurses participating in the GBA Specialty Nursing Knowledge-Exchange Programme are spending 10.5 months until next January, working in various departments at public hospitals. 
-
-The programme's first phase concluded in February with 70 participants and a focus on elderly care.
-
-This phase sees the nurses deployed in more specialist wards, including cardiac intensive care, ophthalmology, endoscopy, perioperative care, and intensive care units (ICU). 
-
-Danny Tong, the HA's chief manager of nursing, praised the nurses’ performance and adaptation to their new work environment, saying some, like those in ICU, had already started working alongside their local peers instead of just observing. 
- 
-He also explained they are required to be supervised one-on-one throughout the scheme, but hoped they would still gain meaningful work experience. 
-
-“We have to find a sweet spot in how to facilitate, even though the Nurse Registration Ordinance has not been reviewed, and according to the legal framework, they have to be working under supervision,” he said. 
-
-"Actually, there's lots of methods they can [still use to] exercise their expert knowledge." 
-
-He said the HA had arranged nurses from the first batch to mentor the newcomers. 
-
-Tong also noted there’s a glossary of medical terms in both Chinese and English to help with their understanding of the Hong Kong-specific terminology.
-
-Sampson Chan, a local ICU nurse, agreed that there were some initial language barriers, but he praised the mainland nurses for their positive attitude and a strong desire to learn.
-
-He shared an example of mainland nurses staying after work to observe a special procedure involving repositioning a ventilated patient.
-
-“On that day, they [the mainland nurses] are almost off duty, but the patient requires this procedure and they're eager to learn. They stay behind and then they talk with us and then they learn how to turn a patient from the supine position to a prone position with the ventilator. This really impresses me about their attitude and ability,” he said. 
-
-The HA said about 130 Guangdong nurses would participate in the third phase of the scheme. The authority added it plans to discuss with its Guangdong counterparts about sending local nurses to mainland hospitals to learn about rare cases not commonly seen in Hong Kong.]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 15:19:13 +0800
    </pubDate>
   </item>
  </channel>
