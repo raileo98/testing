@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 10:01:52 +0800
+   Fri, 19 Apr 2024 10:30:44 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 09:45:56 +0800
+   Fri, 19 Apr 2024 10:28:56 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    以色列據報向伊朗發射導彈　伊朗停飛德黑蘭等地航班
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749572-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749572-20240419.htm
+   </link>
+   <description>
+    <![CDATA[美國傳媒引述美國一名官員報道，以色列導彈擊中伊朗境內一處地點。
+
+伊朗法爾斯通訊社報道，伊斯法罕機場和謝卡里空軍基地附近聽到爆炸聲。伊朗航空部門宣布暫時停飛德黑蘭、伊斯法罕機場的航班。
+
+以色列傳媒報道，伊朗伊斯法罕地區、敘利亞南部蘇韋達省、伊拉克巴格達地區和巴比倫省傳出爆炸聲。
+
+伊朗日前向以色列發射導彈和無人機襲擊，報復駐敘利亞大使館館舍遇襲，以軍說，九成九的導彈和無人機被攔截。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 10:28:56 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     《環看天下》：中東海灣地區暴雨成災　阿聯酋否認人工降雨肇禍
@@ -455,27 +478,6 @@
    </description>
    <pubDate>
     Thu, 18 Apr 2024 19:31:51 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    回應美日菲峰會聲明關切南海　外交部：絕不接受對中國無端指責
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749478-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749478-20240418.htm
-   </link>
-   <description>
-    <![CDATA[在北京，外交部回應美日菲三邊峰會發表的聲明，表示中方絕不接受有關國家在南海問題上針對中國的無端指責和惡意抹黑。
-
-近期舉行的美日菲三邊峰會發表的聲明，對中國在南海的活動表示嚴重關切，呼籲中國遵守2016年南海仲裁案裁決。
-
-外交部發言人林劍指出，南海仲裁案所作的裁決非法無效，中國不接受、不參與仲裁，不接受、不承認所謂的裁決，更不接受任何基於該裁決的主張和行動。林劍強調，中國將繼續依據國內法和國際法，堅決捍衛自身的合法權利，奉勸相關國家認清事實，改弦更張，不要一錯再錯。]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 17:55:27 +0800
    </pubDate>
   </item>
  </channel>
