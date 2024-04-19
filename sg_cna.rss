@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 01:46:31 +0800
+   Sat, 20 Apr 2024 01:56:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Google scraps minimum wage, benefits rules for suppliers and staffing firms
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/google-scraps-minimum-wage-benefits-rules-suppliers-and-staffing-firms-4278951
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 01:48:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/google-scraps-minimum-wage-benefits-rules-suppliers-and-staffing-firms-4278951
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lINLdQ_c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t174808z_2_lynxnpek3i0qp_rtroptp_3_russia-google-court.jpg?itok=NKkyNRDC" width="1600"/>
+  </item>
   <item>
    <title>
     G7 pledges swift aid for Ukraine, seeks to calm Middle East
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aw-X4Vn1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t135140z_1_lynxnpek3i0jw_rtroptp_3_soccer-england-ful-liv-preview.jpg?itok=zoVWOAun" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Blow for Everton as defender Patterson out for the season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/blow-everton-defender-patterson-out-season-4278451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 21:47:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/blow-everton-defender-patterson-out-season-4278451
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JGKVrLDA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t134727z_1_lynxnpek3i0js_rtroptp_3_soccer-england-eve-cry-report.jpg?itok=89FSQ5Cg" width="1600"/>
   </item>
  </channel>
 </rss>
