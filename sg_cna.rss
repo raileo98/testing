@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 00:49:11 +0800
+   Sat, 20 Apr 2024 00:54:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Trump media shares gain as it alerts Nasdaq of 'potential market manipulation'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/trump-media-shares-gain-it-alerts-nasdaq-potential-market-manipulation-4278816
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 00:46:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/trump-media-shares-gain-it-alerts-nasdaq-potential-market-manipulation-4278816
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qYlk-UPN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t164656z_1_lynxnpek3i0p5_rtroptp_3_trump-media-stocks.jpg?itok=gNsmsIvu" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Apple's offer to open up tap-and-go tech to be approved by EU next month, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/apples-offer-open-tap-and-go-tech-be-approved-eu-next-month-sources-say-4278821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 00:45:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apples-offer-open-tap-and-go-tech-be-approved-eu-next-month-sources-say-4278821
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nwr_oKb3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t164506z_1_lynxnpek3i0p4_rtroptp_3_eu-apple-antitrust.jpg?itok=Dk90b2MF" width="1600"/>
+  </item>
   <item>
    <title>
     Over 70 reports of extortion letters with manipulated obscene photos of victims since March: Police
@@ -399,27 +441,6 @@
   </item>
   <item>
    <title>
-    Man arrested in Paris after threatening to blow himself up at Iran consulate
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
-   </link>
-   <description>
-    <![CDATA[The man had been carrying replica grenades, according to TV channel BFM. ]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 20:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MpKCWQqq--/c_crop,h_900,w_1600,x_0,y_133/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/2024-04-19T131843Z_598850985_RC2O97AQA9B7_RTRMADP_3_FRANCE-SECURITY-IRAN-CONSULATE_0.JPG?itok=qPRA5qDC" width="1600"/>
-  </item>
-  <item>
-   <title>
     Singaporean man suspected of killing woman in Spain appears in court: Reports
    </title>
    <link>
@@ -438,27 +459,6 @@
     Singapore ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yjt4Xh1l--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/audrey_fang_suspected_killer_spain.jpg?itok=-TLVhwbd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tuchel still leaving Bayern despite Nagelsmann news
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/tuchel-still-leaving-bayern-despite-nagelsmann-news-4278261
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 20:23:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/tuchel-still-leaving-bayern-despite-nagelsmann-news-4278261
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
