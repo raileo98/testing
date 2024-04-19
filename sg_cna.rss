@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 21:30:55 +0800
+   Fri, 19 Apr 2024 21:41:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man Utd facing huge challenge in FA Cup semi-final, says Ten Hag
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-utd-facing-huge-challenge-fa-cup-semi-final-says-ten-hag-4278416
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 21:29:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-utd-facing-huge-challenge-fa-cup-semi-final-says-ten-hag-4278416
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fMC28IfS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t132903z_1_lynxnpek3i0j3_rtroptp_3_soccer-england-bou-mun-report.jpg?itok=8bwQz0fX" width="1600"/>
+  </item>
   <item>
    <title>
     Shipping industry urges UN to protect vessels after Iran seizure
@@ -132,7 +153,7 @@
     https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
    </link>
    <description>
-    <![CDATA[Man arrested in Paris after threatening to blow himself up at Iran consulate]]>
+    <![CDATA[]]>
    </description>
    <pubDate>
     Fri, 19 Apr 2024 20:28:00 +0800
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oJ0rMSt3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t102800z_1_lynxnpek3i0dn_rtroptp_3_wipro-ltd-results.jpg?itok=i068QDap" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel-Hamas war: Growing fear among Israelis who oppose nation’s stance on Palestinian issue
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/palestine-gaza-israel-hamas-west-bank-benjamin-netanyahu-freedom-speech-4277876
-   </link>
-   <description>
-    <![CDATA[History and civics teacher Meir Baruchin was arrested and held in solitary confinement following his social media postings on Gaza, but his case was later dismissed. ]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 18:18:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/palestine-gaza-israel-hamas-west-bank-benjamin-netanyahu-freedom-speech-4277876
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z632gPF4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/meir_baruchin_israel_teacher.png?itok=6xKuCP3-" width="1600"/>
   </item>
  </channel>
 </rss>
