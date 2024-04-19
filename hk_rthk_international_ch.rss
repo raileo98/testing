@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 20 Apr 2024 04:40:14 +0800
+   Sat, 20 Apr 2024 05:01:45 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 20 Apr 2024 04:12:42 +0800
+   Sat, 20 Apr 2024 04:51:17 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國白宮未回應以色列襲伊朗報道
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749704-20240420.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749704-20240420.htm
+   </link>
+   <description>
+    <![CDATA[以色列據報向伊朗發動襲擊，報復早前遭到伊朗無人機和導彈空襲。美國白宮發言人沒有作出回應。另外，美國國務卿布林肯拒絕回應華盛頓事前是否知悉。
+
+聯合國秘書長古特雷斯呼籲立即結束中東地區相互報復的循環。
+
+伊朗傳媒報道，在首都德黑蘭，大批人在當地星期五集會，支持伊朗早前向以色列發動襲擊。]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 04:51:17 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     一名男子在特朗普掩口費案法院外自焚
@@ -454,29 +475,6 @@
    </description>
    <pubDate>
     Fri, 19 Apr 2024 11:07:40 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    以色列據報向伊朗發射導彈　伊朗停飛德黑蘭等地航班
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749572-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749572-20240419.htm
-   </link>
-   <description>
-    <![CDATA[美國傳媒引述美國一名高層官員報道，以色列導彈擊中伊朗境內一處地點。
-
-伊朗法爾斯通訊社報道，伊斯法罕機場和謝卡里空軍基地附近聽到爆炸聲。伊朗航空部門宣布暫時停飛德黑蘭、伊斯法罕機場的航班。
-
-以色列和巴勒斯坦傳媒報道，伊朗伊斯法罕地區、敘利亞南部蘇韋達省、伊拉克巴格達地區和巴比倫省當地周五凌晨傳出爆炸聲。
-
-伊朗日前向以色列發射數百枚導彈和無人機襲擊，報復駐敘利亞大使館館舍遇襲，以軍說，九成九的導彈和無人機被攔截，以色列當時已警告將會還擊。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 10:28:56 +0800
    </pubDate>
   </item>
  </channel>
