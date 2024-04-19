@@ -21,7 +21,7 @@
    en
   </language>
   <lastBuildDate>
-   Fri, 19 Apr 2024 05:53:01 GMT
+   Fri, 19 Apr 2024 06:30:07 GMT
   </lastBuildDate>
   <ttl>
    5
@@ -153,6 +153,18 @@
    <author>
     林曉慧, 沈志明
    </author>
+   <category>
+    性平教育
+   </category>
+   <category>
+    性別平等
+   </category>
+   <category>
+    性別平等教育法
+   </category>
+   <category>
+    性別
+   </category>
   </item>
   <item>
    <title>
@@ -176,6 +188,24 @@
    <author>
     鄭惟仁
    </author>
+   <category>
+    司法部
+   </category>
+   <category>
+    運動員
+   </category>
+   <category>
+    FBI
+   </category>
+   <category>
+    2021年
+   </category>
+   <category>
+    密西根州
+   </category>
+   <category>
+    投訴
+   </category>
   </item>
   <item>
    <title>
@@ -264,6 +294,47 @@
   </item>
   <item>
    <title>
+    評估友邦關係機密文件疑外洩 資安專家：最大風險在外館
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199320%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">外交部機密資料疑似外洩，有駭客在網路兜售包括外交部對邦交關係評估簡表，其中有指我國與教廷、吐瓦魯關係亮黃燈警訊等機密文件。立委要求外交部確認洩密內容真偽，外交部回應指文件來源可疑，有認知作戰的惡意。有資安專家指出，外交部的最大資安風險在外館，建議可採取限制存取強化資安防護。</div>
+                                        <p>政府公務資料外洩頻繁，甚至被放到網路販賣，近日傳出外交部也成了受害者，疑似共有7份機密文件外洩遭駭客放上暗網兜售。</p><p>該批文件包括外交部對邦交國關係的評估簡表，指我國與教廷、吐瓦魯的關係亮黃燈警訊；還有駐美國代表處電報、國合會函送外交部等文件，讓政府資安防護出現漏洞。</p><p>外交部發言人劉永健指出，「報導中所稱文件來源可疑，並涉及境外變造、偽造的不法行為與操弄認知作戰的惡意，外交部將與相關機關協調調查。」</p><p>對於外交部機密文件疑似外流，朝野立委要求儘速確認是否為真，民進黨立委王定宇直言，台灣是資安大國，必須落實資安防護。</p><p>王定宇表示，「不論這次資料外洩是否為真，外交部甚至其他部會都要強化資安管理，資料外洩是一件事，如果整個DATABASE被綁架、鎖住，那才是大事情。」</p><p>國民黨立委洪孟楷則認為，「外交工作上如果說有這種洩漏機密的情形，我想這是不合格的一個外交動作。」</p><p>資安專家分析，各外館因為資源不足又缺乏資安人力，常遭駭客入侵。不過專家也提出解方，建議可參考台積電，針對重要文件採取限制存取。</p><p>台科大資安中心主任查士朝指出，「比較重要或是一些相關的資料，就是做嚴格的控管，像一般科技公司要存取這些重要資料，甚至是不能取出去。」</p><p>近年政府資料外洩頻傳，其中最受關注的案件，就是2022年有駭客開價5000美元在地下論壇兜售我國高達2357萬筆戶役政資料，當中包含政府機關首長、縣市首長、立委。不過經比對後，我國政府聲稱戶政資料沒有遭駭。</p><p>專家指出，政府除了增加採購資安設備外，也要強化人員的資安意識，雙管齊下，落實資安防護。</p>
+                 ]]>
+   </description>
+   <link>
+    https://news.pts.org.tw/article/691158
+   </link>
+   <guid isPermaLink="false">
+    https://news.pts.org.tw/article/691158
+   </guid>
+   <pubDate>
+    Fri, 19 Apr 2024 04:31:00 GMT
+   </pubDate>
+   <author>
+    黃子杰, 張國樑
+   </author>
+   <category>
+    外交部
+   </category>
+   <category>
+    機密文件
+   </category>
+   <category>
+    資安
+   </category>
+   <category>
+    民進黨立委
+   </category>
+   <category>
+    外洩
+   </category>
+   <category>
+    認知作戰
+   </category>
+  </item>
+  <item>
+   <title>
     台股開盤重挫一度大跌破千點 新台幣匯率盤中改寫8年新低
    </title>
    <description>
@@ -284,6 +355,21 @@
    <author>
     游騐慈, 郭俊麟
    </author>
+   <category>
+    新台幣匯率
+   </category>
+   <category>
+    開盤
+   </category>
+   <category>
+    消費者物價指數
+   </category>
+   <category>
+    盤中
+   </category>
+   <category>
+    中經院
+   </category>
   </item>
   <item>
    <title>
@@ -307,232 +393,215 @@
    <author>
     黃姵涵, 陳柏諭, 謝其文
    </author>
-  </item>
-  <item>
-   <title>
-    美國證實以色列向伊朗發射飛彈 核設施所在地區傳3爆炸聲響
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199310%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">在日前遭到伊朗發動大規模空襲後，有美國官員向媒體證實以色列在當地19日凌晨向伊朗發射飛彈進行反擊。據伊朗當地媒體報導指出，伊朗核設施所在地伊斯法罕（Isfahan）附近傳出3聲爆炸聲，目前該國多個城市航班已暫時停飛，另外也有多架飛越伊朗上空的航班改道而行。</div>
-                                        <p>據美國廣播公司（ABC news）報導指出，已有美國官員出面證實以色列在當地時間週五凌晨向伊朗發射多枚飛彈。根據伊朗當地FARS通訊社指出，位在伊斯法罕西北部的空軍基地附近傳出3聲爆炸聲。</p><p>伊斯法罕是伊朗多項核設施的所在地，其中還包含該國最大、最重要的鈾濃縮設施「納坦茲」。美聯社引述伊朗當地媒體報導指出，伊朗軍隊的防空系統已經開火反擊。</p><p>伊朗官方媒體則宣稱當地核設施目前仍安全無虞，CNN則在報導中指出，有美國官員透露以色列此次的攻擊目標並非核設施。</p><p>目前包含伊斯法罕以及伊朗首都德黑蘭等地的航班皆已停飛，另外航班追蹤網站flightradar24上也顯示，有多架飛越伊朗上空的航班已經進行改道，據CNN統計，至少有8航班為此改道。</p><ul><li><a href="https://news.pts.org.tw/article/690565">伊朗史上首次大規模空襲以色列 兩國的新仇舊恨將釀成中東另一戰局嗎？</a></li></ul><p>在上週遭到伊朗發動大規模空襲後，以色列戰時內閣已決定進行報復，先前傳出在美國總統拜登出面斡旋下，以色列一度暫緩進行攻擊，據ABC news報導，至少已有2次反擊被中止。</p><ul><li><a href="https://news.pts.org.tw/article/690507">以戰時內閣決議報復 伊朗：將採適度行動自衛</a></li></ul>
-                 ]]>
-   </description>
-   <link>
-    https://news.pts.org.tw/article/691138
-   </link>
-   <guid isPermaLink="false">
-    https://news.pts.org.tw/article/691138
-   </guid>
-   <pubDate>
-    Fri, 19 Apr 2024 03:34:00 GMT
-   </pubDate>
-   <author>
-    李彥穎
-   </author>
    <category>
-    核設施
+    2024年
    </category>
    <category>
-    伊朗
+    台積電
    </category>
    <category>
-    以色列
+    張忠謀
    </category>
    <category>
-    發射
+    3奈米
+   </category>
+   <category>
+    下半年
    </category>
   </item>
   <item>
    <title>
-    高雄透天厝深夜瓦斯爆炸 波及鄰戶1死6送醫
+    首見黑熊偷吃飼養雞補償案 林業署盼推動人熊和平共處
    </title>
    <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199304%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">高雄今（19）凌晨發生火警，三民區褒揚街連棟透天建物疑似因為瓦斯爆炸，消防局獲報前往，救出一名男性住戶，被波及的鄰宅也有3人送醫，最後在火場發現另1名75歲男性住戶已明顯死亡。</div>
-                                        <p>4月19日凌晨0時，消防局獲報三民區褒揚街連棟透天建物發生火警，立即出動26車68人前往，到場後已見火煙冒出，現場燃燒家具及雜物，火勢猛烈。</p><p>在現場人員奮力搶救下，火勢於0時23分控制，0時43分撲滅，並救出1名49歲男性住戶，身上有多處燒燙傷，意識不清，附近民眾也有1男2女受波送醫，火場搜索後發現1名75歲男性住戶於屋內明顯死亡未送醫。</p><p>另有1男1女於凌晨2時許身體不適由消防局協助送醫，合計共1死6送醫。</p>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199321%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">保育類台灣黑熊在淺山活動愈來愈頻繁，林業保育署為了避免人熊衝突，推動「台灣黑熊生態服務給付計畫」，其中針對黑熊破壞農作物和家畜家禽也有補償方案。林業署台東分署公布首件黑熊偷吃民眾飼養雞隻的補償案，並呼籲山區民眾不要因為黑熊在農園出沒破壞，就進行獵捕，希望人熊和平相處。</div>
+                                        <p>南橫霧鹿村農民邱先生在海拔900公尺果園架設的監視器，15日錄下一隻黑熊闖進果園，另一個角度的監視器，還錄下黑熊跑進雞舍吃雞畫面。農民後來到雞舍察看時，發現已被黑熊吃掉9隻雞，農民說，很擔心黑熊會再來破壞。</p><p>邱先生表示，「損失的部份多少是會有一點，但是那個恐懼抹不去。」</p><p>這起黑熊闖入雞舍事件，農民利用通報平台通報林保署臺東分署進行調查，依照「臺灣黑熊生態服務給付計畫」，林保署除發給農民自主通報監測獎勵金8千元外，也第一次發給被黑熊破壞農戶損失的全額賠償，並協助設置防制措施，希望不要造成人熊對立。</p><p>林業署台東分署自然保育科長林孟怡指出，「如果民眾有防制受害的需求，可以免費申請領用改良式獵具。」</p><p>台東分署表示，台灣黑熊在淺山地區出沒頻繁，「台灣黑熊生態服務給付計畫」除了保護黑熊外，也會保障農民損失，呼籲農民踴躍通報並提供監測資料，讓政府建置黑熊出沒熱點，避免人熊衝突。</p>
                  ]]>
    </description>
    <link>
-    https://news.pts.org.tw/article/691125
+    https://news.pts.org.tw/article/691151
    </link>
    <guid isPermaLink="false">
-    https://news.pts.org.tw/article/691125
+    https://news.pts.org.tw/article/691151
    </guid>
    <pubDate>
-    Fri, 19 Apr 2024 00:29:00 GMT
+    Fri, 19 Apr 2024 04:31:00 GMT
    </pubDate>
    <author>
-    王介村
+    章明哲
    </author>
    <category>
-    送醫
+    黑熊
    </category>
    <category>
-    透天厝
+    林業署
    </category>
    <category>
-    消防局
+    台灣黑熊
+   </category>
+   <category>
+    農民
+   </category>
+   <category>
+    通報
    </category>
   </item>
   <item>
    <title>
-    轎車撞礁溪平交道水泥墩 普悠瑪急停險撞上
+    野生動物驅離槍不具殺傷力 林業署邀宜蘭山區民眾參與訓練
    </title>
    <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199308%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">18日晚間7時多，宜蘭礁溪鄉一處平交道發生轎車撞上平交道水泥墩的意外，差點和即將通過的普悠瑪列車撞上；所幸列車及時停車，在延遲44分鐘後通過，轎車則由公路吊車搶救吊出後，在晚間9時50分恢復雙向通行，詳細事故原因還有待調查。</div>
-                                        <p>太魯閣列車減速通過平交道，一旁還可看到一輛轎車撞上平交道水泥墩，等待拖吊救援；18日晚間7時多，宜蘭礁溪鄉武暖路平交道，發生一輛轎車撞進平交道護欄後，卡在鐵軌旁邊坡的的意外。</p><p>員警詢問肇事女駕駛：「當時緊急號誌有響嗎？（沒有，完全都沒有）這個都沒有響？（你沒看監視器嗎？這樣進去就卡住了啊）妳是失控對不對？（就老車了，輪胎打滑）。」</p><p>意外發生後，一輛原本要行經此路段的285次普悠瑪號收到平交道告警系統，偵測有異物侵入的警報，啟動列車防護功能，緊急停車並未撞擊；列車退回四城站，在延遲44分鐘後，於晚間8時03分通過。</p><p>台鐵花蓮運務段段長許民杰表示，「那時候並沒有列車經過，所以平交道是正常也沒有放下，詳細還是要調閱監視器，19時23分285次的普悠瑪司機員有通報。」</p><p>為了配合公路吊車搶救作業，宜蘭到礁溪西正線斷電封鎖，改單線雙向行車，直到晚間9時50分才恢復雙向通車；所幸這起意外沒有造成人員傷亡，詳細事故原因還有待調查。</p>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199322%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">林業及自然保育署宜蘭分署近期辦理野生動物驅離槍訓練課程，邀請山區民眾和動保人員一起參與。這些槍械都不具殺傷力，主要用來驅離野生動物，化解土地的開發利用行為與野生動物生存之扞格。</div>
+                                        <p>民眾拿著槍瞄準標靶射擊，槍枝裡面都是塑膠球不具殺傷力，打在動物身上只會感到疼痛，達到驅離和嚇阻的目的。</p><p>動保人員也參與學習槍枝組裝，盼盡早熟悉這些器具，近年根據林業署監測顯示，我國野生動物族群呈現穩定成長趨勢，活動範圍漸從山區擴張至平地，加上山區人為開發加劇，人獸之間的關係越來越緊張。</p><p>近期宜蘭綠色博覽會就發生許多猴子闖入原住民美食區覓食，工作人員只能拿掃把敲擊驅離，凸顯人和動物間的距離已越來越近。</p><p>林業署宜蘭分署自然保育科長劉啓斌表示，「基於農民的經濟考量，驅離槍有多種價格選擇，全部取決於農民。對於實際上防範受害跟農作需求上是多一種選擇。」</p><p>林業署宜蘭分署共購買6把驅離槍，並邀請山區民眾和動保人員一起訓練、熟悉槍枝，盼以不傷害動物的方式協助山區民眾驅趕動物，同時化解土地的開發利用行為與野生動物生存之扞格，提升人對動物的寬容度。</p>
                  ]]>
    </description>
    <link>
-    https://news.pts.org.tw/article/691124
+    https://news.pts.org.tw/article/691150
    </link>
    <guid isPermaLink="false">
-    https://news.pts.org.tw/article/691124
+    https://news.pts.org.tw/article/691150
    </guid>
    <pubDate>
-    Thu, 18 Apr 2024 23:31:00 GMT
+    Fri, 19 Apr 2024 04:31:00 GMT
    </pubDate>
    <author>
-    林敬倫, 鄭惟仁, 吳其昌
+    林敬倫
    </author>
    <category>
-    平交道
+    野生動物
    </category>
    <category>
-    轎車
+    林業署
    </category>
    <category>
-    礁溪
+    驅離
    </category>
    <category>
-    水泥
+    動物
    </category>
    <category>
-    列車
+    人員
+   </category>
+   <category>
+    動保
    </category>
   </item>
   <item>
    <title>
-    週二起桃園連3天7起停電 昨晚台北772戶也停電
+    彰化男子用腳頂龍頭騎電動車 警方依法開單舉發
    </title>
    <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199306%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">台電這週一（15日）才因為4部機組跳電，備轉容量率一度降到3%，緊急啟動需量競價，請台積電等用電大戶支援電力，一度電、付費從8到12元不等，度過供電危機。週二開始，桃園3天內發生7起停電，台北市東區昨晚也有772戶停電。準經濟部長郭智輝表示，將陸續拜訪各產業，盤點台灣電力，上任後會提出一套完整報告說明。</div>
-                                        <p style="text-align:justify;">18日早上7時許，桃園一度又陷入無電狀態，不僅造成店家營運困擾、民怨四起，桃園市長張善政更痛批，能源政策荒腔走板。</p><p style="text-align:justify;">民眾說：「早上我們就做事做一做，它就突然整個燈關掉、熄掉了，如果一直跳電就會很不方便呀。」<br><br>桃園市長張善政指出，「上位的能源政策有問題，讓台電的財務不健全，整個系統維護的整個基礎設施都沒有辦法做到位。」</p><p style="text-align:justify;">桃園從16日開始，大園中壢、龜山等地就有3起停電，累計停電超過1萬戶以上，平鎮區一帶17日也停電。</p><p style="text-align:justify;">到了18日早上，桃園區和龍潭區等地短短1小時內，發生3起停電，最久一度停電超過7小時才全數復電。</p><p style="text-align:justify;">18日晚間，台北市東區也傳出停電。台電表示是因為設備故障，導致大安區復興南路一段到敦化南路一段共772戶停電。</p><p style="text-align:justify;">台電在15日發生4部機組跳電，除了調配水力發電，也啟動需量競價，請台積電等用電大戶支援電力，這才躲過限電危機。</p><p style="text-align:justify;">國民黨立委楊瓊瓔質問，「這一次的成本又要花了多少？」台電總經理王耀庭表示，「有的大概1度電8塊錢，有的是比較貴的是1度電10塊錢。」</p><p style="text-align:justify;">楊瓊瓔追問，「有12元的嗎？因為你們還有一個彈性2成啊。」王耀庭則回應，「2成那個就1度電12塊。」</p><p style="text-align:justify;">台灣供電問題頻傳，各界關注，即將上任的準經濟部長郭智輝如何解決水電問題。</p><p style="text-align:justify;">準經濟部部長郭智輝表示，「綜合這些意見，從我們台灣是不是缺電、台灣可能要多少的電，才能夠滿足這個整個產業的需求，我希望我在上任以後有一套比較好、比較完整的這個報告，來向各位做一個詳細的說明。」</p><p style="text-align:justify;">經濟部回應，去年公布的長期電力供需報告，盤點到2029年的用電供需，未來也將在郭智輝的帶領之下，持續推動穩定供電。</p>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199323%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">彰化埤頭昨天有民眾目擊，1名男子騎著電動自行車行駛在斗苑西路上，但卻雙手放開，僅用腳頂住龍頭，還未戴安全帽高速行駛，讓其他用路人捏把冷汗。警方表示，男子涉及危險駕駛和未戴安全帽，已依違反道交條例製單舉發。</div>
+                                        <p>民眾目擊騎士速度飆得飛快，仔細一看卻發現他的雙手放開，只用右腳頂住龍頭，一手還疑似講電話，雖然騎的是電動自行車，但這樣的行駛方式還是讓其他用路人捏把冷汗。</p><p>民眾表示，「真的很誇張，那台好像是電動車吧」、「有的2隻腳都翹起來茫茫的在騎，翹腳也很危險，萬一有狀況的話一定跌倒。」</p><p>18日中午，有民眾拍下男子用危險駕駛方式行駛在彰化埤頭的斗苑西路。實際回到現場，這條路雖然又直又寬，但來往車輛多、車速也快，很容易造成危險。</p><p>警方已根據監視器找到駕駛人嚴姓男子，並依違反依道交條例，對危險駕駛及未戴安全帽開罰，至於車輛是否有超速或改裝則還要釐清。</p><p>北斗分局埤頭分駐所副所長莊順法指出，「本分局將依違反《道路交通處罰條例》第73條第1項第4款規定逕行舉發；至於沒戴安全帽部分，本所也依規定依《道路交通處罰條例》第73條第4項同樣舉發。」</p><p>警方表示，《道路交通處罰條例》修正通過後，電動自行車更名為微型電動二輪車，和一般機車一樣須登記掛牌、投保強制險，2022年11月29日前上路的舊車，需在2年內完成掛牌。警方提醒，騎乘微型電動二輪車，也需要遵守相關道交規定。</p>
                  ]]>
    </description>
    <link>
-    https://news.pts.org.tw/article/691123
+    https://news.pts.org.tw/article/691149
    </link>
    <guid isPermaLink="false">
-    https://news.pts.org.tw/article/691123
+    https://news.pts.org.tw/article/691149
    </guid>
    <pubDate>
-    Thu, 18 Apr 2024 23:31:00 GMT
+    Fri, 19 Apr 2024 04:31:00 GMT
    </pubDate>
    <author>
-    沙燕琪, 吳其昌
+    林健生, 彭煥羣
    </author>
    <category>
-    郭智輝
+    電動自行車
    </category>
    <category>
-    停電
+    危險駕駛
    </category>
    <category>
-    用電大戶
+    微型電動二輪車
    </category>
    <category>
-    經濟部長
+    安全帽
    </category>
    <category>
-    能源政策
+    道路交通管理處罰條例
    </category>
    <category>
-    電力
+    危險
    </category>
   </item>
   <item>
    <title>
-    間諜行動遭識破 德國、波蘭共逮3俄諜
+    解決水果生產過剩問題 文旦、香蕉紛推加工品
    </title>
    <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199309%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">俄羅斯間諜行動遭識破化解，波蘭18日逮捕一名為俄方工作的間諜，他協助策劃暗殺烏克蘭總統澤倫斯基；德國則逮捕兩名為俄羅斯策畫發動破壞行動的間諜。</div>
-                                        <p>德國檢察官18日宣布在德國逮捕兩名涉嫌間諜罪的德國籍俄羅斯男子，其中1人遭控對包括美國軍事設施在內等目標以炸藥或縱火發動襲擊，目的是為了破壞對烏克蘭的援助。</p><p>檢察官發言人皮特森指出，「特別是針對軍事基礎設施及工業場所的破壞活動，被逮捕的第一位嫌犯將兩人蒐集的情報，交給一個與俄羅斯情報部門有關的人，他曾於2014到2016年為烏克蘭東部頓內茨克作戰。」</p><p>德國為此召見俄羅斯大使。此前，克里姆林宮表示沒有相關資訊。</p><p>而在波蘭則逮捕一名波蘭籍男子，他涉嫌為俄羅斯軍事情報部門從事間諜行動，參與策畫暗殺烏克蘭總統澤倫斯基，把波蘭東南部靠近烏克蘭邊境、一座由美軍控制且讓澤倫斯基得以進出的機場安全資訊，交給俄方。</p>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199324%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">水果供過於求時，透過加工可延長保存、消化產量，台灣素有水果王國之稱，果品加工也不斷推陳出新。盛產文旦的麻豆農會收購大果，柚皮可以加工食用；而還沒成熟的綠香蕉含抗性澱粉可取代麵粉，香蕉皮加工後也能食用。</div>
+                                        <p>麻豆文旦是搶手水果，其中又以老欉最受歡迎，但相對的，新欉大果品質略差。為了穩定市場供需，麻豆農會收購大果來做加工。</p><p>而吃果肉不稀奇，文旦柚的外皮除了可做清潔用品外，現在還可做梅柚片、調味料，甚至連花都能利用。</p><p>麻豆區農會總幹事孫慈敏表示，「花本身的保濕、美白效果很好，所以新欉的花就收起來讓它不會變成大果，把比較規格外的收起來之後，可以保證消費者買到的一級果品都是都是好吃的。」</p><p>至於香蕉生產過剩也時有所聞，南投集集蔬果運銷合作社把還沒成熟但富含抗性澱粉的青蕉，拿來做成青蕉粉與青蕉麵，可減少過多香蕉進入市場。而熟透的香蕉皮其實也能食用，合作社說失戀吃香蕉皮是有道理的，因為有色胺酸可減緩抑鬱焦慮。</p><p>集集蔬果運銷合作社行銷經理黃稚淋指出，「把全香蕉的概念都運用在讓它發揮到更大值，目前加工比例大概是占40％左右，希望推廣說其實香蕉是可以變成常民的一種料理。」</p><p>國內水果加工技術也持續提升，知名披薩連鎖店達美樂的披薩原本使用進口菲律賓鳳梨，現在也已改用加工過的國產金鑽鳳梨。</p><p>農糧署代理署長蘇茂祥表示，「像達美樂捨棄進口罐頭改用國產金鑽鳳梨，實際上也是進口替代。」</p>
                  ]]>
    </description>
    <link>
-    https://news.pts.org.tw/article/691114
+    https://news.pts.org.tw/article/691148
    </link>
    <guid isPermaLink="false">
-    https://news.pts.org.tw/article/691114
+    https://news.pts.org.tw/article/691148
    </guid>
    <pubDate>
-    Thu, 18 Apr 2024 23:31:00 GMT
+    Fri, 19 Apr 2024 04:31:00 GMT
    </pubDate>
    <author>
-    黃韻玲
+    林靜梅, 莊志成
    </author>
    <category>
-    烏克蘭總統
+    香蕉
    </category>
    <category>
-    俄羅斯
+    麻豆
    </category>
    <category>
-    間諜
+    農糧署
    </category>
    <category>
-    澤倫斯基
-   </category>
-   <category>
-    澤倫斯基
-   </category>
-   <category>
-    波蘭
-   </category>
-   <category>
-    德國
+    水果
    </category>
   </item>
   <item>
    <title>
-    新北淡水泡棉工廠陷火海 空污一度影響淡水區
+    台中舊城區青年扎根10年 開啟地方創生延續文化資產
    </title>
    <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199305%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">新北市淡水區小中寮一處泡棉工廠，昨（18）晚間10時多發生火警，獨棟3層樓工廠全面陷入火海。火勢已經在今日凌晨撲滅，周遭感測器數值也下降到正常範圍。</div>
-                                        <p>這起火警發生在淡水區的小中寮，一家泡棉工廠的3樓起火，消防局出動各式車輛57輛、消防人員132人前往搶救；新北市環保局模擬，污染物向西方外海擴散，主要影響在淡水區。</p><p>工廠內有很多化學藥劑，所幸沒有人員受困。新北市長侯友宜表示，火勢在今日凌晨撲滅後，周遭的感測器數值也回到正常範圍。<br> </p>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F199325%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">台中舊城區因為商業中心的轉移而沒落，但有一群默默扎根10年的地方青年，透過據點聚集青年力量，讓以舊城為主的地方行動因此誕生。</div>
+                                        <p>1970年代，臺中火車站周圍在當時是台灣重要的貨物集散地，經濟活動十分活耀，許多與民生消費也因此蓬勃發展，也形成一個產業結構鏈。</p><p>在地青年賴良琪表示，「大概在這個範圍內就有5間百貨公司，像這麼多百貨公司裡面一定會有硬體設備的需求、維修的需求，然後他們就會聯絡師傅去修理，所以產業整個是連動在一起的。」</p><p>社區青年10年的在地參與，也見證台中舊城區從沒落到漸露曙光的改變。</p><p>在地青年邱嘉緣指出，「綠川從2015年開始整治，我們就走到當時還很黑的這裡面，然後抬頭一看就發現以前日治時期的櫻橋。其實在政府做綠川整治的時候，前期的調查團隊，我們就一直特別跟他講說，看到時候整治工程能不能把它保留下來。」</p><p>臺中火車站於2016年鐵路高架化後升級為第3代車站，原有的第2代火車站於2021年8月正式納為國定古蹟，原有的地面鐵道也有了新的發展。</p><p>在地青年邱嘉緣表示，「其實火車高架化之後，地面鐵軌原本是要被拆除的，但在地文史團隊覺得這其實是一個很重要的文化資產，如果能夠被保留下來，然後做一定的公共開放的使用，對於這個城市的歷史價值有很重要的意義。我們期待自己在台中舊城扮演的角色，其實是持續可以在這邊觀察然後生活，並邀請大家一起做有趣的事情，然後那個事情也可以去觸碰到某一些社會價值。」</p>
                  ]]>
    </description>
    <link>
-    https://news.pts.org.tw/article/691110
+    https://news.pts.org.tw/article/691147
    </link>
    <guid isPermaLink="false">
-    https://news.pts.org.tw/article/691110
+    https://news.pts.org.tw/article/691147
    </guid>
    <pubDate>
-    Thu, 18 Apr 2024 23:31:00 GMT
+    Fri, 19 Apr 2024 04:31:00 GMT
    </pubDate>
    <author>
-    朱鳳治, 沙燕琪, 吳其昌
+    魏嘉伶, 蔡明孝
    </author>
    <category>
-    新北市長侯友宜
+    台中火車站
    </category>
    <category>
-    工廠
+    百貨公司
    </category>
    <category>
-    淡水
+    青年
+   </category>
+   <category>
+    鐵路高架化
    </category>
   </item>
   <image>
    <url>
-    <![CDATA[https://images.weserv.nl/?n=-1&url=localhost%3A1200.ico]]>
+    <![CDATA[https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fip3%2Fnews.pts.org.tw.ico]]>
    </url>
    <title>
     即時 ｜ 公視新聞網 PNN
