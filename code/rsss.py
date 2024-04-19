@@ -44,7 +44,7 @@ feeds = {
     'hk_newsGovHK_2425budget': 'https://www.news.gov.hk/tc/categories/24-25budget/html/articlelist.rss.xml',
     'hk_newsGovHK_nationalSecurity': 'https://www.news.gov.hk/tc/categories/nationalsecurity/html/articlelist.rss.xml',
     'hk_newsGovHK_': 'https://www.news.gov.hk/tc/categories/clarification/html/articlelist.rss.xml',
-    # 'hk_u-beat': 'https://ubeat.com.cuhk.edu.hk/feed/',
+    # 'hk_uBeat': 'https://ubeat.com.cuhk.edu.hk/feed/',
     # 'hk_cusp': 'https://cusp.hk/?feed=rss2',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
     # 'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
