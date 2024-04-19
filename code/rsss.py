@@ -58,6 +58,11 @@ for name, url in feeds.items():
     print( f'url: {url}' )
     # 使用 niquests 發送 HTTP GET 請求到 RSS 源地址
     response = session.get(url)
+
+    if not response.ok:
+        print( f'url: {url} failed!' )
+        continue
+    
     # 獲取響應中的 XML 內容
     xml_content = response.text
 
