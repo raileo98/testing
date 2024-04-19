@@ -43,7 +43,7 @@ feeds = {
     'hk_newsGovHK_admin': 'https://www.news.gov.hk/tc/categories/admin/html/articlelist.rss.xml',
     'hk_newsGovHK_2425budget': 'https://www.news.gov.hk/tc/categories/24-25budget/html/articlelist.rss.xml',
     'hk_newsGovHK_nationalSecurity': 'https://www.news.gov.hk/tc/categories/nationalsecurity/html/articlelist.rss.xml',
-    'hk_newsGovHK_': 'https://www.news.gov.hk/tc/categories/clarification/html/articlelist.rss.xml',
+    'hk_newsGovHK_clarification': 'https://www.news.gov.hk/tc/categories/clarification/html/articlelist.rss.xml',
     # 'hk_uBeat': 'https://ubeat.com.cuhk.edu.hk/feed/',
     # 'hk_cusp': 'https://cusp.hk/?feed=rss2',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
@@ -69,7 +69,7 @@ for name, url in feeds.items():
         feed_domain = urllib.parse.urlparse(channel.find('link').text).hostname
         # 對 feed domain 進行 URL 編碼
         encoded_feed_domain = urllib.parse.quote_plus(feed_domain)
-
+    
     except:
         print( f'url: {url} failed' )
         # pass
@@ -77,23 +77,17 @@ for name, url in feeds.items():
 
     # 檢查 <channel> 標籤下是否存在 <image> 標籤
     image_tag = channel.find('image')
-
+    
     if image_tag is not None:
-        image_url = image_tag.find('url').text
-        if not (image_url.startswith('https://') or image_url.startswith('http://')):
-            # Extract subdomain/domain from the feed's URL
-            parsed_url = urllib.parse.urlparse(url)
-            encoded_feed_domain = urllib.parse.quote_plus(parsed_url.netloc)
-            image_tag.find('url').string = CData(f"https://images.weserv.nl/?n=-1&url={encoded_feed_domain}.ico")
-
+        # 如果存在，則替換 <image> 標籤下的 <url> 標籤內容
+        image_tag.find('url').string = CData(f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}")
+    
     else:
         # 如果不存在 <image> 標籤，則添加一個新的 <image> 標籤
         image_tag = root.new_tag('image')
         url_tag = root.new_tag('url')
         # 設置 <url> 標籤的內容
-        parsed_url = urllib.parse.urlparse(url)
-        encoded_feed_domain = urllib.parse.quote_plus(parsed_url.netloc)
-        url_tag.string = CData(f"https://images.weserv.nl/?n=-1&url={encoded_feed_domain}.ico")
+        url_tag.string = CData(f"https://images.weserv.nl/?n=-1&url={urllib.parse.quote_plus('https://external-content.duckduckgo.com/ip3/' + encoded_feed_domain + '.ico')}")
         image_tag.append(url_tag)
         # 添加 <title> 和 <link> 標籤
         title_tag = root.new_tag('title')
@@ -109,13 +103,13 @@ for name, url in feeds.items():
     for item in root.find_all('item'):
         # 獲取每個 <item> 標籤下的 <description> 標籤
         description = item.find('description')
-
+        
         if description is not None:
             # 對 <description> 標籤的內容進行 HTML 實體解碼
             description_text = html.unescape(description.text)
             # 使用 BeautifulSoup 找到所有的 <img> 標籤
             img_tags = [img['src'] for img in BeautifulSoup(description_text, 'html.parser').find_all('img')]
-
+            
             # 遍歷所有的圖片 URL
             for src in img_tags:
                 # 對圖片 URL 進行 URL 編碼
@@ -132,6 +126,6 @@ for name, url in feeds.items():
     with open(f'{name}.rss', 'w', encoding='utf-8') as file:
         file.write(root.prettify())
     print( f'url: {url} done!' )
-
+    
 # 輸出完成信息
 print('所有 RSS 源已經輸出到對應的文件中。')
