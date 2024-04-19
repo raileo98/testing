@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 02:41:20 +0800
+   Sat, 20 Apr 2024 02:46:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's finance minister gives fresh warning on excessive yen moves
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-finance-minister-gives-fresh-warning-excessive-yen-moves-4279041
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 02:41:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-finance-minister-gives-fresh-warning-excessive-yen-moves-4279041
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u9DFaZfb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t184121z_1_lynxnpek3i0ru_rtroptp_3_imf-worldbank-japan-imfc.jpg?itok=JTvK9jXH" width="1600"/>
+  </item>
   <item>
    <title>
     Man sets self on fire outside New York court where Trump trial underway
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Arteta wants Arsenal to be ready for any situation in title race
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/arteta-wants-arsenal-be-ready-any-situation-title-race-4278576
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 22:47:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/arteta-wants-arsenal-be-ready-any-situation-title-race-4278576
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoeX7cOX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t144719z_1_lynxnpek3i0lk_rtroptp_3_soccer-champions-bay-ars-report.jpg?itok=i4kF5GPO" width="1600"/>
   </item>
  </channel>
 </rss>
