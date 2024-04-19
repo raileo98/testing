@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 14:30:57 +0800
+   Fri, 19 Apr 2024 14:41:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Nissan cuts annual operating profit estimate by 14.5% on lower sales
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/nissan-cuts-annual-operating-profit-estimate-145-lower-sales-4277531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 14:37:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/nissan-cuts-annual-operating-profit-estimate-145-lower-sales-4277531
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wRkoMoCD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t063731z_1_lynxnpek3i06s_rtroptp_3_japan-autos.jpg?itok=s0GH3UXR" width="1600"/>
+  </item>
   <item>
    <title>
     Japan doctors sue Google Maps over 'punching bag' reviews
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4akTDMpw--/c_crop,h_450,w_800,x_0,y_61/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t035359z_1_lynxnpek3i03i_rtroptp_3_infosys-stocks.jpg?itok=Gfj9_az-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UK regulator says Google's ad-privacy changes fall short, WSJ reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/uk-regulator-says-googles-ad-privacy-changes-fall-short-wsj-reports-4277221
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 11:51:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uk-regulator-says-googles-ad-privacy-changes-fall-short-wsj-reports-4277221
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eE3r5TCX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t035156z_1_lynxnpek3i03g_rtroptp_3_russia-technology-alphabet-fine.jpg?itok=60EO5-mE" width="1600"/>
   </item>
  </channel>
 </rss>
