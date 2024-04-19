@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 16:20:17 +0800
+   Fri, 19 Apr 2024 16:40:06 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 15:58:44 +0800
+   Fri, 19 Apr 2024 16:23:00 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks end week on a low note
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749614-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749614-20240419.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares sank on Friday as reports said explosions had been heard in Iran and Syria, sparking worries of a region-wide war in the Middle East after last weekend's attack on Israel by Tehran.
+
+The Hang Seng Index fell 0.99 percent, or 161 points, to finish at 16,224. (AFP)]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 16:23:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Don't let blunders affect digitalisation: Sun Dong
@@ -639,27 +658,6 @@ Last updated: 2024-04-18 HKT 12:19]]>
    </description>
    <pubDate>
     Thu, 18 Apr 2024 11:11:37 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks flat at open
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749391-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749391-20240418.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks were barely moved at the beginning of trade on Thursday as investors weighed the outlook for US interest rates while keeping a close eye on developments in the Middle East crisis.
-
-The Hang Seng Index inched up 1.4 points, to 16,253.
-
-The Shanghai Composite Index fell 0.3 percent, or 11.35 points to 3,060, while the Shenzhen Composite Index shed 0.3 percent, or 5.6 points to 1,695. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 09:54:08 +0800
    </pubDate>
   </item>
  </channel>
