@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 16:41:35 +0800
+   Fri, 19 Apr 2024 16:49:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Red Bull won't rush to announce 2025 driver lineup, Horner says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/red-bull-wont-rush-announce-2025-driver-lineup-horner-says-4277786
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 16:43:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/red-bull-wont-rush-announce-2025-driver-lineup-horner-says-4277786
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F-wWpNV8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t084321z_1_lynxnpek3i09o_rtroptp_3_motor-f1-china.jpg?itok=4IzNiuHi" width="1600"/>
+  </item>
   <item>
    <title>
     Man City must use Champions League pain to fuel FA Cup, league title chase, Walker says
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wXF9t2Hs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/000_34pr4dj.jpg?itok=JH_RIBGZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taylor Swift's The Tortured Poets Department is meditative theatre
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/taylor-swifts-tortured-poets-department-review-4277236
-   </link>
-   <description>
-    <![CDATA[The Tortured Poets Department is an amalgamation of Swift's previous works.]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 13:13:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/taylor-swifts-tortured-poets-department-review-4277236
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2Tn2ln1q--/c_crop,h_576,w_1024,x_0,y_177/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/ap24101582748123.jpg?itok=dsI98wbM" width="1600"/>
   </item>
  </channel>
 </rss>
