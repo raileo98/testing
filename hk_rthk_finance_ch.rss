@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 14:40:09 +0800
+   Fri, 19 Apr 2024 15:10:26 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 13:08:28 +0800
+   Fri, 19 Apr 2024 14:51:34 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,65 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股全日跌逾1.6%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749607-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749607-20240419.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市受壓，首爾綜合指數收報2591點，跌42點，跌幅1.63%。
+
+韓股本周累計下跌約3.4%。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 14:51:34 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股重挫逾千點　失守38000點　逾兩個月最低
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749604-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749604-20240419.htm
+   </link>
+   <description>
+    <![CDATA[東京股市急跌。日經指數一度失守37000點，低見36733點，跌近1350點，收市報37068點，是超過兩個月最低，跌1011點，跌幅2.66%。
+
+日經指數本周累計下跌逾6.2%。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 14:50:58 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    台股急跌逾770點　失守20000點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749602-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749602-20240419.htm
+   </link>
+   <description>
+    <![CDATA[中東地緣政局緊張，加上重磅晶片股下挫，拖累台灣股市急跌近4%。
+
+加權指數失守2萬點，收報19527點，創近1個半月以來最低，跌774點，跌幅3.81%。
+
+台股本周累計跌近6%。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 14:41:28 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股下午初段跌幅略為收窄
@@ -401,61 +460,6 @@
    </description>
    <pubDate>
     Fri, 19 Apr 2024 09:08:50 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日本3月全國核心通脹率放緩至2.6%　符合預期
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749555-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749555-20240419.htm
-   </link>
-   <description>
-    <![CDATA[日本政府公布的數據顯示，日本3月全國整體消費者物價指數(CPI)按年上升2.7%。
-
-期內，不包括新鮮食品價格的全國核心CPI按年升2.6%，符合市場預期，升幅較2月的2.8%放緩，因食品價格溫和上升，但仍高過日本央行設定的2%目標。
-
-撇除新鮮食品和能源成本的CPI，3月按年升2.9%，升幅較2月的3.2%放緩，是自2022年11月以來，升幅首次低於3%。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 08:30:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股早段跌逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749554-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749554-20240419.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市在開市初段向下，首爾綜合指數較早時報2593點，跌41點，跌幅1.56%。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 08:17:43 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股初段跌逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749552-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749552-20240419.htm
-   </link>
-   <description>
-    <![CDATA[日本股市在開市初段下跌，日經平均指數較早時報37495點，跌583點，跌幅1.53%。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 08:16:42 +0800
    </pubDate>
   </item>
  </channel>
