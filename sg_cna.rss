@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 05:35:47 +0800
+   Sat, 20 Apr 2024 05:41:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    X owner Musk says opposed to US ban of competitor TikTok
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/x-owner-musk-says-opposed-us-ban-competitor-tiktok-4279151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 05:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/x-owner-musk-says-opposed-us-ban-competitor-tiktok-4279151
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zTorq8-U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/1c8ba4e1ff4deafcf2916fc45fd86866324e3af8.jpg?itok=QhtSkDGW" width="1600"/>
+  </item>
   <item>
    <title>
     Own goal helps Juventus come from two goals down to draw at lowly Cagliari
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RggYZyQS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t171934z_1_lynxnpek3i0q5_rtroptp_3_awards-oscars-governors-awards.jpg?itok=uaBoiOLG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Analysis:Ample oil supplies limit impact of MidEast flare-up on prices
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/analysisample-oil-supplies-limit-impact-mideast-flare-prices-4278851
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 00:57:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/analysisample-oil-supplies-limit-impact-mideast-flare-prices-4278851
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
