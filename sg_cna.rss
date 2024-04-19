@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 18:37:04 +0800
+   Fri, 19 Apr 2024 18:42:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Germany manager Nagelsmann extends contract until 2026
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/germany-manager-nagelsmann-extends-contract-until-2026-4278076
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 18:35:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/germany-manager-nagelsmann-extends-contract-until-2026-4278076
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0GpeK6ZS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t103557z_1_lynxnpek3i0du_rtroptp_3_germany-soccer-nagelsmann.jpg?itok=uwarhNXJ" width="1600"/>
+  </item>
   <item>
    <title>
     Japanese AI tool predicts when recruits will quit jobs
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NRHkwsCK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t083500z_1_lynxnpek3i09h_rtroptp_3_soccer-champions-mci-mad-report.jpg?itok=DfhsICFG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Australian swimmer Titmus in 'hibernation from life' before Paris
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/australian-swimmer-titmus-hibernation-life-paris-4277721
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 16:20:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/australian-swimmer-titmus-hibernation-life-paris-4277721
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B0XrKqmz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t082052z_1_lynxnpek3i08z_rtroptp_3_olympics-2024-swimming-titmus.jpg?itok=vC96WREB" width="1600"/>
   </item>
  </channel>
 </rss>

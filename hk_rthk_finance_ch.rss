@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 18:01:16 +0800
+   Fri, 19 Apr 2024 18:40:48 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 17:42:31 +0800
+   Fri, 19 Apr 2024 18:27:50 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    中國鐵塔上季盈利按年升逾11%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749641-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749641-20240419.htm
+   </link>
+   <description>
+    <![CDATA[中國鐵塔上季盈利按年升逾11%至27.8億元人民幣。
+
+期內，營業收入升逾3%至239.7億元。運營商業務收入升2%至209.8億元，當中，塔類業務收入升近1%至189.5億元。
+
+截至3月底，塔類租戶達到370.1萬戶，較去年底淨增加4.3萬戶。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 18:27:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     中聯通上季盈利按年升9%
@@ -469,25 +490,6 @@
    </description>
    <pubDate>
     Fri, 19 Apr 2024 11:45:10 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股半日跌逾3%　失守37000點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749575-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749575-20240419.htm
-   </link>
-   <description>
-    <![CDATA[日本股市半日跌逾3%，日經平均指數逾兩個月以來首次失守37000點。
-
-指數低見36733點，最多曾跌約1350點，上午收市報36818點，跌1260點，跌幅3.3%。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 10:38:05 +0800
    </pubDate>
   </item>
  </channel>
