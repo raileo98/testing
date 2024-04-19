@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 20 Apr 2024 01:50:34 +0800
+   Sat, 20 Apr 2024 02:20:24 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 16:23:00 +0800
+   Sat, 20 Apr 2024 02:15:14 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Cybertruck recalled over accelerator pedal glitch
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749694-20240420.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749694-20240420.htm
+   </link>
+   <description>
+    <![CDATA[Tesla is recalling 3,878 Cybertruck vehicles because of a defect that can cause unintentional vehicle acceleration, increasing crash risk, according to a US notice posted this week.
+
+Tesla notified the National Highway Traffic Safety Administration on April 17 of the condition in which the accelerator pedal may become trapped on the Cybertruck, Elon Musk's futuristic take on the American pickup truck.
+
+If the accelerator pedal becomes trapped, "the performance and operation of the pedal will be affected, which may increase the risk of a collision," Tesla said in the notice.
+
+Tesla said it was not aware of any collisions or injuries related to the condition. The company will replace or rework the accelerator to address the issue, the company said.
+
+Musk has championed the Cybertruck, declaring at a launch event last November that "Finally, the future will look like the future!"
+
+But the vehicle's use of large flat plates of unbent stainless steel poses challenges in manufacturing. Musk has said it will take time to ramp up production, targeting 2025 as the year when output will reach 250,000 a year.
+
+Earlier this week, Tesla announced it would lay off more than 10 percent of its global workforce as it contends with rising competition among electric vehicle producers and slowing demand growth in some markets. (AFP)]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 02:15:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK stocks end week on a low note
@@ -599,27 +628,6 @@ Last updated: 2024-04-16 HKT 11:08]]>
    </description>
    <pubDate>
     Tue, 16 Apr 2024 10:31:57 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK market opens lower on Middle East jitters
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749069-20240416.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749069-20240416.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks extended the previous day's losses on Tuesday as traders grow increasingly worried about the Middle East crisis, while they are also awaiting the release of Chinese economic growth data.
-
-The Hang Seng Index tumbled 1.4 percent to 16,367.
-
-The Shanghai Composite Index slipped 0.5 percent to 3,043, and the Shenzhen Composite Index fell 0.8 percent to 1,689. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 16 Apr 2024 09:47:31 +0800
    </pubDate>
   </item>
  </channel>
