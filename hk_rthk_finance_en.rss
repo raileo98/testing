@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 10:40:21 +0800
+   Fri, 19 Apr 2024 11:10:35 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 09:56:50 +0800
+   Fri, 19 Apr 2024 11:04:48 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Bankruptcy petitions highest since November
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749577-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749577-20240419.htm
+   </link>
+   <description>
+    <![CDATA[Official data released on Friday showed that the number of bankruptcy petitions in March was at their highest since November last year.
+
+According to the Official Receiver's Office, there were 783 bankruptcy petitions.
+
+That's up nearly 21 percent from February and around 2.8 percent year on year.
+
+The office also received 69 requests to have companies wound up, up around 30 percent from the month before and 41 percent from the same period last year.]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 11:04:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks open with losses
@@ -591,29 +614,6 @@ The city’s bourse may take about two weeks to prepare the funds to be offered,
    </description>
    <pubDate>
     Mon, 15 Apr 2024 21:55:03 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Chek Lap Kok named world's busiest cargo airport
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749020-20240415.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749020-20240415.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong International Airport has been named the world’s busiest cargo airport for 2023 in terms of total volume.
-
-According to the latest data released by Airports Council International, Chek Lap Kok handled 4.3 million tonnes of cargo last year.
-
-It's the 13th time since 2010 that the airport has been named the busiest cargo airport in the world.
- 
-"Air cargo is a key driver of the growth of Hong Kong’s logistics industry and overall economic development," Airport Authority chairman Jack So said, adding that the authority will work with the air cargo community to further strengthen the airport's competitiveness.]]>
-   </description>
-   <pubDate>
-    Mon, 15 Apr 2024 21:28:18 +0800
    </pubDate>
   </item>
  </channel>
