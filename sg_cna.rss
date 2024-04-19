@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 02:36:10 +0800
+   Sat, 20 Apr 2024 02:41:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man sets self on fire outside New York court where Trump trial underway
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/man-sets-self-fire-outside-new-york-court-where-trump-trial-underway-4279036
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 02:40:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/man-sets-self-fire-outside-new-york-court-where-trump-trial-underway-4279036
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ueAT3yBp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t181051z_2_lynxnpek3i0r2_rtroptp_3_usa-trump-new-york-trial.jpg?itok=zzig5Gbo" width="1600"/>
+  </item>
   <item>
    <title>
     Man United hire Wilcox as technical director from Southampton
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoeX7cOX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t144719z_1_lynxnpek3i0lk_rtroptp_3_soccer-champions-bay-ars-report.jpg?itok=i4kF5GPO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Exclusive-India's Ola Cabs plans $500 million IPO, to appoint banks soon, sources say
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/exclusive-indias-ola-cabs-plans-500-million-ipo-appoint-banks-soon-sources-say-4278561
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 22:42:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/exclusive-indias-ola-cabs-plans-500-million-ipo-appoint-banks-soon-sources-say-4278561
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--n19b7zLS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t144231z_2_lynxnpek3i0iy_rtroptp_3_ola-cabs-india-ipo.jpg?itok=XZqZxk4_" width="1600"/>
   </item>
  </channel>
 </rss>
