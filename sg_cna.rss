@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 01:41:14 +0800
+   Sat, 20 Apr 2024 01:46:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    G7 pledges swift aid for Ukraine, seeks to calm Middle East
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/g7-pledges-swift-aid-ukraine-seeks-calm-middle-east-4278921
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 01:45:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/g7-pledges-swift-aid-ukraine-seeks-calm-middle-east-4278921
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ERrlNt9H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t142937z_2_lynxnpek3i0l1_rtroptp_3_g7-italy-foreign.jpg?itok=BU-o0pGx" width="1600"/>
+  </item>
   <item>
    <title>
     Sabalenka knocked out of Stuttgart Open by Vondrousova
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JGKVrLDA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t134727z_1_lynxnpek3i0js_rtroptp_3_soccer-england-eve-cry-report.jpg?itok=89FSQ5Cg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man Utd facing huge challenge in FA Cup semi-final, says Ten Hag
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-utd-facing-huge-challenge-fa-cup-semi-final-says-ten-hag-4278416
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 21:29:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-utd-facing-huge-challenge-fa-cup-semi-final-says-ten-hag-4278416
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fMC28IfS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t132903z_1_lynxnpek3i0j3_rtroptp_3_soccer-england-bou-mun-report.jpg?itok=8bwQz0fX" width="1600"/>
   </item>
  </channel>
 </rss>
