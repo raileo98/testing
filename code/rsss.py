@@ -4,8 +4,8 @@ import urllib.parse
 import html
 
 # 創建一個 niquests 會話
-session = niquests.Session(happy_eyeballs=True)
-# session = niquests.Session()
+# session = niquests.Session(happy_eyeballs=True)
+session = niquests.Session()
 # 設置請求頭部，禁用緩存以獲取最新內容
 session.headers['Cache-Control'] = 'no-cache'
 session.headers['Pragma'] = 'no-cache'
