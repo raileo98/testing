@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 15:26:47 +0800
+   Fri, 19 Apr 2024 15:36:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Aston Martin's Stroll fastest in Chinese Grand Prix practice
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/aston-martins-stroll-fastest-chinese-grand-prix-practice-4277361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 15:31:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/aston-martins-stroll-fastest-chinese-grand-prix-practice-4277361
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nIBmR9Ng--/c_crop,h_450,w_800,x_0,y_52/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t050225z_1_lynxnpek3i04f_rtroptp_3_motor-f1-china.jpg?itok=zaDg2-Ek" width="1600"/>
+  </item>
   <item>
    <title>
     What we know about the reported strike on Iran
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3xdDhIRV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/01/20/img_2353.jpg?itok=Z2nHwhK9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea's SK hynix, Taiwan's TSMC to collaborate on next-gen chips
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sk-hynix-south-korea-taiwan-tsmc-collaborate-next-gen-ai-chips-4277201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 12:11:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sk-hynix-south-korea-taiwan-tsmc-collaborate-next-gen-ai-chips-4277201
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vhHFUIn8--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/semiconductor_chips.jpg?itok=MAfTDVC7" width="1600"/>
   </item>
  </channel>
 </rss>
