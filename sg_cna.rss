@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 11:23:05 +0800
+   Fri, 19 Apr 2024 11:28:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pentagon chief Austin discusses Iran, Gaza aid with Israel's Gallant
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/pentagon-chief-austin-discusses-iran-gaza-aid-israels-gallant-4276971
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 11:23:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/pentagon-chief-austin-discusses-iran-gaza-aid-israels-gallant-4276971
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--baG2xWxy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t013948z_1_lynxnpek3i01b_rtroptp_3_usa-defense-austin.jpg?itok=mAHAarga" width="1600"/>
+  </item>
   <item>
    <title>
     Interactive: How to deal with blurred vision, styes and 'computer eyes'
@@ -357,7 +378,7 @@
   </item>
   <item>
    <title>
-    Israeli missiles hit site in Iran: Report
+    Explosions reported in Isfahan as Iran says it shot down several drones, days after it attacked Israel
    </title>
    <link>
     https://www.channelnewsasia.com/world/israel-hamas-war-missiles-hit-site-iran-report-4277026
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4852PpRa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t010457z_1_lynxnpek3i00y_rtroptp_3_global-oil.jpg?itok=oCXnCddV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Solomon Islands election count underway, China critic Suidani regains seat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/solomon-islands-election-count-underway-china-critic-suidani-regains-seat-4276656
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 09:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/solomon-islands-election-count-underway-china-critic-suidani-regains-seat-4276656
-   </guid>
-   <category>
-    World ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--04bRtR0g--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-18t213228z_1_lynxnpek3h0xb_rtroptp_3_solomon-islands-election.jpg?itok=0Y3YsWLb" width="1600"/>
   </item>
  </channel>
 </rss>
