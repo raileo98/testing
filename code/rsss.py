@@ -53,7 +53,8 @@ feeds = {
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
 }
 
-def process_rss_feed(name, url):
+# 遍歷字典中的每個 RSS 源地址
+for name, url in feeds.items():
     print(f'url: {url}')
 
     # 使用 niquests 發送 HTTP GET 請求到 RSS 源地址
@@ -109,10 +110,6 @@ def process_rss_feed(name, url):
     with open(f'{name}.rss', 'w', encoding='utf-8') as file:
         file.write(root.prettify())
     print(f'url: {url} done!')
-
-# 遍歷字典中的每個 RSS 源地址
-for name, url in feeds.items():
-    process_rss_feed(name, url)
 
 # 輸出完成信息
 print('所有 RSS 源已經輸出到對應的文件中。')
