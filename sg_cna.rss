@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 23:43:23 +0800
+   Fri, 19 Apr 2024 23:51:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Games' broadcaster embracing AI but remains wary of deepfakes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/games-broadcaster-embracing-ai-remains-wary-deepfakes-4278661
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 23:41:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/games-broadcaster-embracing-ai-remains-wary-deepfakes-4278661
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Haaland a doubt for FA Cup semi due to muscle injury, Guardiola says
@@ -336,27 +357,6 @@
   </item>
   <item>
    <title>
-    Man arrested in Paris after threatening to blow himself up at Iran consulate
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
-   </link>
-   <description>
-    <![CDATA[The man had been carrying replica grenades, according to TV channel BFM. ]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 20:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MpKCWQqq--/c_crop,h_900,w_1600,x_0,y_133/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/2024-04-19T131843Z_598850985_RC2O97AQA9B7_RTRMADP_3_FRANCE-SECURITY-IRAN-CONSULATE_0.JPG?itok=qPRA5qDC" width="1600"/>
-  </item>
-  <item>
-   <title>
     Singaporean man suspected of killing woman in Spain appears in court: Reports
    </title>
    <link>
@@ -375,6 +375,27 @@
     Singapore ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yjt4Xh1l--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/audrey_fang_suspected_killer_spain.jpg?itok=-TLVhwbd" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Man arrested in Paris after threatening to blow himself up at Iran consulate
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
+   </link>
+   <description>
+    <![CDATA[The man had been carrying replica grenades, according to TV channel BFM. ]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 20:28:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/iran-consulate-paris-man-threaten-blow-arrested-4278266
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MpKCWQqq--/c_crop,h_900,w_1600,x_0,y_133/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/2024-04-19T131843Z_598850985_RC2O97AQA9B7_RTRMADP_3_FRANCE-SECURITY-IRAN-CONSULATE_0.JPG?itok=qPRA5qDC" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JT3F3cf9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/mount_ruang_erupts_again.jpg?itok=EGEKklKp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Escalating Middle East tensions a fresh jolt to world markets
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/escalating-middle-east-tensions-fresh-jolt-world-markets-4278201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 19:58:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/escalating-middle-east-tensions-fresh-jolt-world-markets-4278201
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F7RIAXV5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t115841z_1_lynxnpek3i0fw_rtroptp_3_global-markets.jpg?itok=nauDnaRD" width="1600"/>
   </item>
  </channel>
 </rss>
