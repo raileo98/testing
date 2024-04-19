@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 19 Apr 2024 11:54:27 +0800
+   Fri, 19 Apr 2024 11:59:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    India's Infosys falls as annual revenue outlook disappoints
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indias-infosys-falls-annual-revenue-outlook-disappoints-4277226
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 11:53:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indias-infosys-falls-annual-revenue-outlook-disappoints-4277226
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ikOw2mzY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t035359z_1_lynxnpek3i03i_rtroptp_3_infosys-stocks.jpg?itok=Gfj9_az-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    UK regulator says Google's ad-privacy changes fall short, WSJ reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/uk-regulator-says-googles-ad-privacy-changes-fall-short-wsj-reports-4277221
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 11:51:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/uk-regulator-says-googles-ad-privacy-changes-fall-short-wsj-reports-4277221
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eE3r5TCX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t035156z_1_lynxnpek3i03g_rtroptp_3_russia-technology-alphabet-fine.jpg?itok=60EO5-mE" width="1600"/>
+  </item>
   <item>
    <title>
     Hamad International Airport in Qatar named world's best airport in 2024, Changi Airport takes 2nd place
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DIERh1cl--/c_crop,h_660,w_1174,x_0,y_101/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/img_1556.jpg?itok=ut7A8AIr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Instant view: Oil, Japan's yen up on reports Israeli missiles hit Iran
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/instant-view-oil-japans-yen-reports-israeli-missiles-hit-iran-4277076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 10:20:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/instant-view-oil-japans-yen-reports-israeli-missiles-hit-iran-4277076
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bWWjQXgf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t022005z_1_lynxnpek3i01z_rtroptp_3_global-oil.jpg?itok=N3SB8MLV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Explosions reported in Isfahan as Iran says it shot down several drones, days after it attacked Israel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-war-missiles-hit-site-iran-report-4277026
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 10:13:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-war-missiles-hit-site-iran-report-4277026
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yvQwJP4C--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-16t152328z_1_lynxnpek3f0mi_rtroptp_3_israel-palestinians-iran-attack-mood.jpg?itok=uhu3rDhm" width="1600"/>
   </item>
  </channel>
 </rss>
