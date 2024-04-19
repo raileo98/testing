@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 19 Apr 2024 12:40:43 +0800
+   Fri, 19 Apr 2024 13:10:09 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 19 Apr 2024 12:28:33 +0800
+   Fri, 19 Apr 2024 13:08:28 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -37,7 +37,7 @@
   </ttl>
   <image>
    <url>
-    <![CDATA[https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fexternal-content.duckduckgo.com%2Fip3%2Fnews.rthk.hk.ico]]>
+    http://rthk.hk/include2010/homepics/images/home_logo.png
    </url>
    <title>
     rthk.hk - 即時新聞: 財經
@@ -46,6 +46,73 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股下午初段跌幅略為收窄
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749597-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749597-20240419.htm
+   </link>
+   <description>
+    <![CDATA[港股下午開市初段跌幅略為收窄，恒生指數較早時報16200點，跌185點，跌幅1.13%。
+
+科技指數報3274點，跌82點，跌幅2.45%。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 13:08:28 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    分析料日本央行短期沒有迫切性加息
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749595-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749595-20240419.htm
+   </link>
+   <description>
+    <![CDATA[日本3月全國整體消費者物價指數(CPI)按年上升2.7%，撇除新鮮食品價格的核心CPI按年升2.6%，符合市場預期，升幅較2月的2.8%放緩。
+
+日本央行總裁植田和男表示，若果日圓下跌推動通脹大幅上升，有可能會再次加息。
+
+獨立外匯分析員陳健豪認為，當前經濟增長未穩定，全球通脹有機會反彈，日本央行短期內沒有迫切性加息。
+
+陳健豪說，有不少日本上市公司以外國業務為主，由於業績以美元計價，日圓疲弱有利公司股價及整體股市表現。不過，他指，美國減息預期降溫，亞洲貨幣蘊釀新一輪貶值潮，加上中東政局及資金獲利回吐，預計日股會經歷一輪明顯調整。他又相信，日圓今年已累跌約9%，估計再大跌空間有限。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 12:53:45 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    分析料未來本港破產申請宗數仍會上升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749584-20240419.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749584-20240419.htm
+   </link>
+   <description>
+    <![CDATA[破產管理署公布，3月提交個人破產呈請有783宗，是去年11月以來最多，按月升近21%，按年升近2.8%。3月強制公司清盤呈請69宗，是2009年7月以來最高，按月升約30%，按年升近41%。
+
+中大商學院亞太工商研究所名譽教研學人李兆波表示，數字上升是預期之內，因為本港經濟復蘇與預期有落差，例如零售業受到港人北上消費影響、金融業中新股上市等亦少於預期。
+
+他認為本港樓市、股市處相對低水平，未來破產申請宗數仍會上升，但未必會升至歷史高位，預測全年破產申請宗數會較去年上升，個人破產宗數會多於去年7860宗，以反映個人或企業面對頗大挑戰。
+
+對於最近有不少餐廳結業，他相信大家已經觀望一段時間，若營運不理想又有借貸，就會決定結業，寧願預留資金。
+
+李兆波說，經濟復蘇不如預期，本港失業率將會微升，零售及餐飲處弱勢，認為經濟要恢復活力需要一段時間，現時經濟的挑戰包括港人北上及利率高企。]]>
+   </description>
+   <pubDate>
+    Fri, 19 Apr 2024 12:42:35 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     本港3月個人申請破產宗數創去年11月以來最高達783宗
@@ -59,7 +126,7 @@
    <description>
     <![CDATA[本港3月破產申請上升，當中個人申請破產宗數創去年11月以來最高，有783宗，強制公司清盤呈請69宗。
 
-有學者說，經濟復蘇與預期有落差，破產申請上升是預期之內，估計將會持續增加，但未必會升至歷史高位。]]>
+有學者說經濟復蘇與預期有落差，破產申請上升是預期之內，估計將會持續增加，但未必會升至歷史高位。]]>
    </description>
    <pubDate>
     Fri, 19 Apr 2024 12:28:33 +0800
@@ -389,75 +456,6 @@
    </description>
    <pubDate>
     Fri, 19 Apr 2024 08:16:42 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Netflix上季新訂戶數量遠超預期　盤後股價跌近5%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749550-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749550-20240419.htm
-   </link>
-   <description>
-    <![CDATA[Netflix公布，上季每股盈利5.28美元，高過市場預期的4.52美元。收入升約15%至93.7億美元，亦好過預期。
-
-上季有933萬名付費訂閱新用戶，幾乎是市場預期的兩倍，連續第2個季度高過預期，受到包含廣告的套餐訂閱增加帶動。全球付費會員總數達2億6960萬，按年增長16%。
-
-公司預計，本季收入94.9億美元，低過市場預期的95.37億美元。
-
-股價在收市後延長交易時段一度升5%，其後曾跌逾7%，較早時跌近5%。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 07:49:53 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    多名聯儲局官員認為不急於減息
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749549-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749549-20240419.htm
-   </link>
-   <description>
-    <![CDATA[多名聯儲局官員認為不急於減息，但對具體開始減息時間意見不一。
-
-紐約聯邦儲備銀行總裁威廉姆斯表示，聯儲局不急於減息，經濟數據將決定時機，今年甚至仍有可能加息。他表示，貨幣政策處於良好位置，目前的利率水平正逐步推動實現目標，因此完全不覺得有減息的迫切性。
-
-亞特蘭大聯儲銀行總裁博斯蒂克表示，減息應該等到臨近年底時。他仍信通脹率正在朝著聯儲局2%的目標前進，如果通脹不似預期，聯儲局需要考慮加息。
-
-明尼亞波利斯聯儲銀行總裁卡什卡利表示，聯儲局需對通脹回落更有信心之後才會減息，他希望保持耐性，第一次減息可能要到明年才會適。
-
-另外，摩根大通總裁平托表示，鑒於通脹水平居高不下，聯儲局今年可能不會減息。他指，聯儲局可能要等更長一段時間才會減息，但加息可能性非常低。他認為當局不會急於採取行動，因為太早減息可能導致經濟衰退。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 07:39:52 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股美國預託證券與本港收市比較個別發展
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749546-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749546-20240419.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)與本港收市比較個別發展。
-
-金融股方面，滙控ADR較本港收市升約1%，友邦則跌約0.5%。
-
-至於科技股，京東ADR較本港收市升近1.7%，阿里巴巴則跌近0.7%。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 06:49:19 +0800
    </pubDate>
   </item>
  </channel>
