@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 02:40:43 +0800
+   Sun, 21 Apr 2024 02:51:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bayern thump Union Berlin as Mueller marks milestone with double
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/bayern-thump-union-berlin-mueller-marks-milestone-double-4280486
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 02:47:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/bayern-thump-union-berlin-mueller-marks-milestone-double-4280486
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    US lawmakers renew controversial surveillance tool
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-lawmakers-renew-controversial-surveillance-tool-4280466
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 02:46:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-lawmakers-renew-controversial-surveillance-tool-4280466
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rweeVX7b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-19t165102z_1_lynxnpek3i0pc_rtroptp_3_usa-congress.jpg?itok=P3iBDyat" width="1600"/>
+  </item>
   <item>
    <title>
     South Korean doctors reject govt proposal to end strike
@@ -418,48 +460,6 @@
     Singapore ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ao9-Tog_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_spain_singapore_killer_mitchell_ong.jpg?itok=rqOPIpsx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hurricanes march on as Auckland give Brumbies the blues
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/hurricanes-march-auckland-give-brumbies-blues-4280061
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 20:25:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/hurricanes-march-auckland-give-brumbies-blues-4280061
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LlsuBUtw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t122547z_1_lynxnpek3j03x_rtroptp_3_rugby-union-wal-aus.jpg?itok=liXwwdIT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Lessons from Nicoll Highway collapse: How SCDF made advancements in training, equipment in last 20 years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/nicoll-highway-collapse-20-years-scdf-dart-rescue-lessons-upgrades-4279306
-   </link>
-   <description>
-    <![CDATA[SCDF has evolved from the lessons learnt through the Nicoll Highway collapse, with advanced equipment and facilities, as well as better training.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 20:05:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/nicoll-highway-collapse-20-years-scdf-dart-rescue-lessons-upgrades-4279306
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mcU-lK66--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/screenshot_343.png?itok=32hlTp_K" width="1600"/>
   </item>
  </channel>
 </rss>
