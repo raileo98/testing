@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 03:23:07 +0800
+   Sun, 21 Apr 2024 03:30:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China says AUKUS risks nuclear proliferation in Pacific
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/china-says-aukus-risks-nuclear-proliferation-pacific-4280021
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 03:23:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/china-says-aukus-risks-nuclear-proliferation-pacific-4280021
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mThuvX55--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/df846a2b7ce8943b042b5b66d280547acdffe80d.jpg?itok=m2cYaXOE" width="1600"/>
+  </item>
   <item>
    <title>
     Angry Man City boss Guardiola lashes out at FA Cup schedule despite victory
@@ -181,6 +202,27 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/late-silva-goal-earns-man-city-1-0-fa-cup-semi-final-win-over-chelsea-4280441
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Napoli's European hopes dimmed by 1-0 loss to Empoli
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/napolis-european-hopes-dimmed-1-0-loss-empoli-4280411
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 02:13:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/napolis-european-hopes-dimmed-1-0-loss-empoli-4280411
    </guid>
    <category>
     Sport
@@ -418,48 +460,6 @@
     Singapore ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d_MVpkfG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_singapore_spain_woman_stabbed_2.jpg?itok=7yMaUwcR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chelsea stun holders Barcelona 1-0 in Women's Champions League semis first leg
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/chelsea-stun-holders-barcelona-1-0-womens-champions-league-semis-first-leg-4280146
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 21:58:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/chelsea-stun-holders-barcelona-1-0-womens-champions-league-semis-first-leg-4280146
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    No rush to win league title for quadruple-chasing PSG, says Luis Enrique
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/no-rush-win-league-title-quadruple-chasing-psg-says-luis-enrique-4280126
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 21:27:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/no-rush-win-league-title-quadruple-chasing-psg-says-luis-enrique-4280126
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d8SAsstm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t132713z_1_lynxnpek3j04i_rtroptp_3_soccer-champions-fcb-psg-report.jpg?itok=zweRC0-F" width="1600"/>
   </item>
  </channel>
 </rss>
