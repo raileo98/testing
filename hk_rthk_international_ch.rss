@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 21 Apr 2024 00:40:37 +0800
+   Sun, 21 Apr 2024 00:50:29 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 00:37:50 +0800
+   Sun, 21 Apr 2024 00:43:50 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日媒稱海上自衛隊兩直升機在伊豆群島附近失聯
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749792-20240421.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749792-20240421.htm
+   </link>
+   <description>
+    <![CDATA[日本傳媒報道，海上自衛隊兩架直升機在伊豆群島附近失聯。]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 00:43:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     世行會議討論改革落實進展　藍佛安稱應提升新興市場代表性
@@ -441,27 +458,6 @@
    </description>
    <pubDate>
     Sat, 20 Apr 2024 05:32:38 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美國白宮未回應以色列襲伊朗報道 　伊朗外長稱擊落飛行器沒傷亡
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749704-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749704-20240420.htm
-   </link>
-   <description>
-    <![CDATA[以色列據報向伊朗發動襲擊，報復早前遭到伊朗無人機和導彈空襲。美國白宮發言人沒有回應報道。另外，美國國務卿布林肯拒絕回應華盛頓事前是否知悉。
-
-伊朗外交部長阿卜杜拉希揚表示，在中部伊斯法罕擊落微型飛行器，並沒有造成任何經濟損失和傷亡。伊朗傳媒報道，在首都德黑蘭，大批人在當地星期五集會，支持伊朗早前向以色列發動襲擊。
-
-聯合國秘書長古特雷斯呼籲立即結束中東地區相互報復的循環。]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 04:51:17 +0800
    </pubDate>
   </item>
  </channel>
