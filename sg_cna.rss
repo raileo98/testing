@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 15:46:34 +0800
+   Sat, 20 Apr 2024 16:24:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    New hospital in Bedok to start some services before 2030 completion: Ong Ye Kung
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/eastern-general-hospital-egh-bedok-north-home-care-services-ong-ye-kung-4279861
+   </link>
+   <description>
+    <![CDATA[Eastern General Hospital (EGH) in Bedok North will be ready in 2030, but some services like "virtual" wards can be expected around 2026.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 16:02:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/eastern-general-hospital-egh-bedok-north-home-care-services-ong-ye-kung-4279861
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CkWsEb0N--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/13/istock-1560100163.jpg?itok=UKLnz34Q" width="1600"/>
+  </item>
   <item>
    <title>
     Hamilton says he had forgotten what it's like to lead
@@ -438,27 +459,6 @@
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wuk7yyK7--/c_crop,h_896,w_1593,x_1,y_148/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/korio_zouk_group.jpg?itok=Vfdqyj56" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Next level music store: We checked out Swee Lee Clarke Quay's vinyl stations, cafe and bar, and more
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/swee-lee-clarke-quay-4271321
-   </link>
-   <description>
-    <![CDATA[Can't get enough of vinyl cafes? Homegrown music retailer Swee Lee has opened a new store at Clarke Quay, where you can sip on coffee or cocktails while listening to vinyl records, create your own music, or simply enjoy live performances – catering to every type of music lover.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 06:44:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/swee-lee-clarke-quay-4271321
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Dining ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Vp9bTRkY--/c_crop,h_843,w_1500,x_0,y_116/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/swee-lee-hero-picture_1.jpg?itok=90Hf6wFB" width="1600"/>
   </item>
  </channel>
 </rss>
