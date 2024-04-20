@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 05:31:55 +0800
+   Sun, 21 Apr 2024 05:41:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arteta proud as Arsenal bounce back to go top of the league
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arteta-proud-arsenal-bounce-back-go-top-league-4280666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 05:35:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arteta-proud-arsenal-bounce-back-go-top-league-4280666
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fj2e04zF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t213510z_1_lynxnpek3j099_rtroptp_3_soccer-england-wlv-ars-report.jpg?itok=LWqWmES5" width="1600"/>
+  </item>
   <item>
    <title>
     Blinken will be the latest top US official to visit China in a bid to keep ties on an even keel
@@ -439,27 +460,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    'Crisis not over' as eruptions at Indonesia's Mount Ruang continue
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/mount-ruang-volcano-eruptions-indonesia-continue-threat-4279961
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 23:25:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/mount-ruang-volcano-eruptions-indonesia-continue-threat-4279961
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rLEnTzWY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/mount_ruang_people_watch.jpg?itok=BWsuE1VQ" width="1600"/>
   </item>
  </channel>
 </rss>
