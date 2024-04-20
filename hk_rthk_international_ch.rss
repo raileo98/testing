@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 21 Apr 2024 04:50:44 +0800
+   Sun, 21 Apr 2024 05:10:33 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 04:35:30 +0800
+   Sun, 21 Apr 2024 05:07:46 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    埃爾多安呼籲盡快在加沙地帶實現永久停火
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749802-20240421.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749802-20240421.htm
+   </link>
+   <description>
+    <![CDATA[土耳其總統埃爾多安呼籲盡快在加沙地帶實現永久停火。
+
+埃爾多安在土耳其伊斯坦布爾會見了巴勒斯坦武裝組織哈馬斯成員，討論在不受阻礙情況下，向加沙提供可持續人道主義援助，以及實現持久和平。
+　
+另外，埃爾多安會見埃及外長舒凱里，雙方就雙邊關係、巴以衝突以及伊朗和以色列的對抗交換意見。]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 05:07:46 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     巴勒斯坦稱以軍在圖勒凱爾姆行動已造成13名巴人死亡
@@ -445,25 +466,6 @@
    </description>
    <pubDate>
     Sat, 20 Apr 2024 09:29:27 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美國軍方稱沒參與針對伊拉克空襲
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749721-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749721-20240420.htm
-   </link>
-   <description>
-    <![CDATA[伊拉克一個軍事基地據報遇襲，美國軍方表示，沒有參與報道中的襲擊。
-
-美國中央司令部在社交平台說，美國當天沒有在伊拉克進行空襲，並補充說，美軍實施空襲的報道「不屬實」。]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 08:54:19 +0800
    </pubDate>
   </item>
  </channel>
