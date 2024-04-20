@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 04:35:47 +0800
+   Sun, 21 Apr 2024 04:45:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arsenal go top of Premier League with dour 2-0 win over Wolves
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arsenal-go-top-premier-league-dour-2-0-win-over-wolves-4280606
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 04:39:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arsenal-go-top-premier-league-dour-2-0-win-over-wolves-4280606
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Rallying-Neuville leads Evans in Croatia Rally
@@ -439,27 +460,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    What we know so far about the killing of a Singaporean woman in Spain
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singaporean-woman-killing-stab-spain-audrey-fang-mitchell-ong-suspect-police-court-4280131
-   </link>
-   <description>
-    <![CDATA[Singaporean Audrey Fang's body was found with 30 stab wounds in the small Spanish town of Abanilla. Her suspected killer Mitchell Ong has been arrested.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 22:18:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singaporean-woman-killing-stab-spain-audrey-fang-mitchell-ong-suspect-police-court-4280131
-   </guid>
-   <category>
-    Singapore ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d_MVpkfG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_singapore_spain_woman_stabbed_2.jpg?itok=7yMaUwcR" width="1600"/>
   </item>
  </channel>
 </rss>
