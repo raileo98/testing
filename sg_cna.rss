@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 01:49:42 +0800
+   Sun, 21 Apr 2024 02:27:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    South Korean doctors reject govt proposal to end strike
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/south-korean-doctors-reject-govt-proposal-end-strike-4280046
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 02:24:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/south-korean-doctors-reject-govt-proposal-end-strike-4280046
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r_52P9w9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/b8d83e570080c4cef5de04b9c86fad79d2fd3946.jpg?itok=ch_aR5QN" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Erdogan meets Hamas leader in Türkiye, discusses efforts for regional peace
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/erdogan-meets-hamas-leader-turkiye-discusses-efforts-regional-peace-4280366
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 01:51:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/erdogan-meets-hamas-leader-turkiye-discusses-efforts-regional-peace-4280366
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4yBoldhJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t155759z_1_lynxnpek3j05j_rtroptp_3_israel-palestinians-turkey-hamas.jpg?itok=mYlRIb57" width="1600"/>
+  </item>
   <item>
    <title>
     Leicester take big step towards promotion to Premier League
@@ -418,48 +460,6 @@
     Japan Hour
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BthDZ8Lc--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/ep_15_pix_1.png?itok=L6Jz1DXR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    F1 stewards dismiss Aston Martin protest
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/f1-stewards-dismiss-aston-martin-protest-4280006
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 18:58:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/f1-stewards-dismiss-aston-martin-protest-4280006
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y5WL-P-u--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t105808z_1_lynxnpek3j03e_rtroptp_3_motor-f1-china.jpg?itok=G9ZxKfc8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    20 years after Nicoll Highway collapse, construction industry stresses regular updates on safety protocols
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/nicoll-highway-collapse-20-years-construction-industry-safety-protocols-4279366
-   </link>
-   <description>
-    <![CDATA[In the two decades since the tragedy, regular updates to safety protocols are now a mainstay in the construction industry.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 18:25:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/nicoll-highway-collapse-20-years-construction-industry-safety-protocols-4279366
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5Bx8ncnC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/nicholl_highway_collapse_1_overview_scdf.jpg?itok=fSLrHdPl" width="1600"/>
   </item>
  </channel>
 </rss>
