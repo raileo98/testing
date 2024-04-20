@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 05:25:05 +0800
+   Sun, 21 Apr 2024 05:31:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blinken will be the latest top US official to visit China in a bid to keep ties on an even keel
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/blinken-will-be-latest-top-us-official-visit-china-bid-keep-ties-even-keel-4280406
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 05:29:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/blinken-will-be-latest-top-us-official-visit-china-bid-keep-ties-even-keel-4280406
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x0urXHV9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t180215z_1_lynxnpek3j073_rtroptp_3_usa-china-blinken.jpg?itok=Gb_2dNjy" width="1600"/>
+  </item>
   <item>
    <title>
     US House passes $95 billion Ukraine, Taiwan, Israel aid package, sends to Senate
@@ -439,27 +460,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rLEnTzWY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/mount_ruang_people_watch.jpg?itok=BWsuE1VQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former Wimbledon and French Open champion Muguruza retires
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/former-wimbledon-and-french-open-champion-muguruza-retires-4280191
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 23:10:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/former-wimbledon-and-french-open-champion-muguruza-retires-4280191
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HLEtu4R4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t151037z_1_lynxnpek3j04y_rtroptp_3_tennis-ausopen.jpg?itok=U1zFnXQm" width="1600"/>
   </item>
  </channel>
 </rss>
