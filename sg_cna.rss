@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 18:25:23 +0800
+   Sat, 20 Apr 2024 18:33:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    20 years after Nicolle Highway collapse, construction industry stresses regular updates on safety protocols
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/nicoll-highway-collapse-20-years-construction-industry-safety-protocols-4279366
+   </link>
+   <description>
+    <![CDATA[In the two decades since the tragedy, regular updates to safety protocols are now a mainstay in the construction industry.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 18:25:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/nicoll-highway-collapse-20-years-construction-industry-safety-protocols-4279366
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5Bx8ncnC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/nicholl_highway_collapse_1_overview_scdf.jpg?itok=fSLrHdPl" width="1600"/>
+  </item>
   <item>
    <title>
     Vivian Balakrishnan, Tan Wu Meng among MPs who received extortion letters with fake photos
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6nJ9w4eP--/c_crop,h_900,w_1600,x_0,y_11/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/kim_lim_dubai_floods.jpg?itok=r0aAk9hz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Defunct sandwich cafe Korio makes limited-time comeback with pop-up at Zouk Group-owned Here Kitty Kitty bar
-   </title>
-   <link>
-    https://www.channelnewsasia.com/dining/sandwich-cafe-korio-comeback-popup-zouk-group-bar-here-kitty-kitty-4276986
-   </link>
-   <description>
-    <![CDATA[“When I heard it was closing I slid into their DMs,” said Zouk Group CEO Andrew Li, who collaborates with Korio’s owners for a three-week pop-up at the group’s speakeasy cocktail bar Here Kitty Kitty.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 06:45:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/dining/sandwich-cafe-korio-comeback-popup-zouk-group-bar-here-kitty-kitty-4276986
-   </guid>
-   <category>
-    Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wuk7yyK7--/c_crop,h_896,w_1593,x_1,y_148/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/korio_zouk_group.jpg?itok=Vfdqyj56" width="1600"/>
   </item>
  </channel>
 </rss>
