@@ -49,11 +49,14 @@ feeds = {
     'hk_newsGovHK_2425budget': 'https://www.news.gov.hk/tc/categories/24-25budget/html/articlelist.rss.xml',
     'hk_newsGovHK_nationalSecurity': 'https://www.news.gov.hk/tc/categories/nationalsecurity/html/articlelist.rss.xml',
     'hk_newsGovHK_clarification': 'https://www.news.gov.hk/tc/categories/clarification/html/articlelist.rss.xml',
+    # 'hk_hkfeature': 'https://hkfeature.com/feed/',
     # 'hk_uBeat': 'https://ubeat.com.cuhk.edu.hk/feed/',
     # 'hk_cusp': 'https://cusp.hk/?feed=rss2',
+    # 'hk_hkfp': 'https://www.hongkongfp.com/feed/',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
     # 'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
+    # 'uk_pointsMedia': 'https://points-media.com/feed/',
 }
 
 # 遍歷字典中的每個 RSS 源地址
