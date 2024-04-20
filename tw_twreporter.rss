@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Fri, 19 Apr 2024 17:00:03 GMT
+   Sat, 20 Apr 2024 17:00:12 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    詹育杰／真相與奇觀：法醫鑑識風格影像的媒體映照
+   </title>
+   <description>
+    <![CDATA[屍體倒臥雪地的電影劇照、巨大的抹香鯨擱淺雕塑照、身首異處的斷頭古樹照⋯⋯這類看似客觀卻無疑是奇觀的「類」新聞畫面，為何總是成功吸睛？與上世紀興起的法醫鑑識攝影有何關聯？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-truth-and-spectacle-forensic-style-tragedy-imagery
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-truth-and-spectacle-forensic-style-tragedy-imagery
+   </guid>
+   <pubDate>
+    Sat, 20 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240418145112-aed004e7cfa72f969f6bb95b61252158-mobile.jpg"/>
+  </item>
   <item>
    <title>
     林孟皇／老師可以搜查學生書包嗎？從《失控教室》談管教權的界線拿捏
@@ -144,24 +162,6 @@
   </item>
   <item>
    <title>
-    非洲深處的人道警鐘──剛果的種族戰禍，為何將讓不聞問的世界付出代價？
-   </title>
-   <description>
-    <![CDATA[在非洲中部的心臟地區，剛果民主共和國的叛亂戰火，正掀起嚴重人道危機──710多萬難民逃離家園、234萬人遭遇斷糧危機。無國界醫生擔心，這場武裝衝突的瘟疫風險，恐怕將撼動全世界。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/photo-africa-ethnic-conflict-in-congo
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/photo-africa-ethnic-conflict-in-congo
-   </guid>
-   <pubDate>
-    Sat, 13 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240408163047-587d11dac3f827e91228c6b896d038f9-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     伊朗空襲以色列：300枚導彈無人機突襲，以伊首度正面衝突不再玩代理戰爭
    </title>
    <description>
@@ -180,6 +180,24 @@
   </item>
   <item>
    <title>
+    非洲深處的人道警鐘──剛果的種族戰禍，為何將讓不聞問的世界付出代價？
+   </title>
+   <description>
+    <![CDATA[在非洲中部的心臟地區，剛果民主共和國的叛亂戰火，正掀起嚴重人道危機──710多萬難民逃離家園、234萬人遭遇斷糧危機。無國界醫生擔心，這場武裝衝突的瘟疫風險，恐怕將撼動全世界。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-africa-ethnic-conflict-in-congo
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-africa-ethnic-conflict-in-congo
+   </guid>
+   <pubDate>
+    Sat, 13 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240408163047-587d11dac3f827e91228c6b896d038f9-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
     陳子軒／運動媒體的戰國時代下，中職與轉播權的分進與合擊
    </title>
    <description>
@@ -195,24 +213,6 @@
     Fri, 12 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240411113504-4e9be96d2c05119cd23b49ef5c0afeae-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    3,244次入金紀錄、4個錢包收款2,900萬：揭露「創意私房」虛擬貨幣非法金流
-   </title>
-   <description>
-    <![CDATA[因黃子佼案為大眾所知的性私密影像平台「創意私房」為何在檢警調查下不斷重生？《報導者》與XREX合作發起幣流追蹤，試圖揭露創意私房如何藏身於虛擬貨幣的不法金流⋯⋯]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/chuangyi-sifang-forum-illicit-financial-flows
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/chuangyi-sifang-forum-illicit-financial-flows
-   </guid>
-   <pubDate>
-    Thu, 11 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412212224-9eaded73cb3cb05262f13dc6ad615080-mobile.jpg"/>
   </item>
  </channel>
 </rss>
