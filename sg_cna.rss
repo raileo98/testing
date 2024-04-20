@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 12:12:23 +0800
+   Sat, 20 Apr 2024 12:21:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tesla's Elon Musk postpones India trip, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/teslas-elon-musk-postpones-india-trip-sources-say-4279666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 12:13:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/teslas-elon-musk-postpones-india-trip-sources-say-4279666
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oyx3tSQd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t040947z_1_lynxnpek3j00x_rtroptp_3_tesla-india-musk.jpg?itok=wvD6DNKg" width="1600"/>
+  </item>
   <item>
    <title>
     Cartier revives the Tortue, debuts dual time Santos and new animal jewellery watches
@@ -438,27 +459,6 @@
     Obsessions ,CNA Luxury ,Living ,Remarkable Living
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z8IPnNY0--/c_crop,h_843,w_1500,x_0,y_141/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/hero_luxury_home_tour_singapore_super_penthouse_architect_edmund_ng.jpg?itok=Tl4ygKHb" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Why Singaporeans are less likely to quit when they work from home
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/flexi-work-arrangement-guidelines-companies-adapt-retain-workers-4275726
-   </link>
-   <description>
-    <![CDATA[When employees feel their work arrangements support their personal and family goals, they thrive and companies retain their valuable talent, says SUSS’ Ada Wong.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/flexi-work-arrangement-guidelines-companies-adapt-retain-workers-4275726
-   </guid>
-   <category>
-    Commentary ,Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--n1RTJ6zW--/c_fill,h_900,w_1600/f_auto,q_auto/cbd-09---file-photo-data.jpg?itok=ZNcvYaNk" width="1600"/>
   </item>
  </channel>
 </rss>
