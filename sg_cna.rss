@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 09:55:14 +0800
+   Sat, 20 Apr 2024 10:26:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Personal information of parents, staff at 127 schools accessed in data security breach
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/mobile-guardian-data-breach-leak-email-names-personal-info-moe-4279521
+   </link>
+   <description>
+    <![CDATA[The incident concerns Mobile Guardian, a device management app installed on personal learning devices used by students, like iPads and Google Chromebooks.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 10:01:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/mobile-guardian-data-breach-leak-email-names-personal-info-moe-4279521
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2q7yE6qy--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/istock-1472024368.jpg?itok=Suu_TdZ4" width="1600"/>
+  </item>
   <item>
    <title>
     Billionaire heiress Kim Lim recounts being stuck in a car for 8 hours during the Dubai floods
@@ -438,27 +459,6 @@
     Commentary
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---aD-JMwO--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/000_sapa970221243590.jpg?itok=36UEkIZU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Dupes have become more popular with young consumers. Are they really a good bargain?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cna-insider/dupes-clothes-electronics-cheaper-better-branded-cosmetics-gen-z-4277556
-   </link>
-   <description>
-    <![CDATA[Dupes, short for duplicates, are not quite copies of branded items. But that is not stopping what seems to be a growing consumption trend. The programme Talking Point delves into dupe culture and puts some products to the test.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cna-insider/dupes-clothes-electronics-cheaper-better-branded-cosmetics-gen-z-4277556
-   </guid>
-   <category>
-    CNA Insider ,Singapore ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tjzLeeva--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/Picture0.jpg?itok=WxkfmYCe" width="1600"/>
   </item>
  </channel>
 </rss>
