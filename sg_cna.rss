@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 22:55:39 +0800
+   Sat, 20 Apr 2024 23:16:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Former Wimbledon and French Open champion Muguruza retires
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/former-wimbledon-and-french-open-champion-muguruza-retires-4280191
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 23:10:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/former-wimbledon-and-french-open-champion-muguruza-retires-4280191
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HLEtu4R4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t151037z_1_lynxnpek3j04y_rtroptp_3_tennis-ausopen.jpg?itok=U1zFnXQm" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Ruud marches past Etcheverry into Barcelona final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ruud-marches-past-etcheverry-barcelona-final-4280176
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 22:54:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ruud-marches-past-etcheverry-barcelona-final-4280176
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--idJdQkJF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t145420z_1_lynxnpek3j04v_rtroptp_3_tennis-montecarlo.jpg?itok=0qUEamJC" width="1600"/>
+  </item>
   <item>
    <title>
     What we know so far about the killing of a Singaporean woman in Spain
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ht6qUQ3o--/c_crop,h_532,w_947,x_17,y_17/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/screenshot_330.png?itok=AOwkPoh9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore kayaker Stephenie Chen punches ticket to Paris Olympics
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/qualify-paris-olympic-games-stephenie-chen-kayak-team-singapore-4279771
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 13:01:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/qualify-paris-olympic-games-stephenie-chen-kayak-team-singapore-4279771
-   </guid>
-   <category>
-    Sport ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f0ECRGZK--/c_crop,h_900,w_1600,x_0,y_78/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/03/20231003_canoe_pj_003.jpeg?itok=uiUmzK1T" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore kayaker Stephenie Chen punches ticket to Paris Olympics
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/qualify-paris-olympic-games-stephenie-chen-kayak-team-singapore-4279771
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 13:01:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/qualify-paris-olympic-games-stephenie-chen-kayak-team-singapore-4279771
-   </guid>
-   <category>
-    Sport ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f0ECRGZK--/c_crop,h_900,w_1600,x_0,y_78/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/03/20231003_canoe_pj_003.jpeg?itok=uiUmzK1T" width="1600"/>
   </item>
  </channel>
 </rss>
