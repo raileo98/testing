@@ -3,14 +3,6 @@ from bs4 import BeautifulSoup, CData
 import urllib.parse
 import html
 
-# 創建一個 niquests 會話
-# session = niquests.Session(happy_eyeballs=True)
-session = niquests.Session()
-# 設置請求頭部，禁用緩存以獲取最新內容
-session.headers['Cache-Control'] = 'no-cache'
-session.headers['Pragma'] = 'no-cache'
-session.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; rv:124.0) Gecko/20100101 Firefox/124.0'
-
 # RSS 源地址
 feeds = {
     'tw_pts': 'http://localhost:1200/pts',
@@ -62,6 +54,14 @@ feeds = {
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
     # 'uk_pointsMedia': 'https://points-media.com/feed/',
 }
+
+# 創建一個 niquests 會話
+# session = niquests.Session(happy_eyeballs=True)
+session = niquests.Session()
+# 設置請求頭部，禁用緩存以獲取最新內容
+session.headers['Cache-Control'] = 'no-cache'
+session.headers['Pragma'] = 'no-cache'
+session.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; rv:124.0) Gecko/20100101 Firefox/124.0'
 
 # 遍歷字典中的每個 RSS 源地址
 for name, url in feeds.items():
