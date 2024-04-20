@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 22:17:17 +0800
+   Sat, 20 Apr 2024 22:27:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    What we know so far about the killing of a Singaporean woman in Spain
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singaporean-woman-killing-stab-spain-audrey-fang-mitchell-ong-suspect-police-court-4280131
+   </link>
+   <description>
+    <![CDATA[Audrey Fang's body was found with 30 stab wounds in the small Spanish town of Abanilla. Her suspected killer, Singaporean Mitchell Ong, has been arrested.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 22:18:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singaporean-woman-killing-stab-spain-audrey-fang-mitchell-ong-suspect-police-court-4280131
+   </guid>
+   <category>
+    Singapore ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yjt4Xh1l--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/audrey_fang_suspected_killer_spain.jpg?itok=-TLVhwbd" width="1600"/>
+  </item>
+  <item>
+   <title>
+    What we know so far about the killing of a Singaporean woman in Spain
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singaporean-woman-killing-stab-spain-audrey-fang-mitchell-ong-suspect-police-court-4280131
+   </link>
+   <description>
+    <![CDATA[Audrey Fang's body was found with 30 stab wounds in the small Spanish town of Abanilla. Her suspected killer, Singaporean Mitchell Ong, has been arrested.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 22:18:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singaporean-woman-killing-stab-spain-audrey-fang-mitchell-ong-suspect-police-court-4280131
+   </guid>
+   <category>
+    Singapore ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yjt4Xh1l--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/audrey_fang_suspected_killer_spain.jpg?itok=-TLVhwbd" width="1600"/>
+  </item>
   <item>
    <title>
     Chelsea stun holders Barcelona 1-0 in Women's Champions League semis first leg
@@ -417,48 +459,6 @@
     Sport ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f0ECRGZK--/c_crop,h_900,w_1600,x_0,y_78/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/03/20231003_canoe_pj_003.jpeg?itok=uiUmzK1T" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rahul can play himself into World Cup spot with IPL heroics, says Uthappa
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/rahul-can-play-himself-world-cup-spot-ipl-heroics-says-uthappa-4279711
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 12:35:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/rahul-can-play-himself-world-cup-spot-ipl-heroics-says-uthappa-4279711
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OSsHUEN---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t043515z_1_lynxnpek3j010_rtroptp_3_cricket-test-ind-eng.jpg?itok=TXpTSonj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Roma unhappy with rescheduling of interrupted Udinese match
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/roma-unhappy-rescheduling-interrupted-udinese-match-4279696
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 12:28:26 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/roma-unhappy-rescheduling-interrupted-udinese-match-4279696
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gbx8Xeph--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t042826z_1_lynxnpek3j00z_rtroptp_3_soccer-italy-udi-rom-report.jpg?itok=tCcWSbL-" width="1600"/>
   </item>
  </channel>
 </rss>
