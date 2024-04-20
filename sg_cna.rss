@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 04:45:56 +0800
+   Sun, 21 Apr 2024 04:51:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US House passes $95 billion Ukraine, Taiwan, Israel aid package, sends to Senate
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-house-passes-95-billion-ukraine-taiwan-israel-aid-package-sends-senate-4280596
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 04:46:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-house-passes-95-billion-ukraine-taiwan-israel-aid-package-sends-senate-4280596
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4bysIOLW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t184137z_1_lynxnpek3j07l_rtroptp_3_usa-congress-ukraine.jpg?itok=lU9AEFwf" width="1600"/>
+  </item>
   <item>
    <title>
     Arsenal go top of Premier League with dour 2-0 win over Wolves
@@ -439,27 +460,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HLEtu4R4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t151037z_1_lynxnpek3j04y_rtroptp_3_tennis-ausopen.jpg?itok=U1zFnXQm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tsitsipas overcomes Lajovic and faces Ruud in Barcelona final
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/tsitsipas-overcomes-lajovic-and-faces-ruud-barcelona-final-4280176
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 22:54:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/tsitsipas-overcomes-lajovic-and-faces-ruud-barcelona-final-4280176
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
