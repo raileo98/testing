@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 20 Apr 2024 17:30:36 +0800
+   Sat, 20 Apr 2024 17:40:04 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 20 Apr 2024 15:59:23 +0800
+   Sat, 20 Apr 2024 17:37:42 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    福島核電站有核污水儲存罐內層腐蝕　東電稱設備老化屬自然現象
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749769-20240420.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749769-20240420.htm
+   </link>
+   <description>
+    <![CDATA[日本東京電力公司福島第一核電站部分用於儲存核污水的儲水罐，內部表層被發現腐蝕。
+
+東電自去年8月向海洋排放核污水。共同社報道，公司上月檢查已經完全排走核污水的3個儲水罐時，確認罐內層底部腐蝕，塗層有脫落現象。儲水罐約有1000個，設置超過十年。東電負責人說隨時間過去，設備老化是自然現象，承諾繼續檢查及維護儲水罐。
+
+在北京，外交部發言人回應東電核染水排海的提問時指事關全人類健康、全球海洋環境、國際公共利益，日方應嚴肅看待國內外正當合理關注，中方敦促日方全面配合建立周邊鄰國等利益攸關方實質參與、獨立、有效的長期國際監測安排，防止核污染水排海造成不可挽回的後果。]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 17:37:42 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     紐約曼哈頓法院外自焚漢死亡　目擊者指事前曾取出涉陰謀論單張
@@ -442,27 +463,6 @@
    </description>
    <pubDate>
     Sat, 20 Apr 2024 00:10:41 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    菲律賓證實3名菲籍工人在阿聯酋暴雨中喪生
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749687-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749687-20240419.htm
-   </link>
-   <description>
-    <![CDATA[阿聯酋日前暴雨成災，菲律賓政府證實，有3名菲籍工人喪生，令這場洪災導致的死亡人數增至最少4人。
-
-菲律賓移工部門表示，迪拜有兩名女子在車內遇到洪水，最終窒息而死，沙迦就有一名男子的汽車墮坑，重傷不治。
-
-迪拜國際機場的運作仍未恢復正常，機場發言人表示，需要暫時限制入境航班數量至星期日中午，出發航班不受影響。]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 23:17:04 +0800
    </pubDate>
   </item>
  </channel>
