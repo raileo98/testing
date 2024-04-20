@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 20:36:46 +0800
+   Sat, 20 Apr 2024 20:54:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Singaporean man suspected of killing woman in Spain identified as Mitchell Ong: Report
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singaporean-man-mitchell-ong-suspect-killing-woman-audrey-fang-spain-identified-4280031
+   </link>
+   <description>
+    <![CDATA[Police have proven that mobile phones belonging to Ms Audrey Fang and her suspected killer were together in Abanilla on the day she was found dead with 30 stab wounds, according to a Spanish media report.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 20:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singaporean-man-mitchell-ong-suspect-killing-woman-audrey-fang-spain-identified-4280031
+   </guid>
+   <category>
+    Singapore ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ao9-Tog_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_spain_singapore_killer_mitchell_ong.jpg?itok=rqOPIpsx" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Singaporean man suspected of killing woman in Spain identified as Mitchell Ong: Report
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singaporean-man-mitchell-ong-suspect-killing-woman-audrey-fang-spain-identified-4280031
+   </link>
+   <description>
+    <![CDATA[Police have proven that mobile phones belonging to Ms Audrey Fang and her suspected killer were together in Abanilla on the day she was found dead with 30 stab wounds, according to a Spanish media report.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 20:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singaporean-man-mitchell-ong-suspect-killing-woman-audrey-fang-spain-identified-4280031
+   </guid>
+   <category>
+    Singapore ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ao9-Tog_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_spain_singapore_killer_mitchell_ong.jpg?itok=rqOPIpsx" width="1600"/>
+  </item>
   <item>
    <title>
     Hurricanes march on as Auckland give Brumbies the blues
@@ -417,48 +459,6 @@
     Obsessions ,Style &amp; Beauty ,CNA Luxury
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FAjOm9yu--/c_crop,h_900,w_1600,x_0,y_32/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/cartier_prive_tortue_watches_wonders_2024.jpg?itok=mmDAGq19" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cartier revives the Tortue, debuts dual time Santos and new animal jewellery watches
-   </title>
-   <link>
-    https://www.channelnewsasia.com/obsessions/cartier-tortue-santos-watches-and-wonders-2024-4277451
-   </link>
-   <description>
-    <![CDATA[Here are the highlights from Cartier’s Watches & Wonders 2024 offerings.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 11:53:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/obsessions/cartier-tortue-santos-watches-and-wonders-2024-4277451
-   </guid>
-   <category>
-    Obsessions ,Style &amp; Beauty ,CNA Luxury
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FAjOm9yu--/c_crop,h_900,w_1600,x_0,y_32/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/cartier_prive_tortue_watches_wonders_2024.jpg?itok=mmDAGq19" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Verstappen wins Chinese GP sprint race
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/verstappen-wins-first-sprint-race-f1-season-4279641
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 11:50:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/verstappen-wins-first-sprint-race-f1-season-4279641
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WoJssC8o--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t035012z_1_lynxnpek3j00q_rtroptp_3_motor-f1-china.jpg?itok=XYofnjO2" width="1600"/>
   </item>
  </channel>
 </rss>
