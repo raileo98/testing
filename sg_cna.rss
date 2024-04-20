@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 21:52:03 +0800
+   Sat, 20 Apr 2024 22:17:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Chelsea stun holders Barcelona 1-0 in Women's Champions League semis first leg
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/chelsea-stun-holders-barcelona-1-0-womens-champions-league-semis-first-leg-4280146
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 21:58:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/chelsea-stun-holders-barcelona-1-0-womens-champions-league-semis-first-leg-4280146
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     No rush to win league title for quadruple-chasing PSG, says Luis Enrique
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gbx8Xeph--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t042826z_1_lynxnpek3j00z_rtroptp_3_soccer-italy-udi-rom-report.jpg?itok=tCcWSbL-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tesla's Elon Musk postpones India trip, aims to visit this year
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/teslas-elon-musk-postpones-india-trip-aims-visit-year-4279666
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 12:13:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/teslas-elon-musk-postpones-india-trip-aims-visit-year-4279666
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oyx3tSQd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t040947z_1_lynxnpek3j00x_rtroptp_3_tesla-india-musk.jpg?itok=wvD6DNKg" width="1600"/>
   </item>
  </channel>
 </rss>
