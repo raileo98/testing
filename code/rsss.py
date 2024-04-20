@@ -53,6 +53,7 @@ feeds = {
     # 'hk_uBeat': 'https://ubeat.com.cuhk.edu.hk/feed/',
     # 'hk_cusp': 'https://cusp.hk/?feed=rss2',
     # 'hk_hkfp': 'https://www.hongkongfp.com/feed/',
+    'hk_theWitness': 'https://thewitnesshk.com/feed/',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
     # 'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
