@@ -56,6 +56,7 @@ feeds = {
     'hk_theWitness': 'https://thewitnesshk.com/feed/',
     # 'hk_hkbuFactCheck': 'https://factcheck.hkbu.edu.hk/home/feed/',
     'hk_factCheckLab': 'https://www.factchecklab.org/rss/',
+    'hk_factCheckLab.morss': 'https://morss.it/https://www.factchecklab.org/rss/',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
     # 'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
