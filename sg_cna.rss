@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 23:56:03 +0800
+   Sun, 21 Apr 2024 00:21:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Brentford thump Luton 5-1 to move 10 points clear of drop zone
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/brentford-thump-luton-5-1-move-10-points-clear-drop-zone-4280276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 00:12:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/brentford-thump-luton-5-1-move-10-points-clear-drop-zone-4280276
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    SM Teo visiting Germany for launch of Singapore's 4th Invincible-class submarine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/senior-minister-teo-chee-hean-visit-germany-launch-invincible-class-submarine-inimitable-4280251
+   </link>
+   <description>
+    <![CDATA[Singapore's second and third Invincible-class submarines were launched in December 2022 in Germany.]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 23:57:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/senior-minister-teo-chee-hean-visit-germany-launch-invincible-class-submarine-inimitable-4280251
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yK6jcFI---/c_crop,h_574,w_1021,x_1,y_86/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/01/10/singapore_submarine_2.jpg?itok=KGzXyZuv" width="1600"/>
+  </item>
   <item>
    <title>
     Swiatek's three in a row Stuttgart bid ended by Rybakina
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yIGv1Y5D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t083928z_1_lynxnpek3j02d_rtroptp_3_motor-f1-china.jpg?itok=Lg8yVsBw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New hospital in Bedok to start some services before 2030 completion: Ong Ye Kung
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/eastern-general-hospital-egh-bedok-north-home-care-services-ong-ye-kung-4279861
-   </link>
-   <description>
-    <![CDATA[Eastern General Hospital (EGH) in Bedok North will be ready in 2030, but some services like "virtual" wards can be expected around 2026.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 16:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/eastern-general-hospital-egh-bedok-north-home-care-services-ong-ye-kung-4279861
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YsPXvTpV--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/eastern_general_hospital.png?itok=gp3a43j9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hamilton second in sprint but qualifies 18th for Chinese GP
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/hamilton-second-sprint-qualifies-18th-chinese-gp-4279841
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 14:07:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/hamilton-second-sprint-qualifies-18th-chinese-gp-4279841
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
