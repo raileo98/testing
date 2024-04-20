@@ -49,6 +49,8 @@ feeds = {
     # 'hk_hkbuFactCheck': 'https://factcheck.hkbu.edu.hk/home/feed/',
     'hk_factCheckLab': 'https://www.factchecklab.org/rss/',
     'hk_factCheckLab.morss': 'https://morss.it/https://www.factchecklab.org/rss/',
+    'hk_inmedia': 'https://www.inmediahk.net/rss.xml',
+    'hk_inmedia.morss': 'https://morss.it/https://www.inmediahk.net/rss.xml',
     'mo_tdm': 'https://cdn.tdm.com.mo/xml/rss/zh_news.xml',
     # 'mo_aamacau': 'https://aamacau.com/topics/breakingnews/feed/', # https://aamacau.com/feed/
     'kr_kbs': 'http://localhost:1200/kbs/news/all/c',
