@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 01:36:14 +0800
+   Sun, 21 Apr 2024 01:42:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Leicester take big step towards promotion to Premier League
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leicester-take-big-step-towards-promotion-premier-league-4280356
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 01:35:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leicester-take-big-step-towards-promotion-premier-league-4280356
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Burnley raise survival hopes with 4-1 win at bottom side Sheffield United
@@ -439,27 +460,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5Bx8ncnC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/nicholl_highway_collapse_1_overview_scdf.jpg?itok=fSLrHdPl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Vivian Balakrishnan, Tan Wu Meng among MPs who received extortion letters with fake obscene photos
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mps-extortion-letters-fake-photos-vivian-balakrishnan-tan-wu-meng-edward-chia-police-4279921
-   </link>
-   <description>
-    <![CDATA[The police say that they have received over 70 reports from victims who were sent extortion letters containing manipulated obscene photos of themselves.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 17:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mps-extortion-letters-fake-photos-vivian-balakrishnan-tan-wu-meng-edward-chia-police-4279921
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JEDx8cmy--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/istock-1080432638.jpg?itok=dwi_Sx8U" width="1600"/>
   </item>
  </channel>
 </rss>
