@@ -26,7 +26,7 @@
    Ghost 5.58
   </generator>
   <lastBuildDate>
-   Sat, 20 Apr 2024 19:58:54 GMT
+   Sat, 20 Apr 2024 20:23:59 GMT
   </lastBuildDate>
   <atom:link href="https://www.factchecklab.org/rss/" rel="self" type="application/rss+xml"/>
   <ttl>
@@ -82,6 +82,57 @@
 
 &lt;div class="post-content" morss_own_score="5.595854922279793" morss_score="61.59585492227979"&gt;
 &lt;p&gt;Google搜尋是事實查核工作不可或缺的工具之一，當我們面對大量資訊時，如何可以快速準確找到所需信息更為重要。Google search operator就是一個更加有效的方式，幫助我們找到相關資料並確認其真偽。&lt;/p&gt;&lt;p&gt;「Google search operator」一般翻譯為「搜尋運算子」，可理解為語法或指令，是指在Google搜尋時使用特定符號或關鍵字，以限定搜尋範圍，從而更加、精準地找到所需的資訊。以下為大家介紹一些常用的Google search operator，讓搜尋工作能夠事半功倍。&lt;/p&gt;&lt;a href="https://www.factchecklab.org/subscription"&gt;訂閱支持 Factcheck Lab 運作&lt;/a&gt;&lt;h1&gt;特定網站搜尋&lt;/h1&gt;&lt;p&gt;「site:」用於搜尋特定網站內的資訊，可在「&lt;strong&gt;site:&lt;/strong&gt;」後輸入網站域名，另配合關鍵詞一拼搜尋。例如你想搜尋香港政府網站提及「口罩」的資訊，可以在搜尋欄內輸入「口罩 site:gov.hk」（不含引號），Google就會列出港府網站內包含該關鍵字的搜尋結果。&lt;/p&gt;&lt;p&gt;若希望將搜尋進一步收窄至由個別部門，例如衞生防護中心發佈的資訊，可轉換指令中的域名，修改為輸入「口罩 site:chp.gov.hk」。&lt;/p&gt;&lt;p&gt;「site:」的用法不限於政府機構，亦適用於各類型網站。例如你想搜尋《明報》提及「口罩」的報導，則可以輸入「口罩 site:mingpao.com」。運用「site:」的前題是要&lt;strong&gt;先設定特定搜尋範圍， 找到相關網站及其域名&lt;/strong&gt;。&lt;/p&gt;&lt;p&gt;除此之外，「site」亦可以用作搜尋社交媒體的帖文，不同域名代表著不同的搜尋範圍，例如：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;「疫苗 site:facebook.com」可找到在Facebook上提及「疫苗」的帖文&lt;/li&gt;&lt;li&gt;「疫苗 site:facebook.com/groups」可找到Facebook提及「疫苗」的群組&lt;/li&gt;&lt;li&gt;「疫苗 site:facebook.com/pages」可找到Facebook提及「疫苗」的專頁&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Google搜尋引擎或未能盡攬社交媒體的帖文，大家亦可採用社交媒體平台內的搜尋功能，以助查找相對較齊全的資訊。&lt;/p&gt;&lt;h1&gt;限定時間範圍&lt;/h1&gt;&lt;p&gt;Google搜尋結果頁面設有「工具」一欄，點擊後可以揀選日期範圍，系統附有多個預設選項，如：「過去1小時」、「過去1週」至「過去1年」不等，亦可點擊「自訂日期範圍」後再在日曆設定。&lt;/p&gt;&lt;figure&gt;&lt;img src="https://www-cdn.factchecklab.org/2023/03/google-search_time-1.png"&gt;&lt;figcaption&gt;圖1：Google搜尋頁面顯示系統預設揀選日期的選項，紅框由Factcheck Lab加上。&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;但「自訂日期範圍」只限於桌面版Google搜尋頁面，若使用手機則需要將瀏覽器設定為「電腦版網站/Desktop site」才能使用相關功能。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;無論用甚麼裝置，只要使用指令「before:」及「after:」，就可以將Google搜尋範圍收窄至某個時段內發佈的信息。&lt;/strong&gt;譬如COVID-19疫情持續數年，政府在不同時間的措施各有差異，以下例子說明如何運用指令快速鎖定相關資訊。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;「限聚人數 after:2021-06-30 before:2022-07-01 」代表查找2021年6月30日之後、2022年7月1日之前（即具體搜尋日子為2021年7月1日至2022年6月30日）發佈的資訊&lt;/li&gt;&lt;li&gt;「after:」及「before:」亦可以單獨使用，如搜尋「確診 隔離 after:2022-05-31」代表搜尋2022年6月後發佈與確診隔離相關的資訊，「疫苗通行證 before:2022-04-30」 查找同年4月底前發佈的措施安排&lt;/li&gt;&lt;li&gt;指令的格式為「&lt;strong&gt;before:YYYY-MM-DD&lt;/strong&gt;」及「&lt;strong&gt;after:YYYY-MM-DD&lt;/strong&gt;」，YYYY代表年份，MM為月份，DD則是日子，按其順序輸入年月日收窄範圍，但沒有規定必須輸入完整日期，可以將範圍擴大至年份或月份。如搜尋「探病安排 after:2022」代表查找2023年的資料，「探病安排 before:2022-06」即是2022年6月前發佈的信息。&lt;/li&gt;&lt;/ul&gt;&lt;h1&gt;查找網站文件&lt;/h1&gt;&lt;p&gt;「filetype:」用於搜尋特定類型的檔案，只要在「&lt;strong&gt;filetype:&lt;/strong&gt;」後輸入相應的文件類型，再配合關鍵詞就可以查找網站附載的不同文件。例如：&lt;/p&gt;&lt;ul&gt;&lt;li&gt;「居家隔離 filetype:pdf」是搜尋提及居家隔離的PDF文件&lt;/li&gt;&lt;li&gt;「防護裝備 filetype:doc」是搜尋提及防護裝備的DOC檔案&lt;/li&gt;&lt;li&gt;「疫苗注射人數 filetype:xls」則是搜尋XLS表格類型的檔案&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;搜尋時要留意所輸入的相應檔案格式，若輸入「doc」找不到所需文件，可以嘗試改用「docx」，或將「xls」改為「xlsx」。&lt;/p&gt;&lt;h1&gt;操作注意事項&lt;/h1&gt;&lt;p&gt;Google搜尋時可以結合不同指令應用，例如輸入「疫苗 site:gov.hk before:2020 filetype:pdf 」可以查找2020年前（即COVID-19疫情爆前）由政府網站發出涉及疫苗的PDF文件。另須緊記&lt;strong&gt;輸入指令後毋須加上任何空格&lt;/strong&gt;，如搜尋政府網站資訊應輸入「site:gov.hk」而非「site: gov.hk」，否則該字串只會成為其中一組搜尋的關鍵詞，而非指令。&lt;/p&gt;&lt;p&gt;若然忘記具體指令操作，可以直接使用&lt;a href="https://www.google.com/advanced_search"&gt;Google進階搜尋&lt;/a&gt;頁面，按預設欄目設定搜查範圍。&lt;/p&gt;&lt;p&gt;Google指令雖然可以收窄搜尋範圍，有助快速查找資料，但使用時仍要注意相關搜尋結果是否可信的資料來源，能否直接運用至事實查核工作。&lt;/p&gt;&lt;p&gt;--------------------&lt;/p&gt;&lt;ul&gt;&lt;li&gt;本「查核手記」乃「文化及媒體教育基金有限公司」及「媒體素養研究中心有限公司」的合作項目。&lt;/li&gt;&lt;li&gt;本文採用共享創意的「姓名標示-禁止改作」（Creative Commons Attribution-NoDerivatives）授權條款，轉載時須註明「本文出自事實查核實驗室（Factchcek Lab）」，並附上原文網址。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;（原載於 &lt;a href="https://www.patreon.com/posts/79268125"&gt;Factcheck Lab Patreon&lt;/a&gt;。）&lt;/p&gt;&lt;/div&gt;
+
+&lt;/article&gt;
+   </content:encoded>
+  </item>
+  <item>
+   <title>
+    查核手記︰事實查核的守則
+   </title>
+   <description>
+    <![CDATA[IFCN致力推廣事實查核的重要，並制定了一套查核守則，當中有五項主要原則。]]>
+   </description>
+   <link>
+    https://www.factchecklab.org/20220606/
+   </link>
+   <guid isPermaLink="false">
+    6394b76a60381300014c2b16
+   </guid>
+   <category>
+    查核手記
+   </category>
+   <dc:creator>
+    kayue
+   </dc:creator>
+   <pubDate>
+    Mon, 06 Jun 2022 08:51:00 GMT
+   </pubDate>
+   <media:content medium="image" url="https://www-cdn.factchecklab.org/2022/12/01-cover.png"/>
+   <content:encoded>
+    &lt;article class="post-full post tag-factcheck-blog featured" morss_own_score="8.75" morss_score="18.142857142857142"&gt;
+
+
+&lt;a href="https://www.factchecklab.org/tag/factcheck-blog/"&gt;查核手記&lt;/a&gt;
+
+&lt;h1&gt;查核手記︰事實查核的守則&lt;/h1&gt;
+
+
+
+
+&lt;time&gt;2022年6月6日 下午4時51分&lt;/time&gt;
+&lt;span&gt;&lt;span&gt;•&lt;/span&gt; 5 分鐘閱讀時間&lt;/span&gt;
+
+
+
+
+
+&lt;figure&gt;
+&lt;img src="https://www-cdn.factchecklab.org/2022/12/01-cover.png"&gt;
+&lt;/figure&gt;
+
+&lt;div class="post-content" morss_own_score="5.271428571428571" morss_score="51.10476190476191"&gt;
+&lt;p&gt;在過去十多年，事實查核迅速發展。&lt;a href="https://www.poynter.org/ifcn/"&gt;國際事實查核網絡（International Fact-Checking Network, IFCN）&lt;/a&gt;於2015年由波因特新聞學院（Poynter Institute）成立。IFCN致力推廣事實查核的重要，並制定了一套查核守則，當中有五項主要原則，查核機構須承諾：&lt;/p&gt;&lt;ol&gt;&lt;li&gt;維持無黨派及公正（Non-partisanship and Fairness）&lt;/li&gt;&lt;li&gt;資料來源符合標準及透明（Standards and Transparency of Sources）&lt;/li&gt;&lt;li&gt;資金來源及機構資訊透明（Transparency of Funding and Organization）&lt;/li&gt;&lt;li&gt;查核方法符合標準及透明（Standards and Transparency of Methodology）&lt;/li&gt;&lt;li&gt;落實公開及誠實的更正政策（Open and Honest Corrections Policy）&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;事實查核機構必須經過審核，獲確認符合以上五項原則的各項要求後，才能夠成為IFCN查核守則的簽署成員。&lt;/p&gt;&lt;p&gt;從用字可見，IFCN的查核守則強調&lt;strong&gt;「公正」、「公開」及「透明」&lt;/strong&gt;，這些都是事實查核非常重要的原則。&lt;/p&gt;&lt;p&gt;以下簡單介紹一下IFCN的查核守則，大致可以分為「對查核機構的要求」以及「對查核報告的要求」兩大類︰&lt;strong&gt;前者確保事實查核機構獲公眾信任，後者確保事實查核報告嚴謹可靠。&lt;/strong&gt;&lt;/p&gt;&lt;h2&gt;對查核機構的要求&lt;/h2&gt;&lt;p&gt;成為查核守則簽署成員的先決條件，是有關機構的採編工作&lt;strong&gt;不受任何國家、政黨或政治人物控制&lt;/strong&gt;，若不符合此條件，則完全不用考慮。&lt;/p&gt;&lt;p&gt;事實查核機構亦不能屬於或支持任何政黨、政治人物及候選人，以及不能倡議或反對任何政策（跟公共辯論的透明及準確性相關議題除外）。甚至連事實查核機構的職員在任期間也不能公開倡議或表達對政策的立場，以免令公眾認為有關機構的查核帶有偏見。&lt;/p&gt;&lt;p&gt;此外，為確保查核機構公開透明，如查核機構獨立運作，須公開其資金來源，若隸屬於其他組織（如某個傳媒機構的查核部門），須清楚解釋其關係。&lt;/p&gt;&lt;p&gt;而在事實查核機構的網站上，必須公開列出︰&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;strong&gt;&lt;strong&gt;選擇查核內容、研究、撰寫及發表查核報告的方法；&lt;/strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;查核報告的更正政策；&lt;/li&gt;&lt;li&gt;對採編工作有重要影響的成員及其履歷；以及&lt;/li&gt;&lt;li&gt;讓讀者聯絡採編團隊的方法。&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;這些要求確保事實查核機構&lt;strong&gt;不受政治立場左右&lt;/strong&gt;，並讓公眾能夠了解其運作，從而增加對查核機構的信心。&lt;/p&gt;&lt;p&gt;當然，事實查核報告的內容也非常重要，因此IFCN查核守則對查核報告亦有多項規定，確保內容嚴謹。&lt;/p&gt;&lt;h2&gt;對查核報告的要求&lt;/h2&gt;&lt;p&gt;首先，守則要求查核報告的對象&lt;strong&gt;不能過分集中在某一陣營&lt;/strong&gt;，而且選擇要查核的說法時，應考慮其流傳及重要程度。&lt;/p&gt;&lt;p&gt;在尋找查核所用的證據時，盡量使用一手證據，而且須尋找不同立場的證據，不能單方面只看支持或推翻有關說法的內容。無論要查核的對象是誰，查核機構應持相同的高標準評估證據，並按證據得出結論。&lt;/p&gt;&lt;p&gt;另外，&lt;strong&gt;查核報告應該讓讀者能夠自行檢驗其結論&lt;/strong&gt;，所以須清楚公開其資料來源，並提供相關資訊、連結供讀者進一步檢視。即使因保障資料提供者的人身安全而不完全公開來源，亦應在報告中盡可能提供足夠細節。&lt;/p&gt;&lt;p&gt;再嚴謹的查核仍有可能犯錯，出現錯誤時最重要是糾正錯誤。事實查核機構須給予讀者指出錯誤的渠道，並&lt;strong&gt;在發現有錯時公開更正查核報告&lt;/strong&gt;——不僅修正錯誤，還須清楚向讀者說明更正內容。&lt;/p&gt;&lt;h2&gt;誰去查核事實查核機構？&lt;/h2&gt;&lt;p&gt;事實查核機構經常遇到的一個問題是︰&lt;strong&gt;你們去查核別人的說法，誰去查核你們的查核？&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;了解IFCN查核守則之後，相信這個問題不難回答。IFCN負責審核簽署成員資格，而且須每年提交申請，經審批後才獲延續認證資格，IFCN亦負責處理對簽署成員的投訴，從這個意義下，IFCN就是負責查核事實查核機構。&lt;/p&gt;&lt;p&gt;不過，&lt;strong&gt;最重要的查核員其實是所有讀者&lt;/strong&gt;。事實查核機構的工作不僅是判斷某個說法「正確」或「錯誤」，而是釐清脈絡、尋找及列出相關證據，再從證據得出結論。因此&lt;strong&gt;查核報告的證據及資料來源公開透明非常重要&lt;/strong&gt;，就算讀者不相信查核機構，也可以自行檢視證據，再作判斷。&lt;/p&gt;&lt;p&gt;如想進一步了解IFCN事實查核守則，可前往&lt;a href="https://www.ifcncodeofprinciples.poynter.org/know-more/the-commitments-of-the-code-of-principles"&gt;IFCN網站&lt;/a&gt;（只有英文版本）。&lt;/p&gt;&lt;p&gt;（原載於&lt;a href="https://www.patreon.com/posts/67411219"&gt;Factcheck Lab Patreon&lt;/a&gt;。）&lt;/p&gt;&lt;/div&gt;
 
 &lt;/article&gt;
    </content:encoded>
