@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 21:29:25 +0800
+   Sat, 20 Apr 2024 21:36:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    No rush to win league title for quadruple-chasing PSG, says Luis Enrique
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/no-rush-win-league-title-quadruple-chasing-psg-says-luis-enrique-4280126
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 21:27:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/no-rush-win-league-title-quadruple-chasing-psg-says-luis-enrique-4280126
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d8SAsstm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t132713z_1_lynxnpek3j04i_rtroptp_3_soccer-champions-fcb-psg-report.jpg?itok=zweRC0-F" width="1600"/>
+  </item>
   <item>
    <title>
     LaLiga title race on the line at Clasico against Real, Xavi says
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oyx3tSQd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t040947z_1_lynxnpek3j00x_rtroptp_3_tesla-india-musk.jpg?itok=wvD6DNKg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cartier revives the Tortue, debuts dual time Santos and new animal jewellery watches
-   </title>
-   <link>
-    https://www.channelnewsasia.com/obsessions/cartier-tortue-santos-watches-and-wonders-2024-4277451
-   </link>
-   <description>
-    <![CDATA[Here are the highlights from Cartier’s Watches & Wonders 2024 offerings.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 11:53:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/obsessions/cartier-tortue-santos-watches-and-wonders-2024-4277451
-   </guid>
-   <category>
-    Obsessions ,Style &amp; Beauty ,CNA Luxury
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FAjOm9yu--/c_crop,h_900,w_1600,x_0,y_32/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/cartier_prive_tortue_watches_wonders_2024.jpg?itok=mmDAGq19" width="1600"/>
   </item>
  </channel>
 </rss>
