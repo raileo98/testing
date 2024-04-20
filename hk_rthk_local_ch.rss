@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 20 Apr 2024 18:30:12 +0800
+   Sat, 20 Apr 2024 18:40:09 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 20 Apr 2024 18:15:15 +0800
+   Sat, 20 Apr 2024 18:35:50 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    專家指仁安醫院遭黑客攻擊或涉多種原因　衞生署要求四周內交報告
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749773-20240420.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749773-20240420.htm
+   </link>
+   <description>
+    <![CDATA[仁安醫院發現網絡系統遭黑客惡意攻擊，部分運作受到影響，至今未發現任何病人資料洩漏或遭盜用。
+
+有資訊科技專家表示，事件可能由多種原因造成，包括軟件未升級、員工意識差等，建議院方至少每年接受資訊保安檢查。
+
+衞生署指出，已要求院方於四星期內提交詳細報告；私隱公署表示，已經根據既定程序展開循規審查。]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 18:35:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     8歲女童感染甲流後死亡　未有接種流感疫苗
@@ -435,27 +456,6 @@
    </description>
    <pubDate>
     Sat, 20 Apr 2024 12:32:08 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    海關今年首季檢1280公斤大麻　數量超過去年全年一半
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749739-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749739-20240420.htm
-   </link>
-   <description>
-    <![CDATA[海關今年首季度檢獲的大麻數量已超過去年全年的一半，達到1280公斤，拘捕31人，包括兩名只有13歲及14歲青少年。海關強調，會繼續透過情報交流及風險分析，配合高端儀器執法。
-
-海關指出，販毒分子經海路偷運大麻的手法層出不窮，企圖增加執法難度，包括將大麻混入寵物食品或收藏在木檯暗格。最新一宗是收在汽車輪圈內，海關人員以X光檢查時，發現輛圈內有可疑影像，檢查發現100公斤以真空包裝的大麻，市值超過2300萬元，一名36歲貨車司機被捕。
-
-海關表示，近年有海外地區將大麻合化法，宣傳不會上癮，令很多人誤以為沒有毒害，提醒市民不要接觸大麻，以免上癮後泥足深陷，並呼籲青少年不要因為利益受他人唆擺參與販毒，最高刑罰是終身監禁。]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 12:24:48 +0800
    </pubDate>
   </item>
  </channel>
