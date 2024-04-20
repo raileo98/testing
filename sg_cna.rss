@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 20 Apr 2024 23:42:33 +0800
+   Sat, 20 Apr 2024 23:56:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Swiatek's three in a row Stuttgart bid ended by Rybakina
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/swiateks-three-row-stuttgart-bid-ended-rybakina-4280241
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 20 Apr 2024 23:52:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/swiateks-three-row-stuttgart-bid-ended-rybakina-4280241
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     'Crisis not over' as eruptions at Indonesia's Mount Ruang continue
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Tesla cuts US prices of Models Y, X, S by $2,000
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tesla-cuts-us-prices-models-y-x-s-2000-4279796
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 13:32:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tesla-cuts-us-prices-models-y-x-s-2000-4279796
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ch87QLQS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t053202z_1_lynxnpek3j014_rtroptp_3_tesla-india-germany.jpg?itok=rqXll68w" width="1600"/>
   </item>
  </channel>
 </rss>
