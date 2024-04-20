@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 02:27:31 +0800
+   Sun, 21 Apr 2024 02:30:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,27 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r_52P9w9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/b8d83e570080c4cef5de04b9c86fad79d2fd3946.jpg?itok=ch_aR5QN" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Late Silva goal earns Man City 1-0 FA Cup semi-final win over Chelsea
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/late-silva-goal-earns-man-city-1-0-fa-cup-semi-final-win-over-chelsea-4280441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 02:23:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/late-silva-goal-earns-man-city-1-0-fa-cup-semi-final-win-over-chelsea-4280441
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -439,27 +460,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mcU-lK66--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/screenshot_343.png?itok=32hlTp_K" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Gaia Series 35: "Human Washing Machine" Revived At The World Expo
-   </title>
-   <link>
-    https://www.channelnewsasia.com/japan-hour/gaia-series-35-human-washing-machine-revived-world-expo-4271211
-   </link>
-   <description>
-    <![CDATA[At Osaka 2025 Expo, Japan to showcase its tech revolution, from the 'Human Washer' to ultra-fine bubbles, promising a sustainable future.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 20:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/japan-hour/gaia-series-35-human-washing-machine-revived-world-expo-4271211
-   </guid>
-   <category>
-    Japan Hour
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BthDZ8Lc--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/ep_15_pix_1.png?itok=L6Jz1DXR" width="1600"/>
   </item>
  </channel>
 </rss>
