@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 00:21:19 +0800
+   Sun, 21 Apr 2024 00:40:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Burnley raise survival hopes with 4-1 win at bottom side Sheffield United
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/burnley-raise-survival-hopes-4-1-win-bottom-side-sheffield-united-4280296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 00:23:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/burnley-raise-survival-hopes-4-1-win-bottom-side-sheffield-united-4280296
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9d4gy3c3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t162343z_1_lynxnpek3j05x_rtroptp_3_soccer-england-shu-bur-report.jpg?itok=PHZT3FJ7" width="1600"/>
+  </item>
+  <item>
+   <title>
     Brentford thump Luton 5-1 to move 10 points clear of drop zone
    </title>
    <link>
@@ -69,7 +90,8 @@
     https://www.channelnewsasia.com/singapore/senior-minister-teo-chee-hean-visit-germany-launch-invincible-class-submarine-inimitable-4280251
    </link>
    <description>
-    <![CDATA[Singapore's second and third Invincible-class submarines were launched in December 2022 in Germany.]]>
+    <![CDATA[The Invincible-class submarines are designed for operations in Singapore’s shallow and busy tropical waters, and feature an X-shaped stern rudder for more precise manoeuvres.
+]]>
    </description>
    <pubDate>
     Sat, 20 Apr 2024 23:57:00 +0800
@@ -438,27 +460,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JEDx8cmy--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/istock-1080432638.jpg?itok=dwi_Sx8U" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Verstappen takes Red Bull's 100th F1 pole
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/verstappen-takes-red-bulls-100th-f1-pole-4279906
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 16:39:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/verstappen-takes-red-bulls-100th-f1-pole-4279906
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yIGv1Y5D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-20t083928z_1_lynxnpek3j02d_rtroptp_3_motor-f1-china.jpg?itok=Lg8yVsBw" width="1600"/>
   </item>
  </channel>
 </rss>
