@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 21 Apr 2024 18:20:32 +0800
+   Sun, 21 Apr 2024 18:30:43 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 18:17:57 +0800
+   Sun, 21 Apr 2024 18:23:38 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    多區錄得逾20毫米雨量多處塌樹　大學站設施疑受損要緊急維修
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749878-20240421.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749878-20240421.htm
+   </link>
+   <description>
+    <![CDATA[天文台早上一度發出黃色暴雨警告信號，到下午1時45分取消。
+
+清水灣早上出現水龍捲，多區錄得超過20毫米雨量，多處有塌樹，其中山頂白加道塌樹，影響山頂纜車服務今日暫停。
+
+港鐵大學站月台上蓋設施，懷疑受天氣影響受損，要緊急維修。]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 18:23:38 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     黃淑嫻稱垃圾收費經諮詢　當局會檢視先行先試計劃再部署
@@ -439,23 +460,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 14:28:25 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    銀線灣泳灘發現疑似紅潮已懸掛紅旗
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749846-20240421.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749846-20240421.htm
-   </link>
-   <description>
-    <![CDATA[康文署宣布，由於發現疑似紅潮，西貢的銀線灣泳灘已懸掛紅旗，呼籲市民不要在該處游泳，直至另行通知。]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 14:06:44 +0800
    </pubDate>
   </item>
  </channel>
