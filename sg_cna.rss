@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 07:45:28 +0800
+   Mon, 22 Apr 2024 07:48:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -357,27 +357,6 @@
   </item>
   <item>
    <title>
-    Commentary: What if it becomes unbearable to work and play during the day in Singapore?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/singapore-hot-weather-rest-break-aircon-night-4277606
-   </link>
-   <description>
-    <![CDATA[Warm conditions are expected to persist, but air-conditioning may hurt us in the long run. This Earth Day, consider how people perceive and seek comfort from the heat for solutions too, say Yale-NUS College’s Jean Liu and Nanyang Business School’s Georgios Christopoulos.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/singapore-hot-weather-rest-break-aircon-night-4277606
-   </guid>
-   <category>
-    Commentary ,Singapore ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IOy1n2iy--/c_crop,h_3005,w_5343,x_1,y_353/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2021-09/img_5647.jpg?itok=xkdPs0Zh" width="1600"/>
-  </item>
-  <item>
-   <title>
     Indonesia reassures citizens as rupiah weakens to 4-year low against US dollar
    </title>
    <link>
@@ -459,6 +438,27 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kRRPHwom--/c_crop,h_465,w_828,x_0,y_61/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/20240418-ns-nybigread0419.jpg?itok=DaLslwEi" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: What if it becomes unbearable to work and play during the day in Singapore?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/singapore-hot-weather-rest-break-aircon-night-4277606
+   </link>
+   <description>
+    <![CDATA[Warm conditions are expected to persist, but air-conditioning may hurt us in the long run. This Earth Day, consider how people perceive and seek comfort from the heat for solutions too, say Yale-NUS College’s Jean Liu and Nanyang Business School’s Georgios Christopoulos.]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/singapore-hot-weather-rest-break-aircon-night-4277606
+   </guid>
+   <category>
+    Commentary ,Singapore ,Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IOy1n2iy--/c_crop,h_3005,w_5343,x_1,y_353/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2021-09/img_5647.jpg?itok=xkdPs0Zh" width="1600"/>
   </item>
  </channel>
 </rss>
