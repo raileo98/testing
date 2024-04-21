@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 03:44:59 +0800
+   Mon, 22 Apr 2024 03:54:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Baby in Gaza saved from womb of mother killed in Israeli strike
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/baby-gaza-saved-womb-mother-killed-israeli-strike-4281676
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 03:52:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/baby-gaza-saved-womb-mother-killed-israeli-strike-4281676
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eZOf_x3R--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t150129z_1_lynxnpek3k04v_rtroptp_3_israel-palestinians-gaza-baby.jpg?itok=y8F1NxlS" width="1600"/>
+  </item>
   <item>
    <title>
     Milan seek redemption by stalling Inter's title celebrations, Pioli says
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Inter not focused on clinching title in Milan derby, Inzaghi says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/inter-not-focused-clinching-title-milan-derby-inzaghi-says-4281451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 23:59:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/inter-not-focused-clinching-title-milan-derby-inzaghi-says-4281451
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--orzfGVty--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t155924z_1_lynxnpek3k05d_rtroptp_3_soccer-italy-udi-int-report.jpg?itok=lHRkXClX" width="1600"/>
   </item>
  </channel>
 </rss>
