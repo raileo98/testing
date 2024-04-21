@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 23:39:36 +0800
+   Sun, 21 Apr 2024 23:45:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ducksch's brace boosts Bremen's survival battle in 2-1 win over Stuttgart
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/duckschs-brace-boosts-bremens-survival-battle-2-1-win-over-stuttgart-4281431
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 23:43:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/duckschs-brace-boosts-bremens-survival-battle-2-1-win-over-stuttgart-4281431
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aDfEmked--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t154326z_1_lynxnpek3k056_rtroptp_3_soccer-germany-svw-jah-report.jpg?itok=26r2Ajm0" width="1600"/>
+  </item>
   <item>
    <title>
     Star Awards 2024: Kym Ng, Jeremy Chan get first best actor wins, Mark Lee receives Special Achievement Award
@@ -441,27 +462,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VVlsCwtT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/000_34pv7qg.jpg?itok=JfvgYl47" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Garcia stuns Haney with majority decision win
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/garcia-stuns-haney-majority-decision-win-4281061
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 15:35:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/garcia-stuns-haney-majority-decision-win-4281061
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LFaG5lVD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t073528z_1_lynxnpek3k01k_rtroptp_3_boxing.jpg?itok=iBm68Vv6" width="1600"/>
   </item>
  </channel>
 </rss>
