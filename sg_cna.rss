@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 01:25:15 +0800
+   Mon, 22 Apr 2024 01:40:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man Utd win FA Cup thriller against Coventry on penalties
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-utd-win-fa-cup-thriller-against-coventry-penalties-4281531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 01:35:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-utd-win-fa-cup-thriller-against-coventry-penalties-4281531
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Liverpool beat Fulham 3-1 to climb level with Arsenal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/liverpool-beat-fulham-3-1-climb-level-arsenal-4281526
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 01:32:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/liverpool-beat-fulham-3-1-climb-level-arsenal-4281526
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Monaco move second after 2-0 win over Brest
@@ -420,48 +462,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EUEfKQTZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t123312z_1_lynxnpek3k03u_rtroptp_3_tennis-stuttgart.jpg?itok=ktDzuqBZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Red Bull's Verstappen could consider joining rivals Mercedes, says Wolff
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/red-bulls-verstappen-could-consider-joining-rivals-mercedes-says-wolff-4281206
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 19:45:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/red-bulls-verstappen-could-consider-joining-rivals-mercedes-says-wolff-4281206
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gv1nRNh5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t114506z_1_lynxnpek3k03i_rtroptp_3_motor-f1-china.jpg?itok=z0xmbdmT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Jepchirchir crushes women's-only world record in winning London Marathon
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/jepchirchir-crushes-womens-only-world-record-winning-london-marathon-4281161
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 18:58:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/jepchirchir-crushes-womens-only-world-record-winning-london-marathon-4281161
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
