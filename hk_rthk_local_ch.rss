@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 07:01:15 +0800
+   Mon, 22 Apr 2024 07:40:37 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 05:45:13 +0800
+   Mon, 22 Apr 2024 07:18:24 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    運輸署：山頂纜車及城巴15C線仍暫停服務
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749917-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749917-20240422.htm
+   </link>
+   <description>
+    <![CDATA[運輸署表示，因為塌樹關係，山頂纜車仍然暫停服務，同時城巴15C號線仍然暫停服務，市民請考慮使用其他公共交通服務。]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 07:18:24 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     一名香港遊客在南非伊麗莎白港潛水後死亡
@@ -447,27 +464,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 16:56:43 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    運輸及物流局估算沙田T4主幹路約14年可「回本」
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749864-20240421.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749864-20240421.htm
-   </link>
-   <description>
-    <![CDATA[沙田T4主幹路項目造價71億6千萬元被指昂貴，運輸及物流局在社交平台回應關注，指T4主幹路在2030年建成後每日為市民節省的行車時間超過1萬5千人次小時，換算至香港市民的時間成本，即經濟收益預計每年高達5億元，從而估算T4主幹路只要約14年便能夠「回本」。
-
-局方表示，T4全長2.3公里，即每公里約31億元，與跨灣連接路的每公里造價相近，造價是控制於合理水平，亦是現時市場的回標價格。
-
-局方表示，T4主幹路提供一條2.3公里的直接幹道外，同時包含兩條連接沙田區的支路，以及單車徑、行人隧道和休憩設施等，在優化方案下，將部分路段改以地下行車道方式興建，提供契機增建東西行支路接駁沙田市中心和馬鞍山等地區。局方指，若該路段以原高架橋方案興建，將沒有足夠空間提供支路，所以優化路段是惠及整區，並提升T4的功能，而不是單為處理部分地區反對的妥協方案。]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 16:47:04 +0800
    </pubDate>
   </item>
  </channel>
