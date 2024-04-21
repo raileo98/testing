@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 21 Apr 2024 15:30:36 +0800
+   Sun, 21 Apr 2024 15:50:23 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 15:28:08 +0800
+   Sun, 21 Apr 2024 15:40:10 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港鐵：大學站上蓋緊急維修　金鐘來往羅湖落馬洲需額外3至5分鐘
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749854-20240421.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749854-20240421.htm
+   </link>
+   <description>
+    <![CDATA[港鐵表示，由於東鐵綫大學站有上蓋設施需要進行緊急維修，預計往來金鐘至羅湖/落馬洲的整體行車時間，需要額外3至5分鐘車程。
+
+港鐵表示，大學站1號月台，即往上水方向月台，有上蓋設施需要進行緊急維修，現時來回線列車暫時使用大學站2號月台，即往紅磡方向月台，進行上落客。現時東鐵綫來往金鐘站至火炭站每7.5分鐘一班車、來往金鐘站至羅湖站每15分鐘一班車、來往大埔墟至落馬洲站每15分鐘一班車。
+
+港鐵表示，工程人員會盡快完成維修工作，以恢復正常列車服務。]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 15:40:10 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     翠華船務兩班由蒲台島開出往赤柱航班取消　更改時間前往香港仔
@@ -439,25 +460,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 10:49:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    運輸署：「港車北上」新一輪電腦抽籤申請明早10時起接受登記
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749820-20240421.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749820-20240421.htm
-   </link>
-   <description>
-    <![CDATA[運輸署提醒市民，「港車北上」第二十五輪電腦抽籤遞交申請將由明日上午10時至本月25日接受登記，並於本月26日公布抽籤結果。
-
-符合資格的「港車北上」申請人可透過指定網站（www.hzmbqfs.gov.hk）登記電腦抽籤。中籤者須按電腦系統隨機分配的日期於指定時間內遞交「港車北上」申請。]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 10:23:30 +0800
    </pubDate>
   </item>
  </channel>

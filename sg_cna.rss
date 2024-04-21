@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 15:37:45 +0800
+   Sun, 21 Apr 2024 15:50:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    One dead, seven missing after two Japanese military helicopters crash
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/one-dead-seven-missing-after-two-japanese-military-helicopters-crash-4281036
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 15:39:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/one-dead-seven-missing-after-two-japanese-military-helicopters-crash-4281036
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VVlsCwtT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/000_34pv7qg.jpg?itok=JfvgYl47" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Garcia stuns Haney with majority decision win
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/garcia-stuns-haney-majority-decision-win-4281061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 15:35:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/garcia-stuns-haney-majority-decision-win-4281061
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LFaG5lVD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t073528z_1_lynxnpek3k01k_rtroptp_3_boxing.jpg?itok=iBm68Vv6" width="1600"/>
+  </item>
   <item>
    <title>
     Massive river flooding expected in China's Guangdong, threatening millions
@@ -417,48 +459,6 @@
     Women ,Style &amp; Beauty ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jqdMS21i--/c_crop,h_900,w_1600,x_0,y_45/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/18/woman_in_sleeping_bra_after_waking_up.jpg?itok=GyLAScZZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    This Singaporean architect was tasked to refurbish one of the highest placed hotels in the world
-   </title>
-   <link>
-    https://www.channelnewsasia.com/people/singapore-architect-goy-zhenru-4271536
-   </link>
-   <description>
-    <![CDATA[Architect Goy Zhenru’s passion for craft has led her to work with regional artisans, as well as renovate the Hotel Everest View in the Himalayas.]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 06:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/people/singapore-architect-goy-zhenru-4271536
-   </guid>
-   <category>
-    People ,CNA Luxury ,Women
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5TnjhjfB--/c_crop,h_843,w_1500,x_0,y_85/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/hero-goy-zhenru-1_singapore_architect.jpg?itok=fbOv0QZl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    This Singaporean architect was tasked to refurbish one of the highest placed hotels in the world
-   </title>
-   <link>
-    https://www.channelnewsasia.com/people/singapore-architect-goy-zhenru-4271536
-   </link>
-   <description>
-    <![CDATA[Architect Goy Zhenru’s passion for craft has led her to work with regional artisans, as well as renovate the Hotel Everest View in the Himalayas.]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 06:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/people/singapore-architect-goy-zhenru-4271536
-   </guid>
-   <category>
-    People ,CNA Luxury ,Women
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5TnjhjfB--/c_crop,h_843,w_1500,x_0,y_85/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/hero-goy-zhenru-1_singapore_architect.jpg?itok=fbOv0QZl" width="1600"/>
   </item>
  </channel>
 </rss>
