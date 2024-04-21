@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 20:54:30 +0800
+   Sun, 21 Apr 2024 21:22:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel pounds Gaza as West Bank violence surges
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-pounds-gaza-west-bank-violence-surges-hamas-war-4281226
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 21:02:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-pounds-gaza-west-bank-violence-surges-hamas-war-4281226
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--148kMj19--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/056cf247bed5d35da0d2c8d7088f342d7f5971bf.jpg?itok=i5pnbjpC" width="1600"/>
+  </item>
   <item>
    <title>
     Supreme Leader Khamenei says Iran demonstrated its power against Israel
@@ -210,7 +231,7 @@
   </item>
   <item>
    <title>
-    Watch Star Awards 2024: Live awards show, plus what you missed on the red carpet
+    Watch Star Awards 2024: All the winners at the show, plus what you missed on the red carpet
    </title>
    <link>
     https://www.channelnewsasia.com/entertainment/star-awards-2024-live-red-carpet-show-4277706
@@ -231,7 +252,7 @@
   </item>
   <item>
    <title>
-    Watch Star Awards 2024: Live awards show, plus what you missed on the red carpet
+    Watch Star Awards 2024: All the winners at the show, plus what you missed on the red carpet
    </title>
    <link>
     https://www.channelnewsasia.com/entertainment/star-awards-2024-live-red-carpet-show-4277706
@@ -252,7 +273,7 @@
   </item>
   <item>
    <title>
-    Watch Star Awards 2024: Live awards show, plus what you missed on the red carpet
+    Watch Star Awards 2024: All the winners at the show, plus what you missed on the red carpet
    </title>
    <link>
     https://www.channelnewsasia.com/entertainment/star-awards-2024-live-red-carpet-show-4277706
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZpMT4Lm1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/f5f79edb89bf9dacdc5f17a6dd810e46fbbb40c2.jpg?itok=BP27ifES" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China hosts foreign naval officials amid South China Sea tensions
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-china-sea-navy-meeting-qingdao-military-4280861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 12:14:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-china-sea-navy-meeting-qingdao-military-4280861
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lY_mqu6N--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t025408z_2_lynxnpek3k00q_rtroptp_3_china-military-navy.jpg?itok=wiZOvIC2" width="1600"/>
   </item>
  </channel>
 </rss>
