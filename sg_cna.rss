@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 00:50:28 +0800
+   Mon, 22 Apr 2024 01:20:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ruud defeats Tsitsipas to win Barcelona Open
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ruud-defeats-tsitsipas-win-barcelona-open-4281491
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 00:56:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ruud-defeats-tsitsipas-win-barcelona-open-4281491
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Crystal Palace's Mateta nets brace in 5-2 thrashing of West Ham
@@ -441,27 +462,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yoXxMzT7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t094205z_1_lynxnpek3k02j_rtroptp_3_russia-lavrov.jpg?itok=x-2aTmaH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Max Verstappen wins Chinese Grand Prix to extend title grip
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/max-verstappen-wins-chinese-grand-prix-extend-title-grip-4281116
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 17:26:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/max-verstappen-wins-chinese-grand-prix-extend-title-grip-4281116
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--59xJL7i1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0e3be24fc6cb9f07f9ee277a8729f87d7ed56852.jpg?itok=bukrljXw" width="1600"/>
   </item>
  </channel>
 </rss>

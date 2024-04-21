@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Sat, 20 Apr 2024 17:00:12 GMT
+   Sun, 21 Apr 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    「為孩子好」，不見得真的對他好──犯罪心理學家寫給父母的教養備忘錄
+   </title>
+   <description>
+    <![CDATA[一旦父母堅持「我是為了孩子好」而一意孤行，無法察覺孩子行為變化背後的意義，這麼一來，孩子心中的不滿情緒，就有可能因一點小事而徹底爆發，反而導致孩子出現非行或犯罪行為。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-words-that-curse-children-or-save-them
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-words-that-curse-children-or-save-them
+   </guid>
+   <pubDate>
+    Sun, 21 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417125125-6018f7e6b7dcb3c97f5286e4f5806c03-mobile.jpg"/>
+  </item>
   <item>
    <title>
     詹育杰／真相與奇觀：法醫鑑識風格影像的媒體映照
@@ -195,24 +213,6 @@
     Sat, 13 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240408163047-587d11dac3f827e91228c6b896d038f9-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    陳子軒／運動媒體的戰國時代下，中職與轉播權的分進與合擊
-   </title>
-   <description>
-    <![CDATA[今年中職開季前4天，統一獅才壓線確認轉播權，聯盟也在賽前一天公布包含多家OTT與有線電視頻道的轉播懶人包，引發球迷討論。中職轉播權如何把餅畫到最大，提升球隊分潤與帶動運動媒體產業？陳子軒建議賦予聯盟更多的權力。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/saturday-features-long-game-cpbl-broadcast
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/saturday-features-long-game-cpbl-broadcast
-   </guid>
-   <pubDate>
-    Fri, 12 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240411113504-4e9be96d2c05119cd23b49ef5c0afeae-mobile.jpg"/>
   </item>
  </channel>
 </rss>
