@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 21:33:58 +0800
+   Sun, 21 Apr 2024 21:41:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Crowds join Bondi Beach memorial for Sydney mall stabbing victims
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/crowds-join-bondi-beach-memorial-sydney-mall-attack-stabbing-victims-4281111
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 21:34:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/crowds-join-bondi-beach-memorial-sydney-mall-attack-stabbing-victims-4281111
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GColVW_O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/19e0d6a23a15daa6beb13bd19dec3450625dcf54.jpg?itok=IPa7gzaL" width="1600"/>
+  </item>
   <item>
    <title>
     Israel pounds Gaza as West Bank violence surges
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BURMDeE0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/japan_wwii_anniversary_28279.jpg?itok=LCjGcRSp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chinese swimmers failed doping tests ahead of Tokyo Olympics
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/china-swimming-doping-olympics-wada-4280416
-   </link>
-   <description>
-    <![CDATA[The 23 swimmers, some of whom went on to win gold, were allowed to compete based on China's findings they had ingested the banned drug unknowingly.]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 13:02:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/china-swimming-doping-olympics-wada-4280416
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZpMT4Lm1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/f5f79edb89bf9dacdc5f17a6dd810e46fbbb40c2.jpg?itok=BP27ifES" width="1600"/>
   </item>
  </channel>
 </rss>
