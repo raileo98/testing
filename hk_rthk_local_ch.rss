@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 21 Apr 2024 11:40:22 +0800
+   Sun, 21 Apr 2024 11:50:27 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 11:15:53 +0800
+   Sun, 21 Apr 2024 11:42:00 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    「全港戲院日」有戲院有大批巿民等入場　有巿民帶同小朋友看電影
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749828-20240421.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749828-20240421.htm
+   </link>
+   <description>
+    <![CDATA[今日是「全港戲院日」，全港戲院的戲票劃一30元。在旺角一間戲院，全日共有31個場次，戲院網頁顯示，部分場次有少量戲票發售。
+
+天文台在早上10時發出黃色暴雨警告，但無阻市民看電影。現場所見，有大批市民等待入場，有帶同小朋友到戲院看電影的家長表示，價錢比平時平一半，十分吸引，特意選擇今天來看電影。
+
+有小朋友表示，平時很少看電影，今日感到興奮和期待，又形容的氣氛很好，很多人。
+
+亦有早上8時許到戲院購票的市民表示，選擇觀看本地創作電影，因為自己是創作人，本地電影亦備受好評。]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 11:42:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     孫東稱數字保安威脅很多涉及意識問題　要提升技術
@@ -445,27 +468,6 @@
    </description>
    <pubDate>
     Sat, 20 Apr 2024 19:18:52 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    專家指仁安醫院遭黑客攻擊或涉多種原因　衞生署要求四周內交報告
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749773-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749773-20240420.htm
-   </link>
-   <description>
-    <![CDATA[仁安醫院發現網絡系統遭黑客惡意攻擊，部分運作受到影響，至今未發現任何病人資料洩漏或遭盜用。
-
-有資訊科技專家表示，事件可能由多種原因造成，包括軟件未升級、員工意識差等，建議院方至少每年接受資訊保安檢查。
-
-衞生署指出，已要求院方於四星期內提交詳細報告；私隱公署表示，已經根據既定程序展開循規審查。]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 18:35:50 +0800
    </pubDate>
   </item>
  </channel>
