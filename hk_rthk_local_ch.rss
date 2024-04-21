@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 05:20:28 +0800
+   Mon, 22 Apr 2024 05:50:44 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 01:52:57 +0800
+   Mon, 22 Apr 2024 05:45:13 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    一名香港遊客在南非伊麗莎白港潛水後死亡
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749911-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749911-20240422.htm
+   </link>
+   <description>
+    <![CDATA[一名香港遊客在南非伊麗莎白港潛水後死亡。
+
+央視新聞報道，當地星期日上午，一名中國遊客在伊麗莎白港潛水後不省人事，浮出水面後死亡。當局表示，曾嘗試搶救這名50歲遊客，但未能成功。
+
+報道指，已與中國駐開普敦總領館確認，遇難遊客為中國香港籍。]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 05:45:13 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     西貢蚺蛇灣一處石灘可疑包裹內有懷疑可卡因重約15公斤
@@ -447,23 +468,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 16:47:04 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港鐵東鐵綫大學站月台緊急維修工作完成　列車服務陸續回復正常
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749863-20240421.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749863-20240421.htm
-   </link>
-   <description>
-    <![CDATA[港鐵表示，東鐵綫大學站1號月台上蓋設施的緊急維修工作已完成，東鐵綫列車服務陸續回復正常。]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 16:27:54 +0800
    </pubDate>
   </item>
  </channel>
