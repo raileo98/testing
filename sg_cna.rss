@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 01:40:58 +0800
+   Mon, 22 Apr 2024 01:56:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    TikTok says US House bill that could ban app would 'trample' free speech
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/tiktok-says-us-house-bill-could-ban-app-would-trample-free-speech-4281406
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 01:52:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/tiktok-says-us-house-bill-could-ban-app-would-trample-free-speech-4281406
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mWRiCmsc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t153253z_3_lynxnpek3k053_rtroptp_3_usa-tiktok-congress.jpg?itok=WWGefA3e" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Late Stanisic goal at Dortmund salvages Leverkusen's unbeaten run
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/late-stanisic-goal-dortmund-salvages-leverkusens-unbeaten-run-4281566
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 01:51:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/late-stanisic-goal-dortmund-salvages-leverkusens-unbeaten-run-4281566
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Man Utd win FA Cup thriller against Coventry on penalties
@@ -420,48 +462,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dPAFJlR1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t111721z_1_lynxnpek3k037_rtroptp_3_israel-palestinians-iran.jpg?itok=ogNoLQcp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Alpine fined 10,000 euros for pitstop blunder
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/alpine-fined-10000-euros-pitstop-blunder-4281256
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 20:39:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/alpine-fined-10000-euros-pitstop-blunder-4281256
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B0pTa39V--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t123954z_1_lynxnpek3k03y_rtroptp_3_motor-f1-china.jpg?itok=7ECjyhu3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rybakina strolls to Stuttgart title in straight-sets win over Kostyuk
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/rybakina-strolls-stuttgart-title-straight-sets-win-over-kostyuk-4281236
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 20:33:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/rybakina-strolls-stuttgart-title-straight-sets-win-over-kostyuk-4281236
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EUEfKQTZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t123312z_1_lynxnpek3k03u_rtroptp_3_tennis-stuttgart.jpg?itok=ktDzuqBZ" width="1600"/>
   </item>
  </channel>
 </rss>
