@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 23:45:15 +0800
+   Sun, 21 Apr 2024 23:53:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Man City thrash West Ham to go top of Women's Super League
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-city-thrash-west-ham-go-top-womens-super-league-4281441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 23:47:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-city-thrash-west-ham-go-top-womens-super-league-4281441
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Ducksch's brace boosts Bremen's survival battle in 2-1 win over Stuttgart
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aDfEmked--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t154326z_1_lynxnpek3k056_rtroptp_3_soccer-germany-svw-jah-report.jpg?itok=26r2Ajm0" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x8Z_y9f3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t154353z_2_lynxnpek3k056_rtroptp_3_soccer-germany-svw-jah-report.jpg?itok=oUMCr8l0" width="1600"/>
   </item>
   <item>
    <title>
@@ -441,27 +462,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vnfQ1wSp--/c_crop,h_900,w_1600,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/Stars%20Awards%202024%202%202Z0A3785.JPG?itok=LHIYXKB1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    One dead, seven missing after two Japanese military helicopters crash
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/one-dead-seven-missing-after-two-japanese-military-helicopters-crash-4281036
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 15:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/one-dead-seven-missing-after-two-japanese-military-helicopters-crash-4281036
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VVlsCwtT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/000_34pv7qg.jpg?itok=JfvgYl47" width="1600"/>
   </item>
  </channel>
 </rss>
