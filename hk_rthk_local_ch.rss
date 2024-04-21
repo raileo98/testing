@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 21 Apr 2024 19:40:16 +0800
+   Sun, 21 Apr 2024 20:40:21 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 19:10:47 +0800
+   Sun, 21 Apr 2024 20:06:02 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    香港在今屆日內瓦國際發明展獲逾350個獎項
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749882-20240421.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749882-20240421.htm
+   </link>
+   <description>
+    <![CDATA[香港代表團在今屆日內瓦國際發明展，獲歷屆最多的超過350個獎項，包括6個特別獎、28個評審團嘉許金獎，以及114個金獎。
+
+當局表示，日內瓦國際發明展是全球發明界年度盛事。今年香港代表團的規模是歷來最大，由近700名來自40個機構，包括大學、研發中心、研發實驗室、科技企業、政府部門及中小學的成員組成。
+
+創新科技及工業局局長孫東恭賀香港代表團，他表示，香港代表團的成績令人鼓舞，反映本港的科研成果備受國際肯定，亦彰顯香港深厚的創科力量，為成為國際創科中心奠下穩健基礎。]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 20:06:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     天文台提醒市民上班上學前留意天氣　公開試考生預留充裕交通時間
@@ -437,27 +458,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 15:10:18 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    本港早上狂風雷暴　多區有大樹倒塌
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749849-20240421.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749849-20240421.htm
-   </link>
-   <description>
-    <![CDATA[本港早上有強烈狂風雷暴，多區有大樹倒塌。
-
-山頂白加道中午有一棵直徑1米大樹塌下，消防及工程人員在場清理，山頂纜車服務暫停。何文田衛理道因大樹倒塌，部分行車線來回方向一度封閉。
-
-另外，黃竹坑南風徑、淺水灣道、山頂干德道、將軍澳馬游塘路及荔枝角長坑路亦分別有樹倒塌。]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 14:41:55 +0800
    </pubDate>
   </item>
  </channel>
