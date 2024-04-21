@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 01:20:01 +0800
+   Mon, 22 Apr 2024 01:25:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Monaco move second after 2-0 win over Brest
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/monaco-move-second-after-2-0-win-over-brest-4281516
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 01:18:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/monaco-move-second-after-2-0-win-over-brest-4281516
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ruud defeats Tsitsipas to win Barcelona Open
@@ -441,27 +462,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Russia says deeper US hybrid war using Ukraine will end in Vietnam-style humiliation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/russia-says-deeper-us-hybrid-war-using-ukraine-will-end-vietnam-style-humiliation-4281131
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 18:11:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/russia-says-deeper-us-hybrid-war-using-ukraine-will-end-vietnam-style-humiliation-4281131
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yoXxMzT7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t094205z_1_lynxnpek3k02j_rtroptp_3_russia-lavrov.jpg?itok=x-2aTmaH" width="1600"/>
   </item>
  </channel>
 </rss>
