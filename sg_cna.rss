@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 18:48:17 +0800
+   Sun, 21 Apr 2024 19:10:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Jepchirchir crushes women's-only world record in winning London Marathon
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/jepchirchir-crushes-womens-only-world-record-winning-london-marathon-4281161
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 18:58:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/jepchirchir-crushes-womens-only-world-record-winning-london-marathon-4281161
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Russia says deeper US hybrid war using Ukraine will end in Vietnam-style humiliation
@@ -438,27 +459,6 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S4OwdcEO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t001108z_1_lynxnpek3k003_rtroptp_3_taiwan-usa.jpg?itok=0Fz7Fjsa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bill to ban TikTok in US moves ahead in Congress
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/tiktok-us-ban-bytedance-forced-sale-congress-4280656
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 08:20:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/tiktok-us-ban-bytedance-forced-sale-congress-4280656
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cpRfoEjS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0975075ebe641f8c0a3961eeeb0eb7a94f98745e.jpg?itok=qwysSNxt" width="1600"/>
   </item>
  </channel>
 </rss>
