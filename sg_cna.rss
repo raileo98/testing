@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 03:54:39 +0800
+   Mon, 22 Apr 2024 04:17:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Maldives pro-China ruling party tipped to win election
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/maldives-pro-china-ruling-party-tipped-win-election-4281696
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 04:03:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/maldives-pro-china-ruling-party-tipped-win-election-4281696
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Iz-ljjZz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/47e6ec507c4f14a947bfe3f79c8a3b71be167465.jpg?itok=5PwrZgE0" width="1600"/>
+  </item>
   <item>
    <title>
     Baby in Gaza saved from womb of mother killed in Israeli strike
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9cBBdGaZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t161322z_1_lynxnpek3k05o_rtroptp_3_cycling-world.jpg?itok=GtaJPUpD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Villa strengthen grip on fourth with 3-1 win over Bournemouth
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/villa-strengthen-grip-fourth-3-1-win-over-bournemouth-4281466
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 00:11:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/villa-strengthen-grip-fourth-3-1-win-over-bournemouth-4281466
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
