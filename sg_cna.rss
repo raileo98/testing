@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 01:56:39 +0800
+   Mon, 22 Apr 2024 02:22:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US hints at sanctioning Israeli unit over alleged abuses
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-hints-sanctioning-israeli-unit-over-alleged-abuses-4281576
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 02:15:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-hints-sanctioning-israeli-unit-over-alleged-abuses-4281576
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--N_g40Nx0--/c_fill,h_900,w_1600/f_auto,q_auto/idf-haredi-soldiers---3369714.png?itok=RSmcpD4d" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Refereeing errors hard to take, says Forest boss Nuno after Everton defeat
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/refereeing-errors-hard-take-says-forest-boss-nuno-after-everton-defeat-4281571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 01:57:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/refereeing-errors-hard-take-says-forest-boss-nuno-after-everton-defeat-4281571
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lAKVYqLn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t175716z_1_lynxnpek3k075_rtroptp_3_soccer-england-ntg-wlv-report.jpg?itok=lrn2CkJq" width="1600"/>
+  </item>
   <item>
    <title>
     TikTok says US House bill that could ban app would 'trample' free speech
@@ -420,48 +462,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GColVW_O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/19e0d6a23a15daa6beb13bd19dec3450625dcf54.jpg?itok=IPa7gzaL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel pounds Gaza as West Bank violence surges
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-pounds-gaza-west-bank-violence-surges-hamas-war-4281226
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 21:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-pounds-gaza-west-bank-violence-surges-hamas-war-4281226
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--148kMj19--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/056cf247bed5d35da0d2c8d7088f342d7f5971bf.jpg?itok=i5pnbjpC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Supreme Leader Khamenei says Iran demonstrated its power against Israel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/iran-supreme-leader-ali-khamenei-says-country-demonstrated-power-against-israel-4281171
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 20:40:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/iran-supreme-leader-ali-khamenei-says-country-demonstrated-power-against-israel-4281171
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dPAFJlR1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t111721z_1_lynxnpek3k037_rtroptp_3_israel-palestinians-iran.jpg?itok=ogNoLQcp" width="1600"/>
   </item>
  </channel>
 </rss>
