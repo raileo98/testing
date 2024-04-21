@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 21 Apr 2024 13:50:24 +0800
+   Sun, 21 Apr 2024 14:27:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Chelsea must regroup in fight for Europe spot, says Chalobah
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/chelsea-must-regroup-fight-europe-spot-says-chalobah-4281001
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 14:13:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/chelsea-must-regroup-fight-europe-spot-says-chalobah-4281001
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--smkLJdJw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-21t061308z_1_lynxnpek3k012_rtroptp_3_soccer-england-shu-che-report.jpg?itok=3rls_9Ib" width="1600"/>
+  </item>
+  <item>
+   <title>
+    South Korea protests Japanese leaders' offerings to Yasukuni shrine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/yasukuni-shrine-japan-south-korea-protest-4280916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 21 Apr 2024 14:08:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/yasukuni-shrine-japan-south-korea-protest-4280916
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BURMDeE0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/japan_wwii_anniversary_28279.jpg?itok=LCjGcRSp" width="1600"/>
+  </item>
   <item>
    <title>
     Chinese swimmers failed doping tests ahead of Tokyo Olympics
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QGSDNdU1--/c_crop,h_899,w_1599,x_1,y_140/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/16/Court%20Interpreters_Eugene%20Goh-5.jpg?itok=tvWlZ-Z4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Meet the ICU nurse who examines and diagnoses patients like a boss
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cna-insider/icu-advanced-practice-nurse-apn-ttsh-career-patients-parents-4277581
-   </link>
-   <description>
-    <![CDATA[When Faith Hwang told her parents she wanted to be a nurse, they thought it was a job with no career progression. As an advanced practice nurse at Tan Tock Seng Hospital, she is proving otherwise — to their delight now.]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cna-insider/icu-advanced-practice-nurse-apn-ttsh-career-patients-parents-4277581
-   </guid>
-   <category>
-    CNA Insider ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IMTFN2KY--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/lzx_6510-edit-2.jpg?itok=XbMg49XP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: My career race is in the home stretch, here’s what I know
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/career-advice-skills-rat-race-salary-layoff-4277761
-   </link>
-   <description>
-    <![CDATA[What advice would those near the end of their work lives give those just starting out? Here's what the Financial Times' Simon Kuper would say.]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/career-advice-skills-rat-race-salary-layoff-4277761
-   </guid>
-   <category>
-    Commentary ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yyryaUo7--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/09/iStock-1011293608.jpg?itok=ptnQJ0hS" width="1600"/>
   </item>
  </channel>
 </rss>
