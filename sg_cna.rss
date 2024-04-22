@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 05:15:41 +0800
+   Tue, 23 Apr 2024 05:24:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Exclusive-Injury rates for Musk's SpaceX exceed industry average for second year
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-injury-rates-musks-spacex-exceed-industry-average-second-year-4284441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 05:18:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-injury-rates-musks-spacex-exceed-industry-average-second-year-4284441
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Inter's title success brings just reward for Inzaghi
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/inters-title-success-brings-just-reward-inzaghi-4284446
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 05:15:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/inters-title-success-brings-just-reward-inzaghi-4284446
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Inter Milan secure Serie A title with win over AC Milan
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_Jll-ihV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t171527z_1_lynxnpek3l0ni_rtroptp_3_soccer-spain-mad-fcb-report.jpg?itok=nF2y27j4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan's yen falls to 1990 lows, dollar/yen nears 155
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japans-yen-falls-1990-lows-dollar-yen-nears-155-4284036
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 01:02:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japans-yen-falls-1990-lows-dollar-yen-nears-155-4284036
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gVn2Ohpf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t175705z_2_lynxnpek3l0na_rtroptp_3_japan-yen.jpg?itok=T6DoBrGt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    HR tech startup Rippling climbs to $13.5 billion valuation after Coatue-led funding
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/hr-tech-startup-rippling-climbs-135-billion-valuation-after-coatue-led-funding-4283996
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 00:39:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/hr-tech-startup-rippling-climbs-135-billion-valuation-after-coatue-led-funding-4283996
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
