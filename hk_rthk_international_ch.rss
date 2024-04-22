@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 14:20:36 +0800
+   Mon, 22 Apr 2024 14:50:15 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 13:48:22 +0800
+   Mon, 22 Apr 2024 14:23:56 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    南韓指北韓向東部海域發射一枚彈道導彈
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749969-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749969-20240422.htm
+   </link>
+   <description>
+    <![CDATA[南韓聯合參謀本部表示，北韓向東部海域發射一枚彈道導彈。南韓軍方正在分析導彈的飛行距離、高度、速度等具體參數。
+
+日本放送協會報道，北韓發射的導彈似乎落入日本專屬經濟區以外的海域。
+
+韓聯社報道，北韓今次發射導彈，距離在西部海域進行「箭矢-1丁-3」型戰略巡航導彈超大型彈頭威力試驗和新型防空導彈試射只相隔3天，也是北韓繼本月2日試射「火星炮-16B」新型中遠程固體燃料彈道導彈之後，再次發射彈道導彈。]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 14:23:56 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     南韓軍方指北韓正準備發射第二顆軍事偵察衛星
@@ -451,27 +472,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 16:25:22 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    南韓對日本政要再向靖國神社供奉祭品或參拜深表遺憾
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749839-20240421.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749839-20240421.htm
-   </link>
-   <description>
-    <![CDATA[日本首相岸田文雄趁靖國神社舉行春季例行大祭，以內閣總理大臣的名義供奉祭品，預料他會再次避免親自前往參拜。
-
-經濟再生擔當大臣新藤義孝早上前往神社參拜。
-
-靖國神社供奉二戰甲級戰犯，被視為日本過去軍國主義的象徵。南韓外交部對日本政界高層再次向靖國神社供奉祭品或進行參拜，深表失望和遺憾，敦促日方以負責任態度正視歷史，以實際行動體現對反省歷史的承諾，重申這是面向未來發展雙邊關係的重要基礎。]]>
-   </description>
-   <pubDate>
-    Sun, 21 Apr 2024 13:37:37 +0800
    </pubDate>
   </item>
  </channel>
