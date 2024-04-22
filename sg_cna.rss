@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 21:41:48 +0800
+   Mon, 22 Apr 2024 21:47:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Informatica says it is not in any acquisition talks, updates forecast
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/informatica-says-it-not-any-acquisition-talks-updates-forecast-4283621
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 21:32:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/informatica-says-it-not-any-acquisition-talks-updates-forecast-4283621
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Auto supplier Adient cuts jobs, transfers roles in Europe to shave costs
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mQD_hzbn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t104026z_1_lynxnpek3l0ck_rtroptp_3_tennis-montecarlo.jpg?itok=b2E1aId3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Britain to proscribe Terrorgram collective as terrorist organisation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/britain-proscribe-terrorgram-collective-terrorist-organisation-4283201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 18:31:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/britain-proscribe-terrorgram-collective-terrorist-organisation-4283201
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
