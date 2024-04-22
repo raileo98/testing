@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 22:15:17 +0800
+   Mon, 22 Apr 2024 22:30:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Profit momentum of Big Six tech companies to 'collapse' over 2024, UBS says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/profit-momentum-big-six-tech-companies-collapse-over-2024-ubs-says-4283711
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 22:27:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/profit-momentum-big-six-tech-companies-collapse-over-2024-ubs-says-4283711
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     'She was taken in such a horrible way': Family of Singapore woman killed in Spain opens up about their loss
    </title>
    <link>
@@ -63,10 +84,10 @@
   </item>
   <item>
    <title>
-    Informatica says it is not in any acquisition talks, updates forecast
+    Informatica not in acquisition talks, shares drop
    </title>
    <link>
-    https://www.channelnewsasia.com/business/informatica-says-it-not-any-acquisition-talks-updates-forecast-4283621
+    https://www.channelnewsasia.com/business/informatica-not-acquisition-talks-shares-drop-4283621
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +96,7 @@
     Mon, 22 Apr 2024 21:32:33 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/informatica-says-it-not-any-acquisition-talks-updates-forecast-4283621
+    https://www.channelnewsasia.com/business/informatica-not-acquisition-talks-shares-drop-4283621
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--t33QQ75X--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/russia_ukraine_war_things_to_know_53869.jpg?itok=SKHyQOK2" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israeli military intelligence chief resigns as Gaza pounded
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israeli-military-intelligence-chief-resigns-gaza-pounded-hamas-war-4283126
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 19:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israeli-military-intelligence-chief-resigns-gaza-pounded-hamas-war-4283126
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8t20Psju--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/9ec139ded3824f8bb02fd4e06fa2854ea5395a94.jpg?itok=Lm43ccQd" width="1600"/>
   </item>
  </channel>
 </rss>
