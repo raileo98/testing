@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 19:16:49 +0800
+   Mon, 22 Apr 2024 19:25:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Taiwan's Hualien hit by 5.5-magnitude quake
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/taiwan-quake-hualien-magnitude-55-apr-22-4283261
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 19:24:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/taiwan-quake-hualien-magnitude-55-apr-22-4283261
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B_-Ntlhw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/taiwan_earthquake_apr_22.jpg?itok=dCiRYtcf" width="1600"/>
+  </item>
   <item>
    <title>
     'I can’t say it without tears': Ukraine's new mobilisation law gives little relief to soldiers' loved ones
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 22 Apr 2024 19:07:21 +0800
+    Mon, 22 Apr 2024 19:07:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/israeli-military-intelligence-chief-resigns-gaza-pounded-hamas-war-4283126
@@ -439,27 +460,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nsfmAQ2y--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/file-photo-of-construction-cranes-at-a-construction-site.jpg?itok=IIkxwWtQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia lowers Mount Ruang volcano alert level, reopens nearby airport
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/mount-ruang-indonesia-lowers-volcano-alert-level-reopens-nearby-airport-4282776
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 17:25:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/mount-ruang-indonesia-lowers-volcano-alert-level-reopens-nearby-airport-4282776
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1wCfdmeY--/c_crop,h_432,w_768,x_0,y_57/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/2e0e99631e3ae217610226a169b3c3fda99595b2.jpg?itok=a2GNJdFw" width="1600"/>
   </item>
  </channel>
 </rss>
