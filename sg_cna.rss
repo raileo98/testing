@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 03:05:59 +0800
+   Tue, 23 Apr 2024 03:16:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Scheffler, Korda take men's and women's game by storm with dominant runs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/scheffler-korda-take-mens-and-womens-game-storm-dominant-runs-4284221
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 03:12:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/scheffler-korda-take-mens-and-womens-game-storm-dominant-runs-4284221
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Bonmati and Djokovic win top Laureus awards
@@ -252,10 +273,10 @@
   </item>
   <item>
    <title>
-    HR tech startup Rippling valued at $13.5 billion after latest fundraise
+    HR tech startup Rippling climbs to $13.5 billion valuation after Coatue-led funding
    </title>
    <link>
-    https://www.channelnewsasia.com/business/hr-tech-startup-rippling-valued-135-billion-after-latest-fundraise-4283996
+    https://www.channelnewsasia.com/business/hr-tech-startup-rippling-climbs-135-billion-valuation-after-coatue-led-funding-4283996
    </link>
    <description>
     <![CDATA[]]>
@@ -264,7 +285,7 @@
     Tue, 23 Apr 2024 00:39:28 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/hr-tech-startup-rippling-valued-135-billion-after-latest-fundraise-4283996
+    https://www.channelnewsasia.com/business/hr-tech-startup-rippling-climbs-135-billion-valuation-after-coatue-led-funding-4283996
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    UAE-based AI firm G42 announces collaboration with US group Qualcomm
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/uae-based-ai-firm-g42-announces-collaboration-us-group-qualcomm-4283816
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 23:05:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uae-based-ai-firm-g42-announces-collaboration-us-group-qualcomm-4283816
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--laJKg6FF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t150503z_1_lynxnpek3l0jy_rtroptp_3_autotalk-m-a-qualcomm.jpg?itok=HtkgpRxK" width="1600"/>
   </item>
  </channel>
 </rss>
