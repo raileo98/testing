@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 16:30:59 +0800
+   Mon, 22 Apr 2024 16:39:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -123,6 +123,27 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8kK_-kPW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-22t071821z_1_lynxnpek3l07n_rtroptp_3_soccer-england-mci-che-report.jpg?itok=vs3uV7LJ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Xiaomi CEO says will introduce production capacity, delivery plan for SU7 at auto show
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/xiaomi-ceo-says-will-introduce-production-capacity-delivery-plan-su7-auto-show-4282886
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 15:13:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/xiaomi-ceo-says-will-introduce-production-capacity-delivery-plan-su7-auto-show-4282886
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MOp5pwcS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-22t071316z_1_lynxnpek3l07k_rtroptp_3_china-autos-xiaomi.jpg?itok=QEy2C2w6" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F8s9BMz7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/996de63e510756f007308dd8fc2d01e70feb033a.jpg?itok=UGq5R72y" width="1600"/>
-  </item>
-  <item>
-   <title>
-    11 missing, tens of thousands evacuated as storms strike China's Guangdong province
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-guangdong-storms-flooding-missing-people-evacuation-4282301
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 12:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-guangdong-storms-flooding-missing-people-evacuation-4282301
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NyYuxaTD--/c_crop,h_900,w_1600,x_0,y_139/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/000_34px494.jpg?itok=wQLvbBJT" width="1600"/>
   </item>
  </channel>
 </rss>
