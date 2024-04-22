@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 01:12:13 +0800
+   Tue, 23 Apr 2024 01:21:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Barcelona may request Real replay if VAR is found wrong to disallow Yamal goal: Laporta
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/barcelona-may-request-real-replay-if-var-found-wrong-disallow-yamal-goal-laporta-4284056
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 01:15:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/barcelona-may-request-real-replay-if-var-found-wrong-disallow-yamal-goal-laporta-4284056
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_Jll-ihV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t171527z_1_lynxnpek3l0ni_rtroptp_3_soccer-spain-mad-fcb-report.jpg?itok=nF2y27j4" width="1600"/>
+  </item>
   <item>
    <title>
     Japan's yen falls to 1990 lows, dollar/yen nears 155
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0hBWnei6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t134646z_3_lynxnpek3l0hh_rtroptp_3_china-health-factories.jpg?itok=g5yKCGv5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indian prodigy, 17, makes chess history
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/indian-prodigy-17-makes-chess-history-4282981
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 21:17:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/indian-prodigy-17-makes-chess-history-4282981
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RQlBfnSq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/dce020668ecd10def4abe195f2ae6ff1d942c454.jpg?itok=jB8USEjU" width="1600"/>
   </item>
  </channel>
 </rss>
