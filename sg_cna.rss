@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 15:51:25 +0800
+   Mon, 22 Apr 2024 16:11:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Solomon Islands election in the balance as voting continues
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/solomon-islands-election-balance-voting-continues-china-us-regional-security-4282581
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 16:09:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/solomon-islands-election-balance-voting-continues-china-us-regional-security-4282581
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--L7GuP5o2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t061714z_1_lynxnpek3l05l_rtroptp_3_solomon-islands-election.jpg?itok=msdHVffI" width="1600"/>
+  </item>
   <item>
    <title>
     Companies urged to assess staff based on output when flexible work arrangement guidelines kick in
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BxdojFuz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t044750z_1_lynxnpek3l03q_rtroptp_3_vietnam-stocks-markets.jpg?itok=d2BAlC8d" width="1600"/>
-  </item>
-  <item>
-   <title>
-    India's Wipro rises as Street pins hopes on new CEO after Q4 results
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/indias-wipro-rises-street-pins-hopes-new-ceo-after-q4-results-4282441
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 12:44:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indias-wipro-rises-street-pins-hopes-new-ceo-after-q4-results-4282441
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vxBtLO41--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t044448z_1_lynxnpek3l03o_rtroptp_3_wipro-ltd-results.jpg?itok=ipi-mzck" width="1600"/>
   </item>
  </channel>
 </rss>
