@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Tue, 23 Apr 2024 05:45:01 +0800
+   Tue, 23 Apr 2024 06:10:02 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,58 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [生活] 地震不斷  花蓮縣宣布停班停課
+   </title>
+   <description>
+    <![CDATA[花蓮縣從昨天(22日)晚間至今晨(23日)地震不斷，已造成花蓮市區2棟大樓傾倒，花蓮縣政府發布訊息指出，因應地震不斷發生，今天停班停課。花蓮縣從昨晚至今晨地震不斷，中央氣象署資訊指出，其中最大的芮氏規模6.3地震發生於今天凌晨2時32分，地震深度5.5公里，最大震度花蓮縣5弱，稍早5時31分又發生一起規模5.7的地震，花蓮震度達5強。...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203489">...more</a>]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 06:01:55 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2203489
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2203489
+   </guid>
+   <author>
+    中央社
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/3">
+    生活
+   </category>
+   <dc:creator>
+    中央社
+   </dc:creator>
+  </item>
+  <item>
+   <title>
+    [生活] 花蓮整夜地震不斷  5：31規模5.7花蓮震度5強
+   </title>
+   <description>
+    <![CDATA[花蓮縣今天(23日)凌晨接連發生地震，多起規模達5以上且震度多達4級，目前影響較大的地震有3起，分別為規模5.7(花蓮縣壽豐鄉，5時31分，花蓮震度5強)、6.3(花蓮縣壽豐鄉，2時32分，花蓮震度5弱)、6.0(東部近海，5時26分，花蓮震度5弱)，在4月3日花蓮強震中已被貼紅單的統帥大樓出現傾斜，大樓還有瓦斯桶等物品掉落下來，所幸大樓已無人居住且無人受困。花蓮市明禮路的紅單建築物統帥大樓，原本是已被縣府列拆除的建築物之一，已在附近拉起封鎖線，今天又因地震而傾斜。花蓮縣政府建設處長鄧子榆接受媒體聯訪表示，今天地震後，目前得知富凱大樓及統帥大樓傾斜倒塌，...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203488">...more</a>]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 05:51:01 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2203488
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2203488
+   </guid>
+   <author>
+    中央社, 中央社
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/3">
+    生活
+   </category>
+   <dc:creator>
+    中央社, 中央社
+   </dc:creator>
+  </item>
   <item>
    <title>
     [生活] 花蓮富凱、統帥2大樓傾斜 已列危樓暫無傷亡
@@ -104,13 +156,13 @@
     https://www.rti.org.tw/news/view/id/2203485
    </guid>
    <author>
-    採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -130,13 +182,13 @@
     https://www.rti.org.tw/news/view/id/2203484
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -182,13 +234,13 @@
     https://www.rti.org.tw/news/view/id/2203480
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -208,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2203479
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -260,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2203477
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +338,13 @@
     https://www.rti.org.tw/news/view/id/2203476
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -338,13 +390,13 @@
     https://www.rti.org.tw/news/view/id/2203474
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -364,13 +416,13 @@
     https://www.rti.org.tw/news/view/id/2203473
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -390,13 +442,13 @@
     https://www.rti.org.tw/news/view/id/2203472
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -546,13 +598,13 @@
     https://www.rti.org.tw/news/view/id/2203464
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -572,13 +624,13 @@
     https://www.rti.org.tw/news/view/id/2203465
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -702,13 +754,13 @@
     https://www.rti.org.tw/news/view/id/2203459
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 採訪, 中央社, 中央社, 採訪, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -761,58 +813,6 @@
    </category>
    <dc:creator>
     謝佳興採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [生活] 花蓮壽豐10分鐘內連5震 其中兩起規模5以上
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F04%2F22%2Fdadf648a97349c31c1eb7674bff20174.jpg" width="360" alt="花蓮壽豐10分鐘內連5震，其中兩起規模5以上。(圖：中央氣象署)" title="花蓮壽豐10分鐘內連5震，其中兩起規模5以上。(圖：中央氣象署)"><br>花蓮縣壽豐鄉今天(22日)傍晚5時08分，發生芮氏規模5.5的地震後，緊接著又在10分鐘內連5震，其中一起達到芮氏規模5.3，另外兩起也達到規模4.9，且震央位置都在花蓮縣政府南南西方26、27公里到23、24公里間，地震深度都在10公里以內，最淺的一起深度更不到3公里。研判均為5時08分之後的餘震。至於這5起地震，最大震度都達到4級，而且都位在花蓮。...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203456">...more</a>]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 17:42:03 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2203456
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2203456
-   </guid>
-   <author>
-    吳琍君採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/3">
-    生活
-   </category>
-   <dc:creator>
-    吳琍君採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [財經] 3月失業率3.38% 創近24年同月最低 - 240422-21
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F04%2F22%2F20240422000129M.jpg" width="360" alt="主計總處22日發布3月失業率為3.38%，較2月下降0.01個百分點，創24年同月最低水準，經季節調整後的失業率為3.40%，則與2月持平。圖為台北市南港區上班族。(圖：中央社)" title="主計總處22日發布3月失業率為3.38%，較2月下降0.01個百分點，創24年同月最低水準，經季節調整後的失業率為3.40%，則與2月持平。圖為台北市南港區上班族。(圖：中央社)"><br>主計總處今天(22日)發布3月失業率為3.38%，較2月下降0.01個百分點，創24年同月最低水準。主計總處認為目前勞動市場穩定，失業率可望慢慢下降。#請聽記者楊文君的採訪報導#主計總處22日發布3月失業率為3.38%，較2月下降0.01個百分點，創24年同月最低水準，經季節調整後的失業率為3.40%，則與2月持平，也創民國89年12月來次低水準。主計總處認為隨著轉職者陸續找到工作，失業率可望慢慢下降，目前勞動市場仍屬穩定。主計總處國勢普查處副處長陳惠欣說：『(原音)隨著春節轉職者陸續找到工作後，所以我們會觀察到失業率跟失業人數是呈現下降。』陳惠欣也提到...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203454">...more</a>]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 17:26:36 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2203454
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2203454
-   </guid>
-   <author>
-    楊文君採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/2">
-    財經
-   </category>
-   <dc:creator>
-    楊文君採訪
    </dc:creator>
   </item>
  </channel>
