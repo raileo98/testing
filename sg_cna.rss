@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 02:25:28 +0800
+   Tue, 23 Apr 2024 02:45:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bonmati and Djokovic win top Laureus awards
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/bonmati-and-djokovic-win-top-laureus-awards-4284166
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 02:43:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/bonmati-and-djokovic-win-top-laureus-awards-4284166
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Israeli hostage families make Passover plea for return of loved ones
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--laJKg6FF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t150503z_1_lynxnpek3l0jy_rtroptp_3_autotalk-m-a-qualcomm.jpg?itok=HtkgpRxK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    EU threatens to suspend TikTok Lite's reward programme
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/eu-threatens-suspend-tiktok-lites-reward-programme-4283786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 22:57:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/eu-threatens-suspend-tiktok-lites-reward-programme-4283786
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cKGjAkXF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t145756z_1_lynxnpek3l0js_rtroptp_3_eu-tiktok-tech.jpg?itok=a2CiTP7h" width="1600"/>
   </item>
  </channel>
 </rss>
