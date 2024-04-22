@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 10:01:49 +0800
+   Mon, 22 Apr 2024 10:30:40 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 09:40:39 +0800
+   Mon, 22 Apr 2024 10:17:12 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股升近400點　升穿16600點水平
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749939-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749939-20240422.htm
+   </link>
+   <description>
+    <![CDATA[港股反彈，恒生指數升穿16600點水平，收復10天、50天、100天移動平均線。恒指較早時報16604點，升380點，升幅2.3%。
+
+科技指數重上3300點，較早時報3364點，升86點，升幅2.6%。ATMXJ都升，美團及京東升近5%。
+
+內銀、內險股造好，中人壽升近5%。其他金融股方面，友邦、滙控、港交所升2%至逾3%。
+
+醫藥、中資電信、網上醫療平台股上升，中生製藥反彈近7%，結束7個交易日跌勢。
+
+汽車股偏軟，理想跌近5%，暫是表現最差恒指及科指成份股。部分資源股向下，中海油及紫金跌近1%或以上。]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 10:17:12 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     內地股市初段向下
@@ -451,29 +476,6 @@
    </description>
    <pubDate>
     Sun, 21 Apr 2024 10:49:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    聯儲局報告：通脹、地緣政治及美國大選都是金融穩定風險
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749718-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749718-20240420.htm
-   </link>
-   <description>
-    <![CDATA[美國聯儲局半年度《金融穩定報告》指出，聯繫人認為通脹居高不下和利率長期處於高位，是金融穩定的主要風險，而地緣政治問題和美國總統大選亦被認為是潛在的重大衝擊來源。
-
-另外，報告又指，約有1804家存款機構利用去年3月矽谷銀行倒閉後設立的緊急貸款機制，約佔所有符合條件公司的20%。
-
-報告顯示，約95%的借款人資產不足100億美元，其中包括銀行、信用社、儲蓄協會，以及外國銀行的分支機構和代理機構。
-
-銀行定期融資計劃(BTFP)在創立1年後的3月11日停止發放新貸款。高峰時共發放1650億美元的貸款，貸款期限長達1年，預計該計劃將於明年3月完全關閉。]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 08:12:25 +0800
    </pubDate>
   </item>
  </channel>
