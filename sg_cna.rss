@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 19:50:22 +0800
+   Mon, 22 Apr 2024 20:09:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China’s military elevates information, space and cyber operations in biggest defence shakeup in 9 years
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-military-peoples-liberation-army-shakeup-information-support-force-4283306
+   </link>
+   <description>
+    <![CDATA[The restructuring comes amid simmering Sino-US tensions, with cyber warfare emerging as a recent frontier.]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 19:59:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-military-peoples-liberation-army-shakeup-information-support-force-4283306
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2PEz_jiM--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-05t093204z_3_lynxnpek2400t_rtroptp_3_china-anniversary-parade.jpg?itok=bQ3U5ifP" width="1600"/>
+  </item>
+  <item>
+   <title>
+    India's Reliance Jio says Q4 profit rises 13.2%
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indias-reliance-jio-says-q4-profit-rises-132-4283351
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 19:50:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indias-reliance-jio-says-q4-profit-rises-132-4283351
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K8v9WuRt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t115009z_1_lynxnpek3l0er_rtroptp_3_reliance-jio-results.jpg?itok=C1pIubeP" width="1600"/>
+  </item>
   <item>
    <title>
     Taiwan's Hualien hit by 5.5-magnitude quake
@@ -418,48 +460,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LNaIzQ2b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t094032z_1_lynxnpek3l0as_rtroptp_3_sri-lanka-economy-inflation.jpg?itok=U4kmEVhB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    More construction firms going bust after pandemic, say liquidators
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
-   </link>
-   <description>
-    <![CDATA[The sector is still reeling from the aftermath of COVID-19 and a slump in overseas investments, on top of dealing with higher costs.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 17:35:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nsfmAQ2y--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/file-photo-of-construction-cranes-at-a-construction-site.jpg?itok=IIkxwWtQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    More construction firms going bust after pandemic, say liquidators
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
-   </link>
-   <description>
-    <![CDATA[The sector is still reeling from the aftermath of COVID-19 and a slump in overseas investments, on top of dealing with higher costs.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 17:35:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nsfmAQ2y--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/file-photo-of-construction-cranes-at-a-construction-site.jpg?itok=IIkxwWtQ" width="1600"/>
   </item>
  </channel>
 </rss>
