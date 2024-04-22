@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 13:42:20 +0800
+   Mon, 22 Apr 2024 13:52:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rybakina delighted by consistency after Stuttgart win
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/rybakina-delighted-consistency-after-stuttgart-win-4282546
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 13:47:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/rybakina-delighted-consistency-after-stuttgart-win-4282546
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--We4pG2DD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t054726z_1_lynxnpek3l04t_rtroptp_3_tennis-stuttgart.jpg?itok=lKblSrKm" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Barca's Xavi decries 'maximum injustice' after disallowed goal in El Clasico defeat
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/barcas-xavi-decries-maximum-injustice-after-disallowed-goal-el-clasico-defeat-4282526
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 13:39:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/barcas-xavi-decries-maximum-injustice-after-disallowed-goal-el-clasico-defeat-4282526
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FvrwU7qa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t053902z_1_lynxnpek3l04p_rtroptp_3_soccer-spain-soc-fcb-preview.jpg?itok=kAE1Fm74" width="1600"/>
+  </item>
   <item>
    <title>
     Taylor Swift shows off trips to Singapore's Gardens by the Bay and Koma restaurant in YouTube Shorts video
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pzXSIX0o--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t005038z_1_lynxnpek3l00h_rtroptp_3_global-oil.jpg?itok=YOnD4ycq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singaporean woman killed in Spain: Married suspect reportedly owned several businesses
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/spain-murder-mitchell-ong-audrey-fang-killed-married-singaporean-bukit-timah-condo-4282151
-   </link>
-   <description>
-    <![CDATA[Mitchell Ong, who is suspected of killing Audrey Fang, is said to be married, while his Instagram profile depicts him as a frequent gym user with a penchant for global rave parties.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 11:25:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/spain-murder-mitchell-ong-audrey-fang-killed-married-singaporean-bukit-timah-condo-4282151
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ao9-Tog_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_spain_singapore_killer_mitchell_ong.jpg?itok=rqOPIpsx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Actor Kevin Bacon dances back to Footloose high school for its final prom
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/kevin-bacon-footloose-high-school-utah-4281871
-   </link>
-   <description>
-    <![CDATA[The actor danced his way to a stage on a Payson High School athletic field Saturday to greet students before what likely was the final prom held at the school, which is set to be torn down next spring.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 11:14:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/kevin-bacon-footloose-high-school-utah-4281871
-   </guid>
-   <category>
-    Entertainment ,World ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3SGlyeeu--/c_crop,h_506,w_901,x_1,y_239/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/ap24112721032041.jpg?itok=6t60Zx-J" width="1600"/>
   </item>
  </channel>
 </rss>
