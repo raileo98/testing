@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 23 Apr 2024 04:10:37 +0800
+   Tue, 23 Apr 2024 04:40:41 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 23 Apr 2024 02:15:16 +0800
+   Tue, 23 Apr 2024 04:33:13 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Nasa's Voyager 1 phones home after months
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750051-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750051-20240423.htm
+   </link>
+   <description>
+    <![CDATA[Nasa's Voyager 1 probe – the most distant man-made object in the universe – is returning usable information to ground control following months of spouting gibberish, the US space agency announced on Monday.
+
+The spaceship stopped sending readable data back to Earth on November 14, 2023, even though controllers could tell it was still receiving their commands.
+
+In March, teams working at Nasa's Jet Propulsion Laboratory discovered that a single malfunctioning chip was to blame, and devised a clever coding fix that worked within the tight memory constraints of its 46-year-old computer system.
+
+"Voyager 1 spacecraft is returning usable data about the health and status of its onboard engineering systems," the agency said.
+
+"The next step is to enable the spacecraft to begin returning science data again."
+
+Launched in 1977, Voyager 1 was mankind's first spacecraft to enter the interstellar medium, in 2012, and is currently more than 15 billion miles from Earth. Messages sent from Earth take about 22.5 hours to reach the spacecraft.
+
+Its twin, Voyager 2, also left the solar system in 2018.
+
+Both Voyager spacecraft carry "Golden Records" – 12-inch, gold-plated copper discs intended to convey the story of our world to extraterrestrials.
+
+These include a map of our solar system, a piece of uranium that serves as a radioactive clock allowing recipients to date the spaceship's launch, and symbolic instructions that convey how to play the record.
+
+The contents of the record, selected for Nasa by a committee chaired by legendary astronomer Carl Sagan, include encoded images of life on Earth, as well as music and sounds that can be played using an included stylus.
+
+Their power banks are expected to be depleted sometime after 2025. They will then continue to wander the Milky Way, potentially for eternity, in silence. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 04:33:13 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     India's Modi accused of targeting Muslims in speech
@@ -768,53 +805,6 @@ Last updated: 2024-04-20 HKT 16:20]]>
    </description>
    <pubDate>
     Sat, 20 Apr 2024 03:35:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    WHO raises alarm after finding H5N1 in milk
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749695-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749695-20240420.htm
-   </link>
-   <description>
-    <![CDATA[The H5N1 bird flu virus strain has been detected in very high concentrations in raw milk from infected animals, the WHO said on Friday, though how long the virus can survive in milk is unknown.
-
-Avian influenza A(H5N1) first emerged in 1996 but since 2020, the number of outbreaks in birds has grown exponentially, alongside an increase in the number of infected mammals.
-
-The strain has led to the deaths of tens of millions of poultry, with wild birds and land and marine mammals also infected.
-
-Cows and goats joined the list last month -- a surprising development for experts because they were not thought to be susceptible to this type of influenza.
-
-US authorities earlier this month said a person working on a dairy farm in Texas was recovering from bird flu after being exposed to cattle.
-
-"The case in Texas is the first case of a human infected by avian influenza by a cow," said Wenqing Zhang, head of the global influenza programme at the World Health Organization.
-
-"Bird-to-cow, cow-to-cow and cow-to-bird transmission have also been registered during these current outbreaks, which suggest that the virus may have found other routes of transition than we previously understood," she told a media briefing in Geneva.
-
-It was only the second case of a human testing positive for bird flu in the United States, and came after the virus sickened herds that were apparently exposed to wild birds.
-
-"Now we see multiple herds of cows affected in an increasing number of US states, which shows a further step of the virus spillover to mammals," Zhang said.
-
-"The virus has also been detected in milk from infected animals."
-
-Zhang said there was a "very high virus concentration in raw milk", but experts were still investigating exactly how long the virus is able to survive in milk.
-
-The Texas health department has said the cattle infections do not present a concern for the commercial milk supply, as dairies are required to destroy milk from sick cows. Pasteurisation also kills the virus.
-
-"It is important for people to ensure safe food practices, including consuming only pasteurised milk and milk products," said Zhang.
-
-From 2003 to April 1 this year, the WHO said it had recorded 463 deaths from 889 human cases across 23 countries, putting the case fatality rate at 52 percent.
-
-Zhang noted that the human cases recorded in Europe and the United States in the past few years -- since the virus surged -- have been mild cases.
-
-So far, there is no evidence that A(H5N1) is spreading between humans. (AFP)]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 03:11:08 +0800
    </pubDate>
   </item>
  </channel>
