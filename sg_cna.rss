@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 04:24:21 +0800
+   Tue, 23 Apr 2024 04:29:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    BBC presenter Huw Edwards resigns after medical advice
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/bbc-presenter-huw-edwards-resigns-after-medical-advice-4284331
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 04:26:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/bbc-presenter-huw-edwards-resigns-after-medical-advice-4284331
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U4HmDSTC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/britain_bbc_presenter_61531.jpg?itok=2X64PRPP" width="1600"/>
+  </item>
   <item>
    <title>
     200 bodies at Nasser hospital in Gaza say local authorities
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UhA6nC88--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t134952z_1_lynxnpek3l0hy_rtroptp_3_usa-trump-new-york.jpg?itok=l1jkDEYC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    International team captain Weir names Presidents Cup assistants
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/international-team-captain-weir-names-presidents-cup-assistants-4283821
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 23:08:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/international-team-captain-weir-names-presidents-cup-assistants-4283821
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wwxPEPat--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t150830z_1_lynxnpek3l0k5_rtroptp_3_golf-presidents.jpg?itok=Q6Z7qNKi" width="1600"/>
   </item>
  </channel>
 </rss>
