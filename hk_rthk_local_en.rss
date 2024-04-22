@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 11:50:13 +0800
+   Mon, 22 Apr 2024 12:20:32 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 21 Apr 2024 18:09:41 +0800
+   Mon, 22 Apr 2024 12:13:56 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    '70 percent of eateries still using plastic items'
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749951-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749951-20240422.htm
+   </link>
+   <description>
+    <![CDATA[A catering sector leader on Monday said about 70 percent of Hong Kong's 18,000 restaurants are still handing out plastic cutlery, despite the first phase of a citywide ban on single-use plastics coming into effect. 
+
+The government says it won't issue fines for breaches of the ban over the next six months. 
+
+The president of the Federation of Restaurants and Related Trades, Simon Wong, said many small and medium-sized restaurants are still using plastic, because it's cheaper than alternatives. 
+
+Wong told an RTHK programme that he hopes people will get into the habit of taking their own cutlery with them when they go out for food, so they don't have to pay extra for eco-friendly options.
+
+"The cost may be passed on to some people, because they may have to pay additional fees. However, I hope that people can, in the future, get into the habit of using their own tableware. It would be best if they can bring their own cutlery, as that way neither party needs to consider the matter of cost," he said.
+
+The ban also means hotels can no longer provide guests with free plastic items, including disposable razors, toothbrushes and shower caps.
+
+On RTHK's Backchat programme, the executive director of the Federation of Hong Kong Hotel Owners, Caspar Tsui, said the industry is struggling to find alternative products.
+
+"There has been a little difficulty in changing some of the products. Not because we were not willing to do it, but mainly because, you know, it's difficult to find sufficient suppliers and the quality of products that we need to maintain the service," he said. 
+
+"We're adjusting slowly, not because we don't want to, but it takes time."]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 12:13:56 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong Games return after five years
@@ -598,37 +631,6 @@ According to the draft Civil Service Code, which includes 12 core values and sta
    </description>
    <pubDate>
     Sat, 20 Apr 2024 09:06:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Insufficient load test led to DC poll glitch: EAC
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749677-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749677-20240419.htm
-   </link>
-   <description>
-    <![CDATA[A technical team behind the electronic poll register system, which failed during December's District Council polls, did not conduct sufficient load test on the programme, the Electoral Affairs Commission (EAC) concluded on Friday. 
-
-In a report on the citywide polls, the watchdog also recommended the Registration and Electoral Office to identify experts in fixing the system's issues and run simulations of a large-scale election regularly. 
-
-Last year, the glitch led to authorities extending voting hours by one and a half hours, and polling stations switching to printed copies of the voter register to issue ballot papers.
-
-The report noted that design issues of the electronic poll register system caused the central processing unit to overload and unnecessarily tied up a substantial amount of resources in the server when electoral staff tried to log in to the programme. 
-
-"When altering the system design, the [Registration and Electoral Office's] technical team did not fully consider the cumulative effect and impacts on loading that might be induced to the system during actual operation, and therefore did not conduct sufficient and comprehensive load test," the report said. 
-
-The commission said the electoral office should identify suitable experts to rectify design issues and conduct "adequate, comprehensive and stringent tests", while running simulated large-scale elections on a regular basis.
-
-"The [Registration and Electoral Office] should learn a lesson from this system failure, and actively implement the above recommendations to prevent the recurrence of similar incidents in future," it said. 
-
-"As to whether any individual officers should be held responsible for the incident, it will be followed up by the administration according to the established procedures."]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 21:19:37 +0800
    </pubDate>
   </item>
  </channel>
