@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 17:32:15 +0800
+   Mon, 22 Apr 2024 17:42:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More construction firms going bust after pandemic, say liquidators
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
+   </link>
+   <description>
+    <![CDATA[The sector is still reeling from the aftermath of COVID-19 and a slump in overseas investments, on top of dealing with higher costs.]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 17:35:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
+   </guid>
+   <category>
+    Singapore ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nsfmAQ2y--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/file-photo-of-construction-cranes-at-a-construction-site.jpg?itok=IIkxwWtQ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    More construction firms going bust after pandemic, say liquidators
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
+   </link>
+   <description>
+    <![CDATA[The sector is still reeling from the aftermath of COVID-19 and a slump in overseas investments, on top of dealing with higher costs.]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 17:35:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/construction-building-contractors-bust-debts-after-pandemic-liquidators-4282961
+   </guid>
+   <category>
+    Singapore ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nsfmAQ2y--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/file-photo-of-construction-cranes-at-a-construction-site.jpg?itok=IIkxwWtQ" width="1600"/>
+  </item>
   <item>
    <title>
     Indonesia lowers Mount Ruang volcano alert level, reopens nearby airport
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Rybakina delighted by consistency after Stuttgart win
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/rybakina-delighted-consistency-after-stuttgart-win-4282546
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 13:47:26 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/rybakina-delighted-consistency-after-stuttgart-win-4282546
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Barca's Xavi decries 'maximum injustice' after disallowed goal in El Clasico defeat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/barcas-xavi-decries-maximum-injustice-after-disallowed-goal-el-clasico-defeat-4282526
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 13:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/barcas-xavi-decries-maximum-injustice-after-disallowed-goal-el-clasico-defeat-4282526
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FvrwU7qa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t053902z_1_lynxnpek3l04p_rtroptp_3_soccer-spain-soc-fcb-preview.jpg?itok=kAE1Fm74" width="1600"/>
   </item>
  </channel>
 </rss>
