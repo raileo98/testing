@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 22:30:07 +0800
+   Mon, 22 Apr 2024 22:35:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    London Marathon sets world record with more than 53,000 finishing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/london-marathon-sets-world-record-more-53000-finishing-4283721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 22:32:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/london-marathon-sets-world-record-more-53000-finishing-4283721
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Profit momentum of Big Six tech companies to 'collapse' over 2024, UBS says
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B_-Ntlhw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/taiwan_earthquake_apr_22.jpg?itok=dCiRYtcf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'I can’t say it without tears': Ukraine's new mobilisation law gives little relief to soldiers' loved ones
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/ukraine-russia-war-mobilisation-law-soldiers-little-relief-4283226
-   </link>
-   <description>
-    <![CDATA[A clause that would have allowed Ukrainian troops to leave after 36 months of combat was dropped at the last minute.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 19:10:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/ukraine-russia-war-mobilisation-law-soldiers-little-relief-4283226
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--t33QQ75X--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/russia_ukraine_war_things_to_know_53869.jpg?itok=SKHyQOK2" width="1600"/>
   </item>
  </channel>
 </rss>
