@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 04:06:21 +0800
+   Tue, 23 Apr 2024 04:17:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    200 bodies at Nasser hospital in Gaza say local authorities
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/200-bodies-nasser-hospital-gaza-say-local-authorities-4283756
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 04:10:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/200-bodies-nasser-hospital-gaza-say-local-authorities-4283756
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LKumjZ9W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/541f6e173596f84c9aab39ee068d035f2b235a89.jpg?itok=-XY8pOtN" width="1600"/>
+  </item>
   <item>
    <title>
     Scheffler, Korda take men's and women's game by storm with dominant runs
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wwxPEPat--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t150830z_1_lynxnpek3l0k5_rtroptp_3_golf-presidents.jpg?itok=Q6Z7qNKi" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bitcoin traders shrug off 'halving' to focus on broader market risks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/bitcoin-traders-shrug-halving-focus-broader-market-risks-4283811
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 23:08:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bitcoin-traders-shrug-halving-focus-broader-market-risks-4283811
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
