@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 10:33:28 +0800
+   Mon, 22 Apr 2024 10:42:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tencent to release 'Dungeon and Fighter' mobile game in May after seven years
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tencent-release-dungeon-and-fighter-mobile-game-may-after-seven-years-4282231
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 10:35:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tencent-release-dungeon-and-fighter-mobile-game-may-after-seven-years-4282231
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_Ks0KldN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t023517z_1_lynxnpek3l01s_rtroptp_3_tencent-gaming.jpg?itok=BdmDzEPt" width="1600"/>
+  </item>
   <item>
    <title>
     Singaporeans born in 1973 or earlier will get a boost for their healthcare and retirement needs through the Majulah Package.
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1CguV2qT--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/saiyidah-aisyah-olympics---3022676.png?itok=deAIGltc" width="1600"/>
-  </item>
-  <item>
-   <title>
-    The Big Read: Networking in the digital age - how youths are using LinkedIn, other social media platforms to get ahead
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/big-read-networking-digital-age-youths-linkedin-social-media-platforms-4279876
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/big-read-networking-digital-age-youths-linkedin-social-media-platforms-4279876
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kRRPHwom--/c_crop,h_465,w_828,x_0,y_61/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/20240418-ns-nybigread0419.jpg?itok=DaLslwEi" width="1600"/>
   </item>
  </channel>
 </rss>
