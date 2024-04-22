@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 00:11:42 +0800
+   Tue, 23 Apr 2024 00:24:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Apple close to finalizing deal with FIFA over TV rights for new tournament, NYT reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/apple-close-finalizing-deal-fifa-over-tv-rights-new-tournament-nyt-reports-4283921
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 00:15:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apple-close-finalizing-deal-fifa-over-tv-rights-new-tournament-nyt-reports-4283921
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9PdFC4zb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t161501z_1_lynxnpek3l0lq_rtroptp_3_soccer-lawsuit-fifa-relevent.jpg?itok=J4OGIg-M" width="1600"/>
+  </item>
   <item>
    <title>
     Meta opens Quest operating system to third-party device makers
@@ -84,10 +105,10 @@
   </item>
   <item>
    <title>
-    Grindr facing UK lawsuit over alleged data protection breaches
+    Grindr facing UK data lawsuit for allegedly sharing users' HIV status
    </title>
    <link>
-    https://www.channelnewsasia.com/business/grindr-facing-uk-lawsuit-over-alleged-data-protection-breaches-4283881
+    https://www.channelnewsasia.com/business/grindr-facing-uk-data-lawsuit-allegedly-sharing-users-hiv-status-4283881
    </link>
    <description>
     <![CDATA[]]>
@@ -96,7 +117,7 @@
     Mon, 22 Apr 2024 23:55:01 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/grindr-facing-uk-lawsuit-over-alleged-data-protection-breaches-4283881
+    https://www.channelnewsasia.com/business/grindr-facing-uk-data-lawsuit-allegedly-sharing-users-hiv-status-4283881
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u2M35Z0a--/c_crop,h_900,w_1600,x_0,y_49/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/inimitable.jpg?itok=cPcsIa41" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Boring dominance? Horner defends 'metronome' Verstappen
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/boring-dominance-horner-defends-metronome-verstappen-4283321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 21:02:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/boring-dominance-horner-defends-metronome-verstappen-4283321
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
