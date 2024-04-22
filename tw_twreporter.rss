@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Sun, 21 Apr 2024 17:00:02 GMT
+   Mon, 22 Apr 2024 17:00:12 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -51,6 +51,24 @@
     Sun, 21 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417125125-6018f7e6b7dcb3c97f5286e4f5806c03-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    死囚有沒有妥善道別的最後權利？日本「執行死刑黑箱」訴訟，與來自刑場的錄音
+   </title>
+   <description>
+    <![CDATA[主張日本目前執行死刑的「即日告知・即日執行制」違憲的訴訟，雖初步敗訴，但也凸顯了日本死刑制度黑箱主義。這能否更促使社會在廢死辯論外，重新思考這種終極刑罰所帶來的法理情難題？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/hello-world-2024-04-22
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/hello-world-2024-04-22
+   </guid>
+   <pubDate>
+    Sun, 21 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240422112325-10e6c2af14efd0b83b32c03a46d7208e-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -195,24 +213,6 @@
     Sat, 13 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240414142837-3d64921516dc1e962e44bd998dcc04cf-mobile.JPG"/>
-  </item>
-  <item>
-   <title>
-    非洲深處的人道警鐘──剛果的種族戰禍，為何將讓不聞問的世界付出代價？
-   </title>
-   <description>
-    <![CDATA[在非洲中部的心臟地區，剛果民主共和國的叛亂戰火，正掀起嚴重人道危機──710多萬難民逃離家園、234萬人遭遇斷糧危機。無國界醫生擔心，這場武裝衝突的瘟疫風險，恐怕將撼動全世界。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/photo-africa-ethnic-conflict-in-congo
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/photo-africa-ethnic-conflict-in-congo
-   </guid>
-   <pubDate>
-    Sat, 13 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240408163047-587d11dac3f827e91228c6b896d038f9-mobile.jpg"/>
   </item>
  </channel>
 </rss>

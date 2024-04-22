@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 00:54:25 +0800
+   Tue, 23 Apr 2024 01:12:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's yen falls to 1990 lows, dollar/yen nears 155
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-yen-falls-1990-lows-dollar-yen-nears-155-4284036
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 01:02:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-yen-falls-1990-lows-dollar-yen-nears-155-4284036
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aWWDsZqr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t170209z_1_lynxnpek3l0na_rtroptp_3_japan-yen.jpg?itok=ahWolEFR" width="1600"/>
+  </item>
   <item>
    <title>
     Forest request PGMOL release VAR audio from controversial Everton defeat
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RQlBfnSq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/dce020668ecd10def4abe195f2ae6ff1d942c454.jpg?itok=jB8USEjU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ex-NUS prof jailed for submitting fake invoices, duping university into disbursing nearly S$88,400
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/ex-nus-prof-jailed-fake-invoices-dupe-84000-television-vacuum-4283366
-   </link>
-   <description>
-    <![CDATA[The man created fictitious invoices or altered existing ones to reflect higher amounts than paid.  ]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 21:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/ex-nus-prof-jailed-fake-invoices-dupe-84000-television-vacuum-4283366
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cOQi8uFt--/c_crop,h_899,w_1599,x_1,y_36/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/1000031944.jpg?itok=Clk_p1yQ" width="1600"/>
   </item>
  </channel>
 </rss>
