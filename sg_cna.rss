@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 01:49:59 +0800
+   Tue, 23 Apr 2024 01:59:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    The EU could suspend TikTok Lite over safety risks to children
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/eu-could-suspend-tiktok-lite-over-safety-risks-children-4283876
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 01:52:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/eu-could-suspend-tiktok-lite-over-safety-risks-children-4283876
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zMyouruy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/07fde1cd3f30ce7ec17c1fae5db4a462ddf73b38.jpg?itok=PQRzJbVT" width="1600"/>
+  </item>
   <item>
    <title>
     Honda to build electric vehicles and batteries in Ontario, says source
@@ -164,7 +185,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aWWDsZqr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t170209z_1_lynxnpek3l0na_rtroptp_3_japan-yen.jpg?itok=ahWolEFR" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gVn2Ohpf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t175705z_2_lynxnpek3l0na_rtroptp_3_japan-yen.jpg?itok=T6DoBrGt" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qMDMxF-t--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t144516z_1_lynxnpek3l0jj_rtroptp_3_soccer-england-mun-mourinho.jpg?itok=O8FcuGGt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Short sellers pocket record weekly profit from Big Tech selloff
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/short-sellers-pocket-record-weekly-profit-big-tech-selloff-4283751
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 22:42:57 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/short-sellers-pocket-record-weekly-profit-big-tech-selloff-4283751
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--plw_KCXP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t144257z_1_lynxnpek3l0jg_rtroptp_3_global-markets-interest-rates.jpg?itok=bk7QBVix" width="1600"/>
   </item>
  </channel>
 </rss>
