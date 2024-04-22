@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 22 Apr 2024 21:55:05 +0800
+   Mon, 22 Apr 2024 22:15:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    'She was taken in such a horrible way': Family of Singapore woman killed in Spain opens up about their loss
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/audrey-fang-singaporean-woman-killed-spain-family-4282691
+   </link>
+   <description>
+    <![CDATA[Ms Audrey Fang's brother and cousin say they had never heard of her suspected killer Mitchell Ong.]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 21:59:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/audrey-fang-singaporean-woman-killed-spain-family-4282691
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GFr2qY38--/c_crop,h_2160,w_3840,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/img_8070.jpg?itok=BSEOUrUk" width="1600"/>
+  </item>
   <item>
    <title>
     Informatica says it is not in any acquisition talks, updates forecast
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8t20Psju--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/9ec139ded3824f8bb02fd4e06fa2854ea5395a94.jpg?itok=Lm43ccQd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Djokovic to skip Madrid Open
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/djokovic-skip-madrid-open-4283236
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 18:40:26 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/djokovic-skip-madrid-open-4283236
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mQD_hzbn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t104026z_1_lynxnpek3l0ck_rtroptp_3_tennis-montecarlo.jpg?itok=b2E1aId3" width="1600"/>
   </item>
  </channel>
 </rss>
