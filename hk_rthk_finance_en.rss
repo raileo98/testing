@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 16:10:18 +0800
+   Mon, 22 Apr 2024 16:20:28 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 09:35:48 +0800
+   Mon, 22 Apr 2024 16:18:23 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks begin week with a rally
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749991-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749991-20240422.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks finished with healthy gains on Monday following last week's losses, as Middle East fears wane and traders look ahead for key US economic data.
+
+The Hang Seng Index rose 1.8 percent, or 287 points, to 16,511.
+
+The Shanghai Composite Index fell 0.7 percent, or 20 points, to 3,044, while the Shenzhen Composite Index shed 0.5 percent, or 8 points, to 1,678. (AFP)]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 16:18:23 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK stocks start week with healthy gains
@@ -595,39 +616,6 @@ Tesla slipped 2.7 percent a day after falling over 5 percent on news that the EV
    </description>
    <pubDate>
     Wed, 17 Apr 2024 04:53:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    IMF expects steady growth, lower inflation
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749203-20240417.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749203-20240417.htm
-   </link>
-   <description>
-    <![CDATA[The global economy is set for another year of slow but steady growth, the International Monetary Fund said on Tuesday, with US strength pushing world output through headwinds from lingering high inflation, weak demand in China and Europe, and spillovers from two regional wars.
-
-The IMF forecast global real GDP growth of 3.2 percent for 2024 and 2025 – the same rate as in 2023. The 2024 forecast was revised upward by 0.1 percentage point from the previous World Economic Outlook's estimate in January, largely due to a significant upward revision in the US outlook.
-
-"The global economy continues to display remarkable resilience with growth holding steady and inflation declining, but many challenges still lie ahead," Pierre-Olivier Gourinchas, the IMF's chief economist, told reporters.
-
-A potential escalation of the Middle East conflict after Iran's rocket and drone attack on Israel could have a "strong effect" on limiting growth, he said, adding that it would raise oil prices and inflation, triggering tighter monetary policy from central banks.
-
-The US Treasury is preparing to hit Iran with new sanctions in coming days that could limit its ability to export oil, US Treasury Secretary Janet Yellen said on Tuesday.
-
-The report described an "adverse scenario" in which a Middle East escalation would lead to a 15 percent increase in oil prices and higher shipping costs would hike global inflation by about 0.7 percentage points.
-
-The IMF forecast that global median headline inflation will fall to 2.8 percent by the end of 2024 from 4 percent last year, and to 2.4 percent in 2025.
-
-The IMF left unchanged its forecast for China's 2024 growth to fall to 4.6 percent from 5.2 percent in 2023. But it warned that the lack of a comprehensive restructuring package for the country's property sector could prolong a downturn in domestic demand.
-
-Gourinchas said, however, that China's stronger-than-expected first-quarter growth may prompt an upward revision to the outlook. (Reuters)]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 02:38:02 +0800
    </pubDate>
   </item>
  </channel>
