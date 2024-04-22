@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 00:34:49 +0800
+   Tue, 23 Apr 2024 00:41:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Forest request PGMOL release VAR audio from controversial Everton defeat
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/forest-request-pgmol-release-var-audio-controversial-everton-defeat-4283981
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 00:36:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/forest-request-pgmol-release-var-audio-controversial-everton-defeat-4283981
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Apple close to finalizing deal with FIFA over TV rights for new tournament, NYT reports
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cOQi8uFt--/c_crop,h_899,w_1599,x_1,y_36/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/1000031944.jpg?itok=Clk_p1yQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'Uniquely Singaporean': Singapore navy launches fourth Invincible-class submarine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singapore-navy-fourth-invincible-class-submarine-inimitable-germany-mindef-4283496
-   </link>
-   <description>
-    <![CDATA[The Invincible-class submarines are customised for operations in Singapore’s shallow and busy tropical waters, says the Ministry of Defence.]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 21:07:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singapore-navy-fourth-invincible-class-submarine-inimitable-germany-mindef-4283496
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u2M35Z0a--/c_crop,h_900,w_1600,x_0,y_49/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/inimitable.jpg?itok=cPcsIa41" width="1600"/>
   </item>
  </channel>
 </rss>
