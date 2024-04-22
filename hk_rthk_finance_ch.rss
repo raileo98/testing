@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 14:50:36 +0800
+   Mon, 22 Apr 2024 15:01:51 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 14:20:12 +0800
+   Mon, 22 Apr 2024 14:53:45 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,44 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    瑞士央行上調銀行準備金率至4%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749972-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749972-20240422.htm
+   </link>
+   <description>
+    <![CDATA[瑞士央行上調銀行準備金率，由原本2.5%調升至4%。
+
+央行表示，今次調整是確保貨幣政策的執行維持有效率，不影響目前貨幣政策立場。]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 14:53:45 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    韓股升近1.5%收市
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1749971-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1749971-20240422.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市上升。
+
+首爾綜合指數收報2629點，升37點，升幅1.45%。]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 14:52:54 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股反彈1%
@@ -430,42 +468,6 @@
    </description>
    <pubDate>
     Mon, 22 Apr 2024 09:27:10 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    恒指競價時段升186點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749931-20240422.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749931-20240422.htm
-   </link>
-   <description>
-    <![CDATA[港股競價時段上升，恒生指數報16410點，升186點，升幅1.15%。
-
-科技指數重上3300點水平，報3318點，升40點，升幅1.22%。]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 09:26:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股初段靠穩
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749926-20240422.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749926-20240422.htm
-   </link>
-   <description>
-    <![CDATA[台股初段靠穩，加權指數較早時報19615點，升88點，升幅0.45%。]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 09:13:10 +0800
    </pubDate>
   </item>
  </channel>
