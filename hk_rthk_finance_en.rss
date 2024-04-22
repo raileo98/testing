@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 22 Apr 2024 07:50:28 +0800
+   Mon, 22 Apr 2024 10:01:14 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 20 Apr 2024 04:36:16 +0800
+   Mon, 22 Apr 2024 09:35:48 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks start week with healthy gains
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1749934-20240422.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1749934-20240422.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares rose more than one percent at the open on Monday following last week's losses and as traders breathed a sigh of relief that there had been no weekend escalation of the Middle East crisis.
+
+The Hang Seng Index jumped 1.15 percent to 16,411.
+
+The Shanghai Composite Index gave up 0.20 percent to 3,059, while the Shenzhen Composite Index on the mainland's second exchange dipped 0.55 percent to 1,677. (AFP)]]>
+   </description>
+   <pubDate>
+    Mon, 22 Apr 2024 09:35:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US markets undermined by jitters over tech profits
@@ -607,27 +628,6 @@ Gourinchas said, however, that China's stronger-than-expected first-quarter grow
    </description>
    <pubDate>
     Wed, 17 Apr 2024 02:38:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks end sharply lower
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749145-20240416.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749145-20240416.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong and mainland stocks sank on Tuesday on worries about a regional conflict in the Middle East and after data showed China's economy grew more than expected but other figures raised questions about the outlook for the rest of the year.
-
-The Hang Seng Index shed 2.1 percent, or 351 points, to 16,248.
-
-The Shanghai Composite Index lost 1.7 percent, or 50 points, to end at 3,007, while the Shenzhen Composite Index dived 3.8 percent, or 64 points, to 1,638. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 16 Apr 2024 16:42:34 +0800
    </pubDate>
   </item>
  </channel>
