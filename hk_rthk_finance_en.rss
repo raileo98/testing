@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 23 Apr 2024 05:20:29 +0800
+   Tue, 23 Apr 2024 05:30:51 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 21:15:08 +0800
+   Tue, 23 Apr 2024 05:21:26 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,41 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks rebound to open big earnings week
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750053-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750053-20240423.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks powered higher on Monday, shrugging off recent weakness at the start of a heavy week of earnings from technology and industrial companies.
+
+"The markets are breathing a collective sigh of relief that the tensions in the Middle East didn't escalate," said Adam Sarhan of 50 Park Investments.
+
+Stocks tumbled on Friday, in part due to selling ahead of the weekend amid fears of a worsening in the Israel-Iran conflict.
+
+The Dow Jones finished up 0.7 percent at 38,239.
+
+The S&P 500 gained 0.9 percent to 5,010, while the Nasdaq jumped 1.1 percent to 15,451.
+
+All 11 sectors of the S&P 500 finished in positive territory.
+
+This week's earnings calendar includes results from tech titans such as Amazon and Microsoft, as well as from industrial companies including Chevron and General Motors.
+
+Tesla, which also reports this week, fell 3.4 percent following another round of price cuts – the latest sign of intensifying competition among electric vehicle manufacturers.
+
+Verizon dropped 4.6 percent as analysts cited worries about a soft demand picture, with net broadband subscriber additions slowing compared with the prior quarter.
+
+Nike slid 0.4 percent after disclosing to state officials in Oregon that it plans to cut 740 jobs from its headquarters. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 05:21:26 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     'More efforts needed to revive stock market sentiment'
@@ -595,29 +630,6 @@ The Shanghai Composite Index rallied 2.1 percent, or 64 points, to end at 3,071,
    </description>
    <pubDate>
     Wed, 17 Apr 2024 16:23:11 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK market opens down after Fed chair's comments
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749223-20240417.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749223-20240417.htm
-   </link>
-   <description>
-    <![CDATA[HK market opens down after Fed chair's comments
-
-Hong Kong stocks opened slightly lower on Wednesday after US Federal Reserve boss Jerome Powell warned the fight against inflation might take more time than expected, fuelling worries interest rates could stay higher for longer.
-
-The Hang Seng Index slipped 0.1 percent to 16,225.
-
-The Shanghai Composite Index was marginally higher, inching up 0.99 points to 3,008, and the Shenzhen Composite Index added 0.5 percent to 1,645. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 09:54:48 +0800
    </pubDate>
   </item>
  </channel>
