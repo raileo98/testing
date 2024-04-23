@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 19:27:14 +0800
+   Tue, 23 Apr 2024 19:36:04 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    FA Cup final to kick off as usual at 3pm, in relief for travelling fans
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fa-cup-final-kick-usual-3pm-relief-travelling-fans-4286041
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 19:30:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fa-cup-final-kick-usual-3pm-relief-travelling-fans-4286041
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TnSXpwgv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t113005z_1_lynxnpek3m0fk_rtroptp_3_soccer-england-facup.jpg?itok=z4wGNgeO" width="1600"/>
+  </item>
+  <item>
+   <title>
+    India's inflation at risk from extreme weather, geopolitical issues, cenbank says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indias-inflation-risk-extreme-weather-geopolitical-issues-cenbank-says-4286051
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 19:28:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indias-inflation-risk-extreme-weather-geopolitical-issues-cenbank-says-4286051
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     1 in 2 workers in Singapore will quit their job if asked to be in office more often: Survey
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    US to take aim at Chinese banks aiding Russia war effort, WSJ reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-take-aim-chinese-banks-aiding-russia-war-effort-wsj-reports-4285071
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 16:49:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-take-aim-chinese-banks-aiding-russia-war-effort-wsj-reports-4285071
-   </guid>
-   <category>
-    World ,Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k5b1p8jw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t092227z_2_lynxnpek3m07l_rtroptp_3_ukraine-crisis-drones-odesa.jpg?itok=1XgZgkIy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US to take aim at Chinese banks aiding Russia war effort, WSJ reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-take-aim-chinese-banks-aiding-russia-war-effort-wsj-reports-4285071
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 16:49:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-take-aim-chinese-banks-aiding-russia-war-effort-wsj-reports-4285071
-   </guid>
-   <category>
-    World ,Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k5b1p8jw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t092227z_2_lynxnpek3m07l_rtroptp_3_ukraine-crisis-drones-odesa.jpg?itok=1XgZgkIy" width="1600"/>
   </item>
  </channel>
 </rss>
