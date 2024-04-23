@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 22:51:01 +0800
+   Tue, 23 Apr 2024 23:06:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    UN calls for international probe into deaths at Gaza hospitals
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/united-nations-un-calls-international-probe-deaths-gaza-hospital-al-shifa-nasser-hospital-4286466
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 23:03:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/united-nations-un-calls-international-probe-deaths-gaza-hospital-al-shifa-nasser-hospital-4286466
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P6ddg-4R--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t095258z_3_lynxnpek3m0bo_rtroptp_3_israel-palestinians.jpg?itok=NGqyd3L_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Prosecutors ask judge to fine Trump US$10,000 for violating hush money trial gag order
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/donald-trump-hush-money-trial-gag-order-prosecutors-4286436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 22:59:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/donald-trump-hush-money-trial-gag-order-prosecutors-4286436
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HkvipXkR--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34q3446.jpg?itok=Fj678CNa" width="1600"/>
+  </item>
   <item>
    <title>
     Apple says it will hold event on May 7
@@ -417,48 +459,6 @@
     World ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--he0DC64Z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/seeds_bank_uk.png?itok=xVjp4-39" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Amazon launches low-cost grocery delivery subscription plan in US
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/amazon-launches-low-cost-grocery-delivery-subscription-plan-us-4285921
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:22:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amazon-launches-low-cost-grocery-delivery-subscription-plan-us-4285921
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TWVBQwjJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t102228z_1_lynxnpek3m0dh_rtroptp_3_amazon-com-grocery.jpg?itok=wPr3nmk0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Trump poised to clinch $1.3 billion social media company stock award
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/trump-poised-clinch-13-billion-social-media-company-stock-award-4285926
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:20:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/trump-poised-clinch-13-billion-social-media-company-stock-award-4285926
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r2eWUims--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t104106z_2_lynxnpek3m0dc_rtroptp_3_trump-media-stake.jpg?itok=u-MOSh-T" width="1600"/>
   </item>
  </channel>
 </rss>
