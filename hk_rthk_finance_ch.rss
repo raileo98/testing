@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 23 Apr 2024 14:31:06 +0800
+   Tue, 23 Apr 2024 14:40:54 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 23 Apr 2024 14:27:01 +0800
+   Tue, 23 Apr 2024 14:37:47 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股偏軟收市
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750151-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750151-20240423.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市偏軟。
+
+首爾綜合指數收報2623點，跌6點，跌幅0.24%。]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 14:37:47 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     台股高收近1%
@@ -453,23 +472,6 @@
    </description>
    <pubDate>
     Tue, 23 Apr 2024 09:25:25 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人民幣中間價跌16點子
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750088-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750088-20240423.htm
-   </link>
-   <description>
-    <![CDATA[人民幣中間價報7.1059兌1美元，較昨日中間價跌16點子。]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 09:23:21 +0800
    </pubDate>
   </item>
  </channel>
