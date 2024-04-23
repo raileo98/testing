@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 03:11:31 +0800
+   Wed, 24 Apr 2024 03:16:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ukraine suspends consular services for military-age men in draft push
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/ukraine-suspends-consular-services-military-age-men-draft-push-4286891
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 03:16:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/ukraine-suspends-consular-services-military-age-men-draft-push-4286891
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E_97cKbW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t093500z_2_lynxnpek3l0a8_rtroptp_3_ukraine-crisis-battlefield.jpg?itok=n7cyUO13" width="1600"/>
+  </item>
   <item>
    <title>
     AI boom to fuel natural gas demand in coming years, report says
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Thailand to hold first senate election since coup
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thailand-first-senate-election-coup-strettha-thavisin-upper-house-4286331
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thailand-first-senate-election-coup-strettha-thavisin-upper-house-4286331
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cv9Sfplo--/c_crop,h_562,w_1000,x_0,y_103/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/thailand_politics_42303.jpg?itok=3s5O_P6k" width="1600"/>
   </item>
  </channel>
 </rss>
