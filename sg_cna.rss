@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 18:27:16 +0800
+   Tue, 23 Apr 2024 18:36:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    South Korean sentenced to 14 months in jail for killing 76 cats
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/south-korean-man-sentenced-14-months-jail-killing-76-cats-4285821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 18:29:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/south-korean-man-sentenced-14-months-jail-killing-76-cats-4285821
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ILgy2MUd--/c_crop,h_759,w_1350,x_0,y_115/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/07/DSC04419.jpg?itok=RFNwrnOJ" width="1600"/>
+  </item>
   <item>
    <title>
     ‘Like a Noah's Ark of plants’: Conservation facility in the UK builds up collection of 2.4 billion seeds
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wMyVxrbK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34pu32l.jpg?itok=nc8Pv6DL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Selby unsure of future after early Crucible exit
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/selby-unsure-future-after-early-crucible-exit-4285666
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 16:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/selby-unsure-future-after-early-crucible-exit-4285666
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iIOqzuXf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t083259z_1_lynxnpek3m0ab_rtroptp_3_snooker-worldchamps.jpg?itok=q6QJ_K1O" width="1600"/>
   </item>
  </channel>
 </rss>
