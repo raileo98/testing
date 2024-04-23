@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 23:21:22 +0800
+   Tue, 23 Apr 2024 23:32:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Canadian Olympic Committee joins Centre for Sport and Human Rights
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/canadian-olympic-committee-joins-centre-sport-and-human-rights-4286551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 23:21:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/canadian-olympic-committee-joins-centre-sport-and-human-rights-4286551
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--87yGgiko--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t152150z_1_lynxnpek3m0m1_rtroptp_3_athletics-corruption-wada.jpg?itok=x1jBm57Y" width="1600"/>
+  </item>
   <item>
    <title>
     Greta Thunberg charged over Sweden climate protests
@@ -147,10 +168,10 @@
   </item>
   <item>
    <title>
-    Apple says it will hold event on May 7
+    Apple announces event on May 7 amid reports of new iPad model launches
    </title>
    <link>
-    https://www.channelnewsasia.com/business/apple-says-it-will-hold-event-may-7-4286421
+    https://www.channelnewsasia.com/business/apple-announces-event-may-7-amid-reports-new-ipad-model-launches-4286421
    </link>
    <description>
     <![CDATA[]]>
@@ -159,7 +180,7 @@
     Tue, 23 Apr 2024 22:32:28 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apple-says-it-will-hold-event-may-7-4286421
+    https://www.channelnewsasia.com/business/apple-announces-event-may-7-amid-reports-new-ipad-model-launches-4286421
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--67DNJNgw--/c_fill,h_900,w_1600/f_auto,q_auto/singapore-cbd-crowd---1290234_0.png?itok=KKP_QO9d" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Government exit would end 'sorry tale' for Britain and bank, NatWest Chair says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/government-exit-would-end-sorry-tale-britain-and-bank-natwest-chair-says-4285961
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:36:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/government-exit-would-end-sorry-tale-britain-and-bank-natwest-chair-says-4285961
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--260lx7SS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t103646z_1_lynxnpek3m0ds_rtroptp_3_natwest-grp-privatisation.jpg?itok=tmMN4zT8" width="1600"/>
   </item>
  </channel>
 </rss>
