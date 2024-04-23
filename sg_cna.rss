@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 01:05:52 +0800
+   Wed, 24 Apr 2024 01:24:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,27 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jOlj9d1J--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t165221z_1_lynxnpek3m0og_rtroptp_3_motor-f1-china.jpg?itok=reS6fBKR" width="1600"/>
+  </item>
+  <item>
+   <title>
+    ASMI raises Q2 revenue forecast, Chinese bookings stronger than expected
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/asmi-raises-q2-revenue-forecast-chinese-bookings-stronger-expected-4286736
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 00:50:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/asmi-raises-q2-revenue-forecast-chinese-bookings-stronger-expected-4286736
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -315,6 +336,27 @@
   </item>
   <item>
    <title>
+    Walmart-backed fintech One launches 'buy now, pay later' services, source says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/walmart-backed-fintech-one-launches-buy-now-pay-later-services-source-says-4286396
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 22:23:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/walmart-backed-fintech-one-launches-buy-now-pay-later-services-source-says-4286396
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Thailand to hold first senate election since coup
    </title>
    <link>
@@ -417,48 +459,6 @@
     Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9sM0vMmc--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/image_1.png?itok=VBo5e_mg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Djokovic mulls going without coach after 20 years as a professional
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/djokovic-mulls-going-without-coach-after-20-years-professional-4286171
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 20:40:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/djokovic-mulls-going-without-coach-after-20-years-professional-4286171
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AzmVw_bB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t124019z_1_lynxnpek3m0hf_rtroptp_3_tennis-djokovic.jpg?itok=v2_s6ZXI" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Malaysia helicopter crash: 2 choppers did parade rehearsal together for first time, says defence minister
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/malaysia-helicopter-crash-lumut-perak-victims-training-4285766
-   </link>
-   <description>
-    <![CDATA[A navy service member who was swimming in a pool that one helicopter crashed into also suffered a minor injury.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 20:21:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/malaysia-helicopter-crash-lumut-perak-victims-training-4285766
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MvjeIFIl--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/download_-_perak_pool.jpg?itok=4ummgWmq" width="1600"/>
   </item>
  </channel>
 </rss>
