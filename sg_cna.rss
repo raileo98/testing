@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 23:16:11 +0800
+   Tue, 23 Apr 2024 23:21:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Greta Thunberg charged over Sweden climate protests
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/gretha-thunberg-charged-sweden-parliament-climate-protests-4286516
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 23:17:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/gretha-thunberg-charged-sweden-parliament-climate-protests-4286516
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NqlA1pEZ--/c_crop,h_576,w_1024,x_0,y_53/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34lg9qd.jpg?itok=RLrc7AsU" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Villa extend Emery's contract until 2027 after steady improvement
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/villa-extend-emerys-contract-until-2027-after-steady-improvement-4286541
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 23:14:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/villa-extend-emerys-contract-until-2027-after-steady-improvement-4286541
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1usfZOcD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t151434z_1_lynxnpek3m0lu_rtroptp_3_soccer-europaconf-lil-ava-report.jpg?itok=_lEHRRQj" width="1600"/>
+  </item>
   <item>
    <title>
     Doping-USADA calls for WADA overhaul amid Chinese swimming scandal
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--260lx7SS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t103646z_1_lynxnpek3m0ds_rtroptp_3_natwest-grp-privatisation.jpg?itok=tmMN4zT8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korean sentenced to 14 months in jail for killing 76 cats
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-korean-man-sentenced-14-months-jail-killing-76-cats-4285821
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:29:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-korean-man-sentenced-14-months-jail-killing-76-cats-4285821
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ILgy2MUd--/c_crop,h_759,w_1350,x_0,y_115/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/07/DSC04419.jpg?itok=RFNwrnOJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    ‘Like a Noah's Ark of plants’: Conservation facility in the UK builds up collection of 2.4 billion seeds
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/millennium-seed-bank-uk-sussex-england-plants-conservation-thailand-4285856
-   </link>
-   <description>
-    <![CDATA[Plant species are dying out around 500 times faster than before humans started to shape the world.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:23:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/millennium-seed-bank-uk-sussex-england-plants-conservation-thailand-4285856
-   </guid>
-   <category>
-    World ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--he0DC64Z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/seeds_bank_uk.png?itok=xVjp4-39" width="1600"/>
   </item>
  </channel>
 </rss>
