@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 04:46:40 +0800
+   Wed, 24 Apr 2024 05:05:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Al-Ain seal Asian Champions League final berth despite Al-Hilal loss
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/al-ain-seal-asian-champions-league-final-berth-despite-al-hilal-loss-4287151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 04:53:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/al-ain-seal-asian-champions-league-final-berth-despite-al-hilal-loss-4287151
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Japan's Sumitomo plans $1.3 billion renewable power storage network, Nikkei reports
@@ -436,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--87yGgiko--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t152150z_1_lynxnpek3m0m1_rtroptp_3_athletics-corruption-wada.jpg?itok=x1jBm57Y" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Greta Thunberg charged over Sweden climate protests
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/gretha-thunberg-charged-sweden-parliament-climate-protests-4286516
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 23:17:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/gretha-thunberg-charged-sweden-parliament-climate-protests-4286516
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NqlA1pEZ--/c_crop,h_576,w_1024,x_0,y_53/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34lg9qd.jpg?itok=RLrc7AsU" width="1600"/>
   </item>
  </channel>
 </rss>

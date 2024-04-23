@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 04:40:30 +0800
+   Wed, 24 Apr 2024 05:01:40 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 23 Apr 2024 23:53:44 +0800
+   Wed, 24 Apr 2024 04:54:16 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks climb for 2nd straight day
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750252-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750252-20240424.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks rose for a second straight session on Tuesday, building on the prior day's positive momentum following a round of mostly good corporate earnings.
+
+General Electric, Spotify Technology and Kimberly-Clark were among the companies winning strong gains after quarterly reports.
+
+Briefing.com described the broad gains as "follow-through buying" after a rough period that generated talk that the market was "oversold" on a short-term basis.
+
+The Dow Jones finished up 0.7 percent at 38,503.
+
+The S&P 500 advanced 1.2 percent to 5,070, while the Nasdaq jumped 1.6 percent to 15,696.
+
+After last week's losses, US stocks began the week on Monday on a solid note, advancing amid relief that there was no escalation in tensions between Iran and Israel over the weekend.
+
+Among individual companies, General Motors shot up 4.4 percent as it lifted its full-year forecast following better than expected quarterly earnings. The automaker continued to point to solid pricing in the United States, which helped offset weakness in China.
+
+GE Aerospace gained 8.3 percent after lifting its projections after reporting an uptick in orders and operating profit.
+
+But JetBlue sank 18.9 percent as it projected lower revenues in the second quarter, noting that there is "significant elevated capacity" in the company's Latin region, pressuring results. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 04:54:16 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     London's FTSE strikes record as global sentiment lifts
@@ -593,27 +626,6 @@ The bourse also said it would actively engage with market participants during th
    </description>
    <pubDate>
     Thu, 18 Apr 2024 16:20:10 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks flat at open
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749391-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749391-20240418.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks were barely moved at the beginning of trade on Thursday as investors weighed the outlook for US interest rates while keeping a close eye on developments in the Middle East crisis.
-
-The Hang Seng Index inched up 1.4 points, to 16,253.
-
-The Shanghai Composite Index fell 0.3 percent, or 11.35 points to 3,060, while the Shenzhen Composite Index shed 0.3 percent, or 5.6 points to 1,695. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 09:54:08 +0800
    </pubDate>
   </item>
  </channel>
