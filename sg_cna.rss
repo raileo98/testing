@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 05:39:30 +0800
+   Wed, 24 Apr 2024 05:50:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Late Milik strike sends Juventus into Coppa Italia final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/late-milik-strike-sends-juventus-coppa-italia-final-4287226
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 05:37:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/late-milik-strike-sends-juventus-coppa-italia-final-4287226
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Five-star Arsenal thrash Chelsea to open up Premier League lead
@@ -436,27 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vd4FH7o2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t162955z_1_lynxnpek3m0nj_rtroptp_3_eu-tiktok-tech.jpg?itok=q9XJjlqm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Roma's Ndicka fit to resume sports activity after on-field collapse
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/romas-ndicka-fit-resume-sports-activity-after-field-collapse-4286651
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 00:23:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/romas-ndicka-fit-resume-sports-activity-after-field-collapse-4286651
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
