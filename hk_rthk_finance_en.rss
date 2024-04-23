@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 23 Apr 2024 09:30:49 +0800
+   Tue, 23 Apr 2024 10:10:48 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 23 Apr 2024 05:21:26 +0800
+   Tue, 23 Apr 2024 09:42:19 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks extend rally in early trading
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750094-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750094-20240423.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks advanced at the open on Tuesday, extending the previous day's rally, following a healthy lead from Wall Street, with US economic data in view this week.
+
+The Hang Seng Index rose 1.02 percent to 16,679.
+
+The Shanghai Composite Index dipped 0.20 percent to 3,039, while the Shenzhen Composite Index on the mainland's second exchange eased 0.10 percent to 1,677. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 09:42:19 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks rebound to open big earnings week
@@ -609,27 +630,6 @@ It suggested that platforms should consider an alternative that would give users
    </description>
    <pubDate>
     Thu, 18 Apr 2024 01:41:00 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks finish flat
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749294-20240417.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749294-20240417.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks ended Wednesday marginally higher as bargain-buying after a recent sell-off was offset by the prospect that US interest rates will be kept elevated longer than expected.
-
-The Hang Seng Index inched up 2.9 points, to 16,251.
-
-The Shanghai Composite Index rallied 2.1 percent, or 64 points, to end at 3,071, while the Shenzhen Composite Index rose 3.8 percent, or 62 points, to 1,700. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 17 Apr 2024 16:23:11 +0800
    </pubDate>
   </item>
  </channel>
