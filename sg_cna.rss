@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 11:31:15 +0800
+   Tue, 23 Apr 2024 11:48:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Knicks rally late to stun Sixers, take 2-0 NBA playoff series lead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/knicks-rally-late-stun-sixers-take-2-0-nba-playoff-series-lead-4285001
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 11:47:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/knicks-rally-late-stun-sixers-take-2-0-nba-playoff-series-lead-4285001
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pHXfoShx--/c_crop,h_432,w_768,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/3d312c7ed68b1ac3330afd9feb124cadb429e5f3.jpg?itok=5cVSQK63" width="1600"/>
+  </item>
   <item>
    <title>
     Fossils formed millions of years ago could give clues on how to conserve Australia’s endangered animals
@@ -332,7 +353,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yBDMP52t--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t021831z_1_lynxnpek3m01q_rtroptp_3_global-markets-q1.jpg?itok=7IGZ73fi" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6NCxHDqB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t033823z_2_lynxnpek3m01q_rtroptp_3_global-markets-q1.jpg?itok=X-JQ6cC4" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EIFtyDzV--/c_crop,h_409,w_728,x_0,y_3/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2023-08-10t103721z_1_lynxmpej790fy_rtroptp_3_health-coronavirus-singapore.jpg?itok=ikhG7PYH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Belgian man whose body brews alcohol beats drink-driving rap
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/belgian-body-brews-alcohol-auto-brewery-syndrome-drink-driving-4284041
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 09:57:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/belgian-body-brews-alcohol-auto-brewery-syndrome-drink-driving-4284041
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LSKlP_x0--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/istock-921709018.jpg?itok=EjwajW4m" width="1600"/>
   </item>
  </channel>
 </rss>
