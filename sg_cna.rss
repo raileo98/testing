@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 00:18:51 +0800
+   Wed, 24 Apr 2024 00:36:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    TikTok has submitted risk assessment report on TikTok Lite to EU
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tiktok-has-submitted-risk-assessment-report-tiktok-lite-eu-4286686
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 00:29:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tiktok-has-submitted-risk-assessment-report-tiktok-lite-eu-4286686
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vd4FH7o2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t162955z_1_lynxnpek3m0nj_rtroptp_3_eu-tiktok-tech.jpg?itok=q9XJjlqm" width="1600"/>
+  </item>
   <item>
    <title>
     Canadian Olympic Committee joins Centre for Sport and Human Rights
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    1 in 2 workers in Singapore will quit their job if asked to be in office more often: Survey
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/work-home-flexible-work-employees-quit-survey-4285946
-   </link>
-   <description>
-    <![CDATA[Two-thirds of respondents said their employers have become stricter about working from the office, while about a quarter have quit their jobs due to the lack of flexibility.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 19:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/work-home-flexible-work-employees-quit-survey-4285946
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--67DNJNgw--/c_fill,h_900,w_1600/f_auto,q_auto/singapore-cbd-crowd---1290234_0.png?itok=KKP_QO9d" width="1600"/>
   </item>
  </channel>
 </rss>
