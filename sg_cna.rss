@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 00:51:02 +0800
+   Wed, 24 Apr 2024 01:05:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Formula One mulls extending scoring down to 12th from 2025
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/formula-one-mulls-extending-scoring-down-12th-2025-4286741
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 00:52:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/formula-one-mulls-extending-scoring-down-12th-2025-4286741
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jOlj9d1J--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t165221z_1_lynxnpek3m0og_rtroptp_3_motor-f1-china.jpg?itok=reS6fBKR" width="1600"/>
+  </item>
   <item>
    <title>
     Soccer agent 'threatened' Chelsea director over Zouma fee, UK court hears
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MvjeIFIl--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/download_-_perak_pool.jpg?itok=4ummgWmq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Google invests $640 million in new data centre in Netherlands
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/google-invests-640-million-new-data-centre-netherlands-4286121
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 20:12:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-invests-640-million-new-data-centre-netherlands-4286121
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kolXkcNf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t121759z_2_lynxnpek3m0gx_rtroptp_3_google-ads-britain.jpg?itok=TnRs_wqo" width="1600"/>
   </item>
  </channel>
 </rss>
