@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 16:33:24 +0800
+   Tue, 23 Apr 2024 16:42:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Snooker-Selby unsure of future after early Crucible exit
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/snooker-selby-unsure-future-after-early-crucible-exit-4285666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 16:32:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/snooker-selby-unsure-future-after-early-crucible-exit-4285666
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iIOqzuXf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t083259z_1_lynxnpek3m0ab_rtroptp_3_snooker-worldchamps.jpg?itok=q6QJ_K1O" width="1600"/>
+  </item>
   <item>
    <title>
     Wake Up Singapore admin to be charged with defamation over KKH miscarriage claims in online article
@@ -189,7 +210,7 @@
   </item>
   <item>
    <title>
-    Singapore woman killed in Spain: S$1,350 sneakers suspect wore reportedly match footprints at crime scene
+    Singapore woman killed in Spain: US$1,000 sneakers that suspect wore reportedly match footprints at crime scene
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/mitchell-ong-audrey-fang-killing-murder-spain-4285196
@@ -198,7 +219,7 @@
     <![CDATA[Spanish police have sent a sample of the soil embedded in the soles for a lab analysis to determine if it matches the soil found on the body of Ms Audrey Fang.]]>
    </description>
    <pubDate>
-    Tue, 23 Apr 2024 14:54:16 +0800
+    Tue, 23 Apr 2024 14:54:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/mitchell-ong-audrey-fang-killing-murder-spain-4285196
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8ERKfZlI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_33KA46D.jpg?itok=lIbIfvdC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bright and Nene: Thai stars confirm they're in a relationship
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/bright-nene-confirm-relationship-4285161
-   </link>
-   <description>
-    <![CDATA[The confirmation comes after the two celebrities were recently spotted holding hands while walking in Japan.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 13:49:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/bright-nene-confirm-relationship-4285161
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--brJ21laC--/c_crop,h_900,w_1600,x_0,y_150/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/bright_nene_relationship.jpg?itok=YgkaQobX" width="1600"/>
   </item>
  </channel>
 </rss>
