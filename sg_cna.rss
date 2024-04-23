@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 14:50:46 +0800
+   Tue, 23 Apr 2024 15:09:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Singapore woman killed in Spain: S$1,350 sneakers suspect wore reportedly match footprints at crime scene
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/mitchell-ong-audrey-fang-killing-murder-spain-4285196
+   </link>
+   <description>
+    <![CDATA[Spanish police have sent a sample of the soil embedded in the soles for a lab analysis to determine if it matches the soil found on the body of Ms Audrey Fang.]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 14:54:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/mitchell-ong-audrey-fang-killing-murder-spain-4285196
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KswMIBcG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/mitchell%20ong%20audrey%20fang.jpg?itok=JrzDg8-3" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Japan ‘closely monitoring’ case of Tokyo-based Chinese academic who went missing while in China
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/japan-china-missing-chinese-professor-academic-national-security-4285406
+   </link>
+   <description>
+    <![CDATA[Professor Fan Yuntao returned to China in February last year and subsequently became unreachable, according to Japanese media reports.]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 14:50:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/japan-china-missing-chinese-professor-academic-national-security-4285406
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LS_aK0cn--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/fan_yuntao.jpeg?itok=xdZRBjTY" width="1600"/>
+  </item>
   <item>
    <title>
     Real's Bellingham eyeing triple trophy success this season
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DKOramwB--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/photo1713847047.jpeg?itok=c_jaGvB7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Highest-level rainstorm warning issued in south China's Guangdong
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-guangdong-flood-heavy-rainstorm-warning-4285211
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 13:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-guangdong-flood-heavy-rainstorm-warning-4285211
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--J_EInAN3--/c_crop,h_900,w_1600,x_0,y_161/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34pw4gf.jpg?itok=NoEYTHsW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Popular conveyor belt sushi chain Sushiro to open 3 new outlets by August
-   </title>
-   <link>
-    https://www.channelnewsasia.com/dining/sushiro-open-3-new-outlets-august-2024-4284796
-   </link>
-   <description>
-    <![CDATA[The chain calls the new outlets its “most aggressive expansion move” since arriving in Singapore in 2019.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 13:08:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/dining/sushiro-open-3-new-outlets-august-2024-4284796
-   </guid>
-   <category>
-    Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LefoY5-l--/c_crop,h_600,w_1067,x_1,y_400/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/sushiro_sushi_data.jpeg?itok=zS4crRUM" width="1600"/>
   </item>
  </channel>
 </rss>
