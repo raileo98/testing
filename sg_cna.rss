@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 03:34:07 +0800
+   Wed, 24 Apr 2024 03:38:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US women's soccer team to play Olympic send-off match against Costa Rica
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/us-womens-soccer-team-play-olympic-send-match-against-costa-rica-4286986
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 03:33:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/us-womens-soccer-team-play-olympic-send-match-against-costa-rica-4286986
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GsU4yA-B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t193312z_1_lynxnpek3m0qr_rtroptp_3_soccer-usa.jpg?itok=3NeihVIm" width="1600"/>
+  </item>
   <item>
    <title>
     Ukraine suspends consular services for military-age men in draft push
@@ -378,7 +399,7 @@
   </item>
   <item>
    <title>
-    Prosecutors ask judge to fine Trump US$10,000 for violating hush money trial gag order
+    In Trump hush money trial, tabloid publisher testifies he helped candidacy
    </title>
    <link>
     https://www.channelnewsasia.com/world/donald-trump-hush-money-trial-gag-order-prosecutors-4286436
@@ -387,7 +408,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 23 Apr 2024 22:59:13 +0800
+    Tue, 23 Apr 2024 22:59:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/donald-trump-hush-money-trial-gag-order-prosecutors-4286436
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1f1bKkNt--/c_crop,h_450,w_800,x_0,y_80/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2023-01-12t161821z_1_lynxmpej0b0nb_rtroptp_3_meteor-shower-spain.jpg?itok=UiC1m8TQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Walmart-backed fintech One launches 'buy now, pay later' services, source says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/walmart-backed-fintech-one-launches-buy-now-pay-later-services-source-says-4286396
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:23:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/walmart-backed-fintech-one-launches-buy-now-pay-later-services-source-says-4286396
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
