@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 13:54:12 +0800
+   Tue, 23 Apr 2024 14:08:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Inter's Martinez delighted with Scudetto win in Milan derby
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/inters-martinez-delighted-scudetto-win-milan-derby-4285371
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 13:57:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/inters-martinez-delighted-scudetto-win-milan-derby-4285371
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fs5INm4J--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t055725z_1_lynxnpek3m05a_rtroptp_3_soccer-italy-mil-int-report.jpg?itok=IckjstSJ" width="1600"/>
+  </item>
   <item>
    <title>
     Eastsiders reminded about 5km Changi Airport drone restriction
@@ -273,7 +294,7 @@
   </item>
   <item>
    <title>
-    China issues highest-level rainstorm warning in southern Guangdong: Weather agency
+    Highest-level rainstorm warning issued in south China's Guangdong
    </title>
    <link>
     https://www.channelnewsasia.com/asia/china-guangdong-flood-heavy-rainstorm-warning-4285211
@@ -282,7 +303,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 23 Apr 2024 13:09:07 +0800
+    Tue, 23 Apr 2024 13:09:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/china-guangdong-flood-heavy-rainstorm-warning-4285211
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DwhzM5mH--/c_crop,h_899,w_1599,x_1,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/star_awards_2024_best_supporting_actress_aileen_tan.jpg?itok=p4u7dRaA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China acquired recently banned Nvidia chips in Super Micro, Dell servers, tenders show
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-show-4285021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 12:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/china-acquired-recently-banned-nvidia-chips-super-micro-dell-servers-tenders-show-4285021
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--C0_kMjW2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t034427z_2_lynxnpek3m02s_rtroptp_3_nvidia-software.jpg?itok=QrtkxBR2" width="1600"/>
   </item>
  </channel>
 </rss>
