@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 22:33:21 +0800
+   Tue, 23 Apr 2024 22:39:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Apple says it will hold event on May 7
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/apple-says-it-will-hold-event-may-7-4286421
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 22:32:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apple-says-it-will-hold-event-may-7-4286421
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fr9rJjgA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t143228z_1_lynxnpek3m0kk_rtroptp_3_apple-event.jpg?itok=Xlg8QUJm" width="1600"/>
+  </item>
   <item>
    <title>
     Missed the Lyrids meteor shower? Catch the 'above average' Eta Aquarids in May
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r2eWUims--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t104106z_2_lynxnpek3m0dc_rtroptp_3_trump-media-stake.jpg?itok=u-MOSh-T" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Apple's Q1 smartphone shipments in China tumble 19%, data shows
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/apples-q1-smartphone-shipments-china-tumble-19-data-shows-4285631
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:12:38 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apples-q1-smartphone-shipments-china-tumble-19-data-shows-4285631
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3LN4ZeMR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t080955z_1_lynxnpek3m09l_rtroptp_3_apple-china.jpg?itok=N-JGHiG5" width="1600"/>
   </item>
  </channel>
 </rss>
