@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 21:54:22 +0800
+   Tue, 23 Apr 2024 22:12:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thailand to hold first senate election since coup in June
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/thailand-first-senate-election-coup-strettha-thavisin-upper-house-4286331
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 22:07:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/thailand-first-senate-election-coup-strettha-thavisin-upper-house-4286331
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F0-xkfyv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/thailand_politics_42303.jpg?itok=3s5O_P6k" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Liverpool's Klopp counts on cool heads and fresh legs to win Merseyside derby
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/liverpools-klopp-counts-cool-heads-and-fresh-legs-win-merseyside-derby-4286326
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 22:01:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/liverpools-klopp-counts-cool-heads-and-fresh-legs-win-merseyside-derby-4286326
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7Mp7AFDn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t140118z_1_lynxnpek3m0jm_rtroptp_3_soccer-england-ful-liv-report.jpg?itok=OmPIKZVs" width="1600"/>
+  </item>
   <item>
    <title>
     Man United's Rashford, McTominay doubts for Sheffield United game
@@ -417,48 +459,6 @@
     Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3LN4ZeMR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t080955z_1_lynxnpek3m09l_rtroptp_3_apple-china.jpg?itok=N-JGHiG5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Spotify profits up, but lower marketing hits user growth
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/spotify-profits-lower-marketing-hits-user-growth-4285871
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:09:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/spotify-profits-lower-marketing-hits-user-growth-4285871
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UbGIUZQe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t100958z_1_lynxnpek3m0cy_rtroptp_3_usa-stocks.jpg?itok=bID2U5Lj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Male hippo in Japan zoo turns out to be a female
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/japan-osaka-tennoji-zoo-hippopotamus-female-dna-test-reveal-4285686
-   </link>
-   <description>
-    <![CDATA[Gen-chan at Osaka's Tennoji Zoo was thought for seven years to be a male.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 17:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/japan-osaka-tennoji-zoo-hippopotamus-female-dna-test-reveal-4285686
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RoHnhK8J--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7228d7031ce8e51a8a8f2f1e837ad72262f57346.jpg?itok=CfVbJIPL" width="1600"/>
   </item>
  </channel>
 </rss>
