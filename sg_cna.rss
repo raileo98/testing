@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 06:41:08 +0800
+   Wed, 24 Apr 2024 06:49:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -123,6 +123,27 @@
     People ,CNA Luxury ,Dining ,Experiences
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YYSH86aF--/c_crop,h_843,w_1500,x_0,y_90/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/hero-2-remy_martin_cognac_cellar_master_baptise_loiseau_anniversary_coupe.jpg?itok=JU2ARau-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: How can India hold elections when it’s too hot to vote?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/india-election-narendra-modi-heatwave-voting-4285756
+   </link>
+   <description>
+    <![CDATA[Sweltering heat in India is keeping some voters away. Changing the system is a risk worth taking, says David Fickling for Bloomberg Opinion.]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/india-election-narendra-modi-heatwave-voting-4285756
+   </guid>
+   <category>
+    Commentary ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wXF9t2Hs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/000_34pr4dj.jpg?itok=JH_RIBGZ" width="1600"/>
   </item>
   <item>
    <title>
@@ -292,27 +313,6 @@
     Commentary ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6jA28sEz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/retail_sales_69737.jpg?itok=KiDAyynm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: How can India hold elections when it’s too hot to vote?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/india-election-narendra-modi-heatwave-voting-4285756
-   </link>
-   <description>
-    <![CDATA[Sweltering heat in India is keeping some voters away. Changing the system is a risk worth taking, says David Fickling for Bloomberg Opinion.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/india-election-narendra-modi-heatwave-voting-4285756
-   </guid>
-   <category>
-    Commentary ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wXF9t2Hs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/000_34pr4dj.jpg?itok=JH_RIBGZ" width="1600"/>
   </item>
   <item>
    <title>
