@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 02:22:30 +0800
+   Wed, 24 Apr 2024 02:35:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    AI boom to fuel natural gas demand in coming years, report says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ai-boom-fuel-natural-gas-demand-coming-years-report-says-4286906
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 02:28:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ai-boom-fuel-natural-gas-demand-coming-years-report-says-4286906
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3y3gstFu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t182853z_1_lynxnpek3m0pz_rtroptp_3_usa-natgas-pricing.jpg?itok=bbXc6uB_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    IBM nearing a buyout deal for HashiCorp, WSJ reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ibm-nearing-buyout-deal-hashicorp-wsj-reports-4286881
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 02:21:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ibm-nearing-buyout-deal-hashicorp-wsj-reports-4286881
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_inWYJiR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t182154z_1_lynxnpek3m0py_rtroptp_3_germany.jpg?itok=dWriAssL" width="1600"/>
+  </item>
   <item>
    <title>
     Aide to German Member of European Parliament arrested for allegedly spying for China
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cv9Sfplo--/c_crop,h_562,w_1000,x_0,y_103/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/thailand_politics_42303.jpg?itok=3s5O_P6k" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Liverpool's Klopp counts on cool heads and fresh legs to win Merseyside derby
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/liverpools-klopp-counts-cool-heads-and-fresh-legs-win-merseyside-derby-4286326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:01:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/liverpools-klopp-counts-cool-heads-and-fresh-legs-win-merseyside-derby-4286326
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7Mp7AFDn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t140118z_1_lynxnpek3m0jm_rtroptp_3_soccer-england-ful-liv-report.jpg?itok=OmPIKZVs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man United's Rashford, McTominay doubts for Sheffield United game
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-uniteds-rashford-mctominay-doubts-sheffield-united-game-4286211
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 21:07:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-uniteds-rashford-mctominay-doubts-sheffield-united-game-4286211
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
