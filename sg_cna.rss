@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 03:38:14 +0800
+   Wed, 24 Apr 2024 03:44:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -84,6 +84,25 @@
   </item>
   <item>
    <title>
+    Italy's cabinet outlines framework, investment for Artificial Intelligence
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 02:54:48 +0800
+   </pubDate>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v24mpDEn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t193514z_2_lynxnpek3m0q8_rtroptp_3_usa-power-datacenters.jpg?itok=_qh4D0vu" width="1600"/>
+  </item>
+  <item>
+   <title>
     AI boom to fuel natural gas demand in coming years, report says
    </title>
    <link>
@@ -108,7 +127,7 @@
     IBM nearing a buyout deal for cloud software firm HashiCorp, source says
    </title>
    <link>
-    https://www.channelnewsasia.com/business/ibm-nearing-buyout-deal-cloud-software-firm-hashicorp-source-says-4286881
+    https://www.channelnewsasia.com/business/ibm-nearing-deal-cloud-software-provider-hashicorp-source-says-4286881
    </link>
    <description>
     <![CDATA[]]>
@@ -117,12 +136,12 @@
     Wed, 24 Apr 2024 02:21:54 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/ibm-nearing-buyout-deal-cloud-software-firm-hashicorp-source-says-4286881
+    https://www.channelnewsasia.com/business/ibm-nearing-deal-cloud-software-provider-hashicorp-source-says-4286881
    </guid>
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_inWYJiR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t182154z_1_lynxnpek3m0py_rtroptp_3_germany.jpg?itok=dWriAssL" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qL3vIpAb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t194134z_2_lynxnpek3m0py_rtroptp_3_germany.jpg?itok=AqMcOhVV" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +457,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fr9rJjgA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t143228z_1_lynxnpek3m0kk_rtroptp_3_apple-event.jpg?itok=Xlg8QUJm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Missed the Lyrids meteor shower? Catch the 'above average' Eta Aquarids in May
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/meteor-shower-eta-aquarids-may-perseids-geminids-lyrids-4286196
-   </link>
-   <description>
-    <![CDATA[Other meteor showers that stargazers can look forward to include the Perseids and Geminids which will peak in August and December respectively.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:31:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/meteor-shower-eta-aquarids-may-perseids-geminids-lyrids-4286196
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1f1bKkNt--/c_crop,h_450,w_800,x_0,y_80/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2023-01-12t161821z_1_lynxmpej0b0nb_rtroptp_3_meteor-shower-spain.jpg?itok=UiC1m8TQ" width="1600"/>
   </item>
  </channel>
 </rss>
