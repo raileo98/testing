@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 23 Apr 2024 07:50:51 +0800
+   Tue, 23 Apr 2024 08:40:12 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 23 Apr 2024 06:29:40 +0800
+   Tue, 23 Apr 2024 08:09:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,40 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股初段靠穩
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750073-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750073-20240423.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市早段靠穩，首爾綜合指數較早時報2637點，升8點，升幅0.31%。]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 08:09:06 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股初段升逾300點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750071-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750071-20240423.htm
+   </link>
+   <description>
+    <![CDATA[日股初段造好，日經指數較早時報37757點，升318點，升幅0.85%。]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 08:08:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日圓兌美元創34年新低　每百日圓兌港元下試5.06
@@ -444,54 +478,6 @@ Tesla先後在美國、中國及德國等主要市場下調售價，股價低收
    </description>
    <pubDate>
     Mon, 22 Apr 2024 16:37:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    恒指高收287點　美團和騰訊升逾半成
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749988-20240422.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749988-20240422.htm
-   </link>
-   <description>
-    <![CDATA[港股反彈，恒生指數最多曾升逾410點，高見16637點，其後升幅收窄，收市報16511點，升287點，升幅1.77%，主板成交額約1049億元。
-
-科技指數重上3300點水平，收報3336點，升幅1.78%。ATMXJ上升，美團和騰訊升逾5%，是表現最好的兩隻科指成份股。
-
-醫藥股強勢，中生製藥升逾8%，結束7個交易日的跌勢，是升幅最大的藍籌股。國藥升近6%。
-
-金融股造好，平保和中人壽升近3%至逾4%；滙控、港交所升逾2%。中證監計劃將房地產投資信託基金納入滬深港通，帶動領展升逾2%，冠君產業信託升逾9%。
-
-汽車股普遍受壓，理想汽車跌逾8%，失守100元關口，是表現最差的恒指及科指成份股。部分資源股有回吐。]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 16:28:12 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    陳茂波：本港目標年內推應用ISSB氣候披露準則路線圖
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1749990-20240422.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1749990-20240422.htm
-   </link>
-   <description>
-    <![CDATA[財政司司長陳茂波表示，金管局正制訂本地綠色分類框架，同時適用於內地及歐盟標準，很快就會推出；他又說，本港目標年內推出應用國際可持續準則理事會（ISSB）的氣候披露準則路線圖，將令香港成為首個採用有關框架的地區之一。
-
-陳茂波出席活動致辭時提到，根據國際機構測算，截至2030年，全球能源轉型資金缺口高達每年3萬億美元，相信ESG投資正成為主流的投資策略。
-
-不過，陳茂波說，氣候轉型需面對國際政策環境轉變，例如部分國家針對進口商品施加「碳關稅」；而去年能源轉型投資中，僅約一半流向發展中國家。
-
-他認為，香港作為國際金融中心，匯聚大量頂級金融機構及深度流動性，加上各類人才及基建等，香港絕對有空間探索將資本引導至重污染的行業，協助企業轉型。他舉例指，本港過去3年每年平均發行的綠色債券規模逾600億美元，目前亦有約220隻ESG基金管理約1700億美元資產。]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 16:17:20 +0800
    </pubDate>
   </item>
  </channel>
