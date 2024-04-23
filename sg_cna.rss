@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 04:35:37 +0800
+   Wed, 24 Apr 2024 04:46:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's Sumitomo plans $1.3 billion renewable power storage network, Nikkei reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-sumitomo-plans-13-billion-renewable-power-storage-network-nikkei-reports-4287131
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 04:40:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-sumitomo-plans-13-billion-renewable-power-storage-network-nikkei-reports-4287131
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cK0HHjRQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t204056z_1_lynxnpek3m0sj_rtroptp_3_japan-economy-jobs.jpg?itok=mVjhgcpj" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Fears grow for Rafah as Israel-Hamas war rages on 200th day
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/fears-grow-rafah-israel-hamas-war-rages-200th-day-4285861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 04:38:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/fears-grow-rafah-israel-hamas-war-rages-200th-day-4285861
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TDwANhAD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d6d0abe406debbc005f85cb52d20ee0e9972fdb7.jpg?itok=iN16MHKT" width="1600"/>
+  </item>
   <item>
    <title>
     Canadian women to host Mexico twice before title defence at Paris Olympics
@@ -415,48 +457,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NqlA1pEZ--/c_crop,h_576,w_1024,x_0,y_53/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34lg9qd.jpg?itok=RLrc7AsU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Villa extend Emery's contract until 2027 after steady improvement
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/villa-extend-emerys-contract-until-2027-after-steady-improvement-4286541
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 23:14:34 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/villa-extend-emerys-contract-until-2027-after-steady-improvement-4286541
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1usfZOcD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t151434z_1_lynxnpek3m0lu_rtroptp_3_soccer-europaconf-lil-ava-report.jpg?itok=_lEHRRQj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Doping-USADA calls for WADA overhaul amid Chinese swimming scandal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/doping-usada-calls-wada-overhaul-amid-chinese-swimming-scandal-4286511
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 23:07:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/doping-usada-calls-wada-overhaul-amid-chinese-swimming-scandal-4286511
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mXDAaRKp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t150740z_1_lynxnpek3m0ln_rtroptp_3_sport-doping-wada.jpg?itok=Ctk36Ff6" width="1600"/>
   </item>
  </channel>
 </rss>
