@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 05:05:39 +0800
+   Wed, 24 Apr 2024 05:15:02 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arsenal hammer Chelsea to move three points clear at the top
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arsenal-hammer-chelsea-move-three-points-clear-top-4287176
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 05:05:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arsenal-hammer-chelsea-move-three-points-clear-top-4287176
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FynEKmxY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t210544z_1_lynxnpek3m0sx_rtroptp_3_soccer-england-ars-che-report.jpg?itok=cupdkOm-" width="1600"/>
+  </item>
   <item>
    <title>
     Al-Ain seal Asian Champions League final berth despite Al-Hilal loss
@@ -436,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jqHzC7E5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t163500z_1_lynxnpek3m0np_rtroptp_3_soccer-champions-psg-fcb-preview.jpg?itok=ZtEPyJnD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Canadian Olympic Committee joins Centre for Sport and Human Rights
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/canadian-olympic-committee-joins-centre-sport-and-human-rights-4286551
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 23:21:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/canadian-olympic-committee-joins-centre-sport-and-human-rights-4286551
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--87yGgiko--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t152150z_1_lynxnpek3m0m1_rtroptp_3_athletics-corruption-wada.jpg?itok=x1jBm57Y" width="1600"/>
   </item>
  </channel>
 </rss>
