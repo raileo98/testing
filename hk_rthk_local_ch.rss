@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 06:01:30 +0800
+   Wed, 24 Apr 2024 06:20:23 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 02:36:28 +0800
+   Wed, 24 Apr 2024 06:18:08 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    尖沙咀發生持刀襲擊　一名16歲少年受傷
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750261-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750261-20240424.htm
+   </link>
+   <description>
+    <![CDATA[尖沙咀發生持刀襲擊事件，一名16歲少年受傷。
+
+凌晨兩時許，男事主在行經山林道時被一輛私家駛近，車上5人下車，當中有人持刀並襲擊男事主，他們之後返回車上並往彌敦道方向逃去。男事主就致電朋友，並由朋友報警。男事主大腿和肩膀受傷，送往伊利沙伯醫院治理，他送院時清醒。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 06:18:08 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     警方在旺角進行反罪惡行動　拘捕一名被通緝男子
@@ -445,25 +464,6 @@
    </description>
    <pubDate>
     Tue, 23 Apr 2024 20:37:26 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    香港全球人才高峰會下月舉行　介紹各人才入境計劃
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750206-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750206-20240423.htm
-   </link>
-   <description>
-    <![CDATA[香港全球人才高峰會將在下月舉行，介紹各人才入境計劃和人才辦的支援服務等。
-
-香港人才服務辦公室表示，有不同的合作夥伴，可以協助人才解決住屋、就業等不同需要。]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 18:34:37 +0800
    </pubDate>
   </item>
  </channel>
