@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Tue, 23 Apr 2024 15:10:03 +0800
+   Tue, 23 Apr 2024 15:20:48 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,32 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [國際] 禁令漏洞？中國繞道買美、台大廠AI伺服器獲取輝達高階晶片
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2023%2F05%2F27%2F5872aa91280fc4f356bdcd42eb973030.JPG" width="360" alt="美媒透過審視中國政府標案文件發現，有10家中國實體藉由購買美台大廠AI伺服器來獲取藏身其中的輝達高階AI晶片。示意圖。(路透社/達志影像)" title="美媒透過審視中國政府標案文件發現，有10家中國實體藉由購買美台大廠AI伺服器來獲取藏身其中的輝達高階AI晶片。示意圖。(路透社/達志影像)"><br>儘管美國不斷發布新禁令阻止中國取得高階晶片，但中國仍舊有漏洞可鑽。根據《路透社》調查多份中國政府的招標文件後發現，有10間與政府相關實體，透過購買超微(SMCI)、戴爾(DELL)以及技嘉等公司所生產的AI伺服器而取得輝達(NVIDIA)的高階AI晶片，而這些AI晶片正隱藏在這些伺服器當中。報導指出，有10間中國學術機構等實體於去年11月20日至今年2月28日，透過向第三方廠商採購，獲得輝達最先進的AI晶片。這段時間正值美國開始再對中國擴大出口限制，其中就包括輝達AI晶片，當時新禁令即明文禁止經銷商和協力廠商向中國實體出售這類晶片。由不見經傳中國經銷商賣...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203571">...more</a>]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 14:58:22 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2203571
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2203571
+   </guid>
+   <author>
+    其他
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    其他
+   </dc:creator>
+  </item>
   <item>
    <title>
     [財經] 花蓮餘震不斷 台電：電力機組不受影響、正常運作 - 240423-17
@@ -104,13 +130,13 @@
     https://www.rti.org.tw/news/view/id/2203568
    </guid>
    <author>
-    採訪, 採訪, 中央社
+    其他, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社
+    其他, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -130,13 +156,13 @@
     https://www.rti.org.tw/news/view/id/2203567
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -182,13 +208,13 @@
     https://www.rti.org.tw/news/view/id/2203566
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2203563
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -260,13 +286,13 @@
     https://www.rti.org.tw/news/view/id/2203562
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2203561
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -416,13 +442,13 @@
     https://www.rti.org.tw/news/view/id/2203557
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -702,13 +728,13 @@
     https://www.rti.org.tw/news/view/id/2203544
    </guid>
    <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
+    其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
    </dc:creator>
   </item>
   <item>
@@ -787,32 +813,6 @@
    </category>
    <dc:creator>
     趙婉淳採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [兩岸] 中國外交部評東奧泳將藥檢陽性：報導虛假訊息不實
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2023%2F02%2F16%2F3fbcd26e3e64b7a81e0263b27d03e7ba.jpg" width="360" alt="中國外交部發言人汪文斌。(圖：中國外交部推特)" title="中國外交部發言人汪文斌。(圖：中國外交部推特)"><br>外媒日前報導，多名中國泳手參加東京奧運前藥檢呈陽性。中國外交部發言人汪文斌22日說，世界反興奮劑機構已作出明確回應，相關報導是虛假和訊息不實，中國一貫堅持對興奮劑問題零容忍。環球時報報導，在中國外交部例行記者會上，有外媒記者提問，據報導，世界反禁藥組織（WADA）20日證實，中國參加2021年東京奧運會的游泳隊中，多名隊員在比賽前的藥檢呈陽性。中國官方媒體稱，相關報導是西方國家對中國的汙蔑抹黑，發言人對此有何回應？中國外交部發言人汪文斌表示，世界反禁藥組織已作出明確回應，相關報導是虛假和訊息不實。汪文斌表示，該事件於2021年經中國反興奮劑中心深入調查後...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203540">...more</a>]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 11:26:45 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2203540
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2203540
-   </guid>
-   <author>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他, 採訪, 採訪, 採訪, 中央社
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/4">
-    兩岸
-   </category>
-   <dc:creator>
-    採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
  </channel>

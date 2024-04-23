@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 15:09:37 +0800
+   Tue, 23 Apr 2024 15:22:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Wallabies winger Petaia out of Super Rugby with shoulder injury
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/wallabies-winger-petaia-out-super-rugby-shoulder-injury-4285531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 15:13:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/wallabies-winger-petaia-out-super-rugby-shoulder-injury-4285531
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DAT6dErJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t071352z_1_lynxnpek3m07u_rtroptp_3_rugby-union-worldcup-wal-aus.jpg?itok=O61pPBm8" width="1600"/>
+  </item>
   <item>
    <title>
     Singapore woman killed in Spain: S$1,350 sneakers suspect wore reportedly match footprints at crime scene
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PQnObWLZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t051342z_1_lynxnpek3m047_rtroptp_3_japan-economy-boj-inflation.jpg?itok=5IbGNkeD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore army officer honours late father by engraving name on prestigious British sword award
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/saf-officer-won-sword-engraved-late-father-name-mindef-4284966
-   </link>
-   <description>
-    <![CDATA[A few days before his father died, Lieutenant Nicholas Tang promised to win for him the accolade from the Royal Military Academy.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 13:10:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/saf-officer-won-sword-engraved-late-father-name-mindef-4284966
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DKOramwB--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/photo1713847047.jpeg?itok=c_jaGvB7" width="1600"/>
   </item>
  </channel>
 </rss>
