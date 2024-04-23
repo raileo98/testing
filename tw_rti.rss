@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Tue, 23 Apr 2024 15:45:03 +0800
+   Tue, 23 Apr 2024 15:50:02 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -63,6 +63,32 @@
   </item>
   <item>
    <title>
+    [國際] 北韓駭客再出手 南韓國防公司資料遭竊
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F04%2F15%2Fbe9cfa21741d5645e38b22892eb2fbf6.jpg" width="360" alt="駭客。示意圖。(AI生成圖)" title="駭客。示意圖。(AI生成圖)"><br>南韓警方今天(23日)表示，北韓主要駭客組織在過去一年多來對南韓數家國防公司發動「全面」網路攻擊，破壞這些公司的內部網路，並竊取技術資料(technical data)。南韓警方表示，與北韓情報機構有關係的駭客團隊Lazarus、Kimsuky和​​Andariel，直接或透過與其合作的承包商，在數家南韓國防公司的數據系統中植入了惡意程式碼。南韓警方與一個由官方情報機構及民間專家組成的團隊合作，透過來源IP位址及惡意軟體的簽名等方式，追蹤到這些駭客組織的行動。警方沒有透露，被駭客攻擊的公司名稱或洩漏資料的性質。南韓近年來成為全球主要國防供應國，與多國簽署...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203572">...more</a>]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 15:17:10 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2203572
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2203572
+   </guid>
+   <author>
+    張雅涵採訪
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    張雅涵採訪
+   </dc:creator>
+  </item>
+  <item>
+   <title>
     [國際] 禁令漏洞？中國繞道買美、台大廠AI伺服器獲取輝達高階晶片
    </title>
    <description>
@@ -78,13 +104,13 @@
     https://www.rti.org.tw/news/view/id/2203571
    </guid>
    <author>
-    中央社, 其他
+    中央社, 採訪, 其他, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 其他
+    中央社, 採訪, 其他, 其他
    </dc:creator>
   </item>
   <item>
@@ -156,13 +182,13 @@
     https://www.rti.org.tw/news/view/id/2203568
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -182,13 +208,13 @@
     https://www.rti.org.tw/news/view/id/2203567
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2203566
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲
    </dc:creator>
   </item>
   <item>
@@ -286,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2203563
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -312,13 +338,13 @@
     https://www.rti.org.tw/news/view/id/2203562
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -338,13 +364,13 @@
     https://www.rti.org.tw/news/view/id/2203561
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -468,13 +494,13 @@
     https://www.rti.org.tw/news/view/id/2203557
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -754,13 +780,13 @@
     https://www.rti.org.tw/news/view/id/2203544
    </guid>
    <author>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
+    中央社, 採訪, 其他, 其他, 採訪, 採訪, 中央社, 中央社, 採訪, 法新社, 其他, 其他, 德國之聲, 採訪, 美聯社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 採訪, 路透社, 採訪, 法新社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 採訪, 路透社, 採訪, 採訪, 採訪, 採訪, 其他
    </dc:creator>
   </item>
   <item>
@@ -787,32 +813,6 @@
    </category>
    <dc:creator>
     謝佳興採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 陳駿季談農業政策 以農為本、光電加值政策不變 - 240423-7
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F04%2F23%2F20240423000033M.jpg" width="360" alt="準農業部長陳駿季具備深厚的研究專業，研發促台灣蘭花大量生產穩定供應技術；施政行事明快、注重科研落實運用，是他為人肯定的特質，並積極與產業溝通，頗獲朝野認同；代理部長期間，對內延續政策，對國會積極說明，順利解決進口蛋爭議引發的政治攻擊及口水。(圖：中央社)" title="準農業部長陳駿季具備深厚的研究專業，研發促台灣蘭花大量生產穩定供應技術；施政行事明快、注重科研落實運用，是他為人肯定的特質，並積極與產業溝通，頗獲朝野認同；代理部長期間，對內延續政策，對國會積極說明，順利解決進口蛋爭議引發的政治攻擊及口水。(圖：中央社)"><br>新政府第5波內閣人事揭曉，農業部長由代理部長陳駿季真除。陳駿季談及未來的農業政策方向表示，「以農為本、光電加值」的政策不變，他會在現有的施政基礎下，透過智慧生產與數位服務等科技元素，提升農業韌性，降低農業經營風險，提升農業競爭力，讓農業的經營者被認可，跳脫過去受補助而過活的誤解。#記者劉玉秋的報導#準閣揆卓榮泰23日上午公布第5波內閣人事，其中，農業部由現任代理部長陳駿季真除、正式接掌農業部。陳駿季在記者會上接受媒體提問時，談及未來的農業政策方向表示，農業面臨極端天候的挑戰，過去農業部積極強化整體農業體質，在農業基礎建設以及提升農業競爭力部分，投入非常多...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203543">...more</a>]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 11:29:47 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2203543
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2203543
-   </guid>
-   <author>
-    劉玉秋採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    劉玉秋採訪
    </dc:creator>
   </item>
  </channel>
