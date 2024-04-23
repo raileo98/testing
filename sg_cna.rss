@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 10:33:56 +0800
+   Tue, 23 Apr 2024 10:36:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Xiaomi secures lock-in orders of more than 70,000 SU7 cars
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/xiaomi-secures-lock-orders-more-70000-su7-cars-4284931
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 10:30:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/xiaomi-secures-lock-orders-more-70000-su7-cars-4284931
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XDrt55Xh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t023016z_1_lynxnpek3m020_rtroptp_3_xiaomi-china-stocks.jpg?itok=Upbl3Oow" width="1600"/>
+  </item>
   <item>
    <title>
     In Brazil, hopes to use AI to save wildlife from roadkill fate
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3bpLZ1SI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t004911z_1_lynxnpek3m00o_rtroptp_3_imf-worldbank-trilateral.jpg?itok=Xj8WkyLH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rio Tinto, Eramet and LG Energy seek to develop lithium extraction tech for Chile
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/rio-tinto-eramet-and-lg-energy-seek-develop-lithium-extraction-tech-chile-4284761
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 08:41:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/rio-tinto-eramet-and-lg-energy-seek-develop-lithium-extraction-tech-chile-4284761
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
