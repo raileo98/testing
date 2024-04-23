@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 13:15:16 +0800
+   Tue, 23 Apr 2024 13:27:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pakistan hoping for IMF agreement by June or early July, says finance minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/pakistan-hoping-imf-agreement-june-or-early-july-says-finance-minister-4285301
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 13:20:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/pakistan-hoping-imf-agreement-june-or-early-july-says-finance-minister-4285301
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xyXnf_ig--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t052002z_1_lynxnpek3m04e_rtroptp_3_pakistan-economy.jpg?itok=FC9d2Asf" width="1600"/>
+  </item>
   <item>
    <title>
     Woman claims to be girlfriend of Singaporean actor Aliff Aziz, uploads video of them embracing
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    California to wrap up Exxon plastics probe 'in weeks', AG says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/california-wrap-exxon-plastics-probe-weeks-ag-says-4284936
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 10:49:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/california-wrap-exxon-plastics-probe-weeks-ag-says-4284936
-   </guid>
-   <category>
-    Business ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KK8dy9E_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t024248z_3_lynxnpek3m022_rtroptp_3_exxon-mobil-outlook.jpg?itok=XoBKgF_J" width="1600"/>
   </item>
  </channel>
 </rss>
