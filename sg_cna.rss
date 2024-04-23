@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 17:44:44 +0800
+   Tue, 23 Apr 2024 17:54:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hippo at Japan zoo finally revealed to be female after 7 years
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/japan-osaka-tennoji-zoo-hippopotamus-female-dna-test-reveal-4285686
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 17:51:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/japan-osaka-tennoji-zoo-hippopotamus-female-dna-test-reveal-4285686
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RoHnhK8J--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7228d7031ce8e51a8a8f2f1e837ad72262f57346.jpg?itok=CfVbJIPL" width="1600"/>
+  </item>
   <item>
    <title>
     Housing shortage becomes key election issue in the UK
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DAT6dErJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t071352z_1_lynxnpek3m07u_rtroptp_3_rugby-union-worldcup-wal-aus.jpg?itok=O61pPBm8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore woman killed in Spain: US$1,000 sneakers that suspect wore reportedly match footprints at crime scene
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mitchell-ong-audrey-fang-killing-murder-spain-4285196
-   </link>
-   <description>
-    <![CDATA[Spanish police have sent a sample of the soil embedded in the soles for a lab analysis to determine if it matches the soil found on the body of Ms Audrey Fang.]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 14:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mitchell-ong-audrey-fang-killing-murder-spain-4285196
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KswMIBcG--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/mitchell%20ong%20audrey%20fang.jpg?itok=JrzDg8-3" width="1600"/>
   </item>
  </channel>
 </rss>
