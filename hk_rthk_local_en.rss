@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 23 Apr 2024 08:40:41 +0800
+   Tue, 23 Apr 2024 09:20:34 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 22 Apr 2024 22:36:08 +0800
+   Tue, 23 Apr 2024 09:11:51 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Two workers die in manhole gas accident
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750084-20240423.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750084-20240423.htm
+   </link>
+   <description>
+    <![CDATA[An investigation has been launched after two sewer maintenance workers died in a manhole in Sha Tin late on Monday.
+
+Authorities say early indications are that the pair, and two other men who also fell ill while working in the manhole, inhaled hydrogen sulfide.
+
+The Drainage Services Department said the men were employed by a contractor to clean sewers using high-pressure water jets, but their work should not have required them to enter the manhole.
+
+Firefighters were called at around midnight to reports that the workers had fallen ill while operating three to four metres underground at the Yuen Wo Playground. 
+
+The two men are said to be 26 and 34 years old. They were declared dead at the Prince of Wales Hospital. The two other workers were also treated at the same hospital.
+
+The department said it had ordered a halt to work at the site and paused all similar work elsewhere until it could conduct safety checks. 
+
+It’s also launched an investigation and promised to work with the Labour Department and the police, who are also looking into the case. It's been classified as an industrial accident.]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 09:11:51 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK to launch climate disclosure roadmap this year
@@ -660,29 +689,6 @@ The hospital earlier said it had reported the case to the police as well as the 
    </description>
    <pubDate>
     Sat, 20 Apr 2024 14:50:43 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Woman struck by bus while biking at Disneyland Resort
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749744-20240420.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749744-20240420.htm
-   </link>
-   <description>
-    <![CDATA[A woman was rushed unconscious to the hospital after being struck by a bus at Disneyland Resort on Saturday.
-
-Police said a 39-year-old woman was riding a bike at about noon, when she was struck by a bus near the Disney Explorers Lodge hotel.
-
-She was trapped under the bus, and was unconscious when taken to Princess Margaret Hospital.
-
-No injuries were reported from the 50 passengers on the bus.]]>
-   </description>
-   <pubDate>
-    Sat, 20 Apr 2024 14:18:19 +0800
    </pubDate>
   </item>
  </channel>
