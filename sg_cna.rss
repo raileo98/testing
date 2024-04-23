@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 13:34:40 +0800
+   Tue, 23 Apr 2024 13:45:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China can't quit coal by 2040, researchers say, despite global climate goals
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sustainability/china-cant-quit-coal-2040-researchers-say-despite-global-climate-goals-4285316
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 13:41:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sustainability/china-cant-quit-coal-2040-researchers-say-despite-global-climate-goals-4285316
+   </guid>
+   <category>
+    Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ncHTuDwv--/c_crop,h_450,w_800,x_0,y_40/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t052644z_2_lynxnpek3m04g_rtroptp_3_china-coal-mining.jpg?itok=L6Cw-5pw" width="1600"/>
+  </item>
   <item>
    <title>
     OVH Groupe's H1 core profit beats forecasts
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nEpdq4j2--/c_crop,h_464,w_825,x_131,y_44/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/possum_australia_critically_endangered.png?itok=pxr31e38" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thai PM asks banks to top lower interest rates to help economy
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/thai-pm-asks-banks-top-lower-interest-rates-help-economy-4284986
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 11:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thai-pm-asks-banks-top-lower-interest-rates-help-economy-4284986
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iIIi76Ej--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t030702z_1_lynxnpek3m02g_rtroptp_3_thailand-economy.jpg?itok=qpWHQCe2" width="1600"/>
   </item>
  </channel>
 </rss>
