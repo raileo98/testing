@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 03:55:06 +0800
+   Wed, 24 Apr 2024 04:17:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Analog chipmaker Texas Instruments forecasts quarterly revenue above estimates
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/analog-chipmaker-texas-instruments-forecasts-quarterly-revenue-above-estimates-4287066
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 04:13:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/analog-chipmaker-texas-instruments-forecasts-quarterly-revenue-above-estimates-4287066
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EK6_DMSG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t201317z_1_lynxnpek3m0ru_rtroptp_3_texas-instruments-results.jpg?itok=Xwxmwh1m" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Tesla to cut more than 6,000 jobs in Texas, California, notices show
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tesla-cut-more-6000-jobs-texas-california-notices-show-4287046
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 04:05:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tesla-cut-more-6000-jobs-texas-california-notices-show-4287046
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vCWB23Sb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t170934z_2_lynxnpek3m0aq_rtroptp_3_tesla-usa-prices.jpg?itok=knKBDP67" width="1600"/>
+  </item>
   <item>
    <title>
     US women's soccer team to play Olympic send-off match against Costa Rica
@@ -415,48 +457,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P6ddg-4R--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t095258z_3_lynxnpek3m0bo_rtroptp_3_israel-palestinians.jpg?itok=NGqyd3L_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    In Trump hush money trial, tabloid publisher testifies he helped candidacy
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/donald-trump-hush-money-trial-gag-order-prosecutors-4286436
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:59:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/donald-trump-hush-money-trial-gag-order-prosecutors-4286436
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HkvipXkR--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34q3446.jpg?itok=Fj678CNa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Apple announces event on May 7 amid reports of new iPad model launches
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/apple-announces-event-may-7-amid-reports-new-ipad-model-launches-4286421
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:32:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apple-announces-event-may-7-amid-reports-new-ipad-model-launches-4286421
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fr9rJjgA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t143228z_1_lynxnpek3m0kk_rtroptp_3_apple-event.jpg?itok=Xlg8QUJm" width="1600"/>
   </item>
  </channel>
 </rss>
