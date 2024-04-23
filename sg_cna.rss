@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 15:27:14 +0800
+   Tue, 23 Apr 2024 15:39:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More children with developmental delays could get early intervention in preschools, at home
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/children-developmental-delays-early-intervention-preschools-home-parents-caregivers-4283006
+   </link>
+   <description>
+    <![CDATA[It comes as demand for early intervention services continues to outpace supply, stretching wait lists for enrolment into years.]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 15:29:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/children-developmental-delays-early-intervention-preschools-home-parents-caregivers-4283006
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ix9Txn-G--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/screenshot_999.png?itok=ma7GEcb2" width="1600"/>
+  </item>
   <item>
    <title>
     Wallabies winger Petaia out of Super Rugby with shoulder injury
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Cjg1n-AM--/c_crop,h_900,w_1600,x_0,y_119/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/sarah_yasmine_aliff_aziz.jpg?itok=4USlsGrm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan's March price trend gauge rises at slowest pace in 11 months
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japans-march-price-trend-gauge-rises-slowest-pace-11-months-4285276
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 13:13:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japans-march-price-trend-gauge-rises-slowest-pace-11-months-4285276
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PQnObWLZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t051342z_1_lynxnpek3m047_rtroptp_3_japan-economy-boj-inflation.jpg?itok=5IbGNkeD" width="1600"/>
   </item>
  </channel>
 </rss>
