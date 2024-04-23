@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 00:36:23 +0800
+   Wed, 24 Apr 2024 00:45:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,48 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vd4FH7o2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t162955z_1_lynxnpek3m0nj_rtroptp_3_eu-tiktok-tech.jpg?itok=q9XJjlqm" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Roma's Ndicka fit to resume sports activity after on-field collapse
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/romas-ndicka-fit-resume-sports-activity-after-field-collapse-4286651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 00:23:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/romas-ndicka-fit-resume-sports-activity-after-field-collapse-4286651
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Title-chasing PSG ready for tough game at Lorient, says boss Enrique
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/title-chasing-psg-ready-tough-game-lorient-says-boss-enrique-4286656
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 00:15:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/title-chasing-psg-ready-tough-game-lorient-says-boss-enrique-4286656
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jqHzC7E5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t163500z_1_lynxnpek3m0np_rtroptp_3_soccer-champions-psg-fcb-preview.jpg?itok=ZtEPyJnD" width="1600"/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZJiMzArl--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-05t123254z_2_lynxmpek140gt_rtroptp_3_australia-china-writer.jpg?itok=1ClM6lMB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    FA Cup final to kick off as usual at 3pm, in relief for travelling fans
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fa-cup-final-kick-usual-3pm-relief-travelling-fans-4286041
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 19:30:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fa-cup-final-kick-usual-3pm-relief-travelling-fans-4286041
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TnSXpwgv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t113005z_1_lynxnpek3m0fk_rtroptp_3_soccer-england-facup.jpg?itok=z4wGNgeO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    India's inflation at risk from extreme weather, geopolitical issues, cenbank says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/indias-inflation-risk-extreme-weather-geopolitical-issues-cenbank-says-4286051
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 19:28:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indias-inflation-risk-extreme-weather-geopolitical-issues-cenbank-says-4286051
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
