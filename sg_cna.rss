@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 13:27:29 +0800
+   Tue, 23 Apr 2024 13:34:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Pakistan hoping for IMF agreement by June or early July, says finance minister
+    OVH Groupe's H1 core profit beats forecasts
    </title>
    <link>
-    https://www.channelnewsasia.com/business/pakistan-hoping-imf-agreement-june-or-early-july-says-finance-minister-4285301
+    https://www.channelnewsasia.com/business/ovh-groupes-h1-core-profit-beats-forecasts-4285311
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 13:27:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ovh-groupes-h1-core-profit-beats-forecasts-4285311
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ncS_xDmU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t052754z_1_lynxnpek3m04o_rtroptp_3_ovh-strategy.jpg?itok=x2tix9fI" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Pakistan hopes to get new IMF loan by early July, says finance minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/pakistan-hopes-get-new-imf-loan-early-july-says-finance-minister-4285301
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Tue, 23 Apr 2024 13:20:02 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/pakistan-hoping-imf-agreement-june-or-early-july-says-finance-minister-4285301
+    https://www.channelnewsasia.com/business/pakistan-hopes-get-new-imf-loan-early-july-says-finance-minister-4285301
    </guid>
    <category>
     Business
@@ -231,10 +252,10 @@
   </item>
   <item>
    <title>
-    Thailand's cabinet approves $13.5 billion digital wallet handout
+    Thailand's $13.5 billion stimulus project gets cabinet approval
    </title>
    <link>
-    https://www.channelnewsasia.com/business/thailands-cabinet-approves-135-billion-digital-wallet-handout-4285236
+    https://www.channelnewsasia.com/business/thailands-135-billion-stimulus-project-gets-cabinet-approval-4285236
    </link>
    <description>
     <![CDATA[]]>
@@ -243,7 +264,7 @@
     Tue, 23 Apr 2024 13:00:40 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thailands-cabinet-approves-135-billion-digital-wallet-handout-4285236
+    https://www.channelnewsasia.com/business/thailands-135-billion-stimulus-project-gets-cabinet-approval-4285236
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iIIi76Ej--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t030702z_1_lynxnpek3m02g_rtroptp_3_thailand-economy.jpg?itok=qpWHQCe2" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Teen skater Trew eyeing Paris after rolling off with Laureus award
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/teen-skater-trew-eyeing-paris-after-rolling-laureus-award-4284981
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 10:55:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/teen-skater-trew-eyeing-paris-after-rolling-laureus-award-4284981
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
