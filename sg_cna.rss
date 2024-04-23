@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 18:36:33 +0800
+   Tue, 23 Apr 2024 18:44:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    NatWest CEO sees 'material opportunities' in AI
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/natwest-ceo-sees-material-opportunities-ai-4285961
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 18:36:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/natwest-ceo-sees-material-opportunities-ai-4285961
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--260lx7SS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t103646z_1_lynxnpek3m0ds_rtroptp_3_natwest-grp-privatisation.jpg?itok=tmMN4zT8" width="1600"/>
+  </item>
   <item>
    <title>
     South Korean sentenced to 14 months in jail for killing 76 cats
@@ -143,7 +164,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Pnbowra7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t102049z_1_lynxnpek3m0dc_rtroptp_3_trump-media-stake.jpg?itok=AD2uecIo" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r2eWUims--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t104106z_2_lynxnpek3m0dc_rtroptp_3_trump-media-stake.jpg?itok=u-MOSh-T" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World ,Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k5b1p8jw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t092227z_2_lynxnpek3m07l_rtroptp_3_ukraine-crisis-drones-odesa.jpg?itok=1XgZgkIy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    French court gives man suspended sentence for Iran consulate intrusion
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/france-court-man-suspended-sentence-iran-consulate-fake-grenades-4285641
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 16:47:38 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/france-court-man-suspended-sentence-iran-consulate-fake-grenades-4285641
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wMyVxrbK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/000_34pu32l.jpg?itok=nc8Pv6DL" width="1600"/>
   </item>
  </channel>
 </rss>
