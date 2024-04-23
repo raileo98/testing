@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 02:06:12 +0800
+   Wed, 24 Apr 2024 02:22:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Aide to German Member of European Parliament arrested for allegedly spying for China
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/aide-german-member-european-parliament-arrested-allegedly-spying-china-4286806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 02:13:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/aide-german-member-european-parliament-arrested-allegedly-spying-china-4286806
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AzuEV4tb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t151622z_1_lynxnpek3m0lw_rtroptp_3_germany-china-security-europe.jpg?itok=hk1npGym" width="1600"/>
+  </item>
   <item>
    <title>
     Major arrests at NYU campus as Gaza protests spread
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    China bubble tea chain Chabaidao plunges on Hong Kong debut
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/china-bubble-tea-chain-chabaidao-plunges-hong-kong-debut-4286201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 21:01:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/china-bubble-tea-chain-chabaidao-plunges-hong-kong-debut-4286201
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9sM0vMmc--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/image_1.png?itok=VBo5e_mg" width="1600"/>
   </item>
  </channel>
 </rss>
