@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 10:36:14 +0800
+   Tue, 23 Apr 2024 10:48:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tensions flare at US universities over Gaza protests
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/tensions-flare-us-universities-israel-gaza-protests-war-4284411
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 10:42:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/tensions-flare-us-universities-israel-gaza-protests-war-4284411
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9Y4eW5-h--/c_crop,h_900,w_1600,x_0,y_122/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/063_2148018303.jpg?itok=z_HCmXtN" width="1600"/>
+  </item>
   <item>
    <title>
     Xiaomi secures lock-in orders of more than 70,000 SU7 cars
@@ -336,27 +357,6 @@
   </item>
   <item>
    <title>
-    BOJ will hike rates if trend inflation accelerates, Gov Ueda says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/boj-will-hike-rates-if-trend-inflation-accelerates-gov-ueda-says-4284861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 09:48:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/boj-will-hike-rates-if-trend-inflation-accelerates-gov-ueda-says-4284861
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
     UK parliament passes Rwanda asylum law as Sunak vows flights will start in weeks
    </title>
    <link>
@@ -375,6 +375,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A3UiN3i8--/c_crop,h_450,w_800,x_0,y_49/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t102245z_3_lynxnpek3l0bd_rtroptp_3_migration-britain-rwanda-sunak.jpg?itok=Qe_L4uwJ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    BOJ will hike rates if trend inflation accelerates, Gov Ueda says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/boj-will-hike-rates-if-trend-inflation-accelerates-gov-ueda-says-4284861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 09:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/boj-will-hike-rates-if-trend-inflation-accelerates-gov-ueda-says-4284861
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Japan will work with counterparts on excessive FX moves, says finance minister
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japan-will-work-counterparts-excessive-fx-moves-says-finance-minister-4284776
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 08:49:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japan-will-work-counterparts-excessive-fx-moves-says-finance-minister-4284776
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3bpLZ1SI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t004911z_1_lynxnpek3m00o_rtroptp_3_imf-worldbank-trilateral.jpg?itok=Xj8WkyLH" width="1600"/>
   </item>
  </channel>
 </rss>
