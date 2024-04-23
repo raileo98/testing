@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 05:15:02 +0800
+   Wed, 24 Apr 2024 05:20:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Five-star Arsenal thrash Chelsea to open up Premier League lead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/five-star-arsenal-thrash-chelsea-open-premier-league-lead-4287156
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 05:17:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/five-star-arsenal-thrash-chelsea-open-premier-league-lead-4287156
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FynEKmxY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t210544z_1_lynxnpek3m0sx_rtroptp_3_soccer-england-ars-che-report.jpg?itok=cupdkOm-" width="1600"/>
+  </item>
+  <item>
+   <title>
     Arsenal hammer Chelsea to move three points clear at the top
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FynEKmxY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t210544z_1_lynxnpek3m0sx_rtroptp_3_soccer-england-ars-che-report.jpg?itok=cupdkOm-" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -436,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Title-chasing PSG ready for tough game at Lorient, says boss Enrique
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/title-chasing-psg-ready-tough-game-lorient-says-boss-enrique-4286656
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 00:15:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/title-chasing-psg-ready-tough-game-lorient-says-boss-enrique-4286656
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jqHzC7E5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t163500z_1_lynxnpek3m0np_rtroptp_3_soccer-champions-psg-fcb-preview.jpg?itok=ZtEPyJnD" width="1600"/>
   </item>
  </channel>
 </rss>
