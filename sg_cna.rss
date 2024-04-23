@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 23 Apr 2024 20:40:41 +0800
+   Tue, 23 Apr 2024 20:57:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Djokovic mulls going without coach after 20 years as a professional
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/djokovic-mulls-going-without-coach-after-20-years-professional-4286171
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 23 Apr 2024 20:40:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/djokovic-mulls-going-without-coach-after-20-years-professional-4286171
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AzmVw_bB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t124019z_1_lynxnpek3m0hf_rtroptp_3_tennis-djokovic.jpg?itok=v2_s6ZXI" width="1600"/>
+  </item>
   <item>
    <title>
     Malaysia helicopter crash: 9 out of 10 victims were in their 20s, says defence minister
@@ -438,27 +459,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kB9kqqu8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/03/29/image-from-ios-28.jpg?itok=PG4WzHQa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Adobe to bring full AI image generation to Photoshop this year
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/adobe-bring-full-ai-image-generation-photoshop-year-4285716
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 17:02:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/adobe-bring-full-ai-image-generation-photoshop-year-4285716
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--csO02fFq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-23t090225z_1_lynxnpek3m0as_rtroptp_3_adobe-ai.jpg?itok=wTfhZbQh" width="1600"/>
   </item>
  </channel>
 </rss>
