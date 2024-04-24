@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 17:29:29 +0800
+   Wed, 24 Apr 2024 17:35:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Seven arrested in Australian anti-terror raids
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/australia-sydney-seven-arrested-anti-terror-raids-linked-teenager-bishop-stabbing-4288531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 17:29:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/australia-sydney-seven-arrested-anti-terror-raids-linked-teenager-bishop-stabbing-4288531
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Y1-OF6rI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/sydney_bishop_stabbing.jpg?itok=S3qqsBnh" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Danger warning issued for Bangkok as extreme heat bites
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/bangkok-extreme-heat-danger-warning-global-warming-climate-change-4288541
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 17:29:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/bangkok-extreme-heat-danger-warning-global-warming-climate-change-4288541
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Sr9JCws7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/bangkok_heat_wave.jpg?itok=nAq1eCoG" width="1600"/>
+  </item>
   <item>
    <title>
     Israel gears up for Rafah civilian evacuation ahead of promised assault
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0XiAFaN_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t073339z_1_lynxnpek3n087_rtroptp_3_olympics-2020-csp-w-k4-500m-sfnl-000200.jpg?itok=3NqH2VDB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    EU opens probe into China's medical device market
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/eu-opens-probe-chinas-medical-device-market-4288311
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/eu-opens-probe-chinas-medical-device-market-4288311
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q_srBHRv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/dc9b5b6a304f87339aa6ceecaf273446f9e3a0ee.jpg?itok=kp49K9rr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    EU opens probe into China's medical device market
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/eu-opens-probe-chinas-medical-device-market-4288311
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/eu-opens-probe-chinas-medical-device-market-4288311
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q_srBHRv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/dc9b5b6a304f87339aa6ceecaf273446f9e3a0ee.jpg?itok=kp49K9rr" width="1600"/>
   </item>
  </channel>
 </rss>
