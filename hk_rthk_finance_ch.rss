@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 14:30:21 +0800
+   Wed, 24 Apr 2024 14:40:35 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 14:28:29 +0800
+   Wed, 24 Apr 2024 14:34:20 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    台股高收2.7%　重上2萬點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750331-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750331-20240424.htm
+   </link>
+   <description>
+    <![CDATA[台股連升兩日，重上2萬點關口。
+
+加權指數收報20131點，升532點，升幅2.72%。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 14:34:20 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股高收907點　連升3日
@@ -439,23 +458,6 @@
    </description>
    <pubDate>
     Wed, 24 Apr 2024 09:07:18 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股開市後造好
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750272-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750272-20240424.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市造好。首爾綜合指數較早時報2670點，升47點，升幅1.8%。]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 08:26:56 +0800
    </pubDate>
   </item>
  </channel>
