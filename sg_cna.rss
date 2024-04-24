@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 19:36:21 +0800
+   Wed, 24 Apr 2024 19:47:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    TE Connectivity beats quarterly profit estimates on sensor demand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/te-connectivity-beats-quarterly-profit-estimates-sensor-demand-4288876
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 19:43:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/te-connectivity-beats-quarterly-profit-estimates-sensor-demand-4288876
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---1VUvJzJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t114314z_1_lynxnpek3n0gk_rtroptp_3_autos-electric-suppliers.jpg?itok=uumP7YWw" width="1600"/>
+  </item>
   <item>
    <title>
     COE quota to increase by 2.7% in May-July quarter
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pPanNkzL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t030615z_1_lynxnpek3n02x_rtroptp_3_global-markets-view-asia.jpg?itok=Qfl7oqV_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    German far-right politician vows not to quit after aide accused of spying for China
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/german-far-right-politician-vows-not-quit-after-aide-accused-spying-china-4288461
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 17:14:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/german-far-right-politician-vows-not-quit-after-aide-accused-spying-china-4288461
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Jbdb_cLT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t085739z_1_lynxnpek3n0ai_rtroptp_3_germany-china-security-afd-reacts.jpg?itok=1Lq1HyIk" width="1600"/>
   </item>
  </channel>
 </rss>
