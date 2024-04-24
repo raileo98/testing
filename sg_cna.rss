@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 13:26:20 +0800
+   Wed, 24 Apr 2024 13:36:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Orsted says Taiwan wind project to power TSMC on track for 2025 finish
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/orsted-says-taiwan-wind-project-power-tsmc-track-2025-finish-4288136
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 13:26:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/orsted-says-taiwan-wind-project-power-tsmc-track-2025-finish-4288136
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hwplUmR_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t052631z_1_lynxnpek3n04n_rtroptp_3_orsted-taiwan.jpg?itok=0zqs4Hb4" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Toyota's scandal-hit Daihatsu aims to resume vehicle development this year
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/toyotas-scandal-hit-daihatsu-aims-resume-vehicle-development-year-4288141
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 13:24:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/toyotas-scandal-hit-daihatsu-aims-resume-vehicle-development-year-4288141
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uuHm4Y8Q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t052402z_1_lynxnpek3n04l_rtroptp_3_daihatsu-scandal-ceo.jpg?itok=J369aUI3" width="1600"/>
+  </item>
   <item>
    <title>
     Pochettino frustrated by Chelsea's inconsistency after thrashing at Arsenal
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E4OWG8pj--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/34464421ced060df11e8ede7bc44f3129d42210d.jpg?itok=UEn4V-z8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Wake Up Singapore admin charged with defamation for allegations over KKH miscarriage in online article
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/wake-singapore-administrator-charged-article-falsehood-kkh-miscarriage-claims-court-4287706
-   </link>
-   <description>
-    <![CDATA[Ariffin Iskandar Sha Ali Akbar was handed one count of defamation under the Penal Code. ]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 11:22:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/wake-singapore-administrator-charged-article-falsehood-kkh-miscarriage-claims-court-4287706
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2gzdX3kH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/20240424_NLX_Ariffin%20Iskandar%20Sha%20Bin%20Ali%20Akbar-4.JPG?itok=k-TF9x39" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Capital A chief Fernandes defers retirement, renews contract for 5 years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/capital-chief-fernandes-defers-retirement-renews-contract-5-years-4287831
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 11:01:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/capital-chief-fernandes-defers-retirement-renews-contract-5-years-4287831
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aig0mKK9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t030159z_2_lynxnpek3n02t_rtroptp_3_capital-a-divestiture-airasia-x.jpg?itok=YkOodE-U" width="1600"/>
   </item>
  </channel>
 </rss>
