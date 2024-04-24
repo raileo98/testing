@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 17:57:44 +0800
+   Wed, 24 Apr 2024 18:16:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Prabowo vows to fight for all Indonesians, urges unity among political elites
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-broaden-coalition-megawati-sukarnoputri-jokowi-4288221
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 18:06:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-broaden-coalition-megawati-sukarnoputri-jokowi-4288221
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RUgUV6Ob--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-01t081929z_1_lynxnpek300ge_rtroptp_3_indonesia-election.jpg?itok=U0AkLjFb" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Alpine skiing-Austrian ski great Hirscher going Dutch for comeback
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/alpine-skiing-austrian-ski-great-hirscher-going-dutch-comeback-4288626
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 18:01:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/alpine-skiing-austrian-ski-great-hirscher-going-dutch-comeback-4288626
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qh_3BXEQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t100145z_1_lynxnpek3n0ca_rtroptp_3_alpine-skiing-hirscher.jpg?itok=o6hFA8MH" width="1600"/>
+  </item>
   <item>
    <title>
     Former Argentina striker Tevez hospitalised
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yZZqMZAn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t074529z_1_lynxnpek3n08j_rtroptp_3_soccer-england-dnr-eve-report.jpg?itok=EoleCvIS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia's central bank delivers surprise rate rise to support rupiah
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/indonesias-central-bank-delivers-surprise-rate-rise-support-rupiah-4288346
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indonesias-central-bank-delivers-surprise-rate-rise-support-rupiah-4288346
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BOkDwsbR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t074030z_1_lynxnpek3n08g_rtroptp_3_indonesia-economy-rate.jpg?itok=yP4mMn9l" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thailand's $13.5 billion handout aims to boost overall economy, not geared to poor, official says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/thailands-135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:36:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thailands-135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8j4Bvgse--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t073636z_1_lynxnpek3n08c_rtroptp_3_thailand-economy-cpi.jpg?itok=9RwQmlVf" width="1600"/>
   </item>
  </channel>
 </rss>
