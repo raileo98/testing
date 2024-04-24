@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 12:30:30 +0800
+   Wed, 24 Apr 2024 12:40:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China's Huawei launches new software for intelligent driving
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/chinas-huawei-launches-new-software-intelligent-driving-4287796
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 12:35:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/chinas-huawei-launches-new-software-intelligent-driving-4287796
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q_4h9Eax--/c_crop,h_450,w_800,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t040254z_2_lynxnpek3n02h_rtroptp_3_china-huawei-tech-dividend.jpg?itok=-r5IyhsM" width="1600"/>
+  </item>
   <item>
    <title>
     Wolves overpower Suns to lead series 2-0, Pacers down Bucks
@@ -438,27 +459,6 @@
     World ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LBiLBw6j--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-15t150907z_1_lynxnpek3e0jn_rtroptp_3_maryland-incident-bridge.jpg?itok=7-aVxT4j" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bill to ban TikTok in US clears Congress
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/tiktok-bill-ban-clears-congress-us-china-app-4287741
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 10:19:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/tiktok-bill-ban-clears-congress-us-china-app-4287741
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cKGjAkXF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-22t145756z_1_lynxnpek3l0js_rtroptp_3_eu-tiktok-tech.jpg?itok=a2CiTP7h" width="1600"/>
   </item>
  </channel>
 </rss>

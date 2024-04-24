@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 12:20:36 +0800
+   Wed, 24 Apr 2024 12:31:46 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 12:15:40 +0800
+   Wed, 24 Apr 2024 12:23:48 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    中海外首季經營溢利升逾22%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750309-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750309-20240424.htm
+   </link>
+   <description>
+    <![CDATA[中海外公布，今年首季經營溢利66.5億元人民幣，剔除匯兌淨損益後，按年上升逾22%。收入按年升逾14%至365億元。
+
+期內，連同聯營及合營公司的合約物業銷售額602.1億元，相應銷售面積202萬平方米。
+
+中海外表示，上季內地房地產行業依然延續下行築底趨勢，成交低迷。但中央政府明確積極的財政政策要適度加力，穩健的貨幣政策要靈活適度，推出一系列支持剛性和改善性住房需求政策，將有助房地產市場企穩向好及長期健康穩定發展。
+
+集團又指，繼續保持穩健財務狀況，淨借貸比率和融資成本維持於行業低水平。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 12:23:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港交所首季盈利按年跌13%　按季升14%
@@ -427,23 +450,6 @@ Tesla首季營業額213億美元，按年下跌9%，少過市場預期，亦是2
    </description>
    <pubDate>
     Wed, 24 Apr 2024 07:25:12 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    山頂纜車將於上午七時半恢復服務
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750265-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750265-20240424.htm
-   </link>
-   <description>
-    <![CDATA[山頂白加道纜車站附近倒塌樹木現場已完成清理，山頂纜車表示會在上午七時半恢復服務。]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 07:23:53 +0800
    </pubDate>
   </item>
  </channel>
