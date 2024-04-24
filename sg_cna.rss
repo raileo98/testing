@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 17:20:57 +0800
+   Wed, 24 Apr 2024 17:29:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel gears up for Rafah civilian evacuation ahead of promised assault
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-hamas-war-rafah-gaza-idf-civilian-evacuation-attack-4288436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 17:21:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-hamas-war-rafah-gaza-idf-civilian-evacuation-attack-4288436
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--p4qZGLJr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/e6e68b8329e87838f2eb16de01f8d723b13c915b.jpg?itok=_4lt3e8R" width="1600"/>
+  </item>
   <item>
    <title>
     Shares jump on tech boost; fragile yen on intervention watch
@@ -438,27 +459,6 @@
     Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q_srBHRv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/dc9b5b6a304f87339aa6ceecaf273446f9e3a0ee.jpg?itok=kp49K9rr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Yen's slide toward 160 level could trigger action, says senior ruling party official
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/yens-slide-toward-160-level-could-trigger-action-says-senior-ruling-party-official-4288326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/yens-slide-toward-160-level-could-trigger-action-says-senior-ruling-party-official-4288326
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rakXS0u---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t072709z_1_lynxnpek3n07y_rtroptp_3_markets-forex-funds.jpg?itok=tZPlYNFf" width="1600"/>
   </item>
  </channel>
 </rss>
