@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 03:35:47 +0800
+   Thu, 25 Apr 2024 03:41:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hamas issues video showing Israeli-American hostage Goldberg-Polin
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/hamas-issues-video-showing-israeli-american-hostage-goldberg-polin-4289796
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 03:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/hamas-issues-video-showing-israeli-american-hostage-goldberg-polin-4289796
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EvTUHRiC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t185930z_2_lynxnpek3n0ot_rtroptp_3_israel-palestinians-hostage-mother.jpg?itok=AfodwtD6" width="1600"/>
+  </item>
   <item>
    <title>
     PSG close in on title with 4-1 win at Lorient
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Tampines accident: Parliamentary questions filed on road safety, penalties following public concern
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tampines-accident-multi-vehicle-pie-road-safety-penalties-enforcement-parliament-questions-4289016
-   </link>
-   <description>
-    <![CDATA[There is growing concern about the adequacy of existing penalties for reckless driving, especially in light of the fatal Tampines accident.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 21:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tampines-accident-multi-vehicle-pie-road-safety-penalties-enforcement-parliament-questions-4289016
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--25hEAJMe--/c_crop,h_900,w_1600,x_0,y_68/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/DSC02394%20(1).JPG?itok=ICHZTQFj" width="1600"/>
   </item>
  </channel>
 </rss>
