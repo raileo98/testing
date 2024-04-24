@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 22:48:23 +0800
+   Wed, 24 Apr 2024 22:55:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hong Kong spot crypto ETFs to start trading next week
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/hong-kong-spot-crypto-etfs-start-trading-next-week-4289301
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:52:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/hong-kong-spot-crypto-etfs-start-trading-next-week-4289301
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QIqfM8XZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t145256z_1_lynxnpek3n0n2_rtroptp_3_hong-kong-markets-cryptocurrency.jpg?itok=e-KPGgNh" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Ferrari strikes multi-year partnership with HP for Formula One team sponsorship
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ferrari-strikes-multi-year-partnership-hp-formula-one-team-sponsorship-4289296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:44:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ferrari-strikes-multi-year-partnership-hp-formula-one-team-sponsorship-4289296
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VKqiPbfd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t144447z_1_lynxnpek3n0mv_rtroptp_3_ferrari-sponsorship-hp.jpg?itok=WEy4pcDV" width="1600"/>
+  </item>
   <item>
    <title>
     ASML approves Christophe Fouquet as CEO at annual meeting
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cFybESnD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t121926z_1_lynxnpek3n0hr_rtroptp_3_japan-yen.jpg?itok=mmwXGyij" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Microsoft's AI lead puts Amazon cloud dominance on watch
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-4288911
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:03:01 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/microsofts-ai-lead-puts-amazon-cloud-dominance-watch-4288911
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Thailand expects to produce 350,000 to 525,000 EV units by 2027, excise department says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/thailand-expects-produce-350000-525000-ev-units-2027-excise-department-says-4288901
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 19:50:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thailand-expects-produce-350000-525000-ev-units-2027-excise-department-says-4288901
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Pxe6KM_0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t115042z_1_lynxnpek3n0gv_rtroptp_3_thailand-autos.jpg?itok=uoTOKYVh" width="1600"/>
   </item>
  </channel>
 </rss>
