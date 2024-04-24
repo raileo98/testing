@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 02:25:55 +0800
+   Thu, 25 Apr 2024 02:41:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Understanding of Earth's flowering plants blossoms in genome study
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/understanding-earths-flowering-plants-blossoms-genome-study-4289711
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 02:23:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/understanding-earths-flowering-plants-blossoms-genome-study-4289711
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     US president signs bill to provide new aid for Ukraine
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UcWtb45c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t130637z_1_lynxnpek3n0jl_rtroptp_3_at-t-results.jpg?itok=IuTnpUjd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City's Haaland to miss Brighton game but Guardiola says injury not serious
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-citys-haaland-miss-brighton-game-guardiola-says-injury-not-serious-4289056
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 21:02:33 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-citys-haaland-miss-brighton-game-guardiola-says-injury-not-serious-4289056
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KKzoI-wg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t130233z_1_lynxnpek3n0jg_rtroptp_3_soccer-champions-mci-mad-report.jpg?itok=562QcLp9" width="1600"/>
   </item>
  </channel>
 </rss>
