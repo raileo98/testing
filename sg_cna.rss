@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 04:29:04 +0800
+   Thu, 25 Apr 2024 04:41:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    ServiceNow forecasts weak quarterly revenue as businesses trim spending
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/servicenow-forecasts-weak-quarterly-revenue-businesses-trim-spending-4289921
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 04:18:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/servicenow-forecasts-weak-quarterly-revenue-businesses-trim-spending-4289921
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     IBM to buy HashiCorp in $6.4 billion deal to expand cloud software
@@ -353,7 +374,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1MwufCji--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t150447z_1_lynxnpek3n0n9_rtroptp_3_eu-tiktok-tech.jpg?itok=xaiIF58t" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--s3zgbvfV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t202911z_2_lynxnpek3n0n9_rtroptp_3_eu-tiktok-tech.jpg?itok=d6CBLEBG" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_PAT7jiK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t143733z_1_lynxnpek3n0ml_rtroptp_3_asml-results.jpg?itok=-SJELKEy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Some Palestinians forced to flee homes as Israel shells northern Gaza
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-war-palestinians-flee-homes-northern-gaza-4288666
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 22:32:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-war-palestinians-flee-homes-northern-gaza-4288666
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WjxzQpxD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t101647z_1_lynxnpek3n0cz_rtroptp_3_israel-palestinina-gaza-cityshots.jpg?itok=HMAJT8f9" width="1600"/>
   </item>
  </channel>
 </rss>
