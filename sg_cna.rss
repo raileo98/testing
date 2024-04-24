@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 18:48:42 +0800
+   Wed, 24 Apr 2024 18:51:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Texas Instruments' upbeat Q2 forecast pushes chip stocks higher
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/texas-instruments-upbeat-q2-forecast-pushes-chip-stocks-higher-4288751
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 18:45:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/texas-instruments-upbeat-q2-forecast-pushes-chip-stocks-higher-4288751
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_sfXfU7g--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t104555z_1_lynxnpek3n0e5_rtroptp_3_texas-instrument-stocks.jpg?itok=KWaB1je1" width="1600"/>
+  </item>
   <item>
    <title>
     Escaped army horses bolt through central London
@@ -417,27 +438,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HaxUhgTV--/c_crop,h_900,w_1600,x_0,y_82/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/DSC02372%20(2).JPG?itok=1hH1R0X5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    California faces roadblocks in ambitious plan to phase out heavily-polluting diesel trucks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/california-plan-phase-out-diesel-trucks-zero-emission-decarbonise-united-states-electric-vehicles-charging-4288291
-   </link>
-   <description>
-    <![CDATA[Diesel trucks are a major source of emissions, putting the United States’ climate targets at risk.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 16:11:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/california-plan-phase-out-diesel-trucks-zero-emission-decarbonise-united-states-electric-vehicles-charging-4288291
-   </guid>
-   <category>
-    World ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BX9KbFl---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/california_truck_emissions_79596.jpg?itok=LR4gMD-k" width="1600"/>
   </item>
   <item>
    <title>
