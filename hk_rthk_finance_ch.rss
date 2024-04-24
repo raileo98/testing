@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 15:10:46 +0800
+   Wed, 24 Apr 2024 15:30:57 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 14:50:10 +0800
+   Wed, 24 Apr 2024 15:17:35 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬深股市高收0.7%或以上
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750344-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750344-20240424.htm
+   </link>
+   <description>
+    <![CDATA[內地股市上升，低空經濟概念股走強，銀行、地產股下跌。
+
+上證指數貼近全日高位收市，收報3044點，升22點，升幅0.76%。
+
+深證成份指數報9251點，升67點，升幅0.74%。
+
+創業板指數報1765點，升12點，升幅0.7%。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 15:17:35 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     韓股高收2%
@@ -449,23 +472,6 @@
    </description>
    <pubDate>
     Wed, 24 Apr 2024 10:28:37 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人行公開市場再度逆回購20億元人民幣
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750285-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750285-20240424.htm
-   </link>
-   <description>
-    <![CDATA[人民銀行公開市場開展20億元人民幣7日期逆回購操作，連續17日同一規模，並完全對沖單日到期量，中標利率持平於1.8厘。]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 09:46:26 +0800
    </pubDate>
   </item>
  </channel>
