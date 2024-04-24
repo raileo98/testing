@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 03:53:01 +0800
+   Thu, 25 Apr 2024 04:11:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Gaza could surpass famine thresholds in six weeks, UN official says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/gaza-could-surpass-famine-thresholds-six-weeks-un-official-says-4288736
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 04:01:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/gaza-could-surpass-famine-thresholds-six-weeks-un-official-says-4288736
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8RPC_-_q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/14d538cf4c6d9153434ca0321c1282a47a4969ae.jpg?itok=bLlSilMz" width="1600"/>
+  </item>
   <item>
    <title>
     Woods, McIlroy to receive loyalty payouts from PGA Tour, report says
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Tampines accident: Car workshop employee files police report over death threats after posting dashcam footage
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tampines-accident-dashcam-video-car-workshop-employee-files-police-report-4288976
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 22:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tampines-accident-dashcam-video-car-workshop-employee-files-police-report-4288976
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Bopumqg9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/dashcam_video.png?itok=_Kdzj520" width="1600"/>
   </item>
  </channel>
 </rss>
