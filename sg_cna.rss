@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 01:47:42 +0800
+   Thu, 25 Apr 2024 02:05:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    TSMC says 'A16' chipmaking technology will start production in late 2026
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-4289626
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 01:48:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tsmc-says-a16-chipmaking-technology-will-start-production-late-2026-4289626
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pvw0ClaU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t174808z_1_lynxnpek3n0rx_rtroptp_3_quake-taiwan-tsmc.jpg?itok=EYCVjEsK" width="1600"/>
+  </item>
   <item>
    <title>
     Threatening Abramovich ally would be 'suicide', soccer agent tells London court
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ow3mD-kx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/dsc_6563.jpg?itok=R_eUDKlt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Extreme heat scorches Southeast Asia, bringing school closures and warnings
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/extreme-heat-southeast-asia-thailand-philippines-bangladesh-4288991
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:46:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/extreme-heat-southeast-asia-thailand-philippines-bangladesh-4288991
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5VTlpDd3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/22ac6076241cb3736b2973c5285975ae00a77a0c.jpg?itok=zqaWh-aW" width="1600"/>
   </item>
  </channel>
 </rss>
