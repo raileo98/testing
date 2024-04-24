@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 04:11:21 +0800
+   Thu, 25 Apr 2024 04:16:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Meta raises 2024 expenses forecast to support AI development
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/meta-raises-2024-expenses-forecast-support-ai-development-4289916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 04:11:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/meta-raises-2024-expenses-forecast-support-ai-development-4289916
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZGJ-C9di--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t201024z_1_lynxnpek3n0v8_rtroptp_3_meta-platforms-artificial-intelligence.jpg?itok=ZnRaCXjY" width="1600"/>
+  </item>
   <item>
    <title>
     Gaza could surpass famine thresholds in six weeks, UN official says
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eunb8tew--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t142236z_2_lynxnpek3n0ly_rtroptp_3_usa-banks.jpg?itok=R8g77xhT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sue Day to replace Campbell as FA's director of women's football
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/sue-day-replace-campbell-fas-director-womens-football-4289231
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 22:20:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/sue-day-replace-campbell-fas-director-womens-football-4289231
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
