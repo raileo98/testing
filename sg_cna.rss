@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 13:44:09 +0800
+   Wed, 24 Apr 2024 13:53:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US seeks 36 months' jail for Binance founder Zhao
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-seeks-36-months-jail-binance-founder-zhao-4288171
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 13:46:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-seeks-36-months-jail-binance-founder-zhao-4288171
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FeU70vcv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t054609z_2_lynxnpek3n052_rtroptp_3_fintech-crypto-binance-greece.jpg?itok=7FBqBApR" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Stoinis still keen to represent Australia despite loss of central contract
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/stoinis-still-keen-represent-australia-despite-loss-central-contract-4288161
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 13:42:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/stoinis-still-keen-represent-australia-despite-loss-central-contract-4288161
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zMJJXbqK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t054257z_1_lynxnpek3n04z_rtroptp_3_cricket-worldcup-eng-aus.jpg?itok=LuE755Ls" width="1600"/>
+  </item>
   <item>
    <title>
     Orsted says Taiwan wind project to power TSMC on track for 2025 finish
@@ -417,48 +459,6 @@
     Asia ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TA-DJlqv--/c_crop,h_900,w_1600,x_0,y_126/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/000_34nb3gn_0.jpg?itok=ayg1rO8p" width="1600"/>
-  </item>
-  <item>
-   <title>
-    First COVID-19, now heat: Online schooling returns to the Philippines
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/philippines-heat-online-school-returns-climate-change-covid-19-4287861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 11:28:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/philippines-heat-online-school-returns-climate-change-covid-19-4287861
-   </guid>
-   <category>
-    Asia ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TA-DJlqv--/c_crop,h_900,w_1600,x_0,y_126/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/000_34nb3gn_0.jpg?itok=ayg1rO8p" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Post-WWII order on 'brink of collapse': Amnesty head
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/post-wwii-order-brink-collapse-amnesty-head-4287471
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 11:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/post-wwii-order-brink-collapse-amnesty-head-4287471
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E4OWG8pj--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/34464421ced060df11e8ede7bc44f3129d42210d.jpg?itok=UEn4V-z8" width="1600"/>
   </item>
  </channel>
 </rss>
