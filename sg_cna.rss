@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 21:50:23 +0800
+   Wed, 24 Apr 2024 22:12:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Company director jailed for multiple offences; firms' bank accounts used to receive S$18 million in scam proceeds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/company-director-jailed-scammers-money-laundering-4288971
+   </link>
+   <description>
+    <![CDATA[The 34-year-old man incorporated companies used for money laundering for a promised S$20,000 reward from someone from a Telegram group named SG Black Market Hire.]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 21:52:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/company-director-jailed-scammers-money-laundering-4288971
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--60McwjLS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/14/singapore_bank_notes_money_currency.jpg?itok=nc1NVYSK" width="1600"/>
+  </item>
   <item>
    <title>
     Popp the hero as 10-man Marinos advance to Asian Champions League final
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Former Zilingo CEO files criminal complaint against co-founder, ex-COO
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/zilingo-former-ceo-ankiti-bose-files-criminal-complaint-against-co-founder-coo-4288486
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 19:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/zilingo-former-ceo-ankiti-bose-files-criminal-complaint-against-co-founder-coo-4288486
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7ToLNHhQ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/01/25/img_6850.jpg?itok=Cd1J4ES9" width="1600"/>
   </item>
  </channel>
 </rss>
