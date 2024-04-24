@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 12:40:01 +0800
+   Wed, 24 Apr 2024 12:50:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China to send fresh crew to Tiangong space station
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-send-fresh-crew-tiangong-space-station-beijing-4287936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 12:49:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-send-fresh-crew-tiangong-space-station-beijing-4287936
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rzOdhE9n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/000_34q62g7.jpg?itok=ZOVMl9Ny" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Hong Kong bourse operator's Q1 profit down 13% on weaker listings, trading
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/hong-kong-bourse-operators-q1-profit-down-13-weaker-listings-trading-4288006
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 12:40:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/hong-kong-bourse-operators-q1-profit-down-13-weaker-listings-trading-4288006
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9HG3c9Tl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t042745z_1_lynxnpek3n03o_rtroptp_3_hkex-results.jpg?itok=g9MFpG0_" width="1600"/>
+  </item>
   <item>
    <title>
     China's Huawei launches new software for intelligent driving
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k7Nj_5ke--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t023406z_2_lynxnpek3n02b_rtroptp_3_japan-stocks.jpg?itok=c1thBbPo" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Baltimore leaders accuse ship's owner and manager of negligence in Key Bridge collapse
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/baltimore-leaders-accuse-ships-owner-and-manager-negligence-key-bridge-collapse-4284451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 10:23:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/baltimore-leaders-accuse-ships-owner-and-manager-negligence-key-bridge-collapse-4284451
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LBiLBw6j--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-15t150907z_1_lynxnpek3e0jn_rtroptp_3_maryland-incident-bridge.jpg?itok=7-aVxT4j" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Baltimore leaders accuse ship's owner and manager of negligence in Key Bridge collapse
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/baltimore-leaders-accuse-ships-owner-and-manager-negligence-key-bridge-collapse-4284451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 10:23:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/baltimore-leaders-accuse-ships-owner-and-manager-negligence-key-bridge-collapse-4284451
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LBiLBw6j--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-15t150907z_1_lynxnpek3e0jn_rtroptp_3_maryland-incident-bridge.jpg?itok=7-aVxT4j" width="1600"/>
   </item>
  </channel>
 </rss>
