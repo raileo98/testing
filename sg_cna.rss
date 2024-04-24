@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 02:21:37 +0800
+   Thu, 25 Apr 2024 02:25:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US president signs bill to provide new aid for Ukraine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-president-signs-bill-provide-new-aid-ukraine-4289476
+   </link>
+   <description>
+    <![CDATA[The legislation - which also includes aid for Israel and Taiwan and a potential ban on TikTok - comes after months of delay that saw Ukrainian forces run short of ammunition and suffer battlefield setbacks.]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 02:23:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-president-signs-bill-provide-new-aid-ukraine-4289476
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RofkZx9K--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t162238z_2_lynxnpek3n0ne_rtroptp_3_usa-congress-ukraine-biden.jpg?itok=Qpk9rKyb" width="1600"/>
+  </item>
   <item>
    <title>
     TSMC says 'A16' chipmaking technology will start production in late 2026
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KKzoI-wg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t130233z_1_lynxnpek3n0jg_rtroptp_3_soccer-champions-mci-mad-report.jpg?itok=562QcLp9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mediacorp wins awards for use of AI and audience engagement at Digital Media Awards Asia 2024
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mediacorp-wins-awards-use-ai-and-audience-engagement-digital-media-awards-asia-2024-4288181
-   </link>
-   <description>
-    <![CDATA[The AI SmartCut project won silver for Best Use of AI in the Newsroom and CNA’s My Feed took home silver for Best in Audience Engagement respectively at the WAN-IFRA Digital Media Awards Asia.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:49:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mediacorp-wins-awards-use-ai-and-audience-engagement-digital-media-awards-asia-2024-4288181
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ow3mD-kx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/dsc_6563.jpg?itok=R_eUDKlt" width="1600"/>
   </item>
  </channel>
 </rss>
