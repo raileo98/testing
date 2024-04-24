@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 16:46:14 +0800
+   Wed, 24 Apr 2024 16:55:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    26-year-old motorcyclist killed in road traffic accident along PIE
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/26-year-old-motorcyclist-dead-accident-pie-lorry-kranji-4288386
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 16:46:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/26-year-old-motorcyclist-dead-accident-pie-lorry-kranji-4288386
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_2aPRPEa--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/road_accident_apr_24_motorcylist_2.jpg?itok=Hpy1uwT3" width="1600"/>
+  </item>
   <item>
    <title>
     SK Hynix to invest $3.86 billion in DRAM chip production base in South Korea
@@ -252,10 +273,10 @@
   </item>
   <item>
    <title>
-    Thailand's US$13.5 billion handout aims to boost overall economy, not geared to poor, official says
+    Thailand's $13.5 billion handout aims to boost overall economy, not geared to poor, official says
    </title>
    <link>
-    https://www.channelnewsasia.com/business/thailands-us135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
+    https://www.channelnewsasia.com/business/thailands-135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
    </link>
    <description>
     <![CDATA[]]>
@@ -264,7 +285,7 @@
     Wed, 24 Apr 2024 15:36:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thailands-us135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
+    https://www.channelnewsasia.com/business/thailands-135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U2yPV3t7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/09/24/20220923_reuters_changi_airport.jpg?itok=Sq8uXzYJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Brokerage Haitong removes long-term Hong Kong unit chief Lin, appoints new head
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/brokerage-haitong-removes-long-term-hong-kong-unit-chief-lin-appoints-new-head-4288321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:22:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/brokerage-haitong-removes-long-term-hong-kong-unit-chief-lin-appoints-new-head-4288321
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FfOIuiHZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t072236z_1_lynxnpek3n07w_rtroptp_3_china-banks-bonuses.jpg?itok=wZFKzLad" width="1600"/>
   </item>
  </channel>
 </rss>
