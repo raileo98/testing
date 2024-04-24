@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 17:40:59 +0800
+   Wed, 24 Apr 2024 17:57:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Former Argentina striker Tevez hospitalised
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/former-argentina-striker-tevez-hospitalised-4288581
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 17:50:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/former-argentina-striker-tevez-hospitalised-4288581
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_sl9sbb2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t095020z_1_lynxnpek3n0bu_rtroptp_3_soccer-england-whu-bur-report.jpg?itok=XcuInqcU" width="1600"/>
+  </item>
   <item>
    <title>
     Seven arrested in Australian anti-terror raids
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 24 Apr 2024 17:29:32 +0800
+    Wed, 24 Apr 2024 17:29:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/bangkok-extreme-heat-danger-warning-global-warming-climate-change-4288541
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8j4Bvgse--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t073636z_1_lynxnpek3n08c_rtroptp_3_thailand-economy-cpi.jpg?itok=9RwQmlVf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Canoe queen Carrington looks to add to New Zealand record haul in Paris
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/canoe-queen-carrington-looks-add-new-zealand-record-haul-paris-4288331
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:33:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/canoe-queen-carrington-looks-add-new-zealand-record-haul-paris-4288331
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0XiAFaN_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t073339z_1_lynxnpek3n087_rtroptp_3_olympics-2020-csp-w-k4-500m-sfnl-000200.jpg?itok=3NqH2VDB" width="1600"/>
   </item>
  </channel>
 </rss>
