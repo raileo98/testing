@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 16:18:20 +0800
+   Wed, 24 Apr 2024 16:31:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    SK Hynix to invest $3.86 billion in DRAM chip production base in South Korea
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/sk-hynix-invest-386-billion-dram-chip-production-base-south-korea-4288401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 16:22:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/sk-hynix-invest-386-billion-dram-chip-production-base-south-korea-4288401
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XIW--wdG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t082257z_1_lynxnpek3n09j_rtroptp_3_sk-hynix-chip-usa.jpg?itok=I-GapYTr" width="1600"/>
+  </item>
   <item>
    <title>
     North Macedonia votes for president in test before parliamentary poll
@@ -231,10 +252,10 @@
   </item>
   <item>
    <title>
-    Thai $13.5 billion handout scheme aims to boost economy, not specific to vulnerable groups, official says
+    Thailand's $13.5 billion handout aims to boost overall economy, not geared to poor, official says
    </title>
    <link>
-    https://www.channelnewsasia.com/business/thai-135-billion-handout-scheme-aims-boost-economy-not-specific-vulnerable-groups-official-says-4288336
+    https://www.channelnewsasia.com/business/thailands-135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
    </link>
    <description>
     <![CDATA[]]>
@@ -243,7 +264,7 @@
     Wed, 24 Apr 2024 15:36:36 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thai-135-billion-handout-scheme-aims-boost-economy-not-specific-vulnerable-groups-official-says-4288336
+    https://www.channelnewsasia.com/business/thailands-135-billion-handout-aims-boost-overall-economy-not-geared-poor-official-says-4288336
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FfOIuiHZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t072236z_1_lynxnpek3n07w_rtroptp_3_china-banks-bonuses.jpg?itok=wZFKzLad" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Italy fines Amazon 10 million euros for alleged unfair commercial practices
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/italy-fines-amazon-10-million-euros-alleged-unfair-commercial-practices-4288316
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:20:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/italy-fines-amazon-10-million-euros-alleged-unfair-commercial-practices-4288316
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LCJFbcCP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t072058z_3_lynxnpek3n074_rtroptp_3_amazon-italy-strike.jpg?itok=Y27wIFLq" width="1600"/>
   </item>
  </channel>
 </rss>

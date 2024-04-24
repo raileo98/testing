@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 16:10:33 +0800
+   Wed, 24 Apr 2024 16:20:16 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 11:01:47 +0800
+   Wed, 24 Apr 2024 16:11:35 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    供電系統故障　東電暫停排放核污水
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750352-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750352-20240424.htm
+   </link>
+   <description>
+    <![CDATA[日本東京電力公司表示，由於福島第一核電廠的供電系統於上午10時許故障，已暫停排放核污水，正調查事故原因。
+
+東電又說，已檢測核電廠周邊的放射線數值，確認沒有出現異常情況。
+
+另外，在停電後數分鐘，核電站內一名進行挖掘的工作人員受傷，需送院治理。東電將調查事件與是否與停電有關。
+
+東電上周五啟動福島第一核電站核污水第五輪排海，預計持續到5月7日，排放總量約7800噸。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 16:11:35 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     趙樂際︰中國願同墨西哥加強戰略對接
@@ -445,29 +468,6 @@
    </description>
    <pubDate>
     Tue, 23 Apr 2024 16:05:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    IAEA調查團首次在日本核污水排海期間實地驗證
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750155-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750155-20240423.htm
-   </link>
-   <description>
-    <![CDATA[國際原子能機構（IAEA）調查團開始實地驗證日本福島第一核電站核污水排海的安全性，是去年8月啟動排海後，調查團第二次到日本。
-
-東京電力公司本月19日開始第五輪排海，在排放作業期間進行驗證屬於首次。調查團在今日至周五的行程中，會與東電及日本政府相關人士開會，並到福島第一核電站實地調查。
-
-調查團團長、國際原子能機構協調官卡魯索強調，希望這樣的做法和支持機制能再持續數年。
-
-去年10月調查團到訪日本時，第二輪排海已經結束。國際原子能機構在今年1月的排海作業驗證報告中表示，未發現有不符合國際安全標準要求事項的地方。]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 15:17:01 +0800
    </pubDate>
   </item>
  </channel>

@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 16:10:17 +0800
+   Wed, 24 Apr 2024 16:20:14 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 15:52:57 +0800
+   Wed, 24 Apr 2024 16:17:12 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong shares finish with more gains
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750354-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750354-20240424.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks finished sharply higher for the third day in a row on Wednesday on growing optimism about the earnings outlook for big-ticket firms, while traders were also awaiting the release of key US inflation data at the end of the week.
+
+The Hang Seng Index rallied 2.2 percent, or 372 points, to 17,201.
+
+The Shanghai Composite Index added 0.8 percent, or 22 points, to 3,044, while the Shenzhen Composite Index climbed 1.2 percent, or 19 points, to 1,694. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 16:17:12 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HKEX sees profit drop 13pc in Q1
@@ -601,35 +622,6 @@ Taiwan Semiconductor Manufacturing Company fell 4.9 percent, citing "weakening m
    </description>
    <pubDate>
     Fri, 19 Apr 2024 04:42:55 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Unemployment rate rises to 3 percent
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749468-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749468-20240418.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong's unemployment rate rose to 3 percent in three-month period ending in March, according to official figures released on Thursday. 
-
-That's a 0.1 percentage point increase compared with the December-to-February period. 
-
-Another 9,400 people became jobless during the first quarter of 2024, with officials noting that there were 111,700 unemployed persons in the three-month period ending in March. 
-
-Meanwhile, the underemployment rate edged up slightly to 1.1 percent. 
-
-In a statement, Secretary for Labour and Welfare, Chris Sun, said the unemployment rate was generally low despite the uptick. 
-
-"The unemployment rates of most sectors increased in January - March 2024 compared with the preceding three-month period, but stayed low in general," he said. 
- 
-"As the economy continues to grow, the labour market will likely remain tight in the near term."]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 17:11:24 +0800
    </pubDate>
   </item>
  </channel>
