@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 09:20:16 +0800
+   Wed, 24 Apr 2024 10:10:29 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 04:54:16 +0800
+   Wed, 24 Apr 2024 09:45:02 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks open higher, lifted by US market gains
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750275-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750275-20240424.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks extended gains into a third straight day on Wednesday following another strong advance on Wall Street as traders welcomed healthy earnings from US tech giants. 
+
+The Hang Seng Index climbed almost one percent to 16,993.
+
+The Shanghai Composite Index added 0.3 percent to 3,029, and the Shenzhen Composite Index was flat, inching up 0.01 points to 1,675. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 09:45:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks climb for 2nd straight day
@@ -599,33 +620,6 @@ The Shanghai Composite Index rose 0.1 percent, or 2 points to 3,074, while the S
    </description>
    <pubDate>
     Thu, 18 Apr 2024 16:27:27 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    New HKEX platform to boost derivatives trading
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749448-20240418.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749448-20240418.htm
-   </link>
-   <description>
-    <![CDATA[The city’s bourse on Thursday announced it is developing a tech platform that would allow it to offer near 24-hour derivatives trading while improving efficiency and introducing new products to address rapidly changing customer needs.
-
-In a statement, Hong Kong Exchanges and Clearing (HKEX), the city’s stock operator, also said that the in-house platform - Orion Derivatives Platform (ODP) - would be launched in 2028, which would help differentiate the group’s derivatives offerings while boosting its global competitiveness in the derivatives market.
-
-“Building future-ready technology platforms and operations is a key strategic priority for HKEX, as we help our markets and participants deliver long-term, sustainable growth and development,” said the group’s chief executive Bonnie Chan.
-
-“We are therefore pleased to announce plans to develop the ODP, representing our significant investment into the future of our markets,” Chan added.
-
-Noting that derivatives were one of the faster growing segments of HKEX’s business, with record-breaking volumes in both 2023 and 2022, Chan said such a platform would provide unique advantages - with enhanced trading and clearing capabilities and capital efficient risk management tools. 
-
-The bourse also said it would actively engage with market participants during the development process.]]>
-   </description>
-   <pubDate>
-    Thu, 18 Apr 2024 16:20:10 +0800
    </pubDate>
   </item>
  </channel>
