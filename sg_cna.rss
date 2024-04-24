@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 06:36:20 +0800
+   Thu, 25 Apr 2024 06:41:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Cisco says hackers subverted its security devices to spy on governments
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/cisco-says-hackers-subverted-its-security-devices-spy-governments-4290286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 06:36:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/cisco-says-hackers-subverted-its-security-devices-spy-governments-4290286
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hlZvW142--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t223657z_1_lynxnpek3n0yd_rtroptp_3_cisco-systems-stocks.jpg?itok=WNF728aO" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Klopp apologises to Liverpool supporters after huge blow to title hopes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/klopp-apologises-liverpool-supporters-after-huge-blow-title-hopes-4290291
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 06:35:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/klopp-apologises-liverpool-supporters-after-huge-blow-title-hopes-4290291
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Commentary: As a small country, soft power is particularly important for Singapore
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oj-vfiqi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t211309z_1_lynxnpek3n0x0_rtroptp_3_soccer-spain-soc-fcb-preview.jpg?itok=wyVR1xHP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Fernandes digs Man Utd out of hole in win over Sheff Utd
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fernandes-digs-man-utd-out-hole-win-over-sheff-utd-4290066
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 05:10:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fernandes-digs-man-utd-out-hole-win-over-sheff-utd-4290066
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Everton deal Liverpool big blow with shock 2-0 derby victory
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/everton-deal-liverpool-big-blow-shock-2-0-derby-victory-4290046
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 05:04:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/everton-deal-liverpool-big-blow-shock-2-0-derby-victory-4290046
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
