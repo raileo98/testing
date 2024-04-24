@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 23:30:37 +0800
+   Wed, 24 Apr 2024 23:40:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    TikTok to fight US ban law in courts
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/tiktok-fight-us-ban-law-courts-chew-shou-zi-4289386
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 23:38:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/tiktok-fight-us-ban-law-courts-chew-shou-zi-4289386
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U3ATouqJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-10t175608z_1_lynxnpek390uh_rtroptp_3_usa-election-yass.jpg?itok=8vaj0o10" width="1600"/>
+  </item>
+  <item>
+   <title>
     Tampines accident: Man to be charged with 4 offences including dangerous driving causing death
    </title>
    <link>
@@ -63,10 +84,10 @@
   </item>
   <item>
    <title>
-    TikTok to suspend TikTok Lite's reward programme amid EU concerns
+    TikTok suspends new app's reward programme amid EU concerns
    </title>
    <link>
-    https://www.channelnewsasia.com/business/tiktok-suspend-tiktok-lites-reward-programme-amid-eu-concerns-4289341
+    https://www.channelnewsasia.com/business/tiktok-suspends-new-apps-reward-programme-amid-eu-concerns-4289341
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +96,7 @@
     Wed, 24 Apr 2024 23:04:47 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tiktok-suspend-tiktok-lites-reward-programme-amid-eu-concerns-4289341
+    https://www.channelnewsasia.com/business/tiktok-suspends-new-apps-reward-programme-amid-eu-concerns-4289341
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5-mI9lQd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t123442z_2_lynxnpek3n0i9_rtroptp_3_germany-industry-hanover.jpg?itok=GJbmQ0vC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Austria coach Rangnick confirms contact with Bayern Munich
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/austria-coach-rangnick-confirms-contact-bayern-munich-4288951
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:21:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/austria-coach-rangnick-confirms-contact-bayern-munich-4288951
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JN3eBISh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t122145z_1_lynxnpek3n0hw_rtroptp_3_soccer-friendly-svk-aut-report.jpg?itok=BeZogYK8" width="1600"/>
   </item>
  </channel>
 </rss>
