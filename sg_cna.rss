@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 17:10:45 +0800
+   Wed, 24 Apr 2024 17:20:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Shares jump on tech boost; fragile yen on intervention watch
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/shares-jump-tech-boost-fragile-yen-intervention-watch-4287846
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 17:17:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/shares-jump-tech-boost-fragile-yen-intervention-watch-4287846
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pPanNkzL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t030615z_1_lynxnpek3n02x_rtroptp_3_global-markets-view-asia.jpg?itok=Qfl7oqV_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    German far-right politician vows not to quit after aide accused of spying for China
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/german-far-right-politician-vows-not-quit-after-aide-accused-spying-china-4288461
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 17:14:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/german-far-right-politician-vows-not-quit-after-aide-accused-spying-china-4288461
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Jbdb_cLT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t085739z_1_lynxnpek3n0ai_rtroptp_3_germany-china-security-afd-reacts.jpg?itok=1Lq1HyIk" width="1600"/>
+  </item>
   <item>
    <title>
     Taiwan chipmaker UMC warns of muted auto, industrial demand
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rakXS0u---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t072709z_1_lynxnpek3n07y_rtroptp_3_markets-forex-funds.jpg?itok=tZPlYNFf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    A stall in Malaysia is going viral for its cartoon pancakes, owner accepts custom requests
-   </title>
-   <link>
-    https://www.channelnewsasia.com/trending/abang-pancake-kartun-malacca-melaka-malaysia-4288251
-   </link>
-   <description>
-    <![CDATA[These edible pancakes are designed after famous pop culture icons including One Piece's Luffy, Spider-Man and the minions from Despicable Me.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:25:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/trending/abang-pancake-kartun-malacca-melaka-malaysia-4288251
-   </guid>
-   <category>
-    Trending ,Dining ,CNA Lifestyle ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4yXRVCJe--/c_crop,h_900,w_1600,x_0,y_154/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/abang_pancake_kartun_hero_0.jpg?itok=kIBB6tVL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    A stall in Malaysia is going viral for its cartoon pancakes, owner accepts custom requests
-   </title>
-   <link>
-    https://www.channelnewsasia.com/trending/abang-pancake-kartun-malacca-melaka-malaysia-4288251
-   </link>
-   <description>
-    <![CDATA[These edible pancakes are designed after famous pop culture icons including One Piece's Luffy, Spider-Man and the minions from Despicable Me.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:25:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/trending/abang-pancake-kartun-malacca-melaka-malaysia-4288251
-   </guid>
-   <category>
-    Trending ,Dining ,CNA Lifestyle ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4yXRVCJe--/c_crop,h_900,w_1600,x_0,y_154/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/abang_pancake_kartun_hero_0.jpg?itok=kIBB6tVL" width="1600"/>
   </item>
  </channel>
 </rss>
