@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 22:12:45 +0800
+   Wed, 24 Apr 2024 22:26:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Klarna to offer payment services on Uber's platform
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/klarna-offer-payment-services-ubers-platform-4289226
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:22:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/klarna-offer-payment-services-ubers-platform-4289226
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eunb8tew--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t142236z_2_lynxnpek3n0ly_rtroptp_3_usa-banks.jpg?itok=R8g77xhT" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Fatal Tampines accident: Car workshop employee files police report over death threats after posting dashcam footage
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/tampines-accident-dashcam-video-car-workshop-employee-files-police-report-4288976
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:15:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/tampines-accident-dashcam-video-car-workshop-employee-files-police-report-4288976
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Bopumqg9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/dashcam_video.png?itok=_Kdzj520" width="1600"/>
+  </item>
   <item>
    <title>
     Company director jailed for multiple offences; firms' bank accounts used to receive S$18 million in scam proceeds
@@ -413,48 +455,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--halo5_Fk--/c_crop,h_762,w_1355,x_198,y_158/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/05/SYA_2057_0.jpg?itok=eSgnft1n" width="1600"/>
-  </item>
-  <item>
-   <title>
-    COE quota to increase by 2.7% in May-July quarter
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/coe-quota-may-july-quarter-increase-lta-4288611
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 19:28:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/coe-quota-may-july-quarter-increase-lta-4288611
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--halo5_Fk--/c_crop,h_762,w_1355,x_198,y_158/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/05/SYA_2057_0.jpg?itok=eSgnft1n" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Microsoft's and Amazon's AI partnerships draw UK watchdog scrutiny
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/microsofts-and-amazons-ai-partnerships-draw-uk-watchdog-scrutiny-4288826
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 19:22:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/microsofts-and-amazons-ai-partnerships-draw-uk-watchdog-scrutiny-4288826
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
