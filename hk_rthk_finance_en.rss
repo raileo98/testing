@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 05:10:28 +0800
+   Thu, 25 Apr 2024 05:20:24 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 22:00:36 +0800
+   Thu, 25 Apr 2024 05:11:52 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Wall Street mixed as Meta tumbles, Tesla soars
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750427-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750427-20240425.htm
+   </link>
+   <description>
+    <![CDATA[The benchmark S&P 500 closed higher in choppy trading on Wednesday, as investors weighed an uptick in Treasury yields amid positive corporate results particularly from technology giants.
+
+An auction of a record US$70 billion worth of five-year US Treasury notes on Wednesday helped to push bond yields higher and had weighed on equities. The benchmark 10-year Treasury note rose five basis points to 4.6459 percent.
+
+The Dow finished lower while the Nasdaq ended higher.
+
+Investors were also focused on quarterly earnings from companies, especially from megacap growth stocks. Shares of Meta Platforms fell 11 percent in extended hours trading after the tech giant reported that its capital expenditure could reach up to US$40 billion in 2024, even as its first quarter revenue beat estimates.
+
+Microsoft and Alphabet are scheduled to report their results later this week.
+
+Tesla jumped 12 percent after the electric vehicle maker's plans to boost production and roll out more affordable models overshadowed its weak quarterly results.
+
+"My biggest concern is the bond market, particularly the long end of the US yield curve," said Bill Strazzullo, chief market strategist at Bell Curve Trading in Boston.
+
+The S&P 500 gained 0.02 percent to 5,072 and the Nasdaq Composite gained 0.10 percent, to 15,713. The Dow Jones Industrial Average fell 0.11 percent, to 38,461.
+
+Markets are eyeing first quarter gross domestic product data on Thursday and personal consumption expenditures (PCE) for March on Friday. Hotter-than-expected consumer price inflation report for March had pushed back expectations of when the Fed will begin cutting interest rates.
+
+Shares of Boeing fell 2.8 percent after the planemaker reported its first quarterly revenue drop in seven quarters, even though the result beat analyst expectations.
+
+Solar inverter maker Enphase Energy dropped 5.5 percent after projecting second-quarter revenue below analysts' estimates. (Reuters)]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 05:11:52 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Boeing reports Q1 loss amid ongoing crisis
@@ -607,27 +644,6 @@ The office also received 69 requests to have companies wound up, up around 30 pe
    </description>
    <pubDate>
     Fri, 19 Apr 2024 11:04:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks open with losses
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749566-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749566-20240419.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks sank at the open on Friday morning as traders fret over the rumbling crisis in the Middle East and the prospect that the Federal Reserve will not cut interest rates as much as hoped this year.
-
-The Hang Seng Index fell 0.8 percent, or 139 points, to 16,246.
-
-The Shanghai Composite Index retreated 0.4 percent, or 13 points to 3,060, while the Shenzhen Composite Index lost 0.5 percent, or 10 points to 1,688. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 09:56:50 +0800
    </pubDate>
   </item>
  </channel>
