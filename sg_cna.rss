@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 02:50:00 +0800
+   Thu, 25 Apr 2024 03:01:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Netanyahu: 'more has to be done' to stop pro-Palestinian protests on US campuses
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/netanyahu-more-has-be-done-stop-pro-palestinian-protests-us-campuses-4289676
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 02:50:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/netanyahu-more-has-be-done-stop-pro-palestinian-protests-us-campuses-4289676
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YiERIhR---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t105216z_1_lynxnpek3n0eg_rtroptp_3_israel-palestinians-usa-protests.jpg?itok=INer3T9H" width="1600"/>
+  </item>
   <item>
    <title>
     Understanding of Earth's flowering plants blossoms in genome study
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CpZKVo2e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t130812z_1_lynxnpek3n0jp_rtroptp_3_tennis-madrid.jpg?itok=1WXVJmAb" width="1600"/>
-  </item>
-  <item>
-   <title>
-    AT&amp;T beats estimates for subscriber additions, free cash flow
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/att-beats-estimates-subscriber-additions-free-cash-flow-4289071
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 21:06:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/att-beats-estimates-subscriber-additions-free-cash-flow-4289071
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UcWtb45c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t130637z_1_lynxnpek3n0jl_rtroptp_3_at-t-results.jpg?itok=IuTnpUjd" width="1600"/>
   </item>
  </channel>
 </rss>
