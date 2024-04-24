@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 23:11:02 +0800
+   Wed, 24 Apr 2024 23:26:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tampines accident: Man to be charged with 4 offences including dangerous driving causing death
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/tampines-accident-man-charged-42-year-old-black-saab-2-killed-4288821
+   </link>
+   <description>
+    <![CDATA[Police are investigating other potential offences by the 42-year-old car driver involved in the multi-vehicle accident. ]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 23:16:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/tampines-accident-man-charged-42-year-old-black-saab-2-killed-4288821
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--c5f_mUF4--/c_crop,h_896,w_1594,x_5,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/DSC02382%20(1).JPG?itok=dOMThEBU" width="1600"/>
+  </item>
   <item>
    <title>
     TikTok to suspend TikTok Lite's reward programme amid EU concerns
@@ -189,7 +210,7 @@
   </item>
   <item>
    <title>
-    Fatal Tampines accident: Car workshop employee files police report over death threats after posting dashcam footage
+    Tampines accident: Car workshop employee files police report over death threats after posting dashcam footage
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/tampines-accident-dashcam-video-car-workshop-employee-files-police-report-4288976
@@ -198,7 +219,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 24 Apr 2024 22:15:29 +0800
+    Wed, 24 Apr 2024 22:15:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/tampines-accident-dashcam-video-car-workshop-employee-files-police-report-4288976
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JN3eBISh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t122145z_1_lynxnpek3n0hw_rtroptp_3_soccer-friendly-svk-aut-report.jpg?itok=BeZogYK8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Prada's sales up 16% in first quarter as Miu Miu shines
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/pradas-sales-16-first-quarter-miu-miu-shines-4288941
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:19:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/pradas-sales-16-first-quarter-miu-miu-shines-4288941
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k3KQ_1DQ--/c_crop,h_576,w_1024,x_0,y_49/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/08/000_9628bl_the_prada_store_in_galleria_vittorio_emanuele_in_milan.jpg?itok=4i0ySgHc" width="1600"/>
   </item>
  </channel>
 </rss>
