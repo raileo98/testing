@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 22:26:15 +0800
+   Wed, 24 Apr 2024 22:39:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Some Palestinians forced to flee homes as Israel shells northern Gaza
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-hamas-war-palestinians-flee-homes-northern-gaza-4288666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:32:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-hamas-war-palestinians-flee-homes-northern-gaza-4288666
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WjxzQpxD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t101647z_1_lynxnpek3n0cz_rtroptp_3_israel-palestinina-gaza-cityshots.jpg?itok=HMAJT8f9" width="1600"/>
+  </item>
   <item>
    <title>
     Klarna to offer payment services on Uber's platform
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---1VUvJzJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t114314z_1_lynxnpek3n0gk_rtroptp_3_autos-electric-suppliers.jpg?itok=uumP7YWw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    COE quota to increase by 2.7% in May-July quarter
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/coe-quota-may-july-quarter-increase-lta-4288611
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 19:28:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/coe-quota-may-july-quarter-increase-lta-4288611
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--halo5_Fk--/c_crop,h_762,w_1355,x_198,y_158/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/05/SYA_2057_0.jpg?itok=eSgnft1n" width="1600"/>
   </item>
  </channel>
 </rss>
