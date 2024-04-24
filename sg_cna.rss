@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 13:15:55 +0800
+   Wed, 24 Apr 2024 13:26:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pochettino frustrated by Chelsea's inconsistency after thrashing at Arsenal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pochettino-frustrated-chelseas-inconsistency-after-thrashing-arsenal-4288101
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 13:18:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pochettino-frustrated-chelseas-inconsistency-after-thrashing-arsenal-4288101
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jb_6YH7W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t051814z_1_lynxnpek3n04f_rtroptp_3_soccer-england-ars-che-report.jpg?itok=pEAVvsSk" width="1600"/>
+  </item>
   <item>
    <title>
     Victims of China floods race to salvage property
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aig0mKK9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t030159z_2_lynxnpek3n02t_rtroptp_3_capital-a-divestiture-airasia-x.jpg?itok=YkOodE-U" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tom Holland sets sights on Spider-Man return: 'I'll always want to do more'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/tom-holland-spider-man-return-4287576
-   </link>
-   <description>
-    <![CDATA[The actor played the web-slinger in the Marvel Cinematic Universe (MCU) trilogy that concluded with 2021's Spider-Man: No Way Home.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 10:59:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/tom-holland-spider-man-return-4287576
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ocyIKR_N--/c_crop,h_562,w_1000,x_0,y_13/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/ny_premiere_of_apple_tvs_the_crowded_room_12460.jpg?itok=kGWnyEh-" width="1600"/>
   </item>
  </channel>
 </rss>
