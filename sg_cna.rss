@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 22:39:17 +0800
+   Wed, 24 Apr 2024 22:48:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    ASML approves Christophe Fouquet as CEO at annual meeting
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/asml-approves-christophe-fouquet-ceo-annual-meeting-4289271
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:37:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/asml-approves-christophe-fouquet-ceo-annual-meeting-4289271
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_PAT7jiK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t143733z_1_lynxnpek3n0ml_rtroptp_3_asml-results.jpg?itok=-SJELKEy" width="1600"/>
+  </item>
   <item>
    <title>
     Some Palestinians forced to flee homes as Israel shells northern Gaza
@@ -81,6 +102,27 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eunb8tew--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t142236z_2_lynxnpek3n0ly_rtroptp_3_usa-banks.jpg?itok=R8g77xhT" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Sue Day to replace Campbell as FA's director of women's football
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/sue-day-replace-campbell-fas-director-womens-football-4289231
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 22:20:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/sue-day-replace-campbell-fas-director-womens-football-4289231
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -126,10 +168,10 @@
   </item>
   <item>
    <title>
-    Popp the hero as 10-man Marinos advance to Asian Champions League final
+    Kewell eyes success as Marinos reach Asian Champions League final
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/popp-hero-10-man-marinos-advance-asian-champions-league-final-4289136
+    https://www.channelnewsasia.com/sport/kewell-eyes-success-marinos-reach-asian-champions-league-final-4289136
    </link>
    <description>
     <![CDATA[]]>
@@ -138,7 +180,7 @@
     Wed, 24 Apr 2024 21:29:03 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/popp-hero-10-man-marinos-advance-asian-champions-league-final-4289136
+    https://www.channelnewsasia.com/sport/kewell-eyes-success-marinos-reach-asian-champions-league-final-4289136
    </guid>
    <category>
     Sport
@@ -417,44 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Pxe6KM_0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t115042z_1_lynxnpek3n0gv_rtroptp_3_thailand-autos.jpg?itok=uoTOKYVh" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hong Kong bourse operator names Carlson Tong as new chairman
-   </title>
-   <link>
-    https://www.channelnewsasia.com/
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate/>
-   <guid isPermaLink="false"/>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    TE Connectivity beats quarterly profit estimates on sensor demand
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/te-connectivity-beats-quarterly-profit-estimates-sensor-demand-4288876
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 19:43:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/te-connectivity-beats-quarterly-profit-estimates-sensor-demand-4288876
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---1VUvJzJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t114314z_1_lynxnpek3n0gk_rtroptp_3_autos-electric-suppliers.jpg?itok=uumP7YWw" width="1600"/>
   </item>
  </channel>
 </rss>
