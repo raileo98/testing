@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 10:40:43 +0800
+   Wed, 24 Apr 2024 11:01:47 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 10:35:32 +0800
+   Wed, 24 Apr 2024 10:44:14 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股半日升2%　升穿38000點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750293-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750293-20240424.htm
+   </link>
+   <description>
+    <![CDATA[日股造好，日經指數升穿38000點，半日報38329點，升777點，升幅2.07%。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 10:44:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股重上17000點關口
@@ -427,29 +444,6 @@ Tesla首季營業額213億美元，按年下跌9%，少過市場預期，亦是2
    </description>
    <pubDate>
     Wed, 24 Apr 2024 05:11:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    歐洲主要股市上升　倫敦股市曾創新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750254-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750254-20240424.htm
-   </link>
-   <description>
-    <![CDATA[歐洲主要股市造好，受零售及科技股支持。倫敦股市曾創新高。
-
-倫敦富時指數收市報8044點，升20點，升幅0.26%，最高升至8076點新高。
-
-巴黎CAC40指數報8105點，升65點，升幅0.81%。
-
-法蘭克福DAX指數報18137點，升276點，升幅1.55%。]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 05:11:09 +0800
    </pubDate>
   </item>
  </channel>
