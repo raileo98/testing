@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 22:55:05 +0800
+   Wed, 24 Apr 2024 23:11:02 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    TikTok to suspend TikTok Lite's reward programme amid EU concerns
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tiktok-suspend-tiktok-lites-reward-programme-amid-eu-concerns-4289341
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 23:04:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tiktok-suspend-tiktok-lites-reward-programme-amid-eu-concerns-4289341
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1MwufCji--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t150447z_1_lynxnpek3n0n9_rtroptp_3_eu-tiktok-tech.jpg?itok=xaiIF58t" width="1600"/>
+  </item>
   <item>
    <title>
     Hong Kong spot crypto ETFs to start trading next week
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k3KQ_1DQ--/c_crop,h_576,w_1024,x_0,y_49/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/08/000_9628bl_the_prada_store_in_galleria_vittorio_emanuele_in_milan.jpg?itok=4i0ySgHc" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan's yen hits 155 per dollar, weakest since 1990
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japans-yen-hits-155-dollar-weakest-1990-4288956
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:19:26 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japans-yen-hits-155-dollar-weakest-1990-4288956
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cFybESnD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t121926z_1_lynxnpek3n0hr_rtroptp_3_japan-yen.jpg?itok=mmwXGyij" width="1600"/>
   </item>
  </channel>
 </rss>
