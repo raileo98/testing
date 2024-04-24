@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 11:30:51 +0800
+   Wed, 24 Apr 2024 12:01:39 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 11:15:33 +0800
+   Wed, 24 Apr 2024 11:45:40 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬股半日升逾0.3%　深證成指及創業板指數表現反覆
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750304-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750304-20240424.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市半日變動不大，低空經濟、軍工信息化、銅高速連接股造好；煤炭、農業、地產、廚衛電器、減肥藥股下跌。
+
+上證指數半日報3031點，升9點，升幅0.33%。
+
+深證成份指數表現反覆，早段最多跌0.52%，低見9135點，半日報9182跌，跌不足1點。
+
+創業板指數報1751點，跌1點。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 11:45:40 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     ASMPT：智能手機及平板電腦技術在內消費業務需求仍較疲弱
@@ -417,33 +440,6 @@ Tesla首季營業額213億美元，按年下跌9%，少過市場預期，亦是2
    </description>
    <pubDate>
     Wed, 24 Apr 2024 06:18:38 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美股高收　受企業盈利理想支持
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750257-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750257-20240424.htm
-   </link>
-   <description>
-    <![CDATA[紐約股市上升，受企業盈利支持。市場關注本周稍後多家重磅科技股公布業績。
-
-道瓊斯指數收市報38503點，升263點，升幅0.69%。
-
-納斯達克指數報15696點，升245點，升幅1.59%。
-
-標準普爾500指數報5070點，升59點，升幅1.2%。
-
-通用汽車高收逾4%。公司季度業績好過市場預期。
-
-投資者亦注視本周五公布的3月個人消費開支物價指數。]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 05:36:54 +0800
    </pubDate>
   </item>
  </channel>
