@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 18:16:33 +0800
+   Wed, 24 Apr 2024 18:30:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Peach Garden's Thomson Plaza branch suspended after 43 people fall ill with gastroenteritis
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/peach-garden-thomson-plaza-gastroenteritis-operations-suspended-sfa-4288586
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 18:26:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/peach-garden-thomson-plaza-gastroenteritis-operations-suspended-sfa-4288586
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m0I2EcLL--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/peach%20garden%20upper%20thomson%202.jpg?itok=1p6Iv6vz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Fake invoices, customers: Bulk order scams targeting renovation industry retailers re-emerge
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/scams-fake-bulk-order-renovation-industry-customer-supplier-invoice-bank-transaction-police-4288501
+   </link>
+   <description>
+    <![CDATA[In less than two weeks, victims have been cheated of at least S$25,000. ]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 18:23:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/scams-fake-bulk-order-renovation-industry-customer-supplier-invoice-bank-transaction-police-4288501
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rAVPRukV--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/bulk_order_scams_4.jpg?itok=we_BbCy1" width="1600"/>
+  </item>
   <item>
    <title>
     Prabowo vows to fight for all Indonesians, urges unity among political elites
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RjZgj4am--/c_crop,h_430,w_764,x_0,y_2/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/e143e089534ef8969e71b50d61f75fa8dc4e41b7.jpg?itok=dAoUiKcC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mother who sought to transfer children to international school gets appeal dismissed by High Court
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mother-transfer-children-local-international-school-high-court-dismisses-appeal-4288131
-   </link>
-   <description>
-    <![CDATA[Among her reasons for transferring her children to an international school where she worked, the woman cited childcare arrangements and corporal punishment at the local school. ]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:47:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mother-transfer-children-local-international-school-high-court-dismisses-appeal-4288131
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PB4q6iZ_--/c_crop,h_841,w_1496,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/sya_7295.jpg?itok=96txH9GL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Doncaster close on League Two playoffs after remarkable 10-game winning run
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/doncaster-close-league-two-playoffs-after-remarkable-10-game-winning-run-4288356
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:45:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/doncaster-close-league-two-playoffs-after-remarkable-10-game-winning-run-4288356
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yZZqMZAn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t074529z_1_lynxnpek3n08j_rtroptp_3_soccer-england-dnr-eve-report.jpg?itok=EoleCvIS" width="1600"/>
   </item>
  </channel>
 </rss>
