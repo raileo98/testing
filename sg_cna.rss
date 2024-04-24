@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 03:41:53 +0800
+   Thu, 25 Apr 2024 03:53:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Woods, McIlroy to receive loyalty payouts from PGA Tour, report says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/woods-mcilroy-receive-loyalty-payouts-pga-tour-report-says-4289866
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 03:39:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/woods-mcilroy-receive-loyalty-payouts-pga-tour-report-says-4289866
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Ambani's JioCinema cuts subscription prices as India's streaming war heats up
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ambanis-jiocinema-cuts-subscription-prices-indias-streaming-war-heats-4289856
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 03:39:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ambanis-jiocinema-cuts-subscription-prices-indias-streaming-war-heats-4289856
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kFTbwf21--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t193932z_3_lynxnpek3n0um_rtroptp_3_reliance-india-streaming-pokemon.jpg?itok=1JBZDVnE" width="1600"/>
+  </item>
   <item>
    <title>
     Hamas issues video showing Israeli-American hostage Goldberg-Polin
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Bopumqg9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/dashcam_video.png?itok=_Kdzj520" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Company director jailed for multiple offences; firms' bank accounts used to receive S$18 million in scam proceeds
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/company-director-jailed-scammers-money-laundering-4288971
-   </link>
-   <description>
-    <![CDATA[The 34-year-old man incorporated companies used for money laundering for a promised S$20,000 reward from someone from a Telegram group named SG Black Market Hire.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 21:52:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/company-director-jailed-scammers-money-laundering-4288971
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--60McwjLS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/14/singapore_bank_notes_money_currency.jpg?itok=nc1NVYSK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Kewell eyes success as Marinos reach Asian Champions League final
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/kewell-eyes-success-marinos-reach-asian-champions-league-final-4289136
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 21:29:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/kewell-eyes-success-marinos-reach-asian-champions-league-final-4289136
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
