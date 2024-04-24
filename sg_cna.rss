@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 04:16:29 +0800
+   Thu, 25 Apr 2024 04:29:04 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    IBM to buy HashiCorp in $6.4 billion deal to expand cloud software
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-4289926
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 04:15:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-4289926
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CCg4--36--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t201509z_1_lynxnpek3n0vb_rtroptp_3_tech-conference-mwc.jpg?itok=2Th-3dNC" width="1600"/>
+  </item>
   <item>
    <title>
     Meta raises 2024 expenses forecast to support AI development
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WjxzQpxD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t101647z_1_lynxnpek3n0cz_rtroptp_3_israel-palestinina-gaza-cityshots.jpg?itok=HMAJT8f9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Klarna to offer payment services on Uber's platform
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/klarna-offer-payment-services-ubers-platform-4289226
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 22:22:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/klarna-offer-payment-services-ubers-platform-4289226
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eunb8tew--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t142236z_2_lynxnpek3n0ly_rtroptp_3_usa-banks.jpg?itok=R8g77xhT" width="1600"/>
   </item>
  </channel>
 </rss>
