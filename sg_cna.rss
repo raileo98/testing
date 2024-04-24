@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 11:14:48 +0800
+   Wed, 24 Apr 2024 11:24:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Wake Up Singapore admin charged with defamation for allegations over KKH miscarriage in online article
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/wake-singapore-administrator-charged-article-falsehood-kkh-miscarriage-claims-court-4287706
+   </link>
+   <description>
+    <![CDATA[Ariffin Iskandar Sha Ali Akbar was handed one count of defamation under the Penal Code. ]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 11:22:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/wake-singapore-administrator-charged-article-falsehood-kkh-miscarriage-claims-court-4287706
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wkLpJir9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/IMG_8081.jpg?itok=MrOss6YY" width="1600"/>
+  </item>
   <item>
    <title>
     Capital A extends contract of CEO Fernandes for next five years
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VtdaScLV--/c_crop,h_900,w_1600,x_0,y_24/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/ap24112188539021.jpg?itok=gqtBaIjy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil prices inch up after data shows unexpected drop in US crude stocks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-prices-inch-after-data-shows-unexpected-drop-us-crude-stocks-4287611
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 09:19:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-prices-inch-after-data-shows-unexpected-drop-us-crude-stocks-4287611
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d32j5NaH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t011927z_1_lynxnpek3n018_rtroptp_3_global-oil-prices.jpg?itok=XYiVOt8O" width="1600"/>
   </item>
  </channel>
 </rss>

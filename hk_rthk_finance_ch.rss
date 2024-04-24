@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 11:01:47 +0800
+   Wed, 24 Apr 2024 11:20:52 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 10:44:14 +0800
+   Wed, 24 Apr 2024 11:15:33 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    ASMPT：智能手機及平板電腦技術在內消費業務需求仍較疲弱
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750301-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750301-20240424.htm
+   </link>
+   <description>
+    <![CDATA[ASMPT行政總裁黃梓达表示，近期內地客戶開始轉趨活躍，訂單查詢回升，特別是消費相關的技術應用，不過，在主流半導體業務當中，智能手機及平板電腦技術在內的消費業務相關需求仍較疲弱，客戶大多抱持觀望及審慎態度，估計今季相關設備訂單保持在較低水平。
+
+黃梓达關注，宏觀經濟環境仍面對挑戰，內地經濟環境持續緩慢復蘇，加上地緣政治問題持續演變、通脹壓力和利率高企等，消費意欲疲弱，持續影響電子產品需求。 
+
+不過，他指，今季先進封裝技術訂單維持強勁，受惠熱壓焊接技術應用的需求，SMT業務訂單亦已回復穩定，相信今年餘下時間訂單仍有望保持按年增長。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 11:15:33 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股半日升2%　升穿38000點
@@ -423,27 +444,6 @@ Tesla首季營業額213億美元，按年下跌9%，少過市場預期，亦是2
    </description>
    <pubDate>
     Wed, 24 Apr 2024 05:36:54 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    外圍金價偏軟
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750256-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750256-20240424.htm
-   </link>
-   <description>
-    <![CDATA[外圍金價觸及逾兩周低位後企穩。投資者暫時消化中東局勢的憂慮。
-
-紐約6月期金收市報每盎士2342.1美元，跌4.3美元，跌幅約0.2%。
-
-現貨金較早時在2322美元附近。]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 05:11:23 +0800
    </pubDate>
   </item>
  </channel>

@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 24 Apr 2024 11:10:19 +0800
+   Wed, 24 Apr 2024 11:21:12 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 24 Apr 2024 11:07:51 +0800
+   Wed, 24 Apr 2024 11:13:02 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    沙井致命意外　建造業議會暫停三間涉事公司所有工種及專長註冊
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750300-20240424.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750300-20240424.htm
+   </link>
+   <description>
+    <![CDATA[建造業議會表示，就昨日沙田源禾路發生的致命工業意外，議會轄下的註冊專門行業承造商制度專責委員會，已按相關的規管機制，暫停三間涉事公司所有工種及專長項目的註冊資格。
+
+議會指出，涉事註冊公司屬議會「註冊分包商名冊」之內。專責委員會今日已向涉事公司發出書面通知，這些公司需要進行獨立安全審核，以檢視其安全管理系統，並按審核結果提交改善方案及落實改善措施。如有關審核達致委員會滿意程度，委員會將考慮解除「即時暫停註冊」的指令。]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 11:13:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     易服醫生承認闖中學遊蕩被判感化12個月
@@ -443,27 +462,6 @@
    </description>
    <pubDate>
     Tue, 23 Apr 2024 21:50:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    公共圖書館讀者外借圖書館資料上限即日起由8項增至10項
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750227-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750227-20240423.htm
-   </link>
-   <description>
-    <![CDATA[香港公共圖書館舉行首個「香港全民閱讀日」，即日起，香港公共圖書館讀者的外借圖書館資料上限由8項增至10項。
-
-文化體育及旅遊局局長楊潤雄出席在香港中央圖書館的「共讀半小時」活動，與參加全港中小學校際中文閱讀競賽的學生，一同閱讀競賽選書《259敦煌計畫》，他表示，閱讀可以不受時間、地域限制，鼓勵市民多閱讀，讓閱讀成為習慣。
-
-康文署在多個轄下場地，包括北角油街實現藝術空間、九龍公園拱廊和指定圖書館設置「共讀點」，放置不同類型的書籍，讓市民在不同地點參與共讀活動。教育局亦同時舉辦「中小學聯校共讀半小時活動」，有超過220間中小學參與，香港出版業總會亦響應於沙田新城市廣場舉行的「2024香港閱讀+」嘉年華會場，邀請市民共讀半小時。]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 21:46:34 +0800
    </pubDate>
   </item>
  </channel>
