@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 24 Apr 2024 23:46:10 +0800
+   Thu, 25 Apr 2024 00:06:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -102,6 +102,27 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1MwufCji--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t150447z_1_lynxnpek3n0n9_rtroptp_3_eu-tiktok-tech.jpg?itok=xaiIF58t" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Huge energetic flare from magnetic neutron star detected
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/huge-energetic-flare-magnetic-neutron-star-detected-4289346
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 24 Apr 2024 23:04:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/huge-energetic-flare-magnetic-neutron-star-detected-4289346
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Exclusive-Google rival Tuta complains to EU tech regulators about de-ranking
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/exclusive-google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-4288966
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 20:30:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/exclusive-google-rival-tuta-complains-eu-tech-regulators-about-de-ranking-4288966
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5-mI9lQd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t123442z_2_lynxnpek3n0i9_rtroptp_3_germany-industry-hanover.jpg?itok=GJbmQ0vC" width="1600"/>
   </item>
  </channel>
 </rss>
