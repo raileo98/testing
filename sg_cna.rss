@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 03:06:48 +0800
+   Thu, 25 Apr 2024 03:18:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    PSG close in on title with 4-1 win at Lorient
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/psg-close-title-4-1-win-lorient-4289806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 03:11:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/psg-close-title-4-1-win-lorient-4289806
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Netanyahu: 'more has to be done' to stop pro-Palestinian protests on US campuses
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--25hEAJMe--/c_crop,h_900,w_1600,x_0,y_68/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/DSC02394%20(1).JPG?itok=ICHZTQFj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nadal uncertain over Roland Garros appearance
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/nadal-uncertain-over-roland-garros-appearance-4289076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 21:08:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/nadal-uncertain-over-roland-garros-appearance-4289076
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CpZKVo2e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t130812z_1_lynxnpek3n0jp_rtroptp_3_tennis-madrid.jpg?itok=1WXVJmAb" width="1600"/>
   </item>
  </channel>
 </rss>
