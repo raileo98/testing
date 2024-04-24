@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Tue, 23 Apr 2024 17:00:03 GMT
+   Wed, 24 Apr 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,42 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    在塞滿火藥的價值縫隙處，憲法法庭展開死刑存廢辯論
+   </title>
+   <description>
+    <![CDATA[我國憲法法庭首次接受37位死囚對死刑違憲的聲請，4月23日進行公開言詞辯論，多方意見陳述再現了倡議者與大眾民意間難以化解的矛盾，以及人權、應報、被害者處境、民意、國安、立法者與政府責任的各種思考⋯⋯]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/taiwan-death-row-inmates-argue-capital-punishment-is-unconstitutional
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/taiwan-death-row-inmates-argue-capital-punishment-is-unconstitutional
+   </guid>
+   <pubDate>
+    Tue, 23 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424135046-53374de66be5099bcb795e72a0f0eb7c-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    日行在生死邊界：專訪「死刑犯監所訪談計畫」團隊，他們眼中的37位死刑犯
+   </title>
+   <description>
+    <![CDATA[「廢死爭議」討論的是死刑犯的生命權，但已定讞的死囚真正在乎的是什麼？隨時可能被執行死刑的日子如何度過？他們對廢死有何看法？我們專訪「死刑定讞和無期徒刑收容人訪談計畫」團隊，呈現37名死刑犯的生命經驗及反思。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/death-row-prisoner-interview-project
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/death-row-prisoner-interview-project
+   </guid>
+   <pubDate>
+    Tue, 23 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424115124-34c5e4d96ac21a1151a46b71d5d0b4a2-mobile.jpg"/>
+  </item>
   <item>
    <title>
     和黃玠聊天：長大才發現家有點「不一樣」，關於父親與家、8年情緒黑洞與「國民」的寫信馬拉松
@@ -54,24 +90,6 @@
   </item>
   <item>
    <title>
-    死囚有沒有妥善道別的最後權利？日本「執行死刑黑箱」訴訟，與來自刑場的錄音
-   </title>
-   <description>
-    <![CDATA[主張日本目前執行死刑的「即日告知・即日執行制」違憲的訴訟，雖初步敗訴，但也凸顯了日本死刑制度黑箱主義。這能否更促使社會在廢死辯論外，重新思考這種終極刑罰所帶來的法理情難題？]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/hello-world-2024-04-22
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/hello-world-2024-04-22
-   </guid>
-   <pubDate>
-    Sun, 21 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240422112325-10e6c2af14efd0b83b32c03a46d7208e-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     「為孩子好」，不見得真的對他好──犯罪心理學家寫給父母的教養備忘錄
    </title>
    <description>
@@ -87,6 +105,24 @@
     Sun, 21 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417125125-6018f7e6b7dcb3c97f5286e4f5806c03-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    死囚有沒有妥善道別的最後權利？日本「執行死刑黑箱」訴訟，與來自刑場的錄音
+   </title>
+   <description>
+    <![CDATA[主張日本目前執行死刑的「即日告知・即日執行制」違憲的訴訟，雖初步敗訴，但也凸顯了日本死刑制度黑箱主義。這能否更促使社會在廢死辯論外，重新思考這種終極刑罰所帶來的法理情難題？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/hello-world-2024-04-22
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/hello-world-2024-04-22
+   </guid>
+   <pubDate>
+    Sun, 21 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240422112325-10e6c2af14efd0b83b32c03a46d7208e-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -159,42 +195,6 @@
     Mon, 15 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412121006-8a73225f974caa2ab4615b12fe0bffb0-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    403花蓮地震給台灣的新課題：海底斷層研究做好，預警、防災腳步才能跟上
-   </title>
-   <description>
-    <![CDATA[403花蓮地震為震央在海底的極淺層地震，震後第一時間研究人員就把握黃金時間出海收資料。除了補足科學研究的缺口，學者認為，增加對海底斷層的了解，也是提升預警精準度的關鍵。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/taiwan-0403earthquake-fault-system-study
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/taiwan-0403earthquake-fault-system-study
-   </guid>
-   <pubDate>
-    Sun, 14 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412153048-4de913234a9afeba746dd37dcc3651cf-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    王子榮、林奕宏、孫健智、黃奕超／血汗司法的制度解方──寫給未來司法院長的一封信
-   </title>
-   <description>
-    <![CDATA[4月12日週五這晚，可能是司法體制內的人最多心碎與最多眼淚的一天。一位法官之死，讓其他法官呼籲高層和社會正視司法人力赤字嚴峻的現況，也試圖提出解方⋯⋯]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/opinion-overwork-and-human-resources-problem-in-the-judiciary
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/opinion-overwork-and-human-resources-problem-in-the-judiciary
-   </guid>
-   <pubDate>
-    Sun, 14 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240415093726-ad4874ebdb2817eb04fd270560a6f93e-mobile.jpg"/>
   </item>
   <item>
    <title>
