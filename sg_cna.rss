@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 00:35:15 +0800
+   Fri, 26 Apr 2024 00:45:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Toyota to invest $1.4 billion in its Indiana plant, adding 340 new jobs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/toyota-invest-14-billion-its-indiana-plant-adding-340-new-jobs-4292886
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 00:38:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/toyota-invest-14-billion-its-indiana-plant-adding-340-new-jobs-4292886
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UKpBCZ7f--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t163813z_1_lynxnpek3o0ti_rtroptp_3_autoshow-china.jpg?itok=uzovAaVj" width="1600"/>
+  </item>
   <item>
    <title>
     T-Mobile to invest $950 million in venture with EQT to buy fiber optic network provider Lumos
@@ -392,27 +413,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    New York court overturns Harvey Weinstein's 2020 rape conviction from landmark #MeToo trial
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 21:18:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xWLCNEoJ--/c_crop,h_562,w_1000,x_0,y_20/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/sexual_misconduct_harvey_weinstein_04312.jpg?itok=FL9UNbK9" width="1600"/>
   </item>
   <item>
    <title>
