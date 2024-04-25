@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 10:56:51 +0800
+   Thu, 25 Apr 2024 11:15:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Battle for influence between US and China heats up in Africa
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/global-power-rivalry-united-states-china-heating-africa-influence-4290736
+   </link>
+   <description>
+    <![CDATA[China has been trying to gain a foothold in Africa over the years, while the US is looking to reassert itself as a partner of choice. ]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 10:59:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/global-power-rivalry-united-states-china-heating-africa-influence-4290736
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m8zVasAB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/uganda_oil_drilling_63037.jpg?itok=t5n_eYHz" width="1600"/>
+  </item>
   <item>
    <title>
     BYD unveils third ultra-luxury model under Yangwang brand
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OZ2lkRem--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t004310z_1_lynxnpek3o00o_rtroptp_3_japan-yen-banknotes.jpg?itok=iqbRMNyx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Battery firm LG Energy Solution Q1 profit plunges on weak EV sales
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/battery-firm-lg-energy-solution-q1-profit-plunges-weak-ev-sales-4290486
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 08:28:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/battery-firm-lg-energy-solution-q1-profit-plunges-weak-ev-sales-4290486
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0KDF3KY8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t002830z_1_lynxnpek3o00g_rtroptp_3_lges-patent-battery-ev.jpg?itok=0czLu3im" width="1600"/>
   </item>
  </channel>
 </rss>
