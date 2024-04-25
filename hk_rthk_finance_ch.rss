@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 13:01:39 +0800
+   Thu, 25 Apr 2024 13:10:13 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 12:44:19 +0800
+   Thu, 25 Apr 2024 13:07:09 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股下午初段升幅進一步收窄
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750479-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750479-20240425.htm
+   </link>
+   <description>
+    <![CDATA[港股下午初段靠穩，但恒生指數升幅進一步收窄，較早時報17261點，升60點。
+
+科技指數變動不大，較早時報3559點，跌13點，跌幅0.38%。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 13:07:09 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     有策略師估計日圓兌美元跌至158日本當局將出手干預
@@ -433,27 +452,6 @@ Tesla公布計劃提高產量及推出較廉價車型，股價高收12%。
    </description>
    <pubDate>
     Thu, 25 Apr 2024 05:34:24 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    紐約期金收市變動不大
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750426-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750426-20240425.htm
-   </link>
-   <description>
-    <![CDATA[外圍金價變動不大。中東緊張局勢導致的風險溢價緩和，投資者關注本周稍後美國公布的經濟數據。
-
-紐約6月期金收市報每盎士2338.4美元，跌3.7美元，跌幅0.16%。
-
-現貨金在2316美元附近。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 05:33:55 +0800
    </pubDate>
   </item>
  </channel>
