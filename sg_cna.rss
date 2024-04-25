@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 12:40:05 +0800
+   Thu, 25 Apr 2024 12:46:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    North Koreans in China vanish as border reopens
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/north-koreans-vanish-china-border-reopens-escape-4290816
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 12:41:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/north-koreans-vanish-china-border-reopens-escape-4290816
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Nuyfr4Zm--/c_crop,h_432,w_768,x_0,y_26/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c3d595fae2c7ff9413ed6a3bd54797cf7c6f70f2.jpg?itok=VSeaaKPm" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Osaka doing her homework on clay ahead of French Open
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/osaka-doing-her-homework-clay-ahead-french-open-4291021
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 12:39:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/osaka-doing-her-homework-clay-ahead-french-open-4291021
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Nusantara's electric vehicle development drawing international, domestic investors: Indonesian officials
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VW38fEbq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/Tampines%20driver%20Muhammad%20Syafie%20Ismail.jpg?itok=cmuOodFA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Car giants vie for EV crown at Beijing's Auto China show
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/car-giants-ev-beijing-auto-china-show-tesla-xiaomi-4290476
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 09:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/car-giants-ev-beijing-auto-china-show-tesla-xiaomi-4290476
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4su31t8e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/6f7d7b0ae44ebd352dfbe4c50b032d9f39030af0.jpg?itok=VF8yBVQX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Car giants vie for EV crown at Beijing's Auto China show
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/car-giants-ev-beijing-auto-china-show-tesla-xiaomi-4290476
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 09:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/car-giants-ev-beijing-auto-china-show-tesla-xiaomi-4290476
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4su31t8e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/6f7d7b0ae44ebd352dfbe4c50b032d9f39030af0.jpg?itok=VF8yBVQX" width="1600"/>
   </item>
  </channel>
 </rss>
