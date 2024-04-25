@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 00:06:06 +0800
+   Fri, 26 Apr 2024 00:20:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Courtois set for return as Real Madrid bid for LaLiga-Champions League double
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/courtois-set-return-real-madrid-bid-laliga-champions-league-double-4292821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 00:17:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/courtois-set-return-real-madrid-bid-laliga-champions-league-double-4292821
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E-Iox-CO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t161710z_1_lynxnpek3o0st_rtroptp_3_soccer-usa.jpg?itok=RZUUkHZh" width="1600"/>
+  </item>
   <item>
    <title>
     Hertz Global eyes worst day on record as EV rental business falters
@@ -248,10 +269,10 @@
   </item>
   <item>
    <title>
-    Honda to set up $11 billion EV production base in Canada
+    Honda to set up $11 billion electric vehicle, battery plants in Canada
    </title>
    <link>
-    https://www.channelnewsasia.com/business/honda-set-11-billion-ev-production-base-canada-4292511
+    https://www.channelnewsasia.com/business/honda-set-11-billion-electric-vehicle-battery-plants-canada-4292511
    </link>
    <description>
     <![CDATA[]]>
@@ -260,7 +281,7 @@
     Thu, 25 Apr 2024 22:08:51 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/honda-set-11-billion-ev-production-base-canada-4292511
+    https://www.channelnewsasia.com/business/honda-set-11-billion-electric-vehicle-battery-plants-canada-4292511
    </guid>
    <category>
     Business
@@ -434,27 +455,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4jV6J4DP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t125636z_1_lynxnpek3o0m0_rtroptp_3_soccer-germany-rbl-dor.jpg?itok=5gcE8PYk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Venice residents protest as city begins US$5 tourist entry charge
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/italy-venice-tourist-entry-charge-fee-day-trip-crowds-4290536
-   </link>
-   <description>
-    <![CDATA[About 20 million people visited Venice last year, which has a resident population of around 49,000.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 20:47:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/italy-venice-tourist-entry-charge-fee-day-trip-crowds-4290536
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ezj6KZrz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t102642z_1_lynxnpek3o0gq_rtroptp_3_italy-venice-payment-protest.jpg?itok=39N4xqU5" width="1600"/>
   </item>
  </channel>
 </rss>
