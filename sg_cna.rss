@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 19:15:02 +0800
+   Thu, 25 Apr 2024 19:19:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Malaysia ex-PM Mahathir facing anti-graft probe in a case involving his sons
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/malaysia-mahathir-anti-graft-probe-sons-macc-declare-wealth-4291531
+   </link>
+   <description>
+    <![CDATA[The investigation comes amid a widening crackdown on graft involving prominent political figures, including those seen as close to 98-year-old veteran leader, a long-time foe of current Prime Minister Anwar Ibrahim.]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 19:15:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/malaysia-mahathir-anti-graft-probe-sons-macc-declare-wealth-4291531
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XuWAykja--/c_crop,h_843,w_1500,x_0,y_47/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/29/20230329_afp_mahathir_mohamad.jpg?itok=4tSxIjAk" width="1600"/>
+  </item>
   <item>
    <title>
     Welshman Thomas to lead Ineos challenge at Giro d'Italia
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--t853_U6X--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/bf30bef0bdf68f62ef06c671d693501e02ebdaed.jpg?itok=zodYGoEm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tech companies plug into India's smaller cities for talent
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tech-companies-plug-indias-smaller-cities-talent-4291446
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 15:58:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tech-companies-plug-indias-smaller-cities-talent-4291446
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
