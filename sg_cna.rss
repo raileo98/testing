@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 20:49:53 +0800
+   Thu, 25 Apr 2024 21:03:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Leipzig want fourth spot irrespective of potential extra Champions League place-club
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leipzig-want-fourth-spot-irrespective-potential-extra-champions-league-place-club-4292256
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 20:56:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leipzig-want-fourth-spot-irrespective-potential-extra-champions-league-place-club-4292256
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4jV6J4DP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t125636z_1_lynxnpek3o0m0_rtroptp_3_soccer-germany-rbl-dor.jpg?itok=5gcE8PYk" width="1600"/>
+  </item>
   <item>
    <title>
     Venice residents protest as city begins US$5 tourist entry charge
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6JECLHn1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/screenshot_362.png?itok=-AQbR1Eu" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Two runaway army horses in 'serious condition': UK minister
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/london-british-army-horses-broke-loose-two-serious-condition-4291701
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 18:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/london-british-army-horses-broke-loose-two-serious-condition-4291701
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--49-quRhu--/c_crop,h_900,w_1600,x_0,y_89/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/UK%20horses%20on%20the%20loose%201.jpg?itok=eNR6W9KL" width="1600"/>
   </item>
  </channel>
 </rss>

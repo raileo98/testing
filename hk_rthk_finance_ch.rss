@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 20:40:34 +0800
+   Thu, 25 Apr 2024 21:01:11 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 20:03:02 +0800
+   Thu, 25 Apr 2024 20:47:17 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,46 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國上周新申領失業救濟人數減至20.7萬人　少於預期
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750561-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750561-20240425.htm
+   </link>
+   <description>
+    <![CDATA[美國上星期首次申領失業救濟人數按星期減少5000人，減至20.7萬人，少過市場預期的21.5萬人。
+
+4星期平均值為21.3萬人，按星期減少1250人。
+
+截至4月13日止一星期，持續申領失業救濟人數減少1.5萬人，減至178.1萬人，少過市場預期的180.5萬人。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 20:47:17 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    美國首季經濟增長1.6%　遜預期
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750558-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750558-20240425.htm
+   </link>
+   <description>
+    <![CDATA[美國首季國內生產總值(GDP)，按季年率初值增長1.6%，低於市場預期的2.4%，以及去年第4季的3.4%。
+
+上季個人消費支出增長2.5%。個人消費支出物價指數上升3.4%，核心個人消費支出物價指數上升3.7%，高於市場預期。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 20:42:30 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     聯交所對中國生態旅遊7名董事採取紀律行動　證監會聯手調查
@@ -434,44 +474,6 @@ ABAC澳洲代表Tom Harley表示，正在研究一種名為「世界平價單位
    </description>
    <pubDate>
     Thu, 25 Apr 2024 14:28:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股低收約1.4%　回落至2萬點以下
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750482-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750482-20240425.htm
-   </link>
-   <description>
-    <![CDATA[台股連升兩日後回軟，回落至2萬點以下。
-
-加權指數收報19857點，跌274點，跌幅1.36%。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 14:26:21 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股下午初段升幅進一步收窄
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750479-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750479-20240425.htm
-   </link>
-   <description>
-    <![CDATA[港股下午初段靠穩，但恒生指數升幅進一步收窄，較早時報17261點，升60點。
-
-科技指數變動不大，較早時報3559點，跌13點，跌幅0.38%。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 13:07:09 +0800
    </pubDate>
   </item>
  </channel>
