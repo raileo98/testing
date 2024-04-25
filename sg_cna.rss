@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 17:51:25 +0800
+   Thu, 25 Apr 2024 18:05:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Two runaway army horses in 'serious condition': UK minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/united-kingdom-london-british-army-horses-broke-loose-two-serious-condition-4291701
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 18:03:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/united-kingdom-london-british-army-horses-broke-loose-two-serious-condition-4291701
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--49-quRhu--/c_crop,h_900,w_1600,x_0,y_89/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/UK%20horses%20on%20the%20loose%201.jpg?itok=eNR6W9KL" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Explainer-Where are Wall Street's analyst notes on Trump's Truth Social?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/explainer-where-are-wall-streets-analyst-notes-trumps-truth-social-4291736
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 18:02:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/explainer-where-are-wall-streets-analyst-notes-trumps-truth-social-4291736
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EzsTqhZH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t100253z_1_lynxnpek3o0g3_rtroptp_3_usa-trump-new-york.jpg?itok=RvStXrv3" width="1600"/>
+  </item>
   <item>
    <title>
     Republican Senator Rubio calls for blocking of all US sales to Huawei
@@ -418,48 +460,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZnT8V9QJ--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/sarah_yasmine_expose_texts.jpg?itok=LmeH8qzl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sarah Yasmine exposes romantic texts allegedly between Singaporean actor Aliff Aziz and Malaysian actress Ruhainies
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/sarah-yasmine-screenshots-aliff-aziz-4291221
-   </link>
-   <description>
-    <![CDATA[Sarah Yasmine, who claims to be Singaporean singer-actor Aliff Aziz's girlfriend, unleashed multiple text screenshots on Wednesday (Apr 24) – purportedly between Aliff and Malaysian actress Ruhainies, whom he was previously caught being in close proximity with.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 15:11:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/sarah-yasmine-screenshots-aliff-aziz-4291221
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZnT8V9QJ--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/sarah_yasmine_expose_texts.jpg?itok=LmeH8qzl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Some young Hong Kongers turn to youth hostels as housing crisis persists
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/hong-kong-youth-hostels-housing-woes-persist-ownership-4291326
-   </link>
-   <description>
-    <![CDATA[The average wait time for public housing in Hong Kong is currently 5.8 years.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 15:08:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/hong-kong-youth-hostels-housing-woes-persist-ownership-4291326
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QwPCvjYG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/Screenshot%202024-04-25%20145010.png?itok=mNF_T_tB" width="1600"/>
   </item>
  </channel>
 </rss>
