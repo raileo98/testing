@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 01:45:02 +0800
+   Fri, 26 Apr 2024 02:01:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Columbia University inspires national protest wave, swift response by authorities
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/columbia-university-inspires-national-protest-wave-swift-response-authorities-4292816
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 01:45:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/columbia-university-inspires-national-protest-wave-swift-response-authorities-4292816
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---hv4h8vf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/868ce02f490a976ae27217c5986107a442dd78ba.jpg?itok=wh7Dm7yh" width="1600"/>
+  </item>
   <item>
    <title>
     Reddit back up after brief outage affected thousands globally
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WK3_DxzW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t150339z_1_lynxnpek3o0qv_rtroptp_3_sri-lanka-market.jpg?itok=D6JHvuv9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hidehiro Imatsu named president of Goldman Sachs Japan
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/hidehiro-imatsu-named-president-goldman-sachs-japan-4292586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 22:47:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/hidehiro-imatsu-named-president-goldman-sachs-japan-4292586
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d1x_ZZIi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t144741z_1_lynxnpek3o0qf_rtroptp_3_goldman-sachs-results.jpg?itok=GcQ6XMNU" width="1600"/>
   </item>
  </channel>
 </rss>
