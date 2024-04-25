@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 12:46:12 +0800
+   Thu, 25 Apr 2024 12:51:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Toyota to delay EV production launch in US to 2026, Mid Japan Economist reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/toyota-delay-ev-production-launch-us-2026-mid-japan-economist-reports-4291046
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 12:44:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/toyota-delay-ev-production-launch-us-2026-mid-japan-economist-reports-4291046
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rKXqwTP5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t044455z_1_lynxnpek3o041_rtroptp_3_thailand-autos.jpg?itok=hsGNbKAU" width="1600"/>
+  </item>
   <item>
    <title>
     North Koreans in China vanish as border reopens
@@ -332,7 +353,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pWQiVY5e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t024807z_1_lynxnpek3o028_rtroptp_3_column-russell-electriccars-asia.jpg?itok=MkrvGTzP" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K09bydIa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t044439z_1_lynxnpek3o040_rtroptp_3_autoshow-china.jpg?itok=H6W7r2xh" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Jndr4s4x--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-24t140027z_2_lynxnpek3n0ks_rtroptp_3_israel-palestinians-usa-protest.jpg?itok=4gPzQhce" width="1600"/>
-  </item>
-  <item>
-   <title>
-    42-year-old man handed four charges over Tampines accident, including dangerous driving causing death
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tampines-accident-man-charged-dangerous-driving-causing-death-black-saab-4290401
-   </link>
-   <description>
-    <![CDATA[Muhammad Syafie Ismail was charged with four offences. The most serious carries a maximum jail term of eight years.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 10:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tampines-accident-man-charged-dangerous-driving-causing-death-black-saab-4290401
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VW38fEbq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/Tampines%20driver%20Muhammad%20Syafie%20Ismail.jpg?itok=cmuOodFA" width="1600"/>
   </item>
  </channel>
 </rss>
