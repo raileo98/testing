@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 04:29:42 +0800
+   Fri, 26 Apr 2024 04:39:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Kaiser notifies millions of a data breach
+    Israel intensifies airstrikes on Gaza's Rafah before ground operation
    </title>
    <link>
-    https://www.channelnewsasia.com/business/kaiser-notifies-millions-data-breach-4293416
+    https://www.channelnewsasia.com/world/israel-intensifies-airstrikes-gazas-rafah-ground-operation-4293376
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 04:32:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-intensifies-airstrikes-gazas-rafah-ground-operation-4293376
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k3XbTvDY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t200245z_1_lynxnpek3o0yc_rtroptp_3_israel-palestinians.jpg?itok=0VJp5D1V" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Health conglomerate Kaiser notifies millions of a data breach
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/health-conglomerate-kaiser-notifies-millions-data-breach-4293416
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Fri, 26 Apr 2024 04:21:40 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/kaiser-notifies-millions-data-breach-4293416
+    https://www.channelnewsasia.com/business/health-conglomerate-kaiser-notifies-millions-data-breach-4293416
    </guid>
    <category>
     Business
@@ -80,7 +101,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--68tkgJA8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t201809z_1_lynxnpek3o0yt_rtroptp_3_roku-results.jpg?itok=DwmJL3Fy" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_J2hZZJ5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t203101z_2_lynxnpek3o0yt_rtroptp_3_roku-results.jpg?itok=_BsK7c-3" width="1600"/>
   </item>
   <item>
    <title>
@@ -126,10 +147,10 @@
   </item>
   <item>
    <title>
-    Google parent Alphabet announces first-ever dividend of 20 cents per share
+    Google parent Alphabet announces first-ever dividend, shares soar
    </title>
    <link>
-    https://www.channelnewsasia.com/business/google-parent-alphabet-announces-first-ever-dividend-20-cents-share-4293356
+    https://www.channelnewsasia.com/business/google-parent-alphabet-announces-first-ever-dividend-shares-soar-4293356
    </link>
    <description>
     <![CDATA[]]>
@@ -138,7 +159,7 @@
     Fri, 26 Apr 2024 04:08:02 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-parent-alphabet-announces-first-ever-dividend-20-cents-share-4293356
+    https://www.channelnewsasia.com/business/google-parent-alphabet-announces-first-ever-dividend-shares-soar-4293356
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--esUkqW1J--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t183449z_1_lynxnpek3o0wk_rtroptp_3_warner-bros-discovery-results.jpg?itok=GC8GACaD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US FCC approves T-Mobile deal to buy budget provider Mint Mobile
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-fcc-approves-t-mobile-deal-buy-budget-provider-mint-mobile-4293131
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 02:33:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-fcc-approves-t-mobile-deal-buy-budget-provider-mint-mobile-4293131
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1vQtaa-1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t194915z_2_lynxnpek3o0wi_rtroptp_3_t-mobile-us-results.jpg?itok=sTq8dhUt" width="1600"/>
   </item>
  </channel>
 </rss>
