@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 22:12:16 +0800
+   Thu, 25 Apr 2024 22:21:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Honda to set up $11 billion EV production base in Canada
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/honda-set-11-billion-ev-production-base-canada-4292511
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 22:08:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/honda-set-11-billion-ev-production-base-canada-4292511
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LPHZfYaY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t140851z_1_lynxnpek3o0p3_rtroptp_3_canada-honda.jpg?itok=gqyWsMAJ" width="1600"/>
+  </item>
   <item>
    <title>
     BOJ to consider ways to cut its JGB purchases on Friday -Jiji
@@ -126,7 +147,7 @@
   </item>
   <item>
    <title>
-    New York appeals court overturns Harvey Weinstein's 2020 rape conviction from landmark #MeToo trial
+    New York court overturns Harvey Weinstein's 2020 rape conviction from landmark #MeToo trial
    </title>
    <link>
     https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Tampines accident: Woman who died was a 'big sister' to her co-workers, says colleague
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tampines-accident-woman-died-norzihan-juwahib-tributes-4291466
-   </link>
-   <description>
-    <![CDATA[A colleague of Ms Norzihan Juwahib at the pest control company said he is "still having sleepless nights" after seeing the aftermath of the accident.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 19:21:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tampines-accident-woman-died-norzihan-juwahib-tributes-4291466
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MAepenq1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/photo1714034753.jpeg?itok=1K2EVeiW" width="1600"/>
   </item>
  </channel>
 </rss>
