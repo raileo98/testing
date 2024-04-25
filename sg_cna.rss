@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 15:22:37 +0800
+   Thu, 25 Apr 2024 15:34:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Four South Korean budget airlines submit bids for Asiana cargo unit, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/four-south-korean-budget-airlines-submit-bids-asiana-cargo-unit-sources-say-4291361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 15:19:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/four-south-korean-budget-airlines-submit-bids-asiana-cargo-unit-sources-say-4291361
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xUIEwx_F--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t071919z_1_lynxnpek3o09v_rtroptp_3_airbus-asiana-airlines.jpg?itok=_kSAeA8x" width="1600"/>
+  </item>
   <item>
    <title>
     Critically endangered monkey spotted on Singapore eco bridge, suggesting species could be expanding habitat
@@ -421,10 +442,10 @@
   </item>
   <item>
    <title>
-    Japan brokerage Daiwa's Q4 profit more than doubles
+    Japan brokerage Daiwa's Q4 profit more than doubles as markets recover
    </title>
    <link>
-    https://www.channelnewsasia.com/business/japan-brokerage-daiwas-q4-profit-more-doubles-4291256
+    https://www.channelnewsasia.com/business/japan-brokerage-daiwas-q4-profit-more-doubles-markets-recover-4291256
    </link>
    <description>
     <![CDATA[]]>
@@ -433,33 +454,12 @@
     Thu, 25 Apr 2024 14:14:51 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japan-brokerage-daiwas-q4-profit-more-doubles-4291256
+    https://www.channelnewsasia.com/business/japan-brokerage-daiwas-q4-profit-more-doubles-markets-recover-4291256
    </guid>
    <category>
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    American gets jail for running S$18 million fraudulent forex trading scheme
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/forex-fraud-trading-scam-millions-american-extradite-michael-philip-atkins-4291111
-   </link>
-   <description>
-    <![CDATA[Michael Philip Atkins, 51, was extradited from the United States to Singapore in March 2023.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 13:58:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/forex-fraud-trading-scam-millions-american-extradite-michael-philip-atkins-4291111
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DcqDz-zC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/04/04/Michael%20Atkins.jpg?itok=jT12Iey-" width="1600"/>
   </item>
  </channel>
 </rss>
