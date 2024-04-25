@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 23:40:22 +0800
+   Thu, 25 Apr 2024 23:50:34 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 22:42:26 +0800
+   Thu, 25 Apr 2024 23:40:58 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    耶倫：經濟表現強勁增長　通脹正向下行
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750576-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750576-20240425.htm
+   </link>
+   <description>
+    <![CDATA[美國上季國內生產總值(GDP)，按季年率初值增長1.6%，差過預期。
+
+美國財長耶倫表示，GDP數據反映消費和投資支出強勁，認為經濟表現強勁增長。 她指，有關數據之後可能會有修訂，經濟活動的潛在核心驅動力相當強勁。
+
+她表示，就業市場強勁，沒有證據表明工資壓力是通脹的源頭。
+
+她認為，通脹正向下行，但聯儲局希望看到持續下降的額外證據，又指毫不懷疑房地產對通脹的貢獻將在今年減少。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 23:40:58 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美國3月二手樓臨時買賣合約指數按月升3.4%　高於預期
@@ -459,27 +482,6 @@ ATMXJ個別發展，美團和騰訊跌逾1%，阿里巴巴升約0.7%。商湯復
    </description>
    <pubDate>
     Thu, 25 Apr 2024 16:21:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    基金界冀ETF通增加投資選擇
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750501-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750501-20240425.htm
-   </link>
-   <description>
-    <![CDATA[惠理基金ETF業務高級策略師趙善德表示，目前旗下只有幾隻基金產品符合滬深港通交易所買賣基金（ETF）資格，自從當局計劃放寬限制後，正研究能否加入更多產品。他期望，當局在未來3個月制訂落實細節時，能加入更多不同類型的產品，例如固定收益及商品，為投資者提供更多選擇。
-
-趙善德說，雖然過去兩年香港及內地市場氣氛不理想，但恒生指數及科技指數ETF仍錄得極大規模淨流入，反映當前疲弱市況下，ETF成為個股以外的投資選擇之一。
-
-貝萊德Global Product Solutions iShares股票產品策略主管吳宇熙指，近年內地ETF市場出現資金流出，但過去兩個月已見到逆轉，資金開始回流內地ETF產品。他又指，目前機構投資者對投資ETF的接受程度愈來愈高，用作建立投資組合的一部分，估計2030年全球ETF市場規模有機會升至25萬億美元。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 16:16:49 +0800
    </pubDate>
   </item>
  </channel>
