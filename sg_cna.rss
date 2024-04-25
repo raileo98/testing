@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 21:24:19 +0800
+   Thu, 25 Apr 2024 21:33:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Female refereeing team to take charge of Serie A game for first time
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/female-refereeing-team-take-charge-serie-game-first-time-4292391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 21:26:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/female-refereeing-team-take-charge-serie-game-first-time-4292391
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D6pBg1Cj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t132611z_1_lynxnpek3o0n4_rtroptp_3_soccer-italy.jpg?itok=3gmDYwR1" width="1600"/>
+  </item>
   <item>
    <title>
     Changi Airport's passenger traffic in Q1 2024 surpasses pre-pandemic levels
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XuWAykja--/c_crop,h_843,w_1500,x_0,y_47/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/29/20230329_afp_mahathir_mohamad.jpg?itok=4tSxIjAk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Welshman Thomas to lead Ineos challenge at Giro d'Italia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/welshman-thomas-lead-ineos-challenge-giro-ditalia-4291911
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 19:04:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/welshman-thomas-lead-ineos-challenge-giro-ditalia-4291911
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6NxzYYA5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t110415z_1_lynxnpek3o0ia_rtroptp_3_cycling-world.jpg?itok=q0wUrs3v" width="1600"/>
   </item>
  </channel>
 </rss>
