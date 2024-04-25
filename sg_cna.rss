@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 15:56:20 +0800
+   Thu, 25 Apr 2024 16:16:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Vietnam court jails soft drinks tycoon in $40 million scam case
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/vietnam-court-jails-soft-drinks-tycoon-40-miilion-scam-case-tan-hiep-phat-4291091
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 16:09:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/vietnam-court-jails-soft-drinks-tycoon-40-miilion-scam-case-tan-hiep-phat-4291091
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--t853_U6X--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/bf30bef0bdf68f62ef06c671d693501e02ebdaed.jpg?itok=zodYGoEm" width="1600"/>
+  </item>
   <item>
    <title>
     Blades of Paris landmark Moulin Rouge windmill collapse
@@ -439,27 +460,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Urk6djTj--/c_crop,h_900,w_1600,x_0,y_151/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/the_xperience.jpg?itok=rr29HyTH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Criticism part of life at Manchester United, Fernandes says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/criticism-part-life-manchester-united-fernandes-says-4291251
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 14:15:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/criticism-part-life-manchester-united-fernandes-says-4291251
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pPhXiRlm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t061509z_1_lynxnpek3o07d_rtroptp_3_soccer-england-mun-shu-report.jpg?itok=P99LHJe4" width="1600"/>
   </item>
  </channel>
 </rss>
