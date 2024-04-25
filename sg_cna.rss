@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 03:30:43 +0800
+   Fri, 26 Apr 2024 03:35:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Carrier AirAsia discloses new listing plans under $1.4 billion units merger
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/carrier-airasia-discloses-new-listing-plans-under-14-billion-units-merger-4293311
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 03:32:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/carrier-airasia-discloses-new-listing-plans-under-14-billion-units-merger-4293311
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SQIkN8Ly--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t193206z_1_lynxnpek3o0y1_rtroptp_3_capital-a-divestiture-airasia-x.jpg?itok=xa-CmFmO" width="1600"/>
+  </item>
   <item>
    <title>
     ByteDance prefers TikTok shutdown in US if legal options fail: Reuters
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--L85sr2vq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t164505z_1_lynxnpek3o0tm_rtroptp_3_amazon-com-sports-nhl.jpg?itok=kV5YREYK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Toyota to invest $1.4 billion in its Indiana plant, adding 340 new jobs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/toyota-invest-14-billion-its-indiana-plant-adding-340-new-jobs-4292886
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 00:38:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/toyota-invest-14-billion-its-indiana-plant-adding-340-new-jobs-4292886
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UKpBCZ7f--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t163813z_1_lynxnpek3o0ti_rtroptp_3_autoshow-china.jpg?itok=uzovAaVj" width="1600"/>
   </item>
  </channel>
 </rss>
