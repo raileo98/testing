@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 05:20:10 +0800
+   Fri, 26 Apr 2024 05:30:28 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 03:44:09 +0800
+   Fri, 26 Apr 2024 05:29:14 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    神舟十八號3名航天員順利進駐中國空間站
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750599-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750599-20240426.htm
+   </link>
+   <description>
+    <![CDATA[ ]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 05:29:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     神十八載人飛船與空間站組合體完成自主快速交會對接
@@ -443,25 +460,6 @@
    </description>
    <pubDate>
     Thu, 25 Apr 2024 16:38:46 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    布林肯：美中學生彼此交流是兩國避免誤判最好方法
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750499-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750499-20240425.htm
-   </link>
-   <description>
-    <![CDATA[美國國務卿布林肯表示，美中學生彼此交流，是兩國避免誤判的最好方法。
-
-中方過去多次指美國邊境執法人員持續無端滋擾、盤查、遣返中國赴美人員，特別是留學生及學者。正在訪華的美國國務卿布林肯上午到上海紐約大學，與師生交流時表示，支持美中兩國學生交流。他說，美中關係非常複雜，但雙方可以互相交流，例如學生、商業、團體、兩國人民，尤其是在美國學習的中國學生及在中國學習的美國學生，能夠藉此了解對方，了解彼此的國家。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 16:26:37 +0800
    </pubDate>
   </item>
  </channel>

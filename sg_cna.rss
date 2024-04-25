@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 05:20:15 +0800
+   Fri, 26 Apr 2024 05:35:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Egypt in renewed mediation push for Gaza truce, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/egypt-renewed-mediation-push-gaza-truce-sources-say-4293036
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 05:30:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/egypt-renewed-mediation-push-gaza-truce-sources-say-4293036
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w-Z4NnxF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t173726z_1_lynxnpek3o0v5_rtroptp_3_israel-palestinians.jpg?itok=QtechxSt" width="1600"/>
+  </item>
   <item>
    <title>
     Tabloid publisher say he worked to suppress sex stories, at Trump trial
@@ -252,10 +273,10 @@
   </item>
   <item>
    <title>
-    Microsoft profit, revenue beat estimates, shares jump over 4%
+    Microsoft results top Wall Street targets, driven by AI investment
    </title>
    <link>
-    https://www.channelnewsasia.com/business/microsoft-profit-revenue-beat-estimates-shares-jump-over-4-4293366
+    https://www.channelnewsasia.com/business/microsoft-results-top-wall-street-targets-driven-ai-investment-4293366
    </link>
    <description>
     <![CDATA[]]>
@@ -264,7 +285,7 @@
     Fri, 26 Apr 2024 04:05:11 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/microsoft-profit-revenue-beat-estimates-shares-jump-over-4-4293366
+    https://www.channelnewsasia.com/business/microsoft-results-top-wall-street-targets-driven-ai-investment-4293366
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Red Bull respond to reports Newey wants out
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/red-bull-respond-reports-newey-wants-out-4293186
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 02:46:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/red-bull-respond-reports-newey-wants-out-4293186
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--djoyoH0I--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t184659z_1_lynxnpek3o0wr_rtroptp_3_motor-f1-newey.jpg?itok=IyyYH0ip" width="1600"/>
   </item>
  </channel>
 </rss>
