@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 19:10:21 +0800
+   Thu, 25 Apr 2024 19:30:31 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 19:08:32 +0800
+   Thu, 25 Apr 2024 19:21:41 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    土耳其央行維持利率不變
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750549-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750549-20240425.htm
+   </link>
+   <description>
+    <![CDATA[土耳其央行維持利率在50厘不變，考慮貨幣緊縮的滯後效應，又重申將繼續高度關注通脹風險。
+
+央行表示，一旦通脹持續嚴重惡化，貨幣政策立場將會收緊。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 19:21:41 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     香港快運：五一黃金周北亞地區航線預訂率逾9成
@@ -457,27 +476,6 @@ ABAC澳洲代表Tom Harley表示，正在研究一種名為「世界平價單位
    </description>
    <pubDate>
     Thu, 25 Apr 2024 11:45:41 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股升逾200點　重磅金融股表現較好
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750463-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750463-20240425.htm
-   </link>
-   <description>
-    <![CDATA[港股今早升幅逐步加大，恒生指數較早時報17406點，升205點，升幅約1.2%。
-
-各主要分類指數上升，以地產及金融股升幅較大。內房及物管股表現較好，中國海外升逾半成。友邦保險及港交所分別升約3%及4%。
-
-商湯復牌，股價較早時升逾11%，暫是升幅最大科指成份股。集團公布推出6000億參數大模型，在知識、數學、推理和代碼能力方面大幅提升。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 11:07:05 +0800
    </pubDate>
   </item>
  </channel>
