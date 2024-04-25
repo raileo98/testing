@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 22:40:25 +0800
+   Thu, 25 Apr 2024 22:50:38 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 21:00:26 +0800
+   Thu, 25 Apr 2024 22:41:33 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    神舟十八號載人飛船發射圓滿成功　航天員乘組狀態良好
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750575-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750575-20240425.htm
+   </link>
+   <description>
+    <![CDATA[神舟十八號載人飛船發射，取得圓滿成功。
+
+長征二號F遙十八運載火箭，晚上約8時59分在酒泉衞星發射中心點火發射，約10分鐘後神十八飛船與火箭成功分離，進入預定軌道，航天員乘組狀態良好，發射取得圓滿成功。
+
+根據中國載人航天工程辦公室，飛船入軌後將按照預定程序，與空間站組合體進行自主快速交會對接，神十八乘組將與神十七乘組進行在軌輪換。
+
+空間站組合體目前已進入對接軌道，工作狀態良好，滿足與神十八飛船交會對接及航天員進駐條件。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 22:41:33 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     神舟十八號載人飛船發射升空
@@ -441,27 +464,6 @@
    </description>
    <pubDate>
     Thu, 25 Apr 2024 15:22:11 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    中巴海上安全部門會晤　稱要共同維護海上安全秩序
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750489-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750489-20240425.htm
-   </link>
-   <description>
-    <![CDATA[中國海警局與巴基斯坦海上安全局在北京舉行第二次高級別會晤，由中國海警局局長郁忠及巴基斯坦海上安全局局長阿里共同主持。
-
-雙方共同回顧近年合作成果，對雙方有關加強海上執法合作與交流諒解備忘錄的有效落實給予積極評價，就下一步開展人員互訪、信息交換、培訓交流、艦船訪問、聯合演練等合作，以及共同打擊海上跨國犯罪等議題進行深入交流，並就共同關心的話題交換意見。
-
-雙方表示，要進一步深化海上務實合作，共同維護海上安全秩序，為推動中巴全天候戰略合作伙伴關係邁向更高水平發揮積極作用。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 15:02:37 +0800
    </pubDate>
   </item>
  </channel>
