@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 16:20:22 +0800
+   Thu, 25 Apr 2024 16:30:40 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 16:16:49 +0800
+   Thu, 25 Apr 2024 16:21:48 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    恒指高收83點　連升4日　再創近5個月收市新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750506-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750506-20240425.htm
+   </link>
+   <description>
+    <![CDATA[港股連升4個交易日，再創近5個月收市新高。恒生指數收市報17284點，升83點，升幅0.48%，主板成交額逾1199億元。
+
+科技指數報3554點，跌19點，跌幅0.54%。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 16:21:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     基金界冀ETF通增加投資選擇　料資金持續回流內地ETF市場
@@ -429,23 +448,6 @@ ABAC澳洲代表Tom Harley表示，正在研究一種名為「世界平價單位
    </description>
    <pubDate>
     Thu, 25 Apr 2024 09:07:41 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股開市後下跌
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750441-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750441-20240425.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市下跌。首爾綜合指數較早時報2647點，跌28點，跌幅1.05%。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 08:14:41 +0800
    </pubDate>
   </item>
  </channel>
