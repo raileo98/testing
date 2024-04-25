@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Wed, 24 Apr 2024 17:00:02 GMT
+   Thu, 25 Apr 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    邱文聰、吳全峰／《衛生福利資料管理條例》能讓被宣告部分違憲的健保資料庫使用就地合法嗎？
+   </title>
+   <description>
+    <![CDATA[爭議十餘年的健保資料再利用案，在憲法法庭2022年做出「部分違憲」判決宣告1年半後，衛福部正式提出專法草案，企圖為健保資料庫打造就地合法基礎。看似面面俱到回應憲法法庭要求，其中卻埋藏程序設計與實體規範問題⋯⋯]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/opinion-act-on-health-and-welfare-data
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/opinion-act-on-health-and-welfare-data
+   </guid>
+   <pubDate>
+    Thu, 25 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240425105913-518ab94fc5d1fff360491a639f8d2c9b-mobile.jpg"/>
+  </item>
   <item>
    <title>
     在塞滿火藥的價值縫隙處，憲法法庭展開死刑存廢辯論
@@ -195,24 +213,6 @@
     Mon, 15 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412121006-8a73225f974caa2ab4615b12fe0bffb0-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    在中國「被消失」的那五年：精神酷刑、政治審判、強迫勞動，與那些不讓他被遺忘的獄中信
-   </title>
-   <description>
-    <![CDATA[這集上架的兩年前，正是李明哲在中國被關押5年後重獲自由的日子。回來後，他舉辦講座、推動人權教育，希望用自己被消失期間「所學」，讓台灣人更了解自身歷史與中國政權。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/podcast-2024-04-15
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/podcast-2024-04-15
-   </guid>
-   <pubDate>
-    Sun, 14 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240416142148-6694ed6179295b9b1e217196f1732d17-mobile.jpg"/>
   </item>
  </channel>
 </rss>
