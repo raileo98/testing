@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 18:01:33 +0800
+   Thu, 25 Apr 2024 18:10:25 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 17:16:11 +0800
+   Thu, 25 Apr 2024 18:01:34 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    在岸人民幣兌美元低收11點子　創逾5個月新低
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750520-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750520-20240425.htm
+   </link>
+   <description>
+    <![CDATA[在岸人民幣收報7.2471兌1美元，較昨日收市價跌11點子，創逾5個月新低，匯價一度距離交易區間下限僅1點子。
+
+有交易員指，美元指數午後回落，但人民幣供求明顯失衡，匯價缺乏反彈動力。另外，部分掉期產品觸及跌停，無法成交。]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 18:01:34 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     中海油首季盈利升近24%　油氣淨產量升約10%
@@ -449,25 +468,6 @@ ABAC澳洲代表Tom Harley表示，正在研究一種名為「世界平價單位
    </description>
    <pubDate>
     Thu, 25 Apr 2024 09:49:44 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股競價時段跌57點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750449-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750449-20240425.htm
-   </link>
-   <description>
-    <![CDATA[恒生指數競價時段報17144點，跌57點，跌幅0.33%。
-
-科技指數報3556點，跌17點，跌幅0.48%。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 09:24:40 +0800
    </pubDate>
   </item>
  </channel>
