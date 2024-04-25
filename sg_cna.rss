@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 23:41:14 +0800
+   Thu, 25 Apr 2024 23:51:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Police probe over 300 suspected scammers and money mules; more than S$9 million lost
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/300-suspected-scammers-money-mules-9-million-lost-police-investigate-4292691
+   </link>
+   <description>
+    <![CDATA[Avoid being an accomplice to crimes by rejecting requests from others to use your bank account or mobile line, advised the police. ]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 23:46:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/300-suspected-scammers-money-mules-9-million-lost-police-investigate-4292691
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U07a-bBP--/c_crop,h_843,w_1500,x_0,y_73/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2022/03/11/istock-1215726910.jpg?itok=ILFSPGuU" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Boris Becker to be discharged from bankruptcy - lawyer
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/boris-becker-be-discharged-bankruptcy-lawyer-4292776
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 23:41:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/boris-becker-be-discharged-bankruptcy-lawyer-4292776
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EJCWdIgj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t154154z_1_lynxnpek3o0rt_rtroptp_3_tennis-atpfinals.jpg?itok=VrFzbfNP" width="1600"/>
+  </item>
   <item>
    <title>
     FIFA signs four year worldwide partnership deal with Saudi Aramco
@@ -269,27 +311,6 @@
   </item>
   <item>
    <title>
-    New York court overturns Harvey Weinstein's 2020 rape conviction from landmark #MeToo trial
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 21:18:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xWLCNEoJ--/c_crop,h_562,w_1000,x_0,y_20/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/sexual_misconduct_harvey_weinstein_04312.jpg?itok=FL9UNbK9" width="1600"/>
-  </item>
-  <item>
-   <title>
     Changi Airport's passenger traffic in Q1 2024 surpasses pre-pandemic levels
    </title>
    <link>
@@ -308,6 +329,27 @@
     Business ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DKR97Ceo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/changi_airport_2.jpg?itok=flTxL-ua" width="1600"/>
+  </item>
+  <item>
+   <title>
+    New York court overturns Harvey Weinstein's 2020 rape conviction from landmark #MeToo trial
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 21:18:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/harvey-weinstein-metoo-2020-rape-conviction-overturned-new-york-4292321
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xWLCNEoJ--/c_crop,h_562,w_1000,x_0,y_20/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/sexual_misconduct_harvey_weinstein_04312.jpg?itok=FL9UNbK9" width="1600"/>
   </item>
   <item>
    <title>
@@ -413,48 +455,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qH_M9x3K--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t144522z_2_lynxnpek3o0le_rtroptp_3_soccer-spain-women.jpg?itok=LhOVehFs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Spotify says Apple has rejected its app update with price information for EU users
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/spotify-says-apple-has-rejected-its-app-update-price-information-eu-users-4292196
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 20:38:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/spotify-says-apple-has-rejected-its-app-update-price-information-eu-users-4292196
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2e0ZRQCE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t124819z_2_lynxnpek3o0lc_rtroptp_3_advertising-cannes.jpg?itok=X6ktjp7I" width="1600"/>
-  </item>
-  <item>
-   <title>
-    BJK Cup finals group stage replaced with knockout round: ITF
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bjk-cup-finals-group-stage-replaced-knockout-round-itf-4292166
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 20:14:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bjk-cup-finals-group-stage-replaced-knockout-round-itf-4292166
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4zI8Dc5w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t121446z_1_lynxnpek3o0kp_rtroptp_3_tennis-women-bjk.jpg?itok=mOYjfM6K" width="1600"/>
   </item>
  </channel>
 </rss>
