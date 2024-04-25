@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 10:48:22 +0800
+   Thu, 25 Apr 2024 10:56:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    BYD unveils third ultra-luxury model under Yangwang brand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/byd-unveils-third-ultra-luxury-model-under-yangwang-brand-4290756
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 10:48:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/byd-unveils-third-ultra-luxury-model-under-yangwang-brand-4290756
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pWQiVY5e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t024807z_1_lynxnpek3o028_rtroptp_3_column-russell-electriccars-asia.jpg?itok=MkrvGTzP" width="1600"/>
+  </item>
   <item>
    <title>
     Borealis at Gardens by the Bay: Witness the 'Northern Lights' at this free installation
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0KDF3KY8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t002830z_1_lynxnpek3o00g_rtroptp_3_lges-patent-battery-ev.jpg?itok=0czLu3im" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Australia's Hindley extends with 'second family' Bora–Hansgrohe
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/australias-hindley-extends-second-family-bora-hansgrohe-4290471
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 08:16:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/australias-hindley-extends-second-family-bora-hansgrohe-4290471
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MW2EvuHq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t001640z_1_lynxnpek3o009_rtroptp_3_cycling-france.jpg?itok=IKmZL314" width="1600"/>
   </item>
  </channel>
 </rss>
