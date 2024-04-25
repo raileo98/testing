@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 19:41:26 +0800
+   Thu, 25 Apr 2024 19:48:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    DR Congo presses Apple over minerals supply chain, lawyers say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/dr-congo-presses-apple-over-minerals-supply-chain-lawyers-say-4292061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 19:38:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/dr-congo-presses-apple-over-minerals-supply-chain-lawyers-say-4292061
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7lw2wHQE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t113858z_1_lynxnpek3o0jl_rtroptp_3_congo-apple-minerals.jpg?itok=rB1zf8sh" width="1600"/>
+  </item>
   <item>
    <title>
     Barcelona's Xavi Hernandez to stay on as manager
@@ -186,6 +207,27 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tl00orT4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t105553z_1_lynxnpek3o0hs_rtroptp_3_tech-mahindra-results.jpg?itok=xTml7uBS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Philippine conglomerate DMCI to buy Cemex Philippines for $305 million
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/philippine-conglomerate-dmci-buy-cemex-philippines-305-million-4291826
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 18:26:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/philippine-conglomerate-dmci-buy-cemex-philippines-305-million-4291826
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PrLTle2I--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t083735z_1_lynxnpek3o0dd_rtroptp_3_asia-weather-china-landslide.jpg?itok=HmrpNvSl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Britain, Australia call for WADA review amid China furore
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/britain-australia-call-wada-review-amid-china-furore-4291416
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 16:31:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/britain-australia-call-wada-review-amid-china-furore-4291416
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pkV_3Z_H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t074723z_1_lynxnpek3o0b8_rtroptp_3_sport-doping-wada.jpg?itok=87evBTDV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Jay Chou to perform at the Singapore National Stadium in October
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/jay-chou-singapore-concert-october-2024-4291121
-   </link>
-   <description>
-    <![CDATA[The Mandopop star last performed in Singapore in December 2022.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 16:28:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/jay-chou-singapore-concert-october-2024-4291121
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sCgYEoox--/c_crop,h_663,w_1179,x_1,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/img_1697.jpg?itok=YC4Fr2C4" width="1600"/>
   </item>
  </channel>
 </rss>
