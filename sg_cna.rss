@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 19:48:20 +0800
+   Thu, 25 Apr 2024 20:05:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Over 100 arrested after pro-Palestinian protests at California, Texas universities
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/united-states-israel-hamas-war-gaza-pro-palestine-protests-arrests-university-southern-california-university-texas-4291856
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 20:05:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/united-states-israel-hamas-war-gaza-pro-palestine-protests-arrests-university-southern-california-university-texas-4291856
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_VqomX9Q--/c_crop,h_2405,w_4276,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/pro_palestinian_protest_1.jpg?itok=WV0ZXaB0" width="1600"/>
+  </item>
+  <item>
+   <title>
+    IBM falls as enterprise-spending constraints choke consulting demand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ibm-falls-enterprise-spending-constraints-choke-consulting-demand-4292091
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 19:52:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ibm-falls-enterprise-spending-constraints-choke-consulting-demand-4292091
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2-86E8mS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t115210z_1_lynxnpek3o0k5_rtroptp_3_hashicorp-m-a-ibm.jpg?itok=6LqmB68D" width="1600"/>
+  </item>
   <item>
    <title>
     DR Congo presses Apple over minerals supply chain, lawyers say
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lkkHIMEg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/screenshot_354.png?itok=P3KRK4Rf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    AI spending worries cast gloom over Alphabet, Microsoft
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/ai-spending-worries-cast-gloom-over-alphabet-microsoft-4291581
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 17:04:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/ai-spending-worries-cast-gloom-over-alphabet-microsoft-4291581
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iUNiGzZM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t090409z_1_lynxnpek3o0ec_rtroptp_3_tech-ai-white-house.jpg?itok=BgLPdVFv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China evacuates entire town as record rains, winds lash its south
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-evacuates-entire-town-record-rains-winds-lash-its-south-4291506
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 16:59:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-evacuates-entire-town-record-rains-winds-lash-its-south-4291506
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PrLTle2I--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t083735z_1_lynxnpek3o0dd_rtroptp_3_asia-weather-china-landslide.jpg?itok=HmrpNvSl" width="1600"/>
   </item>
  </channel>
 </rss>
