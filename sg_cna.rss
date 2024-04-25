@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 03:35:55 +0800
+   Fri, 26 Apr 2024 03:41:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    WADA ask 'independent prosecutor' to examine Chinese swimmers case: statement
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/wada-ask-independent-prosecutor-examine-chinese-swimmers-case-statement-4292706
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 03:38:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/wada-ask-independent-prosecutor-examine-chinese-swimmers-case-statement-4292706
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rxp_LW93--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c5b40ea73880f262eaa99611d896008dd03f1ad1.jpg?itok=lhHJcc3F" width="1600"/>
+  </item>
   <item>
    <title>
     Carrier AirAsia discloses new listing plans under $1.4 billion units merger
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Amazon Prime Video to exclusively stream two NHL seasons in Canada
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/amazon-prime-video-exclusively-stream-two-nhl-seasons-canada-4292921
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 00:45:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amazon-prime-video-exclusively-stream-two-nhl-seasons-canada-4292921
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--L85sr2vq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t164505z_1_lynxnpek3o0tm_rtroptp_3_amazon-com-sports-nhl.jpg?itok=kV5YREYK" width="1600"/>
   </item>
  </channel>
 </rss>
