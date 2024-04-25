@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Fri, 26 Apr 2024 05:45:02 +0800
+   Fri, 26 Apr 2024 05:50:02 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -37,6 +37,32 @@
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
   <item>
    <title>
+    [生活] 高中生自製地震App未獲授權 氣象署有合作意願
+   </title>
+   <description>
+    <![CDATA[高中生林子祐自製地震App獲好評，但被發現採用的資料氣象署資訊未被授權。氣象署表示，已經和林子祐的父親取得聯絡，林子祐本人也有意願繼續發展，可由監護人代表簽約。林子祐自製地震App「台灣地震速報」大獲民眾好評，不過由於此App是使用地牛Wake Up間接取得交通部中央氣象署資料，地牛Wake Up提醒林子祐，地震預警發布是氣象署專責，須由氣象署或透過簽約合作伙伴對公眾發布，因此建議林子祐儘速與氣象署簽約。對此，氣象署地震測報中心主任吳健富25日晚間告訴記者，已經和林子祐的爸爸取得聯繫，得知林子祐原本製作這個App是為了要申請國外學校，現在也有往外發展的意...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203875">...more</a>]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 05:46:32 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2203875
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2203875
+   </guid>
+   <author>
+    中央社
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/3">
+    生活
+   </category>
+   <dc:creator>
+    中央社
+   </dc:creator>
+  </item>
+  <item>
+   <title>
     [生活] 花蓮凌晨規模4.2地震 最大震度宜花3級
    </title>
    <description>
@@ -52,13 +78,13 @@
     https://www.rti.org.tw/news/view/id/2203874
    </guid>
    <author>
-    中央社
+    中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社
+    中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -104,13 +130,13 @@
     https://www.rti.org.tw/news/view/id/2203871
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -130,13 +156,13 @@
     https://www.rti.org.tw/news/view/id/2203872
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -208,13 +234,13 @@
     https://www.rti.org.tw/news/view/id/2203869
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2203868
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -260,13 +286,13 @@
     https://www.rti.org.tw/news/view/id/2203867
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2203866
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -338,13 +364,13 @@
     https://www.rti.org.tw/news/view/id/2203864
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -364,13 +390,13 @@
     https://www.rti.org.tw/news/view/id/2203863
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -390,13 +416,13 @@
     https://www.rti.org.tw/news/view/id/2203862
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -416,13 +442,13 @@
     https://www.rti.org.tw/news/view/id/2203861
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -442,13 +468,13 @@
     https://www.rti.org.tw/news/view/id/2203859
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -494,13 +520,13 @@
     https://www.rti.org.tw/news/view/id/2203857
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -702,13 +728,13 @@
     https://www.rti.org.tw/news/view/id/2203848
    </guid>
    <author>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 採訪, 中央社
+    中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 中央社, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 法新社, 採訪, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -787,32 +813,6 @@
    </category>
    <dc:creator>
     吳琍君採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [財經] 18歲「轉大人」今年也得報稅 綜所稅四大新規上路 - 240425-21
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F04%2F25%2Fedb17d69cd7c354412a8d9713575b312.jpg" width="360" alt="財政部賦稅署署長宋秀玲(中)偕同相關單位今天(25日)舉行112年度所得稅結算申報座談會，公布今年4大新規。(圖：陳林幸虹 攝)" title="財政部賦稅署署長宋秀玲(中)偕同相關單位今天(25日)舉行112年度所得稅結算申報座談會，公布今年4大新規。(圖：陳林幸虹 攝)"><br>每年5月台灣國內民眾申報綜合所得稅，總可以為國庫帶來可觀的稅收，以2023年來看，總自繳稅額減除退稅後約新台幣2400多億。財政部今天(25日)舉辦所得稅結算申報座談會，列出今年綜所稅的4大新規，其中民法成年年齡已由20歲降為18歲，今年除了在校就學、身心障礙或無謀生能力等因素外，今年都必須自行辦理結算申報。#請聽記者陳林幸虹報導#今年所得稅申報，有多項新制上路。其中每人基本生活所需的費用，金額從新台幣19.6萬提高至20.2萬，納稅義務人按照財政部公告當年度每人基本生活所需的費用，乘以納稅義務人同一申報戶人數計算的基本生活所需費用總額，超過所得稅法規定...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2203845">...more</a>]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 17:11:56 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2203845
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2203845
-   </guid>
-   <author>
-    陳林幸虹採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/2">
-    財經
-   </category>
-   <dc:creator>
-    陳林幸虹採訪
    </dc:creator>
   </item>
  </channel>
