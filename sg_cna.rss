@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 15:40:26 +0800
+   Thu, 25 Apr 2024 15:47:59 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blades of Paris landmark Moulin Rouge windmill collapse
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/france-paris-moulin-rouge-windmill-collapse-overnight-blades-missing-4291401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 15:44:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/france-paris-moulin-rouge-windmill-collapse-overnight-blades-missing-4291401
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y756m27w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/moulin_rouge_after.jpg?itok=owKETycH" width="1600"/>
+  </item>
   <item>
    <title>
     Four South Korean budget airlines submit bids for Asiana cargo unit, sources say
@@ -439,27 +460,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pPhXiRlm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t061509z_1_lynxnpek3o07d_rtroptp_3_soccer-england-mun-shu-report.jpg?itok=P99LHJe4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan brokerage Daiwa's Q4 profit more than doubles as markets recover
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japan-brokerage-daiwas-q4-profit-more-doubles-markets-recover-4291256
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 14:14:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japan-brokerage-daiwas-q4-profit-more-doubles-markets-recover-4291256
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
