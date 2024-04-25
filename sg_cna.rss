@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 11:15:22 +0800
+   Thu, 25 Apr 2024 11:26:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m8zVasAB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/uganda_oil_drilling_63037.jpg?itok=t5n_eYHz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    VinFast chief planning to invest another $1 billion of his fortune in EV maker
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/vinfast-chief-planning-invest-another-1-billion-his-fortune-ev-maker-4290761
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 10:50:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/vinfast-chief-planning-invest-another-1-billion-his-fortune-ev-maker-4290761
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yhMNTaYz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t031542z_1_lynxnpek3o02n_rtroptp_3_vietnam-vinfast-gsm.jpg?itok=eIHS1xQK" width="1600"/>
   </item>
   <item>
    <title>
@@ -219,7 +240,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 25 Apr 2024 09:54:22 +0800
+    Thu, 25 Apr 2024 09:54:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/car-giants-ev-beijing-auto-china-show-tesla-xiaomi-4290476
@@ -240,7 +261,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 25 Apr 2024 09:54:22 +0800
+    Thu, 25 Apr 2024 09:54:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/car-giants-ev-beijing-auto-china-show-tesla-xiaomi-4290476
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tFBNftgl--/c_crop,h_675,w_1200,x_42,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/queen_of_tears.jpg?itok=SosGAkn6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Markets wary of intervention as yen struggles at 155 level
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/markets-wary-intervention-yen-struggles-155-level-4290496
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 08:43:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/markets-wary-intervention-yen-struggles-155-level-4290496
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OZ2lkRem--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t004310z_1_lynxnpek3o00o_rtroptp_3_japan-yen-banknotes.jpg?itok=iqbRMNyx" width="1600"/>
   </item>
  </channel>
 </rss>
