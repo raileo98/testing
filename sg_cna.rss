@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 18:30:41 +0800
+   Thu, 25 Apr 2024 18:40:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    India's Tech Mahindra posts Q4 revenue miss
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indias-tech-mahindra-posts-q4-revenue-miss-4291846
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 18:32:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indias-tech-mahindra-posts-q4-revenue-miss-4291846
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XIq8OH5i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t103256z_1_lynxnpek3o0gz_rtroptp_3_tech-mahindra-india.jpg?itok=9vwAtzE_" width="1600"/>
+  </item>
   <item>
    <title>
     ‘Afraid to sleep at home’: Myanmar civilians flee to Thai border as conflict intensifies
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y756m27w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/moulin_rouge_after.jpg?itok=owKETycH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    3 South Korean budget airlines still in race for Asiana cargo unit, sources say
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/3-south-korean-budget-airlines-still-race-asiana-cargo-unit-sources-say-4291361
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 15:19:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/3-south-korean-budget-airlines-still-race-asiana-cargo-unit-sources-say-4291361
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xUIEwx_F--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t071919z_1_lynxnpek3o09v_rtroptp_3_airbus-asiana-airlines.jpg?itok=_kSAeA8x" width="1600"/>
   </item>
  </channel>
 </rss>
