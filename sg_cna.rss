@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 17:26:45 +0800
+   Thu, 25 Apr 2024 17:34:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Analysis:The yen has a yield problem the BOJ can't easily fix
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/analysisthe-yen-has-yield-problem-boj-cant-easily-fix-4291641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 17:30:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/analysisthe-yen-has-yield-problem-boj-cant-easily-fix-4291641
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Dutch agritech innovations may hold answers to Singapore's food security future
@@ -231,6 +252,27 @@
   </item>
   <item>
    <title>
+    Tech companies plug into India's smaller cities for talent
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tech-companies-plug-indias-smaller-cities-talent-4291446
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 15:58:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tech-companies-plug-indias-smaller-cities-talent-4291446
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Blades of Paris landmark Moulin Rouge windmill collapse
    </title>
    <link>
@@ -418,48 +460,6 @@
     Asia ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XDOSf_ut--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/b682411322744b1f75271b8f1d721a6313fed3b5.jpg?itok=AJwJGLX7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chinese EV battery maker CATL unveils LFP battery with 1,000 km range
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/chinese-ev-battery-maker-catl-unveils-lfp-battery-1000-km-range-4291306
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 14:41:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/chinese-ev-battery-maker-catl-unveils-lfp-battery-1000-km-range-4291306
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7DZmzGcO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t064117z_1_lynxnpek3o08q_rtroptp_3_china-supply-chain.jpg?itok=cLN4DcoU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chatterbox chicken rice co-creator, known as Sergeant Kiang, dies at age 86
-   </title>
-   <link>
-    https://www.channelnewsasia.com/dining/chatterbox-chicken-rice-co-creator-sergeant-kang-dies-aged-86-4290766
-   </link>
-   <description>
-    <![CDATA[He is credited as being the first to serve deboned Hainanese chicken rice, an early version of the now iconic dish at Chatterbox restaurant. He also co-founded hawker stalls Sergeant Chicken Rice and Jiang Ji Traditional Hainanese Chicken Rice.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 14:41:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/dining/chatterbox-chicken-rice-co-creator-sergeant-kang-dies-aged-86-4290766
-   </guid>
-   <category>
-    Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eIdKnTws--/c_crop,h_900,w_1600,x_0,y_61/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/sgt_kiang.jpg?itok=YJQNDDEv" width="1600"/>
   </item>
  </channel>
 </rss>
