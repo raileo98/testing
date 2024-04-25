@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 01:05:48 +0800
+   Fri, 26 Apr 2024 01:27:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Nadal outclasses Blanch in Madrid first round
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/nadal-outclasses-blanch-madrid-first-round-4292981
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 01:17:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/nadal-outclasses-blanch-madrid-first-round-4292981
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Wrexham to play Bournemouth, Whitecaps in US summer tour
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    BOJ to consider ways to cut its JGB purchases on Friday -Jiji
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/boj-consider-ways-cut-its-jgb-purchases-friday-jiji-4292501
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 22:03:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/boj-consider-ways-cut-its-jgb-purchases-friday-jiji-4292501
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gLNAmwos--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t140305z_1_lynxnpek3o0os_rtroptp_3_japan-economy-boj-jgb.jpg?itok=2h1ZMD9S" width="1600"/>
   </item>
  </channel>
 </rss>
