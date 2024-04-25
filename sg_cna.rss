@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 02:23:18 +0800
+   Fri, 26 Apr 2024 02:34:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US FCC approves T-Mobile deal to buy budget provider Mint Mobile
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-fcc-approves-t-mobile-deal-buy-budget-provider-mint-mobile-4293131
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 02:33:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-fcc-approves-t-mobile-deal-buy-budget-provider-mint-mobile-4293131
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5Kdjm8fo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t183304z_1_lynxnpek3o0wi_rtroptp_3_t-mobile-us-results.jpg?itok=bhrn4QtZ" width="1600"/>
+  </item>
   <item>
    <title>
     Columbia University inspires national protest wave, swift response by authorities
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--07baOOAf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t151304z_1_lynxnpek3o0r1_rtroptp_3_sri-lanka-economy.jpg?itok=6lRlusl-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sri Lankan shares end higher as financials, industrials gain
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sri-lankan-shares-end-higher-financials-industrials-gain-4292631
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 23:03:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sri-lankan-shares-end-higher-financials-industrials-gain-4292631
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WK3_DxzW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t150339z_1_lynxnpek3o0qv_rtroptp_3_sri-lanka-market.jpg?itok=D6JHvuv9" width="1600"/>
   </item>
  </channel>
 </rss>
