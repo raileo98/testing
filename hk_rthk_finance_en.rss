@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 25 Apr 2024 09:20:06 +0800
+   Thu, 25 Apr 2024 10:01:30 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 25 Apr 2024 05:11:52 +0800
+   Thu, 25 Apr 2024 09:43:40 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK market opens lower as investors digest Meta result
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750447-20240425.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750447-20240425.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks opened with a small loss on Thursday as investors took a breather following a strong three-day rally and after a disappointing earnings report from Facebook parent Meta.
+
+The Hang Seng Index slipped 0.3 percent to 17,144.
+
+The Shanghai Composite Index eased 0.2 percent to 3,037, and the Shenzhen Composite Index edged down 0.5 percent to 1,687. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 09:43:40 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Wall Street mixed as Meta tumbles, Tesla soars
@@ -621,29 +642,6 @@ But he cautioned that the metal tends to deliver returns that are only around th
    </description>
    <pubDate>
     Fri, 19 Apr 2024 11:39:55 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Bankruptcy petitions highest since November
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749577-20240419.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749577-20240419.htm
-   </link>
-   <description>
-    <![CDATA[Official data released on Friday showed that the number of bankruptcy petitions in March was at their highest since November last year.
-
-According to the Official Receiver's Office, there were 783 bankruptcy petitions.
-
-That's up nearly 21 percent from February and around 2.8 percent year on year.
-
-The office also received 69 requests to have companies wound up, up around 30 percent from the month before and 41 percent from the same period last year.]]>
-   </description>
-   <pubDate>
-    Fri, 19 Apr 2024 11:04:48 +0800
    </pubDate>
   </item>
  </channel>
