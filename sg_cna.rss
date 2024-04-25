@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 25 Apr 2024 21:03:10 +0800
+   Thu, 25 Apr 2024 21:14:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    EU court adviser backs data privacy activist Schrems in Meta fight
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/eu-court-adviser-backs-data-privacy-activist-schrems-meta-fight-4292291
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 25 Apr 2024 21:04:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/eu-court-adviser-backs-data-privacy-activist-schrems-meta-fight-4292291
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Leipzig want fourth spot irrespective of potential extra Champions League place-club
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6HziTxxv--/c_crop,h_576,w_1024,x_0,y_43/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/000_34q67yf.jpg?itok=X2jZVXP4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    ‘Afraid to sleep at home’: Myanmar civilians flee to Thai border as conflict intensifies
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/myanmar-coup-crisis-thailand-border-towns-fleeing-conflict-myawaddy-4291716
-   </link>
-   <description>
-    <![CDATA[Almost daily bombings and shootings have left many Myawaddy residents uncertain about their future.]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 18:10:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/myanmar-coup-crisis-thailand-border-towns-fleeing-conflict-myawaddy-4291716
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6JECLHn1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/screenshot_362.png?itok=-AQbR1Eu" width="1600"/>
   </item>
  </channel>
 </rss>
