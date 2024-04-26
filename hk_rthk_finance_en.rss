@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 12:20:32 +0800
+   Fri, 26 Apr 2024 12:30:46 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 09:52:54 +0800
+   Fri, 26 Apr 2024 12:30:29 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Home prices rebound after 10-month fall
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750650-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750650-20240426.htm
+   </link>
+   <description>
+    <![CDATA[Home prices rebounded in March, rising one percent month-on-month and ending a 10-month falling streak.
+
+Data released by the Rating and Valuation Department showed that the official private flat price index edged up to 305.7, from 302.5 in February.
+
+However, prices were still more than 13 percent lower on a yearly basis and 23 percent lower than the all-time high recorded in 2021.
+
+Rents also edged up in March, rising 0.5 percent on a monthly basis, or 5.6 percent on an annual basis, following a two-month falling streak.
+
+The increases came after the government lifted all remaining property cooling measures in the budget in late February.
+
+“The city’s property market has seen a revenge-style rebound after the lifting of the cooling measures, as the buyers’ sentiment noticeably improved,” said Martin Wong, director and head of research & consultancy, Greater China, at Knight Frank Hong Kong.
+
+“However, prices of lived-in homes may continue to weaken due to the impact of sales of new homes. And as the interest rate cut by the US Federal Reserve may also come later than the markets anticipated, meaning the city may start cutting rates from late third quarter, the high rates may continue weighing on the market.”
+
+Hannah Jeong, head of valuation and advisory services at Colliers Hong Kong, struck a cautious note on the property price outlook due to surging supplies and an uncertain path for interest rate cuts, saying she expects a five to 10 percent fall over the year.]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 12:30:29 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks continue rally at opening
@@ -607,27 +638,6 @@ Meanwhile, Kenny Wen, head of investment strategy at KGI Asia, said that Monday'
    </description>
    <pubDate>
     Mon, 22 Apr 2024 21:15:08 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks begin week with a rally
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749991-20240422.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749991-20240422.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks finished with healthy gains on Monday following last week's losses, as Middle East fears wane and traders look ahead for key US economic data.
-
-The Hang Seng Index rose 1.8 percent, or 287 points, to 16,511.
-
-The Shanghai Composite Index fell 0.7 percent, or 20 points, to 3,044, while the Shenzhen Composite Index shed 0.5 percent, or 8 points, to 1,678. (AFP)]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 16:18:23 +0800
    </pubDate>
   </item>
  </channel>

@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 12:21:07 +0800
+   Fri, 26 Apr 2024 12:30:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Private home prices rose at slower pace of 1.4% in first quarter of 2024
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/private-home-prices-singapore-2024-first-quarter-slower-4294151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 12:24:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/private-home-prices-singapore-2024-first-quarter-slower-4294151
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UzWQUcCJ--/c_crop,h_576,w_1024,x_0,y_60/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/04/27/000_Hkg9917376.jpg?itok=w4rYCBpo" width="1600"/>
+  </item>
   <item>
    <title>
     Handbags and China demand boost sales at Hermes
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cGdJJ1t7--/c_fill,h_900,w_1600/f_auto,q_auto/sigourney-weaver-is-action-heroine--ripley-in-aliens.jpg?itok=drvkbATl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia one step from Olympics after beating South Korea in U23 Asian Cup
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/football-indonesia-one-step-olympics-after-beating-south-korea-u23-asian-cup-4293921
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 10:25:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/football-indonesia-one-step-olympics-after-beating-south-korea-u23-asian-cup-4293921
-   </guid>
-   <category>
-    Sport ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gu9_iZlV--/c_crop,h_576,w_1024,x_0,y_41/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/000_34q786m_2.jpg?itok=NJTXXAYP" width="1600"/>
   </item>
  </channel>
 </rss>
