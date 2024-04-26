@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 00:52:55 +0800
+   Sat, 27 Apr 2024 01:13:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    37 million tonnes of debris in Gaza could take years to clear: UN
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/37-million-tonnes-debris-gaza-could-take-years-clear-un-4295966
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 01:01:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/37-million-tonnes-debris-gaza-could-take-years-clear-un-4295966
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hLY7iaiI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-12t182119z_1_lynxnpek3b0qz_rtroptp_3_israel-palestinians-eid-al-fitr.jpg?itok=Ll8zoxWc" width="1600"/>
+  </item>
   <item>
    <title>
     Televisa to merge Sky, cable 'as soon as possible'
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3GSYxhTi--/c_crop,h_450,w_800,x_0,y_13/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t124035z_1_lynxnpek3p0g4_rtroptp_3_soccer-england-whu-liv-preview.jpg?itok=h8kXPqbo" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Vietnam parliament chief quits over 'violations' in latest leadership upheaval
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/vietnam-parliament-chairman-resign-vuong-dinh-hue-corruption-crackdown-4294946
-   </link>
-   <description>
-    <![CDATA[The resignation of Vietnam’s parliament chief comes weeks after the country dismissed its second president in just over a year.]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 20:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/vietnam-parliament-chairman-resign-vuong-dinh-hue-corruption-crackdown-4294946
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zcWpNDXF--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/vuong_dinh_hue.jpg?itok=Nax09E75" width="1600"/>
   </item>
  </channel>
 </rss>
