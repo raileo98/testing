@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 13:08:32 +0800
+   Fri, 26 Apr 2024 13:25:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan town to put up 2.5m barrier to block view of Mount Fuji
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/japan-town-block-mount-fuji-view-troublesome-tourist-tourism-4294376
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 13:11:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/japan-town-block-mount-fuji-view-troublesome-tourist-tourism-4294376
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q7fBhxMK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/000_34qb4lz.jpg?itok=Hp1QjJVt" width="1600"/>
+  </item>
   <item>
    <title>
     76ers star Embiid confirms he's battling Bell's palsy
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aHMBiGoe--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/whatsapp_image_2024-04-26_at_09.22.11_22f13346.jpg?itok=sI9p-tih" width="1600"/>
-  </item>
-  <item>
-   <title>
-    BOJ keeps rates steady, projects inflation staying near 2% in coming years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/boj-keeps-rates-steady-projects-inflation-staying-near-2-coming-years-4294226
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 11:34:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/boj-keeps-rates-steady-projects-inflation-staying-near-2-coming-years-4294226
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1vTKfq_2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t033452z_1_lynxnpek3p02r_rtroptp_3_imf-worldbank-fed.jpg?itok=NVx5GOT_" width="1600"/>
   </item>
  </channel>
 </rss>
