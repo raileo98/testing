@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 23:51:03 +0800
+   Sat, 27 Apr 2024 00:11:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Congested match schedule reaching tipping point, says Premier League boss
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/congested-match-schedule-reaching-tipping-point-says-premier-league-boss-4295881
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 23:53:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/congested-match-schedule-reaching-tipping-point-says-premier-league-boss-4295881
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UAaAn6qn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t155320z_1_lynxnpek3p0lt_rtroptp_3_soccer-england-mci-che-report.jpg?itok=eqV692gP" width="1600"/>
+  </item>
   <item>
    <title>
     Herds of endangered hippos trapped in mud in drought-hit Botswana
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xsd7_FTN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t105114z_1_lynxnpek3p0cx_rtroptp_3_myanmar-thailand-border.jpg?itok=rCFrl6af" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PSG in perfect form to finish season in style, says Luis Enrique
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/psg-perfect-form-finish-season-style-says-luis-enrique-4295396
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 20:28:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/psg-perfect-form-finish-season-style-says-luis-enrique-4295396
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--55qJoR2G--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t122806z_1_lynxnpek3p0fu_rtroptp_3_soccer-france-lor-psg-report.jpg?itok=Y1w281KW" width="1600"/>
   </item>
  </channel>
 </rss>
