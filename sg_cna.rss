@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 04:35:29 +0800
+   Sat, 27 Apr 2024 04:45:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Team from mediator Egypt in Israel for Gaza truce talks
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/team-mediator-egypt-israel-gaza-truce-talks-4295201
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 04:44:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/team-mediator-egypt-israel-gaza-truce-talks-4295201
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6MBuSOPH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a52520cbb67d5538315197eccdfb452cd58f9cb9.jpg?itok=_soIvmPA" width="1600"/>
+  </item>
   <item>
    <title>
     X tells Brazil court 'operational faults' allowed blocked users to remain active
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QcIt3N4V--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/guatemala_save_the_children.jpg?itok=8Z1fk8W7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Under-investigation Rocha elected RFEF president
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/under-investigation-rocha-elected-rfef-president-4295706
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 22:39:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/under-investigation-rocha-elected-rfef-president-4295706
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2n8gbiNI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t143910z_1_lynxnpek3p0jx_rtroptp_3_soccer-spain-crime-rocha.jpg?itok=ZieJ1Bk6" width="1600"/>
   </item>
  </channel>
 </rss>
