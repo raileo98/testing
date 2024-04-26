@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 01:36:18 +0800
+   Sat, 27 Apr 2024 01:41:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Biden says he plans to debate Trump
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/biden-says-he-plans-debate-trump-4295821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 01:41:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/biden-says-he-plans-debate-trump-4295821
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HqxzsLi---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/07/IMG_9574.JPG?itok=6TgoWx1q" width="1600"/>
+  </item>
   <item>
    <title>
     Dutch great Van Vleuten happy with life in slow lane
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GfAhnzfo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d03488036e7ceac972ebf4381b8f807bb1d4a2cf.jpg?itok=VDikC6HT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Palmer returns as Chelsea eye positive reaction to Arsenal thrashing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/palmer-returns-chelsea-eye-positive-reaction-arsenal-thrashing-4295501
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 21:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/palmer-returns-chelsea-eye-positive-reaction-arsenal-thrashing-4295501
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3yGM5UqA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t131550z_1_lynxnpek3p0gv_rtroptp_3_soccer-england-ava-che-preview.jpg?itok=-FX8qJCh" width="1600"/>
   </item>
  </channel>
 </rss>
