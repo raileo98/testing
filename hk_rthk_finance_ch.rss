@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 10:50:44 +0800
+   Fri, 26 Apr 2024 11:10:38 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 10:29:42 +0800
+   Fri, 26 Apr 2024 10:58:03 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股半日升0.4%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750638-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750638-20240426.htm
+   </link>
+   <description>
+    <![CDATA[東京股市上升。日經指數半日升151點，報37780點，升幅0.4%。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 10:58:03 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     內地股市造好　創業板指數升近2%
@@ -439,29 +456,6 @@
    </description>
    <pubDate>
     Fri, 26 Apr 2024 05:11:10 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    耶倫：經濟表現強勁增長　通脹正向下行
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750576-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750576-20240425.htm
-   </link>
-   <description>
-    <![CDATA[美國上季國內生產總值(GDP)，按季年率初值增長1.6%，差過預期。
-
-美國財長耶倫表示，GDP數據反映消費和投資支出強勁，認為經濟表現強勁增長。 她指，有關數據之後可能會有修訂，經濟活動的潛在核心驅動力相當強勁。
-
-她表示，就業市場強勁，沒有證據表明工資壓力是通脹的源頭。
-
-她認為，通脹正向下行，但聯儲局希望看到持續下降的額外證據，又指毫不懷疑房地產對通脹的貢獻將在今年減少。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 23:40:58 +0800
    </pubDate>
   </item>
  </channel>
