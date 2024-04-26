@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 04:00:45 +0800
+   Sat, 27 Apr 2024 04:25:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    X tells Brazil court 'operational faults' allowed blocked users to remain active
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/x-tells-brazil-court-operational-faults-allowed-blocked-users-remain-active-4296391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 04:13:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/x-tells-brazil-court-operational-faults-allowed-blocked-users-remain-active-4296391
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FMLyrhWu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t201738z_2_lynxnpek3p0rh_rtroptp_3_poland-musk.jpg?itok=XIv5LuzN" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Feyenoord, Liverpool reach agreement over Slot - reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/feyenoord-liverpool-reach-agreement-over-slot-reports-4296381
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 04:06:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/feyenoord-liverpool-reach-agreement-over-slot-reports-4296381
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PK4ox-OL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t200648z_1_lynxnpek3p0r9_rtroptp_3_soccer-europa-rom-fey-report.jpg?itok=51IwxNY0" width="1600"/>
+  </item>
   <item>
    <title>
     Columbia University president faces vote of confidence as protests spread
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2n8gbiNI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t143910z_1_lynxnpek3p0jx_rtroptp_3_soccer-spain-crime-rocha.jpg?itok=ZieJ1Bk6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Netanyahu says ICC decisions will not affect Israel's actions, set dangerous precedent
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-prime-minister-benjamin-netanyahu-icc-decisions-will-not-affect-actions-dangerous-precedent-4295646
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 22:31:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-prime-minister-benjamin-netanyahu-icc-decisions-will-not-affect-actions-dangerous-precedent-4295646
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vy8ONKjw--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-22t005411z_2_lynxnpek3k04n_rtroptp_3_israel-politics-netanyahu.jpg?itok=pyAgCjoB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Romanian court sends Andrew Tate's human trafficking case to trial
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/andrew-tate-human-trafficking-trial-go-ahead-romania-rape-criminal-gang-4295576
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 22:16:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/andrew-tate-human-trafficking-trial-go-ahead-romania-rape-criminal-gang-4295576
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Y2Rx-aJT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t134513z_3_lynxnpek3p0gw_rtroptp_3_romania-human-trafficking-andrew-tate.jpg?itok=b-1OiXcO" width="1600"/>
   </item>
  </channel>
 </rss>
