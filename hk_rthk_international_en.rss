@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 12:40:24 +0800
+   Fri, 26 Apr 2024 12:50:18 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 09:59:54 +0800
+   Fri, 26 Apr 2024 12:46:25 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Second round of India election gets underway
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750660-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750660-20240426.htm
+   </link>
+   <description>
+    <![CDATA[Millions of Indians began voting Friday in the second round of multi-phase national elections as polarisation grows over Prime Minister Narendra Modi whipping up an assertive brand of Hindu nationalist politics in his campaign.
+
+Voting opened at 7am in the country. 
+
+But turnout in the first round of voting last week dropped nearly four points to 66 percent from the last election in 2019, with speculation in Indian media that higher-than-average temperatures were to blame.
+
+The second round of the poll -- conducted in phases to ease the immense logistical burden of staging an election in the world's most populous country -- includes districts that have this week seen temperatures above 40 degrees Celsius.
+
+The outcome of Friday’s voting across 88 constituencies in 13 states with 160 million voters will be crucial for Modi’s Hindu nationalist Bharatiya Janata Party (BJP) as it includes some of its strongholds in states like Rajasthan, Madhya Pradesh, Uttar Pradesh and Maharashtra.
+
+Most polls predict a win for Modi and the BJP, which is up against a broad opposition alliance led by the Indian National Congress and powerful regional parties.
+
+Nearly 970 million voters will elect 543 members from a total 28 states to the lower house of Parliament for five years during the staggered election that runs until June 1. 
+
+The votes will be counted on June 4. (Agencies)]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 12:46:25 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Kim Jong-un inspects multiple-launch rockets
@@ -731,43 +762,6 @@ Musk had earlier called the eSafety commissioner the "Australian censorship comm
    </description>
    <pubDate>
     Tue, 23 Apr 2024 09:52:30 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Nasa's Voyager 1 phones home after months
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750051-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750051-20240423.htm
-   </link>
-   <description>
-    <![CDATA[Nasa's Voyager 1 probe – the most distant man-made object in the universe – is returning usable information to ground control following months of spouting gibberish, the US space agency announced on Monday.
-
-The spaceship stopped sending readable data back to Earth on November 14, 2023, even though controllers could tell it was still receiving their commands.
-
-In March, teams working at Nasa's Jet Propulsion Laboratory discovered that a single malfunctioning chip was to blame, and devised a clever coding fix that worked within the tight memory constraints of its 46-year-old computer system.
-
-"Voyager 1 spacecraft is returning usable data about the health and status of its onboard engineering systems," the agency said.
-
-"The next step is to enable the spacecraft to begin returning science data again."
-
-Launched in 1977, Voyager 1 was mankind's first spacecraft to enter the interstellar medium, in 2012, and is currently more than 15 billion miles from Earth. Messages sent from Earth take about 22.5 hours to reach the spacecraft.
-
-Its twin, Voyager 2, also left the solar system in 2018.
-
-Both Voyager spacecraft carry "Golden Records" – 12-inch, gold-plated copper discs intended to convey the story of our world to extraterrestrials.
-
-These include a map of our solar system, a piece of uranium that serves as a radioactive clock allowing recipients to date the spaceship's launch, and symbolic instructions that convey how to play the record.
-
-The contents of the record, selected for Nasa by a committee chaired by legendary astronomer Carl Sagan, include encoded images of life on Earth, as well as music and sounds that can be played using an included stylus.
-
-Their power banks are expected to be depleted sometime after 2025. They will then continue to wander the Milky Way, potentially for eternity, in silence. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 04:33:13 +0800
    </pubDate>
   </item>
  </channel>
