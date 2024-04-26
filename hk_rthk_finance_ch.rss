@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 10:20:32 +0800
+   Fri, 26 Apr 2024 10:30:59 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 10:00:56 +0800
+   Fri, 26 Apr 2024 10:29:42 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,52 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    內地股市造好　創業板指數升近2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750635-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750635-20240426.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市向好。
+
+上證綜合指數較早時報3067點，升14點，升幅0.47%。
+
+深證成份指數報9348點，升84點，升幅0.91%。
+
+創業板指數報1795點，升30點，升幅1.72%。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 10:29:42 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    本港3月私人住宅樓價按月升逾1%　結束10個月連跌
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750634-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750634-20240426.htm
+   </link>
+   <description>
+    <![CDATA[本港樓價結束10個月連跌。
+
+差餉物業估價署公布，3月私人住宅售價指數回升至305.7，按月升逾1%，但按年仍跌逾13%。樓價仍較2021年歷史高位回落逾23%。
+
+上月中小型單位和大型單位售價，按月分別升逾1%及近1%，按年則分別跌逾13%和約11%。 
+
+租金指數亦按月反彈0.5%，按年則升5.6%，結束2個月連跌。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 10:23:11 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     東京4月核心通脹率顯著減慢至1.6%
@@ -416,44 +462,6 @@
    </description>
    <pubDate>
     Thu, 25 Apr 2024 23:40:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美國3月二手樓臨時買賣合約指數按月升3.4%　高於預期
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750572-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750572-20240425.htm
-   </link>
-   <description>
-    <![CDATA[美國3月二手樓臨時買賣合約指數按月上升3.4%，高過市場預期及2月。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 22:42:26 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    連鎖超市售賣壽司惹關注　食環署正聯絡說明食物業牌照規定
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750573-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750573-20240425.htm
-   </link>
-   <description>
-    <![CDATA[食環署表示，近日有連鎖超級市場出售壽司的安排受到關注，署方正主動聯絡該集團負責人，說明有關食物業牌照的規定。
-
-署方說，包括超級市場在內的店舖，如果只售賣預先製造和包裝食品，只須持有相關牌照及許可證，售賣預先製造和包裝的壽司及刺身須持有「限制出售食物許可證」。如要在店舖內進行食品製作工序，例如即場製作或包裝食物，須持有食物製造廠牌照；如店舖以餐廳形式提供堂食服務，則須持有食肆牌照。
-
-食環署舉例，不少商場內設有美食廣場，由商場提供座位供訪客休息或進食外賣食品，由於附近店舖只是製作食物供外賣，故只須持有食物製造廠牌照。至於超級市場，有不同的經營模式，有些設有桌椅供顧客享用在超級市場內購買的外賣食品，亦有超級市場設有持牌食肆為顧客提供堂食服務。]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 22:08:09 +0800
    </pubDate>
   </item>
  </channel>
