@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 12:30:39 +0800
+   Fri, 26 Apr 2024 12:40:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    K-pop giant HYBE shares take another hit as dispute with NewJeans label drags on
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/k-pop-giant-hybe-shares-take-another-hit-dispute-newjeans-label-drags-4294371
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 12:36:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/k-pop-giant-hybe-shares-take-another-hit-dispute-newjeans-label-drags-4294371
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Du Plessis to sleep better after Bengaluru end losing streak
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/du-plessis-sleep-better-after-bengaluru-end-losing-streak-4294361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 12:29:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/du-plessis-sleep-better-after-bengaluru-end-losing-streak-4294361
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jrmleNCj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t042907z_1_lynxnpek3p03e_rtroptp_3_cricket-t20-zaf-eng.jpg?itok=24jnErOm" width="1600"/>
+  </item>
   <item>
    <title>
     Private home prices rose at slower pace of 1.4% in first quarter of 2024
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pIKLbXz2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/music_future_of_bts_66865.jpg?itok=noOlZKt8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    With Alien back in theatres, Alien: Romulus director teases how the new film connects
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/alien-back-theatres-4293321
-   </link>
-   <description>
-    <![CDATA[Fans in Singapore can catch the original Alien movie at The Projector and Golden Village.]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 10:26:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/alien-back-theatres-4293321
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cGdJJ1t7--/c_fill,h_900,w_1600/f_auto,q_auto/sigourney-weaver-is-action-heroine--ripley-in-aliens.jpg?itok=drvkbATl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    With Alien back in theatres, Alien: Romulus director teases how the new film connects
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/alien-back-theatres-4293321
-   </link>
-   <description>
-    <![CDATA[Fans in Singapore can catch the original Alien movie at The Projector and Golden Village.]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 10:26:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/alien-back-theatres-4293321
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cGdJJ1t7--/c_fill,h_900,w_1600/f_auto,q_auto/sigourney-weaver-is-action-heroine--ripley-in-aliens.jpg?itok=drvkbATl" width="1600"/>
   </item>
  </channel>
 </rss>

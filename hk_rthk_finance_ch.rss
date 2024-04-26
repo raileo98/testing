@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 12:20:17 +0800
+   Fri, 26 Apr 2024 12:30:45 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 12:12:09 +0800
+   Fri, 26 Apr 2024 12:20:37 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股半日升近2%　科指急升近4%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750654-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750654-20240426.htm
+   </link>
+   <description>
+    <![CDATA[港股連續5日造好，再創近5個月新高，上試250天移動平均線，半日升幅擴大至近2%。
+
+恒生指數最多曾升逾350點，半日收報17626點，升342點，升幅1.98%，半日主板成交額724億元。
+
+科技指數半日報3684點，升129點，升幅3.65%。ATMXJ全線上升，京東集團升近5%，小米升4%。
+
+內房及內需股上升，龍湖及中海外分別升逾9%及近7%，是半日表現最好兩隻藍籌股。海底撈及李寧升近5%或以上。
+
+多隻藍籌股創52周新高，其中，中海油績後升近5%，最高曾突破20元水平。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 12:20:37 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     本港樓價結束10個月連跌　上月私人住宅售價指數按月升逾1%
@@ -433,27 +458,6 @@
    </description>
    <pubDate>
     Fri, 26 Apr 2024 06:46:18 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美元兌日圓再創34年新高　兌其他主要貨幣下跌
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750602-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750602-20240426.htm
-   </link>
-   <description>
-    <![CDATA[美元匯價下跌，但兌日圓繼續上升。美國首季經濟表現較預期遜色，但通脹仍然高企，市場關注聯儲局會否進一步推遲減息時間。利率期貨顯示，市場預期美國6月減息的機會約10%，9月減息的機會低於60%，預期今年減息幅度降至約35點子。
-
-日圓兌美元再創34年新低，1美元曾升至155.75日圓，較早時報155.6水平。歐元兌日圓亦觸及16年高位。
-
-歐元兌美元較早時升至1.073，英鎊兌美元報1.251左右。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 06:46:03 +0800
    </pubDate>
   </item>
  </channel>
