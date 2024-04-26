@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 21:25:58 +0800
+   Fri, 26 Apr 2024 21:35:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man City's Guardiola says he does not 'waste time' thinking about refs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-citys-guardiola-says-he-does-not-waste-time-thinking-about-refs-4295536
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 21:34:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-citys-guardiola-says-he-does-not-waste-time-thinking-about-refs-4295536
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GfAhnzfo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d03488036e7ceac972ebf4381b8f807bb1d4a2cf.jpg?itok=VDikC6HT" width="1600"/>
+  </item>
   <item>
    <title>
     Palmer returns as Chelsea eye positive reaction to Arsenal thrashing
@@ -438,27 +459,6 @@
     CNA Insider ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ozw4ca8T--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/photo-collage.png%20(1).png?itok=ZQ8YTHCd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Online retailer Shein is latest to face strict European Union digital regulations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/online-retailer-shein-latest-face-strict-european-union-digital-regulations-4295036
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 18:12:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/online-retailer-shein-latest-face-strict-european-union-digital-regulations-4295036
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vGVItuIP--/c_crop,h_450,w_800,x_0,y_36/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-21t014814z_1_lynxnpek2k01p_rtroptp_3_shein-temu-logistics-air.jpg?itok=3xSPIljt" width="1600"/>
   </item>
  </channel>
 </rss>
