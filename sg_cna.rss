@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 00:11:31 +0800
+   Sat, 27 Apr 2024 00:26:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Televisa to merge Sky, cable 'as soon as possible'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/televisa-merge-sky-cable-soon-possible-4295936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 00:20:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/televisa-merge-sky-cable-soon-possible-4295936
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9K1XWoBD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t162018z_1_lynxnpek3p0mq_rtroptp_3_at-t-televisa-sky.jpg?itok=rbTcTjr6" width="1600"/>
+  </item>
   <item>
    <title>
     Congested match schedule reaching tipping point, says Premier League boss
@@ -210,7 +231,7 @@
   </item>
   <item>
    <title>
-    Netanyahu says ICC decisions will not affect Israel's actions, set dangerous precedent
+    Netanyahu says ICC decisions will not affect Israel's actions, set dangerous precedent
    </title>
    <link>
     https://www.channelnewsasia.com/world/israel-prime-minister-benjamin-netanyahu-icc-decisions-will-not-affect-actions-dangerous-precedent-4295646
@@ -273,10 +294,10 @@
   </item>
   <item>
    <title>
-    Arteta praises Arsenal's team spirit ahead of North London derby challenge
+    Fatigue not a worry for Arsenal's Arteta ahead of derby
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/arteta-praises-arsenals-team-spirit-ahead-north-london-derby-challenge-4295611
+    https://www.channelnewsasia.com/sport/fatigue-not-worry-arsenals-arteta-ahead-derby-4295611
    </link>
    <description>
     <![CDATA[]]>
@@ -285,7 +306,7 @@
     Fri, 26 Apr 2024 22:06:30 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/arteta-praises-arsenals-team-spirit-ahead-north-london-derby-challenge-4295611
+    https://www.channelnewsasia.com/sport/fatigue-not-worry-arsenals-arteta-ahead-derby-4295611
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zcWpNDXF--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/vuong_dinh_hue.jpg?itok=Nax09E75" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thailand urges bigger ASEAN role in resolving Myanmar conflict
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thailand-urges-bigger-asean-role-resolving-myanmar-conflict-2021-coup-4295161
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 20:30:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thailand-urges-bigger-asean-role-resolving-myanmar-conflict-2021-coup-4295161
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xsd7_FTN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t105114z_1_lynxnpek3p0cx_rtroptp_3_myanmar-thailand-border.jpg?itok=rCFrl6af" width="1600"/>
   </item>
  </channel>
 </rss>
