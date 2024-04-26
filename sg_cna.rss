@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 21:17:47 +0800
+   Fri, 26 Apr 2024 21:25:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Palmer returns as Chelsea eye positive reaction to Arsenal thrashing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/palmer-returns-chelsea-eye-positive-reaction-arsenal-thrashing-4295501
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 21:15:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/palmer-returns-chelsea-eye-positive-reaction-arsenal-thrashing-4295501
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3yGM5UqA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t131550z_1_lynxnpek3p0gv_rtroptp_3_soccer-england-ava-che-preview.jpg?itok=-FX8qJCh" width="1600"/>
+  </item>
   <item>
    <title>
     Four men arrested after fight involving weapons along Prinsep Street
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vGVItuIP--/c_crop,h_450,w_800,x_0,y_36/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-21t014814z_1_lynxnpek2k01p_rtroptp_3_shein-temu-logistics-air.jpg?itok=3xSPIljt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Brazil great Marta to retire from international football at end of year
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/brazil-great-marta-retire-international-football-end-year-4295001
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 18:08:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/brazil-great-marta-retire-international-football-end-year-4295001
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uWIJBToc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t100809z_1_lynxnpek3p0bi_rtroptp_3_soccer-brazil-marta.jpg?itok=cFk7s6LV" width="1600"/>
   </item>
  </channel>
 </rss>
