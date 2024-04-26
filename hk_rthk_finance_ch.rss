@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 14:10:04 +0800
+   Fri, 26 Apr 2024 14:50:47 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 13:38:20 +0800
+   Fri, 26 Apr 2024 14:41:22 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,48 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    台股高收逾1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750670-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750670-20240426.htm
+   </link>
+   <description>
+    <![CDATA[台灣股市上升。
+
+加權指數收報20120點，升 263點，升幅1.32%。
+
+全星期計，台股升3%。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 14:41:22 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股全日升逾300點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750669-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750669-20240426.htm
+   </link>
+   <description>
+    <![CDATA[東京股市上升。
+
+日經指數收報37934點，升306點，升幅0.81%。
+
+總結全星期，日股升2.3%。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 14:39:11 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     本港去年私人寫字樓空置率升至14.9%
@@ -430,44 +472,6 @@
    </description>
    <pubDate>
     Fri, 26 Apr 2024 09:13:59 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股開市後升逾1%　重上20000點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750620-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750620-20240426.htm
-   </link>
-   <description>
-    <![CDATA[台灣股市重上20000點關口。
-
-加權指數較早時報20154點，升297點，升幅1.5%。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 09:08:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    微軟上季盈利勝預期
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750614-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750614-20240426.htm
-   </link>
-   <description>
-    <![CDATA[微軟本財政年度第3季盈利219.4億美元，增長近20%，每股盈利2.94美元，多過市場預期。
-
-集團上季收入增長17%，達到619億美元，高過市場預期，受惠於雲服務採用人工智能帶來的收益。季內資本開支升至140億美元，多過市場預期，受人工智能投資推動。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 08:43:14 +0800
    </pubDate>
   </item>
  </channel>

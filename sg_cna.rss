@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 14:45:24 +0800
+   Fri, 26 Apr 2024 14:54:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    HDB resale prices rise 1.8% in Q1 of 2024; transactions up 8%
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/hdb-resale-prices-rise-q1-2024-transactions-also-4294266
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 14:46:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/hdb-resale-prices-rise-q1-2024-transactions-also-4294266
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mn9MZbPA--/c_crop,h_900,w_1600,x_0,y_131/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/24/jem_0171.jpg?itok=hZVF-OfU" width="1600"/>
+  </item>
   <item>
    <title>
     Swiss parliamentary committee backs US$5.5 billion aid plan for Ukraine
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SaAd2cGQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t045254z_1_lynxnpek3p03t_rtroptp_3_soccer-england-che-fernandez.jpg?itok=DemH_-or" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Embiid's 50 points propel Sixers over Knicks, Magic rout Cavs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/embiids-50-points-propel-sixers-over-knicks-magic-rout-cavs-4294101
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 12:46:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/embiids-50-points-propel-sixers-over-knicks-magic-rout-cavs-4294101
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ncYlI-Tx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/063_2150232410.jpg?itok=Wcq6P_Rm" width="1600"/>
   </item>
  </channel>
 </rss>
