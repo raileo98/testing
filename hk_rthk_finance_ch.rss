@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 11:10:38 +0800
+   Fri, 26 Apr 2024 11:20:42 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 10:58:03 +0800
+   Fri, 26 Apr 2024 11:12:21 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    本港去年底住宅空置率回落至4.1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750637-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750637-20240426.htm
+   </link>
+   <description>
+    <![CDATA[差餉物業估價署最新《香港物業報告》公布，去年私人住宅落成量有約1.39萬個單位，按年下跌35%，預測今年及明年的落成量，分別回升至約2.23萬個和2.55萬個單位。當中，九龍城的供應量將佔今年新落成單位26%，元朗則佔16%。
+
+另外，去年底的住宅入住量升12%至約1.57萬個單位。
+
+報告指出，截至去年底，本港私人住宅單位總存量的空置率降至4.1%，按年減少0.3個百分點，相當約5.2萬個單位。
+
+另外，去年底本港合計有4.23萬個中小型單位空置，空置率回落至3.6%。大型單位空置量則升至9867個，空置率升至10%。
+
+報告指，展望未來外圍環境複雜，但隨着內地經濟穩步增長，加上政府加大力度吸引和留住資本、企業和人才，並推出一系列盛事活動，以及中央政府支持擴大個人遊計劃，預計這些正面發展將帶動和惠及整體樓市。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 11:12:21 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股半日升0.4%
@@ -433,29 +458,6 @@
    </description>
    <pubDate>
     Fri, 26 Apr 2024 05:11:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    法德股市低收近1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750595-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750595-20240426.htm
-   </link>
-   <description>
-    <![CDATA[歐洲主要股市個別發展。
-
-倫敦富時指數收市報8078點，升38點，升幅0.48%。
-
-巴黎CAC40指數報8016點，跌75點，跌幅0.93%。
-
-法蘭克福DAX指數報17917點，跌171點，跌幅0.95%。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 05:11:10 +0800
    </pubDate>
   </item>
  </channel>
