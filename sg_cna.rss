@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 14:40:14 +0800
+   Fri, 26 Apr 2024 14:45:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Swiss parliamentary committee backs US$5.5 billion aid plan for Ukraine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/swiss-parliamentary-committee-backs-us55-billion-aid-plan-ukraine-4294486
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 14:44:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/swiss-parliamentary-committee-backs-us55-billion-aid-plan-ukraine-4294486
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HpljfbSm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t211108z_1_lynxnpek3o10j_rtroptp_3_ukraine-crisis-usa-aid.jpg?itok=Wa__fzYl" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Tiny hotels eye expansion amid high demand, growing eco-tourism market
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/tiny-hotels-homes-pods-tourism-container-repurposed-sustainable-tourism-4294436
+   </link>
+   <description>
+    <![CDATA[These tiny hotels are able to pack up and relocate to other unique sites – a mobility factor that can be a huge draw for both new and returning customers, say experts.]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 14:41:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/tiny-hotels-homes-pods-tourism-container-repurposed-sustainable-tourism-4294436
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4HRkufEF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/screenshot_375_0.png?itok=XksXJcMe" width="1600"/>
+  </item>
   <item>
    <title>
     Alphabet, Microsoft shares jump as investors cheer AI investment
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ncYlI-Tx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/063_2150232410.jpg?itok=Wcq6P_Rm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Vietnam delays launch of new stock trading system
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/vietnam-delays-launch-new-stock-trading-system-4294381
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 12:40:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/vietnam-delays-launch-new-stock-trading-system-4294381
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aKzUG0Vz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t044041z_1_lynxnpek3p03m_rtroptp_3_vietnam-stocks-markets.jpg?itok=ioXilIbt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    K-pop giant HYBE shares take another hit as dispute with NewJeans label drags on
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/k-pop-giant-hybe-shares-take-another-hit-dispute-newjeans-label-drags-4294371
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 12:36:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/k-pop-giant-hybe-shares-take-another-hit-dispute-newjeans-label-drags-4294371
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
