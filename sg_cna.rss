@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 22:22:09 +0800
+   Fri, 26 Apr 2024 22:33:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Netanyahu says ICC decisions will not affect Israel's actions, set dangerous precedent
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-prime-minister-benjamin-netanyahu-icc-decisions-will-not-affect-actions-dangerous-precedent-4295646
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 22:31:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-prime-minister-benjamin-netanyahu-icc-decisions-will-not-affect-actions-dangerous-precedent-4295646
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vy8ONKjw--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-22t005411z_2_lynxnpek3k04n_rtroptp_3_israel-politics-netanyahu.jpg?itok=pyAgCjoB" width="1600"/>
+  </item>
   <item>
    <title>
     Romanian court sends Andrew Tate's human trafficking case to trial
@@ -303,7 +324,7 @@
     <![CDATA[Claims were made by employees for items such as bird’s nest and skincare products, which are not covered under the bank’s medical insurance scheme.]]>
    </description>
    <pubDate>
-    Fri, 26 Apr 2024 20:13:05 +0800
+    Fri, 26 Apr 2024 20:13:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/bos-bank-singapore-ocbc-medical-claims-clinic-thomson-thompson-4294521
@@ -324,7 +345,7 @@
     <![CDATA[Claims were made by employees for items such as bird’s nest and skincare products, which are not covered under the bank’s medical insurance scheme.]]>
    </description>
    <pubDate>
-    Fri, 26 Apr 2024 20:13:05 +0800
+    Fri, 26 Apr 2024 20:13:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/bos-bank-singapore-ocbc-medical-claims-clinic-thomson-thompson-4294521
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--I7IvRPVU--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/de_beers_group.jpg?itok=UA8mvUQ2" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Injured McBurnie to miss Sheffield United's remaining games
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/injured-mcburnie-miss-sheffield-uniteds-remaining-games-4295181
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 18:58:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/injured-mcburnie-miss-sheffield-uniteds-remaining-games-4295181
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k_Rn74jI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t105806z_1_lynxnpek3p0d6_rtroptp_3_soccer-england-new-shu-preview.jpg?itok=ifJgGLWL" width="1600"/>
   </item>
  </channel>
 </rss>
