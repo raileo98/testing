@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 22:42:38 +0800
+   Fri, 26 Apr 2024 22:49:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Under-investigation Rocha elected RFEF president
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/under-investigation-rocha-elected-rfef-president-4295706
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 22:39:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/under-investigation-rocha-elected-rfef-president-4295706
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2n8gbiNI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t143910z_1_lynxnpek3p0jx_rtroptp_3_soccer-spain-crime-rocha.jpg?itok=ZieJ1Bk6" width="1600"/>
+  </item>
   <item>
    <title>
     Netanyahu says ICC decisions will not affect Israel's actions, set dangerous precedent
@@ -438,27 +459,6 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IXNnAq2O--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t095154z_2_lynxnpek3p0as_rtroptp_3_china-usa-blinken.jpg?itok=tvcFtLqH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Diamond giant De Beers to close Singapore office
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/de-beers-group-office-closure-engaging-employees-relocating-botswana-4295011
-   </link>
-   <description>
-    <![CDATA[The diamond mining giant is moving its auction business headquarters to Botswana. ]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 19:10:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/de-beers-group-office-closure-engaging-employees-relocating-botswana-4295011
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--I7IvRPVU--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/de_beers_group.jpg?itok=UA8mvUQ2" width="1600"/>
   </item>
  </channel>
 </rss>
