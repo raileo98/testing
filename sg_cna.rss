@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 03:00:42 +0800
+   Sat, 27 Apr 2024 03:15:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Google files motion for summary judgment in US ad tech case
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/google-files-motion-summary-judgment-us-ad-tech-case-4296306
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 03:13:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/google-files-motion-summary-judgment-us-ad-tech-case-4296306
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7bPZ7yCd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t191310z_1_lynxnpek3p0qi_rtroptp_3_russia-google-court.jpg?itok=_rQLy7ci" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Apollo, KKR and Stonepeak to invest in JV to fund Intel's Ireland facility, Bloomberg reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/apollo-kkr-and-stonepeak-invest-jv-fund-intels-ireland-facility-bloomberg-reports-4296311
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 03:11:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apollo-kkr-and-stonepeak-invest-jv-fund-intels-ireland-facility-bloomberg-reports-4296311
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2H1mhnEI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t191115z_1_lynxnpek3p0qg_rtroptp_3_intel-stocks.jpg?itok=bdUXQEZH" width="1600"/>
+  </item>
   <item>
    <title>
     Biden says he plans to debate Trump
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZoxMz7jt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t135455z_1_lynxnpek3p0ia_rtroptp_3_soccer-england-tot-brh-report.jpg?itok=0cRI8Tfw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Google parent Alphabet reclaims spot in $2 trillion valuation club
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/google-parent-alphabet-reclaims-spot-2-trillion-valuation-club-4295551
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 21:36:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-parent-alphabet-reclaims-spot-2-trillion-valuation-club-4295551
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AcJbmYUn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t133656z_1_lynxnpek3p0hl_rtroptp_3_tech-ai.jpg?itok=9BWksq6x" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City's Guardiola says he does not 'waste time' thinking about refs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-citys-guardiola-says-he-does-not-waste-time-thinking-about-refs-4295536
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 21:34:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-citys-guardiola-says-he-does-not-waste-time-thinking-about-refs-4295536
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GfAhnzfo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d03488036e7ceac972ebf4381b8f807bb1d4a2cf.jpg?itok=VDikC6HT" width="1600"/>
   </item>
  </channel>
 </rss>
