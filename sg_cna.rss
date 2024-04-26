@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 01:13:39 +0800
+   Sat, 27 Apr 2024 01:26:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Dutch great Van Vleuten happy with life in slow lane
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/dutch-great-van-vleuten-happy-life-slow-lane-4296096
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 01:23:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/dutch-great-van-vleuten-happy-life-slow-lane-4296096
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_3H91Vxp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t172305z_2_lynxnpek3p0o5_rtroptp_3_cycling-france.jpg?itok=f3Lt0ruc" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Paris organisers receive flame in Athens ahead of relay
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/paris-organisers-receive-flame-athens-ahead-relay-4296071
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 01:09:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/paris-organisers-receive-flame-athens-ahead-relay-4296071
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     37 million tonnes of debris in Gaza could take years to clear: UN
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3yGM5UqA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t131550z_1_lynxnpek3p0gv_rtroptp_3_soccer-england-ava-che-preview.jpg?itok=-FX8qJCh" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Four men arrested after fight involving weapons along Prinsep Street
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/4-men-arrested-prinsep-street-fight-weapons-karambit-knife-police-4295366
-   </link>
-   <description>
-    <![CDATA[One of the assailants allegedly attacked two men with a karambit knife. ]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 20:41:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/4-men-arrested-prinsep-street-fight-weapons-karambit-knife-police-4295366
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A9bgeOA_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/14/arrested.jpg?itok=-cva3UM3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Klopp hopes to rediscover the old Liverpool as title challenge falters
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/klopp-hopes-rediscover-old-liverpool-title-challenge-falters-4295441
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 20:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/klopp-hopes-rediscover-old-liverpool-title-challenge-falters-4295441
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3GSYxhTi--/c_crop,h_450,w_800,x_0,y_13/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t124035z_1_lynxnpek3p0g4_rtroptp_3_soccer-england-whu-liv-preview.jpg?itok=h8kXPqbo" width="1600"/>
   </item>
  </channel>
 </rss>

@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Thu, 25 Apr 2024 17:00:02 GMT
+   Fri, 26 Apr 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    小月亮不一樣：在文化與身分衝突中成長，越南移民兒童陽陽的故事
+   </title>
+   <description>
+    <![CDATA[新二代的學童在學校並不少，光是陽陽班上就有3名。但陽陽不同，他過去接受的是台灣以外的教育、從未學習過中文，他無法融入、與人對話，甚至聽不懂窗外家長們在討論的是自己⋯⋯]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-vietnamese-immigrants-in-ankang-community
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-vietnamese-immigrants-in-ankang-community
+   </guid>
+   <pubDate>
+    Fri, 26 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412160504-77ebcb9b1c124ba8f8b3bc97e3c3185f-mobile.jpg"/>
+  </item>
   <item>
    <title>
     邱文聰、吳全峰／《衛生福利資料管理條例》能讓被宣告部分違憲的健保資料庫使用就地合法嗎？
@@ -180,39 +198,21 @@
   </item>
   <item>
    <title>
-    那紙差點成真的古巴飛彈危機「開戰布告」：關於甘迺迪講稿捉刀者的奧祕
+    朱約信 × 吳志寧：廁所放尿寫成歌、文學詩歌譜入曲，叛逆又愛鄉的音樂人
    </title>
    <description>
-    <![CDATA[俄侵烏戰爭裡，普丁不放棄以核武作為要脅。回望61年前的古巴危機，甘迺迪的幕僚團隊當年進行的辯論、設想的結果、打算發表的講稿，不僅讓世人看見那條我們過去選擇不走的悲慘道路，也看到一條我們未來恐須再度涉足的道路。]]>
+    <![CDATA[1991年朱約信將楊逵的文學作品譜成曲，發行專輯，與吳志寧等人一同推動文學與音樂的融合。三十年後，再續前緣，舉辦復刻音樂會，這集，請聽同在音樂路上的兩人，如何跨世代傳承音樂人對文學、時代的心意。]]>
    </description>
    <link>
-    https://www.twreporter.org/a/bookreview-undelivered-the-never-heard-speeches-that-would-have-rewritten-history
+    https://www.twreporter.org/a/podcast-2024-04-19
    </link>
    <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-undelivered-the-never-heard-speeches-that-would-have-rewritten-history
+    https://www.twreporter.org/a/podcast-2024-04-19
    </guid>
    <pubDate>
-    Wed, 17 Apr 2024 16:00:00 GMT
+    Thu, 18 Apr 2024 16:00:00 GMT
    </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240402193740-fd2ec54349518ddab45f53711c21817b-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    政治宣傳遠比戰爭更泯滅人性──柏林影展3部烏克蘭電影中的反思與希望
-   </title>
-   <description>
-    <![CDATA[當現實遠比虛構殘酷，如何述說戰爭的故事？2月在柏林影展首映的烏克蘭電影，從戰前的貪汙、媒體亂象、烏東人難言的身分認同，到開戰後俄軍的殺人動機，不只讓觀眾看見導演豐沛的創造力，也看到烏克蘭不滅的希望。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/ukrainian-films-at-berlinale
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/ukrainian-films-at-berlinale
-   </guid>
-   <pubDate>
-    Mon, 15 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412121006-8a73225f974caa2ab4615b12fe0bffb0-mobile.jpg"/>
+   <enclosure length="0" type="image/png" url="https://www.twreporter.org/images/20240426164052-eb0eb4737b860049d4acb0d93b85d0e9-mobile.png"/>
   </item>
  </channel>
 </rss>
