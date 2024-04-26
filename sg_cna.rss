@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 13:51:39 +0800
+   Fri, 26 Apr 2024 14:06:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Foden enjoying being front and centre at Man City
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/foden-enjoying-being-front-and-centre-man-city-4294476
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 13:53:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/foden-enjoying-being-front-and-centre-man-city-4294476
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d0mHLpHZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t055350z_1_lynxnpek3p05b_rtroptp_3_soccer-england-brh-mci-report.jpg?itok=TxADXFrK" width="1600"/>
+  </item>
   <item>
    <title>
     New 255-room sustainable hotel to open at Changi Airport Terminal 2 by 2028
@@ -438,27 +459,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BJR5tF6B--/c_crop,h_900,w_1600,x_0,y_164/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/02/DSC_5979.jpg?itok=u5isYLUe" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Instant View: Bank of Japan keeps rates steady, tweaks JGB buying plan
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/instant-view-bank-japan-keeps-rates-steady-tweaks-jgb-buying-plan-4294311
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 11:58:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/instant-view-bank-japan-keeps-rates-steady-tweaks-jgb-buying-plan-4294311
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3yc4DC3V--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t035856z_1_lynxnpek3p02x_rtroptp_3_imf-worldbank-japan.jpg?itok=v7CXp-ex" width="1600"/>
   </item>
  </channel>
 </rss>
