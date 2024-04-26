@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 21:30:40 +0800
+   Fri, 26 Apr 2024 21:40:44 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 21:19:48 +0800
+   Fri, 26 Apr 2024 21:38:48 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股初段上升　納指升逾1%　Alphabet彈10%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750740-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750740-20240426.htm
+   </link>
+   <description>
+    <![CDATA[美股初段上升，納指在Google母公司Alphabet及微軟推動下升逾1%。
+
+道瓊斯指數較早時報38090點，升4點。
+
+納斯達克指數報15806點，升195點，升幅1.25%。
+
+標準普爾500指數報5080點，升31點，升幅0.63%。
+
+Alphabet及微軟上季業績好過預期，股價分別升10%及逾2%。]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 21:38:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     陳茂波稱推動香港發展成為區域知識產權貿易中心
@@ -457,27 +482,6 @@
    </description>
    <pubDate>
     Fri, 26 Apr 2024 15:02:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股升1%收市
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750672-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750672-20240426.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市上升。
-
-首爾綜合指數收報2656點，升27點，升1%。
-
-總結全星期，韓股升2.5%。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 14:53:01 +0800
    </pubDate>
   </item>
  </channel>
