@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 05:36:24 +0800
+   Sat, 27 Apr 2024 05:42:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Al Ahly to face Esperance in African Champions League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/al-ahly-face-esperance-african-champions-league-final-4296511
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 05:34:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/al-ahly-face-esperance-african-champions-league-final-4296511
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     L3Harris cuts 5% workforce in cost-saving measure
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_3H91Vxp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t172305z_2_lynxnpek3p0o5_rtroptp_3_cycling-france.jpg?itok=f3Lt0ruc" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Paris organisers receive flame in Athens ahead of relay
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/paris-organisers-receive-flame-athens-ahead-relay-4296071
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 01:09:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/paris-organisers-receive-flame-athens-ahead-relay-4296071
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
