@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 26 Apr 2024 09:30:47 +0800
+   Fri, 26 Apr 2024 10:01:15 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 26 Apr 2024 05:07:29 +0800
+   Fri, 26 Apr 2024 09:52:54 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks continue rally at opening
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750626-20240426.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750626-20240426.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks rose at the start of business on Friday following healthy earnings from tech titans Microsoft and Alphabet, while eyes turn to the release of key US inflation data later in the day.
+
+The Hang Seng Index edged up 0.30 percent, or 51.66 points, to 17,336.20.
+
+The Shanghai Composite Index added 0.07 percent, or 2.08 points, to 3,054.98, while the Shenzhen Composite Index eased 0.13 percent, or 2.24 points, to 1,696.09. (AFP)]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 09:52:54 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Wall Street down on GDP blow, tech worries
@@ -607,27 +628,6 @@ The Shanghai Composite Index fell 0.7 percent, or 20 points, to 3,044, while the
    </description>
    <pubDate>
     Mon, 22 Apr 2024 16:18:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks start week with healthy gains
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1749934-20240422.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1749934-20240422.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares rose more than one percent at the open on Monday following last week's losses and as traders breathed a sigh of relief that there had been no weekend escalation of the Middle East crisis.
-
-The Hang Seng Index jumped 1.15 percent to 16,411.
-
-The Shanghai Composite Index gave up 0.20 percent to 3,059, while the Shenzhen Composite Index on the mainland's second exchange dipped 0.55 percent to 1,677. (AFP)]]>
-   </description>
-   <pubDate>
-    Mon, 22 Apr 2024 09:35:48 +0800
    </pubDate>
   </item>
  </channel>
