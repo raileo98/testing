@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 26 Apr 2024 14:31:55 +0800
+   Fri, 26 Apr 2024 14:40:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Alphabet, Microsoft shares jump as investors cheer AI investment
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/alphabet-microsoft-shares-jump-investors-cheer-ai-investment-4294551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 26 Apr 2024 14:30:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/alphabet-microsoft-shares-jump-investors-cheer-ai-investment-4294551
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--G7wrjLbA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t063037z_1_lynxnpek3p06w_rtroptp_3_tech-ai.jpg?itok=KtyfLWyl" width="1600"/>
+  </item>
   <item>
    <title>
     Snap shares jump nearly 30% after Q1 beat
@@ -114,7 +135,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 26 Apr 2024 14:21:32 +0800
+    Fri, 26 Apr 2024 14:21:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/gresinis-marquez-eyes-factory-bike-2025-4294506
@@ -135,7 +156,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 26 Apr 2024 14:19:21 +0800
+    Fri, 26 Apr 2024 14:19:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/nomura-q4-net-profit-jumps-almost-eight-fold-retail-income-surge-4294511
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Du Plessis to sleep better after Bengaluru end losing streak
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/du-plessis-sleep-better-after-bengaluru-end-losing-streak-4294361
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 12:29:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/du-plessis-sleep-better-after-bengaluru-end-losing-streak-4294361
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jrmleNCj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t042907z_1_lynxnpek3p03e_rtroptp_3_cricket-t20-zaf-eng.jpg?itok=24jnErOm" width="1600"/>
   </item>
  </channel>
 </rss>
