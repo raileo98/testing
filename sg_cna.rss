@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 02:12:26 +0800
+   Sun, 28 Apr 2024 02:24:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -45,16 +45,16 @@
     Singaporean woman killed in Spain had bought insurance from suspect; dozens pay respects at funeral wake
    </title>
    <link>
-    https://www.channelnewsasia.com/singapore/audrey-fang-singaporean-woman-killed-spain-funeral-wake-body-repatriated-4297351
+    https://www.channelnewsasia.com/singapore/audrey-fang-singaporean-woman-killed-spain-insurance-mitchell-ong-funeral-wake-4297351
    </link>
    <description>
     <![CDATA[Dozens of people turned up on the first day of a funeral wake for Ms Audrey Fang, whose body was repatriated to Singapore after she was killed in Spain.]]>
    </description>
    <pubDate>
-    Sun, 28 Apr 2024 02:09:24 +0800
+    Sun, 28 Apr 2024 02:09:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/audrey-fang-singaporean-woman-killed-spain-funeral-wake-body-repatriated-4297351
+    https://www.channelnewsasia.com/singapore/audrey-fang-singaporean-woman-killed-spain-insurance-mitchell-ong-funeral-wake-4297351
    </guid>
    <category>
     Singapore
@@ -76,6 +76,27 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/juventus-and-milan-play-out-goalless-draw-serie-4297646
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    England sweep to Women’s Six Nations crown with win over France
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/england-sweep-womens-six-nations-crown-win-over-france-4297651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 02:06:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/england-sweep-womens-six-nations-crown-win-over-france-4297651
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ziZEVfYY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t150050z_1_lynxmpek3q054_rtroptp_3_motor.jpg?itok=uEeW2TP5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Liverpool's slim title hopes fade further with 2-2 draw at West Ham
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/liverpools-slim-title-hopes-fade-further-2-2-draw-west-ham-4297291
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 21:33:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/liverpools-slim-title-hopes-fade-further-2-2-draw-west-ham-4297291
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
