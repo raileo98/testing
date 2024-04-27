@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 22:54:37 +0800
+   Sat, 27 Apr 2024 23:11:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Martin wins dramatic home Spanish GP sprint
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/martin-wins-dramatic-home-spanish-gp-sprint-4297406
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 23:00:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/martin-wins-dramatic-home-spanish-gp-sprint-4297406
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ziZEVfYY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t150050z_1_lynxmpek3q054_rtroptp_3_motor.jpg?itok=uEeW2TP5" width="1600"/>
+  </item>
   <item>
    <title>
     Liverpool's slim title hopes fade further with 2-2 draw at West Ham
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5F7Emf1A--/c_crop,h_899,w_1599,x_1,y_45/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/Retired%20Private%20Driving%20Instructor_Eugene%20Goh-4.jpg?itok=rAwXoTCR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New York returns 30 pillaged relics to Cambodia, Indonesia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/new-york-return-antiquities-cambodia-indonesia-4296776
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 10:41:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/new-york-return-antiquities-cambodia-indonesia-4296776
-   </guid>
-   <category>
-    World ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6DsFyhIC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/27/new_york_return_artefacts_cambodia_indonesia.jpg?itok=MH9Q3V1q" width="1600"/>
   </item>
  </channel>
 </rss>
