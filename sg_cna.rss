@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 13:48:45 +0800
+   Sat, 27 Apr 2024 14:07:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arteta receives Wenger's advice on fine margins in title run-in
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arteta-receives-wengers-advice-fine-margins-title-run-4296971
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 13:46:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arteta-receives-wengers-advice-fine-margins-title-run-4296971
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0B51lOKx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t054621z_1_lynxnpek3q013_rtroptp_3_soccer-england-ars-che-report.jpg?itok=MoLf9qmc" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Nadal excited by prospect of partnering Alcaraz at Paris Olympics
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/nadal-excited-prospect-partnering-alcaraz-paris-olympics-4296976
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 13:43:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/nadal-excited-prospect-partnering-alcaraz-paris-olympics-4296976
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Hamas studying new Israeli truce proposal as mediators seek to revive talks
@@ -417,49 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CBXtkrGp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t221727z_1_lynxnpek3p0ss_rtroptp_3_soccer-europa-whu-b04-report.jpg?itok=tdb_wDTZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Banning TikTok won’t solve social media’s foreign influence, teen harm and data privacy problems
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/tiktok-ban-sale-social-media-foreign-influence-data-privacy-bytedance-china-4294721
-   </link>
-   <description>
-    <![CDATA[TikTok is hardly a model social media platform, but it’s also far from an outlier when it comes to threats to Americans, says Arizona State University's Sarah Florini.
-]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/tiktok-ban-sale-social-media-foreign-influence-data-privacy-bytedance-china-4294721
-   </guid>
-   <category>
-    Commentary ,World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DuvE_6K9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-13t175940z_1_lynxnpek2c0n1_rtroptp_3_usa-tiktok-congress.jpg?itok=gCOH2PP1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: As Malaysian PM Anwar’s party turns 25, who could be his successor?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/malaysia-anwar-prime-minister-pkr-unity-government-succession-4291226
-   </link>
-   <description>
-    <![CDATA[A post-Anwar world might be different, but it will not erase his quarter-of-a-century imprint on the party, says political analyst James Chai.]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/malaysia-anwar-prime-minister-pkr-unity-government-succession-4291226
-   </guid>
-   <category>
-    Commentary ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lLuLooUl--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/anwar.jpg?itok=vi339xKO" width="1600"/>
   </item>
  </channel>
 </rss>
