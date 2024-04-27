@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 10:36:23 +0800
+   Sat, 27 Apr 2024 10:43:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,48 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5F7Emf1A--/c_crop,h_899,w_1599,x_1,y_45/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/Retired%20Private%20Driving%20Instructor_Eugene%20Goh-4.jpg?itok=rAwXoTCR" width="1600"/>
+  </item>
+  <item>
+   <title>
+    New York returns 30 pillaged relics to Cambodia, Indonesia
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/new-york-return-antiquities-cambodia-indonesia-4296776
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 10:41:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/new-york-return-antiquities-cambodia-indonesia-4296776
+   </guid>
+   <category>
+    World ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6DsFyhIC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/27/new_york_return_artefacts_cambodia_indonesia.jpg?itok=MH9Q3V1q" width="1600"/>
+  </item>
+  <item>
+   <title>
+    New York returns 30 pillaged relics to Cambodia, Indonesia
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/new-york-return-antiquities-cambodia-indonesia-4296776
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 10:41:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/new-york-return-antiquities-cambodia-indonesia-4296776
+   </guid>
+   <category>
+    World ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6DsFyhIC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/27/new_york_return_artefacts_cambodia_indonesia.jpg?itok=MH9Q3V1q" width="1600"/>
   </item>
   <item>
    <title>
@@ -315,28 +357,6 @@
   </item>
   <item>
    <title>
-    Commentary: Banning TikTok won’t solve social media’s foreign influence, teen harm and data privacy problems
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/tiktok-ban-sale-social-media-foreign-influence-data-privacy-bytedance-china-4294721
-   </link>
-   <description>
-    <![CDATA[TikTok is hardly a model social media platform, but it’s also far from an outlier when it comes to threats to Americans, says Arizona State University's Sarah Florini.
-]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/tiktok-ban-sale-social-media-foreign-influence-data-privacy-bytedance-china-4294721
-   </guid>
-   <category>
-    Commentary ,World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DuvE_6K9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-13t175940z_1_lynxnpek2c0n1_rtroptp_3_usa-tiktok-congress.jpg?itok=gCOH2PP1" width="1600"/>
-  </item>
-  <item>
-   <title>
     Commentary: As Malaysian PM Anwar’s party turns 25, who could be his successor?
    </title>
    <link>
@@ -441,27 +461,6 @@
     Commentary ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lLuLooUl--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/anwar.jpg?itok=vi339xKO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Google plans $3 billion data center investment in Indiana, Virginia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/google-plans-3-billion-data-center-investment-indiana-virginia-4296531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 05:47:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-plans-3-billion-data-center-investment-indiana-virginia-4296531
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m7VmbHXj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t214756z_1_lynxnpek3p0sv_rtroptp_3_alphabet-chips-broadcom.jpg?itok=2Mb8nHY2" width="1600"/>
   </item>
  </channel>
 </rss>
