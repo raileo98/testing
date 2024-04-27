@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 06:39:19 +0800
+   Sun, 28 Apr 2024 06:51:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Villa VAR decision damaged Premier League, says Chelsea's Pochettino
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/villa-var-decision-damaged-premier-league-says-chelseas-pochettino-4297951
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 06:45:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/villa-var-decision-damaged-premier-league-says-chelseas-pochettino-4297951
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sE4YUlOm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t224518z_1_lynxmpek3q0a7_rtroptp_3_soccer-england-ava-che-report.jpg?itok=1qGXNIvH" width="1600"/>
+  </item>
   <item>
    <title>
     PCF Sparkletots at Joo Chiat launches outdoor learning programme with obstacle course, animal care
@@ -186,48 +207,6 @@
     People ,Experiences ,Travel ,Women ,CNA Luxury
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QwiIkCIN--/c_crop,h_843,w_1500,x_0,y_64/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/puri_and_sekaraya_hadiprana_tanah_gajah_resort_bali_ubud.jpg?itok=v2BG-Csv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: New ‘cold war’ grows ever warmer as prospects of a nuclear arms race heat up
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/nuclear-weapon-global-threat-russia-china-north-korea-iran-4294901
-   </link>
-   <description>
-    <![CDATA[Leaders from Russian president Vladimir Putin to former US president Donald Trump have carelessly returned nuclear warfare to the table as a viable strategy, says a University of Bradford academic.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/nuclear-weapon-global-threat-russia-china-north-korea-iran-4294901
-   </guid>
-   <category>
-    Commentary ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--J-4jieZD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/russia_putin_69837.jpg?itok=awhoolUl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Is it wrong to have children in the age of climate change?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/climate-change-have-children-ethics-carbon-emissions-sustainability-4294781
-   </link>
-   <description>
-    <![CDATA[The answer to chaotic climate change is to make the planet better for children, not to stop having them, says Mark Gongloff for Bloomberg Opinion.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/climate-change-have-children-ethics-carbon-emissions-sustainability-4294781
-   </guid>
-   <category>
-    Commentary ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--I2nvMNVP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/cop27_climate_youth_activists_66886.jpg?itok=AgoflMbW" width="1600"/>
   </item>
   <item>
    <title>
@@ -378,6 +357,48 @@
   </item>
   <item>
    <title>
+    Commentary: New ‘cold war’ grows ever warmer as prospects of a nuclear arms race heat up
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/nuclear-weapon-global-threat-russia-china-north-korea-iran-4294901
+   </link>
+   <description>
+    <![CDATA[Leaders from Russian president Vladimir Putin to former US president Donald Trump have carelessly returned nuclear warfare to the table as a viable strategy, says a University of Bradford academic.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/nuclear-weapon-global-threat-russia-china-north-korea-iran-4294901
+   </guid>
+   <category>
+    Commentary ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--J-4jieZD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/russia_putin_69837.jpg?itok=awhoolUl" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: Is it wrong to have children in the age of climate change?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/climate-change-have-children-ethics-carbon-emissions-sustainability-4294781
+   </link>
+   <description>
+    <![CDATA[The answer to chaotic climate change is to make the planet better for children, not to stop having them, says Mark Gongloff for Bloomberg Opinion.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/climate-change-have-children-ethics-carbon-emissions-sustainability-4294781
+   </guid>
+   <category>
+    Commentary ,Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--I2nvMNVP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/cop27_climate_youth_activists_66886.jpg?itok=AgoflMbW" width="1600"/>
+  </item>
+  <item>
+   <title>
     Atletico increase lead over Athletic Bilbao with 3-1 win
    </title>
    <link>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SePMGLBV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t211130z_1_lynxmpek3q09g_rtroptp_3_soccer-england-ava-che-report.jpg?itok=1LF5kXKR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hamas releases video of two hostages calling for Gaza deal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/hamas-releases-video-two-hostages-calling-gaza-deal-4297726
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 04:37:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/hamas-releases-video-two-hostages-calling-gaza-deal-4297726
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GUyimVkZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t171530z_2_lynxmpek3q06f_rtroptp_3_israel-palestinians-un-rights.jpg?itok=8tnJOwln" width="1600"/>
   </item>
  </channel>
 </rss>
