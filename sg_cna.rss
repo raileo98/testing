@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 03:57:13 +0800
+   Sun, 28 Apr 2024 04:11:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US State Secretary Blinken to travel to Saudi Arabia next week
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-state-secretary-blinken-travel-saudi-arabia-next-week-4297596
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 04:11:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-state-secretary-blinken-travel-saudi-arabia-next-week-4297596
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Zelensky says Russia targeted gas facilities that secure EU supply
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zYybdTL2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t160959z_1_lynxmpek3q05u_rtroptp_3_soccer-england-mun-bur-report.jpg?itok=wxLfpR8d" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Late Schlupp equaliser secures 1-1 draw for Palace at Fulham
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/late-schlupp-equaliser-secures-1-1-draw-palace-fulham-4297461
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 00:08:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/late-schlupp-equaliser-secures-1-1-draw-palace-fulham-4297461
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--InRJbAUL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t160820z_1_lynxmpek3q05s_rtroptp_3_soccer-england-ful-cry-report.jpg?itok=ns5QfXg6" width="1600"/>
   </item>
  </channel>
 </rss>
