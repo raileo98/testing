@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 23:39:22 +0800
+   Sat, 27 Apr 2024 23:51:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Kane double steers Bayern 2-1 past Frankfurt ahead of Real clash
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/kane-double-steers-bayern-2-1-past-frankfurt-ahead-real-clash-4297441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 23:42:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/kane-double-steers-bayern-2-1-past-frankfurt-ahead-real-clash-4297441
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Singapore Airlines ordered to pay S$3,580 to couple in India over faulty seats: Reports
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Hamas studying new Israeli truce proposal as mediators seek to revive talks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-war-new-ceasefire-proposal-egypt-mediator-4296831
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 12:52:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-war-new-ceasefire-proposal-egypt-mediator-4296831
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qXTLU-1S--/c_crop,h_432,w_768,x_0,y_42/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/89e55f5855adbb20fc423b5a50147f6f19fc2d50.jpg?itok=MnENDf_-" width="1600"/>
   </item>
  </channel>
 </rss>
