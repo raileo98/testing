@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 01:05:40 +0800
+   Sun, 28 Apr 2024 01:19:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    20 Cambodian soldiers killed in ammunition base explosion
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/20-cambodian-soldiers-killed-ammunition-base-explosion-4297446
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 01:14:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/20-cambodian-soldiers-killed-ammunition-base-explosion-4297446
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BqGcDKtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c15d63a8c7ed73ddd01373bcc1d2229de95ce7eb.jpg?itok=FC4orkA1" width="1600"/>
+  </item>
   <item>
    <title>
     Wolves dent Luton's Premier League survival hopes with 2-1 win
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Taiwan reports Chinese military activity after Blinken leaves Beijing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/taiwan-china-military-activity-blinken-beijing-visit-4296946
-   </link>
-   <description>
-    <![CDATA[Taiwan said that it detected 22 Chinese military aircraft, 12 of which had crossed the sensitive median line of the Taiwan Strait.]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 17:04:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/taiwan-china-military-activity-blinken-beijing-visit-4296946
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5zpjWZLr--/c_crop,h_562,w_1000,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/china_taiwan_border_tensions_49014.jpg?itok=lDDuX3Et" width="1600"/>
   </item>
  </channel>
 </rss>

@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Fri, 26 Apr 2024 17:00:02 GMT
+   Sat, 27 Apr 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    飛吧！青春運動物語──在汗與淚中開啟人生的初夏
+   </title>
+   <description>
+    <![CDATA[《報導者》精選全中運賽事中的精彩畫面，邀請讀者們看見年輕運動員們在賽場上揮灑的汗水、為競賽勝負或自我突破而流下的淚水，一起體會熱血動漫般的中學運動競技。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-national-middle-school-athletic-games-2024
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-national-middle-school-athletic-games-2024
+   </guid>
+   <pubDate>
+    Sat, 27 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240426031440-a1c48424eea80d189b94d7501aac5dfa-mobile.jpg"/>
+  </item>
   <item>
    <title>
     小月亮不一樣：在文化與身分衝突中成長，越南移民兒童陽陽的故事
@@ -72,24 +90,6 @@
   </item>
   <item>
    <title>
-    在塞滿火藥的價值縫隙處，憲法法庭展開死刑存廢辯論
-   </title>
-   <description>
-    <![CDATA[我國憲法法庭首次接受37位死囚對死刑違憲的聲請，4月23日進行公開言詞辯論，多方意見陳述再現了倡議者與大眾民意間難以化解的矛盾，以及人權、應報、被害者處境、民意、國安、立法者與政府責任的各種思考⋯⋯]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/taiwan-death-row-inmates-argue-capital-punishment-is-unconstitutional
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/taiwan-death-row-inmates-argue-capital-punishment-is-unconstitutional
-   </guid>
-   <pubDate>
-    Tue, 23 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424135046-53374de66be5099bcb795e72a0f0eb7c-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     日行在生死邊界：專訪「死刑犯監所訪談計畫」團隊，他們眼中的37位死刑犯
    </title>
    <description>
@@ -105,6 +105,24 @@
     Tue, 23 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424115124-34c5e4d96ac21a1151a46b71d5d0b4a2-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    在塞滿火藥的價值縫隙處，憲法法庭展開死刑存廢辯論
+   </title>
+   <description>
+    <![CDATA[我國憲法法庭首次接受37位死囚對死刑違憲的聲請，4月23日進行公開言詞辯論，多方意見陳述再現了倡議者與大眾民意間難以化解的矛盾，以及人權、應報、被害者處境、民意、國安、立法者與政府責任的各種思考⋯⋯]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/taiwan-death-row-inmates-argue-capital-punishment-is-unconstitutional
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/taiwan-death-row-inmates-argue-capital-punishment-is-unconstitutional
+   </guid>
+   <pubDate>
+    Tue, 23 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424135046-53374de66be5099bcb795e72a0f0eb7c-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -195,24 +213,6 @@
     Fri, 19 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240416143540-0b6483fafbc053e68b4e5daadadfd9a6-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    朱約信 × 吳志寧：廁所放尿寫成歌、文學詩歌譜入曲，叛逆又愛鄉的音樂人
-   </title>
-   <description>
-    <![CDATA[1991年朱約信將楊逵的文學作品譜成曲，發行專輯，與吳志寧等人一同推動文學與音樂的融合。三十年後，再續前緣，舉辦復刻音樂會，這集，請聽同在音樂路上的兩人，如何跨世代傳承音樂人對文學、時代的心意。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/podcast-2024-04-19
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/podcast-2024-04-19
-   </guid>
-   <pubDate>
-    Thu, 18 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/png" url="https://www.twreporter.org/images/20240426164052-eb0eb4737b860049d4acb0d93b85d0e9-mobile.png"/>
   </item>
  </channel>
 </rss>
