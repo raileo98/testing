@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 15:40:55 +0800
+   Sat, 27 Apr 2024 15:46:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Philippines denies deal with China over disputed South China Sea shoal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/philippines-denies-deal-beijing-south-china-sea-shoal-4296881
+   </link>
+   <description>
+    <![CDATA[A spokesperson at China's embassy in Manila said on Apr 18 that the Philippines and China had agreed early this year to a "new model" in managing tensions at the Second Thomas Shoal, something Manila rejects.]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 15:40:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/philippines-denies-deal-beijing-south-china-sea-shoal-4296881
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xfIPHnvc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t042736z_1_lynxnpek3q00s_rtroptp_3_southchinasea-philippines-china.jpg?itok=ZPnAPskU" width="1600"/>
+  </item>
   <item>
    <title>
     Spurs boss Postecoglou not motivated by disrupting Arsenal's title bid
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9WH0zLQ4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t231821z_1_lynxnpek3p0tf_rtroptp_3_soccer-england-mid-lee-report.jpg?itok=S6oV1vST" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Apple renews talks with OpenAI for iPhone generative AI features, Bloomberg News reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/apple-renews-talks-openai-iphone-generative-ai-features-bloomberg-news-reports-4296601
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 06:44:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apple-renews-talks-openai-iphone-generative-ai-features-bloomberg-news-reports-4296601
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ho9FkoUU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t230532z_2_lynxnpek3p0tb_rtroptp_3_apple-products.jpg?itok=rlLWGrW3" width="1600"/>
   </item>
  </channel>
 </rss>
