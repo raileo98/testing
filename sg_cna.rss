@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 01:44:43 +0800
+   Sun, 28 Apr 2024 01:50:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Trump trial tests his campaign strategy of embracing bad publicity
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/trump-trial-tests-his-campaign-strategy-embracing-bad-publicity-4297571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 01:49:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/trump-trial-tests-his-campaign-strategy-embracing-bad-publicity-4297571
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--g0LrelFB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t141952z_1_lynxnpek3p0j0_rtroptp_3_usa-trump-new-york.jpg?itok=8cvNEHbR" width="1600"/>
+  </item>
   <item>
    <title>
     Manager Wilder stands by Sheffield United after relegation
@@ -438,27 +459,6 @@
     Japan Hour
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IG4cdWDq--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/ep_16_pix_1.png?itok=8bgzxUki" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Girls’ Generation’s Hyoyeon and other K-pop idols detained in Bali for allegedly filming without permits
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/kpop-idols-hyoyeon-bomi-dita-nayoung-detained-bali-due-lack-filming-permit-4296821
-   </link>
-   <description>
-    <![CDATA[The cast and crew of Pick Me Trip in Bali, which includes Girls’ Generation’s Hyoyeon, Apink’s Bomi, Secret Number’s Dita and ex-I.O.I member Nayoung, reportedly had their passports confiscated and won't be able to return to South Korea until next week, at the earliest.]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 19:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/kpop-idols-hyoyeon-bomi-dita-nayoung-detained-bali-due-lack-filming-permit-4296821
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4IaD3WO3--/c_crop,h_440,w_782,x_27,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/27/pick_me_up_in_bali_hyoyeon_bomi_lim_na_young.jpg?itok=M105SAUS" width="1600"/>
   </item>
  </channel>
 </rss>
