@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 03:06:20 +0800
+   Sun, 28 Apr 2024 03:12:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israeli foreign minister says hostage deal would defer Rafah operation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israeli-foreign-minister-says-hostage-deal-would-defer-rafah-operation-4297656
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 03:08:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israeli-foreign-minister-says-hostage-deal-would-defer-rafah-operation-4297656
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--snef0SQe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/66354c99a36d63c547237a439fc1b261f1c16c6b.jpg?itok=o-hBuLMw" width="1600"/>
+  </item>
   <item>
    <title>
     Leverkusen score last-gasp goal against Stuttgart to stretch record unbeaten run
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Singapore Airlines ordered to pay S$3,580 to couple in India over faulty seats: Reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singapore-airlines-sia-ordered-pay-3580-couple-india-faulty-recline-business-class-seats-4297401
-   </link>
-   <description>
-    <![CDATA[The couple's business class seats had failed to electronically recline during their journey from Hyderabad to Australia via Singapore last year.]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 23:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singapore-airlines-sia-ordered-pay-3580-couple-india-faulty-recline-business-class-seats-4297401
-   </guid>
-   <category>
-    Singapore ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--chb65qkq--/c_crop,h_450,w_800,x_0,y_65/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-11-10t090054z_1_lynxmpeja907k_rtroptp_3_asia-airlines-outlook.jpg?itok=hjxr4PA8" width="1600"/>
   </item>
  </channel>
 </rss>
