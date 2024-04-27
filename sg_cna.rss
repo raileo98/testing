@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 16:51:02 +0800
+   Sat, 27 Apr 2024 17:07:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Taiwan reports Chinese military activity after Blinken leaves Beijing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/taiwan-china-military-activity-blinken-beijing-visit-4296946
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 17:04:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/taiwan-china-military-activity-blinken-beijing-visit-4296946
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5zpjWZLr--/c_crop,h_562,w_1000,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/china_taiwan_border_tensions_49014.jpg?itok=lDDuX3Et" width="1600"/>
+  </item>
   <item>
    <title>
     Philippines denies deal with China over disputed South China Sea shoal
@@ -438,27 +459,6 @@
     Travel ,CNA Lifestyle ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Li__QuIT--/c_crop,h_843,w_1500,x_0,y_168/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/04/hero-jeep-adventure-vietnam-new.jpg?itok=2a-fxtl8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Leeds manager Farke determined to fight on for promotion despite QPR defeat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/leeds-manager-farke-determined-fight-promotion-despite-qpr-defeat-4296621
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 07:18:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/leeds-manager-farke-determined-fight-promotion-despite-qpr-defeat-4296621
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9WH0zLQ4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-26t231821z_1_lynxnpek3p0tf_rtroptp_3_soccer-england-mid-lee-report.jpg?itok=S6oV1vST" width="1600"/>
   </item>
  </channel>
 </rss>
