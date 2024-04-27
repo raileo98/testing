@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 28 Apr 2024 01:10:08 +0800
+   Sun, 28 Apr 2024 01:30:14 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 27 Apr 2024 23:09:55 +0800
+   Sun, 28 Apr 2024 01:16:54 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日本藥廠極東檢測造假　本港衞生署指涉事產品非本港註冊藥劑製品
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750867-20240428.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750867-20240428.htm
+   </link>
+   <description>
+    <![CDATA[在日本生產知名腸胃藥正露丸的製藥商極東公司，檢測報告被揭造假，被地方政府勒令暫時停賣停產。
+
+本港衞生署回覆查詢時表示，署方早前透過網上監察，已得悉有關產品因應其中一項主要成分的含量不符合質量標準，在其他地方進行回收，並已把相關資料上載於藥物辦公室網頁，涉事產品不是本港註冊藥劑製品或註冊中成藥。
+
+衞生署又說，根據藥劑製品註冊紀錄，本港現時有4款以正露丸名稱註冊的藥劑製品，主要成分為木餾油，當中有一款是極東生產的正露丸，但成分與涉事產品並不相同，衞生署正聯絡註冊持有人，以了解事件會否影響其註冊的藥劑製品。
+
+另外，根據中成藥註冊紀錄，有9隻純中藥成分及名稱包含「正露丸」的註冊中成藥。衞生署至今無收到相關藥品的不良反應報告。]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 01:16:54 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     警方上水及粉嶺打擊非法駕駛電動單車　拘捕4人
@@ -437,23 +460,6 @@
    </description>
    <pubDate>
     Sat, 27 Apr 2024 16:46:55 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    小巴八鄉失控翻側6人傷送院治理
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750826-20240427.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750826-20240427.htm
-   </link>
-   <description>
-    <![CDATA[一輛小巴下午近4時在元朗八鄉近蓮花地119號對開，失控翻側，車上5女1男受傷，送院治理。]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 16:43:12 +0800
    </pubDate>
   </item>
  </channel>
