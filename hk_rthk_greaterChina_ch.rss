@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 27 Apr 2024 18:20:17 +0800
+   Sat, 27 Apr 2024 18:30:21 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 27 Apr 2024 18:19:01 +0800
+   Sat, 27 Apr 2024 18:27:04 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    廣東最大的新豐江水庫　時隔18年再次開閘洩洪
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750840-20240427.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750840-20240427.htm
+   </link>
+   <description>
+    <![CDATA[受持續強降雨影響，廣東最大的新豐江水庫水位持續上升，經相關部門會商決定，今日中午開閘洩洪，是時隔18年再次洩洪。相關部門提醒，東江沿河設施、船隻、人員、電站要加強管理，沿河公眾要遠離河道行洪範圍，加強安全防範。
+
+廣東省氣象局預測，粵北大部分地區、珠江三角洲和粵東市縣，今明兩日有中到強雷雨，局部地區暴雨。下周一晚至下周三，廣東省由北向南又會有一次暴雨局部大暴雨過程。]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 18:27:04 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     許正宇明啟程往北京出席中關村論壇
@@ -451,27 +470,6 @@
    </description>
    <pubDate>
     Fri, 26 Apr 2024 20:24:19 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    中美達成五點共識　包括舉行人工智能政府間對話首次會議
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750722-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750722-20240426.htm
-   </link>
-   <description>
-    <![CDATA[中共中央政治局委員兼外長王毅，在北京與美國國務卿布林肯會談，雙方形成五點共識，包括舉行中美人工智能政府間對話首次會議；推進中美關係指導原則磋商；舉行新一輪中美亞太事務磋商、中美海洋事務磋商；繼續展開中美領事磋商。中美禁毒工作小組將舉行高官會，美方歡迎中國氣候變化事務特使劉振民訪美。
-
-雙方同意加速落實兩國元首在三藩市會晤達成的重要共識；同意維持高層交往和各層級接觸，繼續發揮已恢復和新建的外交、經濟、金融、商務等領域諮詢機制作用，繼續展開兩軍交往；進一步推進中美禁毒、氣候變化、人工智能合作。
-
-雙方同意擴大兩國人文交流，歡迎對方國家留學生，辦好5月在西安舉行的中美旅遊高層對話，就國際地區熱點問題保持協商，雙方特使加強溝通。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 18:54:10 +0800
    </pubDate>
   </item>
  </channel>
