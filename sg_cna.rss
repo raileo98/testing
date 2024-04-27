@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 06:33:30 +0800
+   Sun, 28 Apr 2024 06:39:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    PCF Sparkletots at Joo Chiat launches outdoor learning programme with obstacle course, animal care
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/pcf-sparkletots-joo-chiat-preschool-outdoor-learning-edwin-tong-marine-parade-general-election-4296846
+   </link>
+   <description>
+    <![CDATA[At the official launch of the programme, Community, Culture and Youth Minister Edwin Tong also said the Marine Parade GRC team is "always preparing" and "working on the ground" in the lead-up to the next General Election. ]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 06:35:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/pcf-sparkletots-joo-chiat-preschool-outdoor-learning-edwin-tong-marine-parade-general-election-4296846
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mybPzn7p--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/27/dsc00506.jpg?itok=2RonsYOD" width="1600"/>
+  </item>
   <item>
    <title>
     IN FOCUS: A sport which can produce champions or a niche pastime - what is golf’s future in Singapore?
@@ -165,27 +186,6 @@
     People ,Experiences ,Travel ,Women ,CNA Luxury
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QwiIkCIN--/c_crop,h_843,w_1500,x_0,y_64/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/puri_and_sekaraya_hadiprana_tanah_gajah_resort_bali_ubud.jpg?itok=v2BG-Csv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Don’t let Singapore’s record low workplace fatality rate be a ‘one-hit wonder’
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/singapore-workplace-death-rate-safety-workers-importance-speak-4294796
-   </link>
-   <description>
-    <![CDATA[Fear of retaliation can hinder the willingness of workers to voice concerns regarding safety, say SUSS’ Victor Seah and Angela Tan.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/singapore-workplace-death-rate-safety-workers-importance-speak-4294796
-   </guid>
-   <category>
-    Commentary ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F_lfOzOU--/c_crop,h_576,w_1024,x_0,y_58/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021/11/15/000_9r96mm.jpg?itok=PI7TV8dk" width="1600"/>
   </item>
   <item>
    <title>
@@ -357,6 +357,27 @@
   </item>
   <item>
    <title>
+    Commentary: Don’t let Singapore’s record low workplace fatality rate be a ‘one-hit wonder’
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/singapore-workplace-death-rate-safety-workers-importance-speak-4294796
+   </link>
+   <description>
+    <![CDATA[Fear of retaliation can hinder the willingness of workers to voice concerns regarding safety, say SUSS’ Victor Seah and Angela Tan.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/singapore-workplace-death-rate-safety-workers-importance-speak-4294796
+   </guid>
+   <category>
+    Commentary ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F_lfOzOU--/c_crop,h_576,w_1024,x_0,y_58/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021/11/15/000_9r96mm.jpg?itok=PI7TV8dk" width="1600"/>
+  </item>
+  <item>
+   <title>
     Atletico increase lead over Athletic Bilbao with 3-1 win
    </title>
    <link>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GUyimVkZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t171530z_2_lynxmpek3q06f_rtroptp_3_israel-palestinians-un-rights.jpg?itok=8tnJOwln" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US State Secretary Blinken to travel to Saudi Arabia next week
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-state-secretary-blinken-travel-saudi-arabia-next-week-4297596
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 04:11:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-state-secretary-blinken-travel-saudi-arabia-next-week-4297596
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
