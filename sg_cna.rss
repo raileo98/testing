@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 04:28:47 +0800
+   Sun, 28 Apr 2024 04:39:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hamas releases video of two hostages calling for Gaza deal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/hamas-releases-video-two-hostages-calling-gaza-deal-4297726
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 04:37:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/hamas-releases-video-two-hostages-calling-gaza-deal-4297726
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GUyimVkZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t171530z_2_lynxmpek3q06f_rtroptp_3_israel-palestinians-un-rights.jpg?itok=8tnJOwln" width="1600"/>
+  </item>
   <item>
    <title>
     US State Secretary Blinken to travel to Saudi Arabia next week
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TFC5ut-2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t161355z_1_lynxmpek3q05v_rtroptp_3_soccer-england-new-shu-report.jpg?itok=JFyeh_S3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Late penalty gives relegation-threatened Burnley draw with Man United
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/late-penalty-gives-relegation-threatened-burnley-draw-man-united-4297471
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 00:09:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/late-penalty-gives-relegation-threatened-burnley-draw-man-united-4297471
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zYybdTL2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t160959z_1_lynxmpek3q05u_rtroptp_3_soccer-england-mun-bur-report.jpg?itok=wxLfpR8d" width="1600"/>
   </item>
  </channel>
 </rss>
