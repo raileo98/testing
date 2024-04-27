@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 05:21:45 +0800
+   Sun, 28 Apr 2024 05:27:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Atletico increase lead over Athletic Bilbao with 3-1 win
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/atletico-increase-lead-over-athletic-bilbao-3-1-win-4297871
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 05:20:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/atletico-increase-lead-over-athletic-bilbao-3-1-win-4297871
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    PSG forced to wait for title win after thrilling 3-3 draw with Le Havre
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/psg-forced-wait-title-win-after-thrilling-3-3-draw-le-havre-4297876
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 05:18:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/psg-forced-wait-title-win-after-thrilling-3-3-draw-le-havre-4297876
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Stunning Gallagher goal gives Chelsea 2-2 draw away to Aston Villa
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Rh0krYN7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t172050z_1_lynxmpek3q06i_rtroptp_3_autos-jaguarlandrover-racing-formulae.jpg?itok=hOjseipN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    20 Cambodian soldiers killed in ammunition base explosion
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/20-cambodian-soldiers-killed-ammunition-base-explosion-4297446
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 01:14:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/20-cambodian-soldiers-killed-ammunition-base-explosion-4297446
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BqGcDKtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c15d63a8c7ed73ddd01373bcc1d2229de95ce7eb.jpg?itok=FC4orkA1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Wolves dent Luton's Premier League survival hopes with 2-1 win
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/wolves-dent-lutons-premier-league-survival-hopes-2-1-win-4297506
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 00:23:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/wolves-dent-lutons-premier-league-survival-hopes-2-1-win-4297506
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
