@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 05:11:32 +0800
+   Sun, 28 Apr 2024 05:21:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Stunning Gallagher goal gives Chelsea 2-2 draw away to Aston Villa
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/stunning-gallagher-goal-gives-chelsea-2-2-draw-away-aston-villa-4297851
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 05:11:30 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/stunning-gallagher-goal-gives-chelsea-2-2-draw-away-aston-villa-4297851
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Hamas releases video of two hostages calling for Gaza deal
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Newcastle romp to 5-1 win and relegate Sheffield United
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/newcastle-romp-5-1-win-and-relegate-sheffield-united-4297481
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 00:13:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/newcastle-romp-5-1-win-and-relegate-sheffield-united-4297481
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TFC5ut-2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t161355z_1_lynxmpek3q05v_rtroptp_3_soccer-england-new-shu-report.jpg?itok=JFyeh_S3" width="1600"/>
   </item>
  </channel>
 </rss>
