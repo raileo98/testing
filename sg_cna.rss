@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 27 Apr 2024 19:41:03 +0800
+   Sat, 27 Apr 2024 19:49:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Russia hits Ukrainian energy sites in 'massive' overnight attack
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-hits-ukraine-energy-sites-overnight-attack-4297166
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 27 Apr 2024 19:46:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-hits-ukraine-energy-sites-overnight-attack-4297166
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--evXEse6A--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t113613z_1_lynxmpek3q03h_rtroptp_3_ukraine-crisis-attack-kharkiv.jpg?itok=zBWykFj9" width="1600"/>
+  </item>
   <item>
    <title>
     Home-hero Marquez seizes pole at Spanish GP
@@ -438,27 +459,6 @@
     Wellness ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qF1-J88R--/c_crop,h_900,w_1600,x_0,y_144/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/istock-1204368772.jpg?itok=Bj2vB2oQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sand dunes, ziplines, water rafting: Vietnam’s south-central coast is perfect for adrenaline junkies
-   </title>
-   <link>
-    https://www.channelnewsasia.com/travel/vietnam-phan-thiet-cam-ranh-4239671
-   </link>
-   <description>
-    <![CDATA[Beyond the usual Vietnam cafe-hopping and city jaunts, experience the adventurous side of the country’s south-central coast in Phan Thiet and Cam Ranh.]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 08:12:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/travel/vietnam-phan-thiet-cam-ranh-4239671
-   </guid>
-   <category>
-    Travel ,CNA Lifestyle ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Li__QuIT--/c_crop,h_843,w_1500,x_0,y_168/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/04/hero-jeep-adventure-vietnam-new.jpg?itok=2a-fxtl8" width="1600"/>
   </item>
  </channel>
 </rss>
