@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 16:48:12 +0800
+   Sun, 28 Apr 2024 16:58:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pope Francis meets prisoners and artists in first visit to Venice
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/pope-francis-meets-prisoners-artist-first-visit-venice-4298001
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 16:56:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/pope-francis-meets-prisoners-artist-first-visit-venice-4298001
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4BJraAYQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t083922z_943498598_rc2kf7adcex6_rtrmadp_3_pope-venice.jpg?itok=CAGYmsby" width="1600"/>
+  </item>
   <item>
    <title>
     Bangladesh reopens schools despite heat alert
@@ -438,27 +459,6 @@
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cMDjtxIC--/c_crop,h_720,w_1280,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/chef_tariq_helou_of_fleurette_restaurant.jpeg?itok=6dVgiBU4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    BTS’ RM announces new solo album, Right Place, Wrong Person
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/bts-rm-solo-album-right-place-wrong-person-4296771
-   </link>
-   <description>
-    <![CDATA[The BTS superstar will release the record on May 24 and pre-orders opened on Apr 26.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 09:28:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/bts-rm-solo-album-right-place-wrong-person-4296771
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yr8F4GrL--/c_crop,h_562,w_1000,x_0,y_14/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/the_stream_50360.jpg?itok=QRJ9ICdm" width="1600"/>
   </item>
  </channel>
 </rss>
