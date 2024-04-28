@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 04:46:12 +0800
+   Mon, 29 Apr 2024 04:56:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Russia's absence boosts US hopes of striking Olympic gold in artistic swimming
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/russias-absence-boosts-us-hopes-striking-olympic-gold-artistic-swimming-4299071
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 04:44:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/russias-absence-boosts-us-hopes-striking-olympic-gold-artistic-swimming-4299071
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KT6sFprs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t204426z_2_lynxmpek3r0ae_rtroptp_3_olympics-2024-swimming.jpg?itok=sY_dqENn" width="1600"/>
+  </item>
   <item>
    <title>
     Man City extend WSL lead, Bristol City relegated
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZvD6RIRo--/c_fill,h_900,w_1600/f_auto,q_auto/kiria-tikanah--nus.jpg?itok=yQTCUdKX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bagnaia wins thrilling Spanish GP as Martin crashes out
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bagnaia-wins-thrilling-spanish-gp-martin-crashes-out-4298581
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 21:01:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bagnaia-wins-thrilling-spanish-gp-martin-crashes-out-4298581
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ghyVto7U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t130155z_1_lynxmpek3r04a_rtroptp_3_motor-motogp-spain.jpg?itok=DLOj-j2d" width="1600"/>
   </item>
  </channel>
 </rss>
