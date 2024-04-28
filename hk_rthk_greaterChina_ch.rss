@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 28 Apr 2024 19:20:18 +0800
+   Sun, 28 Apr 2024 19:30:57 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 28 Apr 2024 18:29:13 +0800
+   Sun, 28 Apr 2024 19:23:36 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    李強在北京會見到訪的馬斯克
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750940-20240428.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750940-20240428.htm
+   </link>
+   <description>
+    <![CDATA[在北京，國務院總理李強會見到訪的美國電動汽車生產商特斯拉首席執行官馬斯克。]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 19:23:36 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     特區政府歡迎內地優化赴港澳商務簽注等安排　稱有助吸引內地人才
@@ -447,25 +464,6 @@
    </description>
    <pubDate>
     Sat, 27 Apr 2024 19:13:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    廣東最大的新豐江水庫　時隔18年再次開閘洩洪
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750840-20240427.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750840-20240427.htm
-   </link>
-   <description>
-    <![CDATA[受持續強降雨影響，廣東最大的新豐江水庫水位持續上升，經相關部門會商決定，今日中午開閘洩洪，是時隔18年再次洩洪。相關部門提醒，東江沿河設施、船隻、人員、電站要加強管理，沿河公眾要遠離河道行洪範圍，加強安全防範。
-
-廣東省氣象局預測，粵北大部分地區、珠江三角洲和粵東市縣，今明兩日有中到強雷雨，局部地區暴雨。下周一晚至下周三，廣東省由北向南又會有一次暴雨局部大暴雨過程。]]>
-   </description>
-   <pubDate>
-    Sat, 27 Apr 2024 18:27:04 +0800
    </pubDate>
   </item>
  </channel>
