@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 04:31:48 +0800
+   Mon, 29 Apr 2024 04:41:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pro-Palestinian protests keep roiling US college campuses
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/pro-palestinian-protests-keep-roiling-us-college-campuses-4298861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 04:33:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/pro-palestinian-protests-keep-roiling-us-college-campuses-4298861
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a0-hREKy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t194614z_1_lynxmpek3r094_rtroptp_3_israel-palestinians-usa-protests.jpg?itok=neeLrHmG" width="1600"/>
+  </item>
   <item>
    <title>
     Relentless Man City keep pressure on Arsenal in Premier League title race
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Villas-Boas elected Porto president
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/villas-boas-elected-porto-president-4298511
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 19:44:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/villas-boas-elected-porto-president-4298511
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sY9E11R5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t114423z_2_lynxmpek3r03n_rtroptp_3_soccer-portugal-por-election.jpg?itok=bEKks1ay" width="1600"/>
   </item>
  </channel>
 </rss>
