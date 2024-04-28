@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 05:40:24 +0800
+   Mon, 29 Apr 2024 06:01:42 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 28 Apr 2024 23:55:23 +0800
+   Mon, 29 Apr 2024 05:41:47 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股本周關注聯儲局議息、非農數據、蘋果及亞馬遜等業績
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1750962-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1750962-20240429.htm
+   </link>
+   <description>
+    <![CDATA[美股3大指數上周造好，納斯達克指數及標準普爾500指數分別結束連續4周及3周跌勢，全星期升逾4%及近3%，同樣創去年11月後最大單星期升幅。道瓊斯指數上周升約0.7%，連升兩周。
+
+本周焦點在於聯儲局議息，將於香港時間星期四凌晨公布，市場普遍預料維持利率不變，關注議息聲明及主席鮑威爾在記者會上的發言。
+
+周五將有美國4月非農業新增職位，估計有21萬個，少於3月的30.3萬個，失業率預料維持於3.8%。其他美國數據包括3月建築開支、工廠訂單，以及4月製造業及服務業採購經理指數(PMI)。
+
+亞馬遜、蘋果、AMD、高通、輝瑞、可口可樂、麥當勞、3M等美股本周公布業績。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 05:41:47 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     特斯拉通過內地汽車數據安全4項全部要求　解除禁停禁行限制
@@ -469,31 +492,6 @@ Google母公司Alphabet季度業績好過市場預期，歷來首次宣布派息
    </description>
    <pubDate>
     Fri, 26 Apr 2024 22:43:06 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美股初段上升　納指升逾1%　Alphabet彈10%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750740-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750740-20240426.htm
-   </link>
-   <description>
-    <![CDATA[美股初段上升，納指在Google母公司Alphabet及微軟推動下升逾1%。
-
-道瓊斯指數較早時報38090點，升4點。
-
-納斯達克指數報15806點，升195點，升幅1.25%。
-
-標準普爾500指數報5080點，升31點，升幅0.63%。
-
-Alphabet及微軟上季業績好過預期，股價分別升10%及逾2%。]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 21:38:48 +0800
    </pubDate>
   </item>
  </channel>
