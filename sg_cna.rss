@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 19:41:20 +0800
+   Sun, 28 Apr 2024 19:49:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Villas-Boas elected Porto president
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/villas-boas-elected-porto-president-4298511
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 19:44:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/villas-boas-elected-porto-president-4298511
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sY9E11R5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t114423z_2_lynxmpek3r03n_rtroptp_3_soccer-portugal-por-election.jpg?itok=bEKks1ay" width="1600"/>
+  </item>
+  <item>
+   <title>
     Schools closed, warnings issued as Asia swelters in extreme heatwave
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[Extensive scientific research has found climate change is causing heat waves to become longer, more frequent and more intense.]]>
    </description>
    <pubDate>
-    Sun, 28 Apr 2024 19:40:45 +0800
+    Sun, 28 Apr 2024 19:40:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/extreme-heatwave-asia-thailand-philippines-india-temperature-record-4298476
@@ -438,27 +459,6 @@
     Asia ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i05xPodQ--/c_crop,h_2250,w_4000,x_0,y_44/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-26t024236z_1991230880_rc21e7a2kn5q_rtrmadp_3_asia-weather-philippines.jpg?itok=RNH_8BWd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    TikTok creators fear economic blow of US ban
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-tiktok-ban-creators-fear-economic-blow-4298191
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 14:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-tiktok-ban-creators-fear-economic-blow-4298191
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i1KyYY59--/c_crop,h_432,w_768,x_0,y_7/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/4954d52e7820d9d5615f81179fc3f8180b30142f.jpg?itok=DH_-PWu1" width="1600"/>
   </item>
  </channel>
 </rss>
