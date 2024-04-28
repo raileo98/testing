@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 04:10:17 +0800
+   Mon, 29 Apr 2024 04:21:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Relentless Man City keep pressure on Arsenal in Premier League title race
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/relentless-man-city-keep-pressure-arsenal-premier-league-title-race-4298966
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 04:20:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/relentless-man-city-keep-pressure-arsenal-premier-league-title-race-4298966
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4poEex0p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/649ff379202dc0a640332f46cdb8e06182a7978f.jpg?itok=OV1xCuCn" width="1600"/>
+  </item>
   <item>
    <title>
     Biden reiterated position on Rafah in Netanyahu call, says White House
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sY9E11R5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t114423z_2_lynxmpek3r03n_rtroptp_3_soccer-portugal-por-election.jpg?itok=bEKks1ay" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Schools closed, warnings issued as Asia swelters in extreme heatwave
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/extreme-heatwave-asia-thailand-philippines-india-temperature-record-4298476
-   </link>
-   <description>
-    <![CDATA[Extensive scientific research has found climate change is causing heat waves to become longer, more frequent and more intense.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 19:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/extreme-heatwave-asia-thailand-philippines-india-temperature-record-4298476
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gVCFScI1--/c_crop,h_576,w_1024,x_0,y_93/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/000_34qd23r.jpg?itok=YmWcXstH" width="1600"/>
   </item>
  </channel>
 </rss>
