@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 23:23:05 +0800
+   Sun, 28 Apr 2024 23:30:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bournemouth outclass Brighton to set club PL points record
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/bournemouth-outclass-brighton-set-club-pl-points-record-4298756
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 23:26:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/bournemouth-outclass-brighton-set-club-pl-points-record-4298756
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Arsenal stretch lead at top with 3-2 win at Spurs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arsenal-hang-beat-spurs-stretch-lead-top-4298746
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 23:23:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arsenal-hang-beat-spurs-stretch-lead-top-4298746
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Rare Bugatti supercars linked to 1MDB seized in Germany
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EAgMmv0u--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/1686f313588bd29a0e0bba9292c2dc9777944cd3.jpg?itok=Pg66ALXQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tornado kills 5 in flood-hit southern Chinese city of Guangzhou
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/tornado-kills-flood-hit-southern-chinese-city-guangzhou-guangdong-hailstorm-rainstorm-4298331
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 16:42:34 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/tornado-kills-flood-hit-southern-chinese-city-guangzhou-guangdong-hailstorm-rainstorm-4298331
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cKqa7rxe--/c_crop,h_2964,w_5270,x_0,y_335/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/000_34qd4bw.jpg?itok=xu12U2IH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    14 arrested for suspected involvement in vice-related activities after police raids on hotels, residences
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/14-arrested-vice-activities-police-raid-hotels-bras-basah-havelock-orchard-4298301
-   </link>
-   <description>
-    <![CDATA[The police raids were in the Bras Basah Road, Havelock Road, Shanghai Road and Orchard Road areas. ]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 16:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/14-arrested-vice-activities-police-raid-hotels-bras-basah-havelock-orchard-4298301
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eO_lNO9T--/c_crop,h_330,w_587,x_1,y_27/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/vice-related_paraphernalia_seized_during_the_operation.jpg?itok=_YTUY3fS" width="1600"/>
   </item>
  </channel>
 </rss>
