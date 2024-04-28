@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 09:11:10 +0800
+   Sun, 28 Apr 2024 10:03:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    BTS’ RM announces new solo album, Right Place, Wrong Person
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/bts-rm-solo-album-right-place-wrong-person-4296771
+   </link>
+   <description>
+    <![CDATA[The BTS superstar will release the record on May 24 and pre-orders opened on Apr 26.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 09:28:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/bts-rm-solo-album-right-place-wrong-person-4296771
+   </guid>
+   <category>
+    Entertainment ,CNA Lifestyle
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yr8F4GrL--/c_crop,h_562,w_1000,x_0,y_14/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/the_stream_50360.jpg?itok=QRJ9ICdm" width="1600"/>
+  </item>
+  <item>
+   <title>
+    BTS’ RM announces new solo album, Right Place, Wrong Person
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/bts-rm-solo-album-right-place-wrong-person-4296771
+   </link>
+   <description>
+    <![CDATA[The BTS superstar will release the record on May 24 and pre-orders opened on Apr 26.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 09:28:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/bts-rm-solo-album-right-place-wrong-person-4296771
+   </guid>
+   <category>
+    Entertainment ,CNA Lifestyle
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yr8F4GrL--/c_crop,h_562,w_1000,x_0,y_14/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/the_stream_50360.jpg?itok=QRJ9ICdm" width="1600"/>
+  </item>
   <item>
    <title>
     Could eating less help you live longer? Here's what ageing experts have to say
@@ -417,48 +459,6 @@
     People ,Experiences ,Travel ,Women ,CNA Luxury
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QwiIkCIN--/c_crop,h_843,w_1500,x_0,y_64/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/puri_and_sekaraya_hadiprana_tanah_gajah_resort_bali_ubud.jpg?itok=v2BG-Csv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Don’t let Singapore’s record low workplace fatality rate be a ‘one-hit wonder’
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/singapore-workplace-death-rate-safety-workers-importance-speak-4294796
-   </link>
-   <description>
-    <![CDATA[Fear of retaliation can hinder the willingness of workers to voice concerns regarding safety, say SUSS’ Victor Seah and Angela Tan.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/singapore-workplace-death-rate-safety-workers-importance-speak-4294796
-   </guid>
-   <category>
-    Commentary ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F_lfOzOU--/c_crop,h_576,w_1024,x_0,y_58/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021/11/15/000_9r96mm.jpg?itok=PI7TV8dk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: New ‘cold war’ grows ever warmer as prospects of a nuclear arms race heat up
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/nuclear-weapon-global-threat-russia-china-north-korea-iran-4294901
-   </link>
-   <description>
-    <![CDATA[Leaders from Russian president Vladimir Putin to former US president Donald Trump have carelessly returned nuclear warfare to the table as a viable strategy, says a University of Bradford academic.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/nuclear-weapon-global-threat-russia-china-north-korea-iran-4294901
-   </guid>
-   <category>
-    Commentary ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--J-4jieZD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/russia_putin_69837.jpg?itok=awhoolUl" width="1600"/>
   </item>
  </channel>
 </rss>
