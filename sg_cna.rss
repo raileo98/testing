@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 01:51:40 +0800
+   Mon, 29 Apr 2024 02:11:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ukraine pulls back from three villages as eastern front worsens, top commander says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/ukraine-pulls-back-three-villages-eastern-front-worsens-top-commander-says-4298856
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 02:02:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/ukraine-pulls-back-three-villages-eastern-front-worsens-top-commander-says-4298856
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QsZ-LR1E--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-13t135925z_3_lynxnpek3c03e_rtroptp_3_ukraine-crisis-syrskyi.jpg?itok=o_Rmx5m0" width="1600"/>
+  </item>
   <item>
    <title>
     Manchester City keep pressure on Arsenal with 2-0 win over Forest
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--unG9cf_O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t100616z_1_lynxmpek3r02w_rtroptp_3_britain-royals-harry-invictus.jpg?itok=wG1yITvX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thai ex-executive Pichai named finance minister, faces growth challenge
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thai-ex-executive-pichai-chunhavajira-new-finance-minister-takes-over-srettha-thavisin-4298266
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 17:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thai-ex-executive-pichai-chunhavajira-new-finance-minister-takes-over-srettha-thavisin-4298266
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IElN4Smq--/c_crop,h_238,w_424,x_0,y_8/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/image_79.png?itok=mi6oc2E_" width="1600"/>
   </item>
  </channel>
 </rss>
