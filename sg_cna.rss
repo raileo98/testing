@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 02:20:52 +0800
+   Mon, 29 Apr 2024 02:35:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Napoli held to a draw by Roma after late Abraham header
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/napoli-held-draw-roma-after-late-abraham-header-4298906
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 02:22:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/napoli-held-draw-roma-after-late-abraham-header-4298906
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ukraine pulls back from three villages as eastern front worsens, top commander says
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e9BdA6pY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t100932z_1_lynxmpek3r02y_rtroptp_3_japan-economy-jobs.jpg?itok=8yBSmRHJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Prince Harry due in London, then Nigeria with Meghan
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/prince-harry-due-london-then-nigeria-meghan-4298451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 18:06:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/prince-harry-due-london-then-nigeria-meghan-4298451
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--unG9cf_O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t100616z_1_lynxmpek3r02w_rtroptp_3_britain-royals-harry-invictus.jpg?itok=wG1yITvX" width="1600"/>
   </item>
  </channel>
 </rss>
