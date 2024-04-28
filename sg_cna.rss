@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 23:38:09 +0800
+   Sun, 28 Apr 2024 23:45:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Saka shares relief as Arsenal hold off Spurs fightback
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/saka-shares-relief-arsenal-hold-spurs-fightback-4298761
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 23:37:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/saka-shares-relief-arsenal-hold-spurs-fightback-4298761
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TiqLVfI_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t153724z_1_lynxmpek3r066_rtroptp_3_soccer-england-tot-ars-report.jpg?itok=F9cQOc7V" width="1600"/>
+  </item>
   <item>
    <title>
     Bournemouth outclass Brighton to set club PL points record
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5Y4w7rKQ--/c_crop,h_900,w_1600,x_0,y_144/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t083922z_943498598_rc2kf7adcex6_rtrmadp_3_pope-venice.jpg?itok=CAGYmsby" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bangladesh reopens schools despite heat alert
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/bangladesh-heat-hot-weather-schools-reopen-4298296
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 16:42:38 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/bangladesh-heat-hot-weather-schools-reopen-4298296
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EAgMmv0u--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/1686f313588bd29a0e0bba9292c2dc9777944cd3.jpg?itok=Pg66ALXQ" width="1600"/>
   </item>
  </channel>
 </rss>
