@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 13:26:32 +0800
+   Sun, 28 Apr 2024 13:35:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    NZ coach proud of T20 fightback in Pakistan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/nz-coach-proud-t20-fightback-pakistan-4298251
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 13:27:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/nz-coach-proud-t20-fightback-pakistan-4298251
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eGocMRaV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t052720z_1_lynxmpek3r00u_rtroptp_3_cricket-worldcup.jpg?itok=yAmyBBHQ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Man Utd's Ten Hag defends decision to substitute Mainoo, Hojlund
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-utds-ten-hag-defends-decision-substitute-mainoo-hojlund-4298256
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 13:25:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-utds-ten-hag-defends-decision-substitute-mainoo-hojlund-4298256
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YPC-w-W9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t052542z_1_lynxmpek3r00t_rtroptp_3_soccer-england-mun-bur-report.jpg?itok=CkfpqSY0" width="1600"/>
+  </item>
   <item>
    <title>
     Gaza set to dominate Saudi-hosted global economy summit
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sE4YUlOm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-27t224518z_1_lynxmpek3q0a7_rtroptp_3_soccer-england-ava-che-report.jpg?itok=1qGXNIvH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PCF Sparkletots at Joo Chiat launches outdoor learning programme with obstacle course, animal care
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/pcf-sparkletots-joo-chiat-preschool-outdoor-learning-edwin-tong-marine-parade-general-election-4296846
-   </link>
-   <description>
-    <![CDATA[At the official launch of the programme, Minister for Culture, Community and Youth Edwin Tong also said the Marine Parade GRC team is "always preparing" and "working on the ground" in the lead-up to the next General Election.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/pcf-sparkletots-joo-chiat-preschool-outdoor-learning-edwin-tong-marine-parade-general-election-4296846
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mybPzn7p--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/27/dsc00506.jpg?itok=2RonsYOD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    IN FOCUS: With all public courses set to close, what is golf's future in Singapore?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/golf-singapore-sport-rich-hobby-courses-4294236
-   </link>
-   <description>
-    <![CDATA[As the number of public golf courses dwindles, CNA explores whether interest in the sport can continue to flourish in Singapore]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 06:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/golf-singapore-sport-rich-hobby-courses-4294236
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hUPPXIyC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/istock-157196155_0.jpg?itok=Ks4TJUN3" width="1600"/>
   </item>
  </channel>
 </rss>
