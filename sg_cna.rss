@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 01:28:31 +0800
+   Mon, 29 Apr 2024 01:35:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pakistan PM discusses new loan programme with IMF chief, says statement
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/pakistan-pm-discusses-new-loan-programme-imf-chief-says-statement-4298721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 01:32:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/pakistan-pm-discusses-new-loan-programme-imf-chief-says-statement-4298721
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7an1GiGJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t150448z_1_lynxmpek3r05o_rtroptp_3_saudi-davos.jpg?itok=Qr-9gNCo" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Tottenham need Romero qualities, says Postecoglou
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/tottenham-need-romero-qualities-says-postecoglou-4298841
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 01:23:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/tottenham-need-romero-qualities-says-postecoglou-4298841
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Arsenal must keep feet on the ground after Spurs win says Arteta
@@ -417,48 +459,6 @@
     Asia ,World ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o_7eIfWK--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-11t155941z_3_lynxnpek2a0cn_rtroptp_3_tesla-autopilot-lawsuits.jpg?itok=iWnOqT5g" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tesla CEO Elon Musk meets China's Premier Li Qiang in Beijing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/elon-musk-tesla-ceo-beijing-china-premier-li-qiang-ev-4298386
-   </link>
-   <description>
-    <![CDATA[Elon Musk has extensive business interests in China and his most recent visit was in June last year.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 17:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/elon-musk-tesla-ceo-beijing-china-premier-li-qiang-ev-4298386
-   </guid>
-   <category>
-    Asia ,World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o_7eIfWK--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-11t155941z_3_lynxnpek2a0cn_rtroptp_3_tesla-autopilot-lawsuits.jpg?itok=iWnOqT5g" width="1600"/>
-  </item>
-  <item>
-   <title>
-    As tourists move in, Italians are squeezed out on holiday island of Capri
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/tourism-italy-capri-crowded-rent-locals-cost-4298336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 17:10:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/tourism-italy-capri-crowded-rent-locals-cost-4298336
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--C5bjAVwi--/c_crop,h_900,w_1600,x_0,y_240/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t061021z_1192686949_rc2097a3nb8u_rtrmadp_3_italy-tourism.jpg?itok=Y8vkUCXa" width="1600"/>
   </item>
  </channel>
 </rss>
