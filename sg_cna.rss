@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 18:18:46 +0800
+   Sun, 28 Apr 2024 18:29:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ukrainian 'Grandpa' leads over-60s unit fighting Russian forces for free
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-ukraine-war-grandpa-over-60s-unit-fight-free-4298416
+   </link>
+   <description>
+    <![CDATA[The unit is funded by donations and stocked with faulty rounds they repair themselves as well as weapons captured from the enemy.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 18:29:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-ukraine-war-grandpa-over-60s-unit-fight-free-4298416
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SkY1jUIJ--/c_crop,h_900,w_1600,x_0,y_88/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t101745z_1_lynxmpek3r033_rtroptp_4_ukraine-crisis-volunteers.jpg?itok=04p1sAay" width="1600"/>
+  </item>
   <item>
    <title>
     Elliott has built ‘large’ stake in Sumitomo, Bloomberg reports
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z4pKbum9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t061953z_1_lynxmpek3r012_rtroptp_3_awards-kidschoicesport.jpg?itok=zoAXP5cC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US Fed to meet amid dwindling hopes of summer rate cuts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-fed-meet-amid-dwindling-hopes-summer-rate-cuts-4298206
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 14:08:43 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-fed-meet-amid-dwindling-hopes-summer-rate-cuts-4298206
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3H2OQCjc--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/1e21e5da51e89bd391a292160ce86b4aeb98cf6a.jpg?itok=8sLnA_O5" width="1600"/>
   </item>
  </channel>
 </rss>
