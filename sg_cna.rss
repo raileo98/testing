@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 03:11:09 +0800
+   Mon, 29 Apr 2024 03:25:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Luis Enrique's experimental season brings PSG 12th Ligue 1 title and maybe more
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/luis-enriques-experimental-season-brings-psg-12th-ligue-1-title-and-maybe-more-4298936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 03:13:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/luis-enriques-experimental-season-brings-psg-12th-ligue-1-title-and-maybe-more-4298936
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fHJGoZ18--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t191322z_1_lynxmpek3r08j_rtroptp_3_soccer-france-psg-leh-report.jpg?itok=SNa0rjEs" width="1600"/>
+  </item>
+  <item>
+   <title>
+    PSG clinch record-extending 12th Ligue 1 title after Monaco lose at Lyon
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/psg-clinch-record-extending-12th-ligue-1-title-after-monaco-lose-lyon-4298941
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 03:11:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/psg-clinch-record-extending-12th-ligue-1-title-after-monaco-lose-lyon-4298941
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zBD9ZYb5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t191152z_1_lynxmpek3r08i_rtroptp_3_soccer-france-psg-leh-report.jpg?itok=xbA3J_DB" width="1600"/>
+  </item>
   <item>
    <title>
     Napoli held to a draw by Roma after late Abraham header
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--alf1Tzwt--/c_crop,h_432,w_768,x_0,y_8/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/655de45e1cec64b62b5705e0f03593ad08439627.jpg?itok=xSQrtsIr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ukrainian 'Grandpa' leads over-60s unit fighting Russian forces for free
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/russia-ukraine-war-grandpa-over-60s-unit-fight-free-4298416
-   </link>
-   <description>
-    <![CDATA[The unit is funded by donations and stocked with faulty rounds they repair themselves as well as weapons captured from the enemy.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 18:29:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/russia-ukraine-war-grandpa-over-60s-unit-fight-free-4298416
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SkY1jUIJ--/c_crop,h_900,w_1600,x_0,y_88/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t101745z_1_lynxmpek3r033_rtroptp_4_ukraine-crisis-volunteers.jpg?itok=04p1sAay" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Elliott has built ‘large’ stake in Sumitomo, Bloomberg reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/elliott-has-built-large-stake-sumitomo-bloomberg-reports-4298456
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 18:09:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/elliott-has-built-large-stake-sumitomo-bloomberg-reports-4298456
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e9BdA6pY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t100932z_1_lynxmpek3r02y_rtroptp_3_japan-economy-jobs.jpg?itok=8yBSmRHJ" width="1600"/>
   </item>
  </channel>
 </rss>
