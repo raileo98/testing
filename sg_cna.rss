@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 03:41:29 +0800
+   Mon, 29 Apr 2024 03:52:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Biden reiterated position on Rafah in Netanyahu call, says White House
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/biden-reiterated-position-rafah-netanyahu-call-says-white-house-4298886
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 03:48:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/biden-reiterated-position-rafah-netanyahu-call-says-white-house-4298886
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AOUdMaU3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t180452z_1_lynxmpek3r07q_rtroptp_3_israel-palestinians-usa-assistance.jpg?itok=Oh4Szepx" width="1600"/>
+  </item>
   <item>
    <title>
     Luis Enrique's experimental season brings PSG 12th Ligue 1 title and maybe more
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gVCFScI1--/c_crop,h_576,w_1024,x_0,y_93/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/000_34qd23r.jpg?itok=YmWcXstH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Push for truce ramps up as Israel pummels Gaza
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-gaza-war-truce-talks-hostage-release-gaza-air-strikes-4298436
-   </link>
-   <description>
-    <![CDATA[Palestinian President Mahmud Abbas has appealed to the US to stop Israel from invading Rafah, which he said would be "the biggest disaster in the history of the Palestinian people".]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 18:45:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-gaza-war-truce-talks-hostage-release-gaza-air-strikes-4298436
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--alf1Tzwt--/c_crop,h_432,w_768,x_0,y_8/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/655de45e1cec64b62b5705e0f03593ad08439627.jpg?itok=xSQrtsIr" width="1600"/>
   </item>
  </channel>
 </rss>
