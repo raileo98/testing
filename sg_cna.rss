@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 22:37:42 +0800
+   Sun, 28 Apr 2024 22:48:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rare Bugatti supercars linked to 1MDB seized in Germany
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/1mdb-bugatti-supercars-linked-seized-germany-malaysia-4298621
+   </link>
+   <description>
+    <![CDATA[The four cars are the Rembrandt edition Veyron, Black Bess, Jean-Pierre Wimille, and Meo Constantini. Each is valued at around US$3 million.]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 22:47:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/1mdb-bugatti-supercars-linked-seized-germany-malaysia-4298621
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EQal1hRs--/c_crop,h_900,w_1600,x_0,y_155/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/000_1op59h.jpg?itok=rkIuVIaz" width="1600"/>
+  </item>
   <item>
    <title>
     Singapore fencer Kiria Tikanah qualifies for Paris Olympics
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eO_lNO9T--/c_crop,h_330,w_587,x_1,y_27/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/vice-related_paraphernalia_seized_during_the_operation.jpg?itok=_YTUY3fS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bayern's Kane targets Bundesliga scoring record
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bayerns-kane-targets-bundesliga-scoring-record-4298321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 15:44:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bayerns-kane-targets-bundesliga-scoring-record-4298321
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XahffUvV--/c_crop,h_450,w_800,x_0,y_26/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t074411z_1_lynxmpek3r01h_rtroptp_3_soccer-germany-bay-sge-report.jpg?itok=N5Gq0rMc" width="1600"/>
   </item>
  </channel>
 </rss>
