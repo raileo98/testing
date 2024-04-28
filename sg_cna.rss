@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 17:50:43 +0800
+   Sun, 28 Apr 2024 18:01:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thai ex-executive Pichai named finance minister, faces growth challenge
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/thai-ex-executive-pichai-chunhavajira-new-finance-minister-takes-over-srettha-thavisin-4298266
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 17:51:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/thai-ex-executive-pichai-chunhavajira-new-finance-minister-takes-over-srettha-thavisin-4298266
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IElN4Smq--/c_crop,h_238,w_424,x_0,y_8/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/image_79.png?itok=mi6oc2E_" width="1600"/>
+  </item>
   <item>
    <title>
     Tesla CEO Elon Musk in China for talks
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eGocMRaV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t052720z_1_lynxmpek3r00u_rtroptp_3_cricket-worldcup.jpg?itok=yAmyBBHQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man Utd's Ten Hag defends decision to substitute Mainoo, Hojlund
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-utds-ten-hag-defends-decision-substitute-mainoo-hojlund-4298256
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 13:25:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-utds-ten-hag-defends-decision-substitute-mainoo-hojlund-4298256
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YPC-w-W9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t052542z_1_lynxmpek3r00t_rtroptp_3_soccer-england-mun-bur-report.jpg?itok=CkfpqSY0" width="1600"/>
   </item>
  </channel>
 </rss>
