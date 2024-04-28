@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 00:47:02 +0800
+   Mon, 29 Apr 2024 01:05:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arsenal must keep feet on the ground after Spurs win says Arteta
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arsenal-must-keep-feet-ground-after-spurs-win-says-arteta-4298821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 00:46:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arsenal-must-keep-feet-ground-after-spurs-win-says-arteta-4298821
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0SHVsm4P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t164636z_1_lynxmpek3r06r_rtroptp_3_soccer-england-tot-ars-report.jpg?itok=2U5XeNzm" width="1600"/>
+  </item>
   <item>
    <title>
     Lyon beat PSG to cruise into women's Champions League final
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--C5bjAVwi--/c_crop,h_900,w_1600,x_0,y_240/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t061021z_1192686949_rc2097a3nb8u_rtrmadp_3_italy-tourism.jpg?itok=Y8vkUCXa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pakistan appoint Kirsten, Gillespie as head coaches
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pakistan-appoint-kirsten-gillespie-head-coaches-4298376
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 17:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pakistan-appoint-kirsten-gillespie-head-coaches-4298376
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BpOmovsa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t090000z_1_lynxmpek3r025_rtroptp_3_conference-leaders.jpg?itok=7WPYnJ_0" width="1600"/>
   </item>
  </channel>
 </rss>
