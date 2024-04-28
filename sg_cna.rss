@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 28 Apr 2024 18:41:29 +0800
+   Sun, 28 Apr 2024 18:51:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Push for truce ramps up as Israel pummels Gaza
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-pummels-gaza-push-truce-ramps-rafah-hamas-war-4298436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 28 Apr 2024 18:45:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-pummels-gaza-push-truce-ramps-rafah-hamas-war-4298436
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JOK_gMYc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/655de45e1cec64b62b5705e0f03593ad08439627.jpg?itok=xSQrtsIr" width="1600"/>
+  </item>
   <item>
    <title>
     Ukrainian 'Grandpa' leads over-60s unit fighting Russian forces for free
@@ -438,27 +459,6 @@
     World ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i1KyYY59--/c_crop,h_432,w_768,x_0,y_7/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/4954d52e7820d9d5615f81179fc3f8180b30142f.jpg?itok=DH_-PWu1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Gymnastics-Olympic champion Douglas returns after eight-year absence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/gymnastics-olympic-champion-douglas-returns-after-eight-year-absence-4298281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 14:19:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/gymnastics-olympic-champion-douglas-returns-after-eight-year-absence-4298281
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z4pKbum9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t061953z_1_lynxmpek3r012_rtroptp_3_awards-kidschoicesport.jpg?itok=zoAXP5cC" width="1600"/>
   </item>
  </channel>
 </rss>
