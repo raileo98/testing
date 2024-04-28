@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 00:22:44 +0800
+   Mon, 29 Apr 2024 00:35:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Lyon beat PSG to cruise into women's Champions League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/lyon-beat-psg-cruise-womens-champions-league-final-4298801
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 00:20:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/lyon-beat-psg-cruise-womens-champions-league-final-4298801
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Saka shares relief as Arsenal hold off Spurs fightback
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BpOmovsa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t090000z_1_lynxmpek3r025_rtroptp_3_conference-leaders.jpg?itok=7WPYnJ_0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pope Francis visits Venice, says his work isn't easy
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/pope-francis-venice-first-visit-meets-prisoners-artists-4298001
-   </link>
-   <description>
-    <![CDATA[Pope Francis is set to embark on the longest foreign trip of his papacy, travelling to Indonesia, Papua New Guinea, Timor-Leste and Singapore from Sep 2 to Sep 13.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 16:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/pope-francis-venice-first-visit-meets-prisoners-artists-4298001
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5Y4w7rKQ--/c_crop,h_900,w_1600,x_0,y_144/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/2024-04-28t083922z_943498598_rc2kf7adcex6_rtrmadp_3_pope-venice.jpg?itok=CAGYmsby" width="1600"/>
   </item>
  </channel>
 </rss>
