@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 14:30:08 +0800
+   Mon, 29 Apr 2024 14:40:46 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 13:06:10 +0800
+   Mon, 29 Apr 2024 14:36:41 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    台股高收近2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751027-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751027-20240429.htm
+   </link>
+   <description>
+    <![CDATA[台灣股市造好。加權指數收市報20495點，升375點，升幅1.86%。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 14:36:41 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股下午初段升逾200點
@@ -461,23 +478,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 08:07:21 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股初段升逾0.6%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750973-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750973-20240429.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市初段靠穩，首爾綜合指數較早時報2673點，升17點，升幅0.64%。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 08:07:09 +0800
    </pubDate>
   </item>
  </channel>
