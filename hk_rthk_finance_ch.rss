@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 17:10:19 +0800
+   Mon, 29 Apr 2024 17:20:33 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 16:49:41 +0800
+   Mon, 29 Apr 2024 17:18:45 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    在岸人民幣兌美元收市變動不大
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751054-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751054-20240429.htm
+   </link>
+   <description>
+    <![CDATA[在岸人民幣兌美元收市報7.2467元兌1美元，下跌4點子，中間價創逾兩個月新低，與市場預測偏離擴大至逾1500點子。
+
+交易員說，市場預期美國將更長時間維持高利率，支持美元，日圓兌美元跌破160亦拖累人民幣走勢。不過，隨後疑似日本當局入市干預，觸發日圓顯著上升，帶動人民幣跌幅收窄。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 17:18:45 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股曾觸及18000點水平但未能企穩　恒指全日升95點
@@ -461,27 +480,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 09:58:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日圓曾失守160兌1美元　再創34年新低
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750987-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750987-20240429.htm
-   </link>
-   <description>
-    <![CDATA[日圓兌美元再創34年新低，日圓一度失守160兌1美元水平，低見160.03日圓，較早時報159.11日圓，跌幅約0.5%。
-
-每百日圓兌港元曾失守4.9，較早時報4.9186港元。
-
-美元指數微升，較早時報105.99，升約0.03%。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 09:53:42 +0800
    </pubDate>
   </item>
  </channel>

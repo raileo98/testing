@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 17:01:29 +0800
+   Mon, 29 Apr 2024 17:20:28 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 10:09:07 +0800
+   Mon, 29 Apr 2024 17:19:58 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,46 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong shares end up for sixth day
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751056-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751056-20240429.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks finished on a positive note on Monday for the sixth straight trading day, in line with gains across Asia and Wall Street ahead of a Federal Reserve policy decision later in the day.
+
+The Hang Seng Index added 0.5 percent, or 95 points, to 17,746.
+
+The Shanghai Composite Index gained 0.8 percent, or 24 points, to 3,113, while the Shenzhen Composite Index rose 2.3 percent, or 39 points, to 1,768. (AFP)]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 17:19:58 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    Local stocks end on another high
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751055-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751055-20240429.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks finished on a positive note on Monday for the sixth straight trading day, in line with gains across Asia and Wall Street ahead of a US Federal Reserve policy decision later in the day.
+
+The Hang Seng Index went above the 18,000 mark at one point before settling at 17,746 points. (AFP)]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 17:17:34 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks open higher as rally continues
@@ -584,60 +624,6 @@ However, the lower income was partially offset by strong derivatives trading, re
    </description>
    <pubDate>
     Wed, 24 Apr 2024 15:52:57 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks open higher, lifted by US market gains
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750275-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750275-20240424.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks extended gains into a third straight day on Wednesday following another strong advance on Wall Street as traders welcomed healthy earnings from US tech giants. 
-
-The Hang Seng Index climbed almost one percent to 16,993.
-
-The Shanghai Composite Index added 0.3 percent to 3,029, and the Shenzhen Composite Index was flat, inching up 0.01 points to 1,675. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 09:45:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    US stocks climb for 2nd straight day
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750252-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750252-20240424.htm
-   </link>
-   <description>
-    <![CDATA[Wall Street stocks rose for a second straight session on Tuesday, building on the prior day's positive momentum following a round of mostly good corporate earnings.
-
-General Electric, Spotify Technology and Kimberly-Clark were among the companies winning strong gains after quarterly reports.
-
-Briefing.com described the broad gains as "follow-through buying" after a rough period that generated talk that the market was "oversold" on a short-term basis.
-
-The Dow Jones finished up 0.7 percent at 38,503.
-
-The S&P 500 advanced 1.2 percent to 5,070, while the Nasdaq jumped 1.6 percent to 15,696.
-
-After last week's losses, US stocks began the week on Monday on a solid note, advancing amid relief that there was no escalation in tensions between Iran and Israel over the weekend.
-
-Among individual companies, General Motors shot up 4.4 percent as it lifted its full-year forecast following better than expected quarterly earnings. The automaker continued to point to solid pricing in the United States, which helped offset weakness in China.
-
-GE Aerospace gained 8.3 percent after lifting its projections after reporting an uptick in orders and operating profit.
-
-But JetBlue sank 18.9 percent as it projected lower revenues in the second quarter, noting that there is "significant elevated capacity" in the company's Latin region, pressuring results. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 04:54:16 +0800
    </pubDate>
   </item>
  </channel>
