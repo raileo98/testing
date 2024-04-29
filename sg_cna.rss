@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 03:36:23 +0800
+   Tue, 30 Apr 2024 03:49:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Who is Humza Yousaf, first UK Muslim party leader, ex head SNP
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/who-humza-yousaf-first-uk-muslim-party-leader-ex-head-snp-4301551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 03:47:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/who-humza-yousaf-first-uk-muslim-party-leader-ex-head-snp-4301551
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XnnPwlv7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t154247z_1_lynxmpek3s0kq_rtroptp_3_scotland-snp-government-yousaf.jpg?itok=6IzAy90J" width="1600"/>
+  </item>
   <item>
    <title>
     Tyson v Paul sanctioned as professional fight
@@ -438,27 +459,6 @@
     Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DQ68A4Rb--/c_crop,h_432,w_768,x_0,y_74/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/45c5577ae288d6109114114dc6f2b120d0e928f3.jpg?itok=josyqW1E" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mega C919 purchase by China’s flagship airline lifts homegrown jet in competition with Boeing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-comac-c919-air-china-buys-100-jets-4300741
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 21:34:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-comac-c919-air-china-buys-100-jets-4300741
-   </guid>
-   <category>
-    Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--732ifJJ_--/c_crop,h_576,w_1024,x_0,y_27/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34jt8ed.jpg?itok=6olGzbCE" width="1600"/>
   </item>
  </channel>
 </rss>
