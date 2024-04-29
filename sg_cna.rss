@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 02:20:10 +0800
+   Tue, 30 Apr 2024 02:35:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Real won't underestimate Bayern, says Ancelotti
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/real-wont-underestimate-bayern-says-ancelotti-4301396
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 02:33:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/real-wont-underestimate-bayern-says-ancelotti-4301396
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v7t5Rn0z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t183324z_1_lynxmpek3s0ox_rtroptp_3_soccer-champions-bay-mad-preview.jpg?itok=v9Gahxi4" width="1600"/>
+  </item>
+  <item>
+   <title>
+    USDA to test ground beef in US states with outbreaks of bird flu in dairy cows
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/usda-test-ground-beef-us-states-outbreaks-bird-flu-dairy-cows-4301206
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 02:23:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/usda-test-ground-beef-us-states-outbreaks-bird-flu-dairy-cows-4301206
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D6q48Esl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t165933z_2_lynxmpek3s0mq_rtroptp_3_health-birdflu-usa-beef.jpg?itok=6t8TxOTa" width="1600"/>
+  </item>
   <item>
    <title>
     Two people die in southern India as heatwave scorches region
@@ -417,48 +459,6 @@
     Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--732ifJJ_--/c_crop,h_576,w_1024,x_0,y_27/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34jt8ed.jpg?itok=6olGzbCE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US, Britain urge Hamas to accept Israeli truce proposal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-war-us-egypt-hopeful-gaza-truce-4300796
-   </link>
-   <description>
-    <![CDATA[Egypt, Qatar and the United States have been trying to mediate an agreement between Israel and Hamas for months.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 21:29:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-war-us-egypt-hopeful-gaza-truce-4300796
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PN1RaG87--/c_crop,h_432,w_768,x_0,y_30/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a8edc1dc6c0e90dff68fe80790a4ee5e676258a1.jpg?itok=vbK6jrna" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Austria calls for rapid regulation as it hosts meeting on 'killer robots'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/austria-calls-rapid-regulation-it-hosts-meeting-killer-robots-4300751
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 21:12:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/austria-calls-rapid-regulation-it-hosts-meeting-killer-robots-4300751
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
