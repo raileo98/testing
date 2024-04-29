@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 23:10:24 +0800
+   Mon, 29 Apr 2024 23:22:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Premier League clubs vote in favour of spending cap, BBC reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/premier-league-clubs-vote-favour-spending-cap-bbc-reports-4301021
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 23:12:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/premier-league-clubs-vote-favour-spending-cap-bbc-reports-4301021
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7JrXonF_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t151250z_1_lynxmpek3s0jy_rtroptp_3_soccer-england-ntg-ful-report.jpg?itok=mOtrMFUX" width="1600"/>
+  </item>
   <item>
    <title>
     Bayern fans can give us advantage against Real Madrid, says Tuchel
@@ -101,7 +122,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---48MmyWT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t151219z_1_lynxmpek3s0k1_rtroptp_3_blackstone-m-a-l-occitane.jpg?itok=VPrJNhsP" width="1600"/>
   </item>
   <item>
    <title>
@@ -440,27 +461,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Green economy, new capital Nusantara among areas discussed with Indonesia, says PM Lee after leaders' retreat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singapore-indonesia-leaders-retreat-pm-lee-president-joko-widodo-green-economy-nusantara-4300096
-   </link>
-   <description>
-    <![CDATA[Prime Minister Lee Hsien Loong's visit to the Indonesian city of Bogor for an annual leaders' retreat marks his final overseas trip as Prime Minister.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 18:01:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singapore-indonesia-leaders-retreat-pm-lee-president-joko-widodo-green-economy-nusantara-4300096
-   </guid>
-   <category>
-    Singapore ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_ygDucyi--/c_crop,h_822,w_1461,x_84,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/pm_lee_indonesia.jpg?itok=FTNWOusw" width="1600"/>
   </item>
  </channel>
 </rss>
