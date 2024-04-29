@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 16:30:48 +0800
+   Mon, 29 Apr 2024 16:40:05 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 16:03:38 +0800
+   Mon, 29 Apr 2024 16:36:59 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    外交部促敦日本停止一切挑釁
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751048-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751048-20240429.htm
+   </link>
+   <description>
+    <![CDATA[在北京，外交部發言人林劍說，釣魚島及其附屬島嶼是中國固有領土，針對日方有關侵權挑釁的行徑，中方已經通過外交渠道，向日方提出嚴正交涉，中方將繼續採取一切必要措施，堅決維護國家領土主權。中方敦促日方恪守中日四點原則共識，立即停止一切挑釁和單方面升級事態的做法，切實尊重中國的主權和領土完整。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 16:36:59 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     廣東提升防汛應急響應至Ⅲ級　部分鐵路班次受影響
@@ -467,25 +484,6 @@
    </description>
    <pubDate>
     Sun, 28 Apr 2024 21:18:08 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    中國航天員乘組完成在軌交接儀式　神十七航天員後日返回地球
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750943-20240428.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750943-20240428.htm
-   </link>
-   <description>
-    <![CDATA[神舟十七號及十八號航天員乘組在軌舉行交接儀式，移交中國空間站的鑰匙。
-
-中國載人航天工程辦公室表示，神十七航天員乘組已完成全部既定任務，將於後日乘坐神舟十七號載人飛船返回東風著陸場。著陸場及各參試系統正緊鑼密鼓做好迎接航天員回家的各項準備。]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 21:12:14 +0800
    </pubDate>
   </item>
  </channel>
