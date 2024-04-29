@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 22:30:04 +0800
+   Mon, 29 Apr 2024 22:36:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China's EV giant BYD misses Q1 revenue estimates
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/china-byd-earnings-first-quarter-electric-vehicles-4300731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 22:34:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/china-byd-earnings-first-quarter-electric-vehicles-4300731
+   </guid>
+   <category>
+    Business ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DQ68A4Rb--/c_crop,h_432,w_768,x_0,y_74/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/45c5577ae288d6109114114dc6f2b120d0e928f3.jpg?itok=josyqW1E" width="1600"/>
+  </item>
+  <item>
+   <title>
+    China's EV giant BYD misses Q1 revenue estimates
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/china-byd-earnings-first-quarter-electric-vehicles-4300731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 22:34:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/china-byd-earnings-first-quarter-electric-vehicles-4300731
+   </guid>
+   <category>
+    Business ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DQ68A4Rb--/c_crop,h_432,w_768,x_0,y_74/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/45c5577ae288d6109114114dc6f2b120d0e928f3.jpg?itok=josyqW1E" width="1600"/>
+  </item>
   <item>
    <title>
     Mega C919 purchase by China’s flagship airline lifts homegrown jet in competition with Boeing
@@ -419,48 +461,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KL20ti05--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t094623z_1_lynxmpek3s09c_rtroptp_3_japan-yen-kanda.jpg?itok=uht0oupv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    CNA Explains: What can we do about the extreme heat across Asia - including in Singapore?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/hot-weather-asia-heatwave-high-temperatures-climate-change-cna-explains-4300206
-   </link>
-   <description>
-    <![CDATA[High temperatures have prompted authorities across the region to issue health warnings and forced schools to close.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:41:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/hot-weather-asia-heatwave-high-temperatures-climate-change-cna-explains-4300206
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aSDmmgbw--/c_crop,h_2178,w_3871,x_1,y_52/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/ap24117425162488.jpg?itok=FDWOa-Um" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Red Bull should stick with Perez, says Szafnauer
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/red-bull-should-stick-perez-says-szafnauer-4300266
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:38:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/red-bull-should-stick-perez-says-szafnauer-4300266
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--McdxzJqS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t115552z_2_lynxmpek3s095_rtroptp_3_motor-f1-china.jpg?itok=ZSF6Wzlq" width="1600"/>
   </item>
  </channel>
 </rss>
