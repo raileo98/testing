@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 14:46:11 +0800
+   Mon, 29 Apr 2024 14:53:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    HCLTech falls most in nearly 17 months on lower-than-expected FY25 outlook
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/hcltech-falls-most-nearly-17-months-lower-expected-fy25-outlook-4299966
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 14:46:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/hcltech-falls-most-nearly-17-months-lower-expected-fy25-outlook-4299966
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Active ageing centres introduce wider variety of activities to draw more male seniors
@@ -314,7 +335,7 @@ This article contains affiliate links. If you buy through these links, we may ea
    <category>
     Singapore ,Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6rwYACZZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/Screenshot%202024-04-29%20125639.png?itok=KgAzY7Hv" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tCojGxKX--/c_crop,h_576,w_1024,x_0,y_21/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34qg692.jpg?itok=B7JDYYvw" width="1600"/>
   </item>
   <item>
    <title>
@@ -335,7 +356,7 @@ This article contains affiliate links. If you buy through these links, we may ea
    <category>
     Singapore ,Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6rwYACZZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/Screenshot%202024-04-29%20125639.png?itok=KgAzY7Hv" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tCojGxKX--/c_crop,h_576,w_1024,x_0,y_21/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34qg692.jpg?itok=B7JDYYvw" width="1600"/>
   </item>
   <item>
    <title>
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CgkFpx-A--/c_crop,h_663,w_1179,x_1,y_272/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/img_1765.jpg?itok=KtskkLom" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Last chance for pandemic agreement talks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/pandemic-agreement-talks-last-chance-who-un-covid-19-vaccines-4299581
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 12:11:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/pandemic-agreement-talks-last-chance-who-un-covid-19-vaccines-4299581
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l70_h0kJ--/c_crop,h_450,w_800,x_0,y_33/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-17t104116z_1_lynxnpek3g0dq_rtroptp_3_slavery-reparations-un.jpg?itok=4OdALjtQ" width="1600"/>
   </item>
  </channel>
 </rss>
