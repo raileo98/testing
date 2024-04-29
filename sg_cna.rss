@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 21:12:38 +0800
+   Mon, 29 Apr 2024 21:19:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Oil dips on Israel-Hamas peace talks, slim near-term US rate cut hopes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/oil-dips-israel-hamas-peace-talks-slim-near-term-us-rate-cut-hopes-4299321
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 21:08:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/oil-dips-israel-hamas-peace-talks-slim-near-term-us-rate-cut-hopes-4299321
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uVHvCX8r--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t073754z_3_lynxmpek3r0au_rtroptp_3_global-oil.jpg?itok=DDezOcQU" width="1600"/>
+  </item>
+  <item>
+   <title>
     Bangladesh again shuts schools due to heatwave
    </title>
    <link>
@@ -63,10 +84,10 @@
   </item>
   <item>
    <title>
-    England's Vunipola tasered and arrested after violent incident in Majorca pub
+    England's Vunipola fined for assault after arrest in Mallorca
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/englands-vunipola-tasered-and-arrested-after-violent-incident-majorca-pub-4300586
+    https://www.channelnewsasia.com/sport/englands-vunipola-fined-assault-after-arrest-mallorca-4300586
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +96,7 @@
     Mon, 29 Apr 2024 19:47:23 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/englands-vunipola-tasered-and-arrested-after-violent-incident-majorca-pub-4300586
+    https://www.channelnewsasia.com/sport/englands-vunipola-fined-assault-after-arrest-mallorca-4300586
    </guid>
    <category>
     Sport
@@ -440,27 +461,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qC5er80w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t090256z_1_lynxmpek3s08l_rtroptp_3_meta-openai-silverman-infringement.jpg?itok=dRQGTO1o" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Red-light cameras caught over 800 speeding violations in three weeks since activation of speed function
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/red-light-cameras-speeding-violations-traffic-police-4299971
-   </link>
-   <description>
-    <![CDATA[The number of speeding violations detected by the red-light cameras is "of concern", says the officer-in-charge of the Traffic Police’s surveillance camera unit.  ]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:01:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/red-light-cameras-speeding-violations-traffic-police-4299971
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l8kRKWLU--/c_crop,h_899,w_1599,x_1,y_61/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/22/TP%20Speed%20and%20Red%20Light%20Camera_3.JPG?itok=cGJxKUMN" width="1600"/>
   </item>
  </channel>
 </rss>
