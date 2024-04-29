@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 02:20:35 +0800
+   Tue, 30 Apr 2024 02:40:18 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 02:11:22 +0800
+   Tue, 30 Apr 2024 02:24:07 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    敖德薩據報遭俄軍導彈攻擊　造成至少4死28傷
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751107-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751107-20240430.htm
+   </link>
+   <description>
+    <![CDATA[烏克蘭黑海港口城市敖德薩據報遭到俄軍導彈攻擊，造成至少4人死亡，28人受傷。
+
+敖德薩州州長基佩爾在社交平台表示，當地一間教育機構被導彈擊中，傷者中4人傷勢嚴重，而傷者亦包括兩名兒童和一名孕婦。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 02:24:07 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     俄軍稱一天內奪取烏東兩村莊　澤連斯基促西方加快武器支援
@@ -451,27 +470,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 08:17:17 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    布林肯擴大中東行程　將前往約旦及以色列
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750971-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750971-20240429.htm
-   </link>
-   <description>
-    <![CDATA[美國國務卿布林肯再次出訪中東，今天會到沙特阿拉伯。美國國務院說，布林肯中東之行還會前往約旦及以色列。
-
-根據美方之前公布，布林肯今次中東之行只有沙特阿拉伯一站，在美國總統拜登與以色列總理內塔尼亞胡再次通電話後，更新布林肯行程安排，在訪問沙特之後轉往約旦及以色列。
-
-國務院發言人說，布林肯將聚焦確保加沙停火，釋放人質，並確保繼續或增加向加沙提供人道援助。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 08:01:49 +0800
    </pubDate>
   </item>
  </channel>
