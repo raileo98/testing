@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Mon, 29 Apr 2024 15:45:03 +0800
+   Mon, 29 Apr 2024 15:50:03 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,32 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [國際] 習近平5/5到5/10訪問法國、塞爾維亞與匈牙利
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2023%2F05%2F26%2F9b3b6cbce6308b10a85735257b49d8a4.JPG" width="360" alt="中國國家主席習近平。(資料照/路透社/達志影像)" title="中國國家主席習近平。(資料照/路透社/達志影像)"><br>中國外交部今天(29日)宣布，中國國家主席習近平將於5月5日到10日訪問法國、塞爾維亞和匈牙利。中國外交部表示，習近平在訪問3國期間，將與各國領袖舉行會談。此外，法國政府今天宣布，習近平將於5月6日到7日對法國進行國是訪問，預計俄羅斯在烏克蘭的戰爭將成為法中兩國領袖會談的重要議程。法國總統府發布聲明表示：「習近平此次訪問是在兩國建交60週年之際，以及繼法國總統於2023年4月訪問北京和廣州之後進行。」法新社報導，預計習近平將訪問巴黎，以及法國西南部的上庇里牛斯省(Hautes-Pyrenees)。...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2204237">...more</a>]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 15:34:06 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2204237
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2204237
+   </guid>
+   <author>
+    張子清採訪
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    張子清採訪
+   </dc:creator>
+  </item>
   <item>
    <title>
     [政治] 道交條例修正案一讀過關 4項微罪依舊開放民眾檢舉 - 240429-14
@@ -78,13 +104,13 @@
     https://www.rti.org.tw/news/view/id/2204232
    </guid>
    <author>
-    採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -130,13 +156,13 @@
     https://www.rti.org.tw/news/view/id/2204230
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -156,13 +182,13 @@
     https://www.rti.org.tw/news/view/id/2204229
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他
    </dc:creator>
   </item>
   <item>
@@ -182,13 +208,13 @@
     https://www.rti.org.tw/news/view/id/2204228
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2204225
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2204224
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -312,13 +338,13 @@
     https://www.rti.org.tw/news/view/id/2204223
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -338,13 +364,13 @@
     https://www.rti.org.tw/news/view/id/2204222
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -442,13 +468,13 @@
     https://www.rti.org.tw/news/view/id/2204218
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -520,13 +546,13 @@
     https://www.rti.org.tw/news/view/id/2204215
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -598,13 +624,13 @@
     https://www.rti.org.tw/news/view/id/2204212
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社, 採訪, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社, 採訪, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 中央社, 採訪, 路透社, 中央社, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 中央社, 中央社, 中央社, 採訪, 法新社, 採訪, 法新社, 採訪, 路透社, 中央社, 採訪, 路透社, 採訪, 路透社, 中央社, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -787,32 +813,6 @@
    </category>
    <dc:creator>
     謝佳興採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [國際] 上任2年來首次 尹錫悅將與在野黨領袖會面
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F01%2F01%2F14a83382927f6f6981b910ed1a5d9f6e.jpg" width="360" alt="南韓總統尹錫悅。(資料照/AP/達志影像)" title="南韓總統尹錫悅。(資料照/AP/達志影像)"><br>路透社報導，南韓總統尹錫悅今天(29日)將與在野黨黨魁李在明舉行會談。此前尹錫悅領導的執政黨「國民力量黨」(People Power Party)在大選中慘敗，引發國內廣大呼聲，要求總統改變領導風格。在4月10日舉行的國會大選中，尹錫悅領導的國民力量黨未能突破在野黨對國會的控制，嚐到敗績。外界普遍將這次選舉，視為對這位保守派領導人執政前2年表現的公投。這是尹錫悅上任以來，首次與李在明會面。與此同時，分析家認為，在尹錫悅好鬥的政治立場似乎疏遠不少選民後，他可能淪為跛腳總統。無論在野黨或他自己的國民力量黨，都要求尹錫悅改變路線，特別是在他一開始無視選舉結果，...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2204203">...more</a>]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 11:30:00 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2204203
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2204203
-   </guid>
-   <author>
-    黃凡甄採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
-    國際
-   </category>
-   <dc:creator>
-    黃凡甄採訪
    </dc:creator>
   </item>
  </channel>
