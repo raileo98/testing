@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 12:20:34 +0800
+   Mon, 29 Apr 2024 12:30:39 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 12:15:32 +0800
+   Mon, 29 Apr 2024 12:21:00 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港元拆息全線升　隔夜拆息急升至逾1個月高位
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751008-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751008-20240429.htm
+   </link>
+   <description>
+    <![CDATA[臨近月結日，港元拆息連續第2個交易日全線上升，短期拆息升幅較大。
+
+隔夜拆息連升4個交易日，再攀升近82點子，升至約4.708厘，創逾1個月新高。
+
+1星期、2星期拆息同樣升穿4厘水平，分別報4.341厘及4.243厘，連續數日有雙位數點子升幅。
+
+樓按相關的1個月拆息報4.263厘，升約13點子，連升3個交易日，創近兩星期新高。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 12:21:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     恒指半日升226點　內房及物管股造好
@@ -461,29 +484,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 07:15:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    友邦首季新業務價值創新高　固定匯率計增長31%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750967-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750967-20240429.htm
-   </link>
-   <description>
-    <![CDATA[友邦保險首季新業務價值13.3億美元，創季度新高，按固定匯率計增長31%，實質匯率計升27%；所有分部的新業務價值都錄得雙位數增長。
-
-期內，固定匯率計的新業務價值利潤率54.2%，按年升2.1個百分點，受惠於產品組合正面轉向；年化新保費升26%至24.5億美元；總加權保費收入升13%至112.2億美元。
-
-當中，香港業務首季新業務價值增長43%，新業務價值利潤率由去年下半年的58.1%，升至今年首季的64.3%。本地及內地客的新業務價值貢獻大致相若，均有雙位數增長。內地客新業務價值超越去年第4季水平，有逾60%來自代理渠道。
-
-內地業務首季新業務價值增長38%，新業務價值利潤率升至54.6%。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 07:13:41 +0800
    </pubDate>
   </item>
  </channel>
