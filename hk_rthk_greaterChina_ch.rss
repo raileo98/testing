@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 15:50:12 +0800
+   Mon, 29 Apr 2024 16:10:50 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 15:05:19 +0800
+   Mon, 29 Apr 2024 16:03:38 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    廣東提升防汛應急響應至Ⅲ級　部分鐵路班次受影響
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751040-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751040-20240429.htm
+   </link>
+   <description>
+    <![CDATA[內地氣象和水文部門監測預測，未來幾天廣東省強降雨仍將持續，當局中午起把防汛Ⅳ級應急響應提升至Ⅲ級。
+
+而湖南省氣象台預計，今明兩日將遇上強降雨和強對流天氣，部分地區有暴雨，雷暴大風、冰雹等強對流天氣。長沙市氣象台中午發布暴雨黃色預警信號，多個區域降雨量將達50毫米以上。
+
+惡劣天氣對鐵路運輸秩序造成影響。廣鐵集團計劃今日至星期三，停運京廣鐵路普速列車62列，京廣、京九普鐵和京廣高鐵的部分列車將出現晚點。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 16:03:38 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     許正宇稱政府將力求用好人工智能機遇並管控當中的風險和挑戰
@@ -465,29 +486,6 @@
    </description>
    <pubDate>
     Sun, 28 Apr 2024 21:12:14 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    李強在北京會見到訪的馬斯克
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1750940-20240428.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1750940-20240428.htm
-   </link>
-   <description>
-    <![CDATA[在北京，國務院總理李強會見到訪的美國電動汽車生產商特斯拉首席執行官馬斯克。
-
-央視報道，李強表示，特斯拉在中國的發展，堪稱中美經貿合作成功範例。馬斯克表示，特斯拉在上海的超級工廠是公司內表現最佳。他感謝中方工作人員的努力及智慧。
-
-馬斯克今日在沒預先公布情況下抵達北京。
-
-路透社引述消息人士報道，馬斯克亦會與其他中方官員會面，相信會商討自動駕駛軟件的準備情況，以及要求批准容許將數據傳輸往海外。]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 19:23:36 +0800
    </pubDate>
   </item>
  </channel>
