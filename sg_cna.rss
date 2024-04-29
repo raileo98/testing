@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 23:40:36 +0800
+   Mon, 29 Apr 2024 23:45:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Crypto company Tether invests $200 million in brain-chip maker Blackrock Neurotech
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/crypto-company-tether-invests-200-million-brain-chip-maker-blackrock-neurotech-4301071
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 23:41:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/crypto-company-tether-invests-200-million-brain-chip-maker-blackrock-neurotech-4301071
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6nqwo-XH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t154137z_1_lynxmpek3s0km_rtroptp_3_fintech-crypto-tether.jpg?itok=QWX-B_gz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Higher rates could knock Japan into recession, says former IMF economist Blanchard
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/higher-rates-could-knock-japan-recession-says-former-imf-economist-blanchard-4301081
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 23:41:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/higher-rates-could-knock-japan-recession-says-former-imf-economist-blanchard-4301081
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--O-_-QRRQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t154136z_1_lynxmpek3s0kp_rtroptp_3_japan-economy-gdp.jpg?itok=Auq0B1St" width="1600"/>
+  </item>
   <item>
    <title>
     US stocks gain at top data-heavy week amid suspected yen intervention
@@ -417,48 +459,6 @@
    </guid>
    <category>
     Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Thiago Silva to leave Chelsea at end of season but hopes to return
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/thiago-silva-leave-chelsea-end-season-hopes-return-4300431
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 19:01:26 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/thiago-silva-leave-chelsea-end-season-hopes-return-4300431
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a4k3wy2c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t110126z_1_lynxmpek3s0c2_rtroptp_3_soccer-england-che-silva.jpg?itok=Agn-XB9l" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia's GoTo posts Q1 adjusted EBITDA at $6.28 million
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/indonesias-goto-posts-q1-adjusted-ebitda-628-million-4300421
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 18:57:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indonesias-goto-posts-q1-adjusted-ebitda-628-million-4300421
-   </guid>
-   <category>
-    Business
    </category>
    <media:thumbnail/>
   </item>
