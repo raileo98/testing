@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 19:50:30 +0800
+   Mon, 29 Apr 2024 20:50:31 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 19:22:15 +0800
+   Mon, 29 Apr 2024 20:13:47 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港交所批准6隻現貨虛擬貨幣ETF列入認可賣空指定證券
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751081-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751081-20240429.htm
+   </link>
+   <description>
+    <![CDATA[港交所公布，由嘉實、華廈及博時3家基金公司發行的6隻現貨比特幣及現貨以太幣ETF，明日起在交易所買賣，並獲准列入認可賣空指定證券。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 20:13:47 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     財險上季盈利按年跌38%
@@ -457,29 +474,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 12:15:32 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    內地股市半日升近1%至近4%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751003-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751003-20240429.htm
-   </link>
-   <description>
-    <![CDATA[滬深股市半日升近1%至近4%。
-
-上證綜合指數由跌轉升，升穿3100點，高見3119點，創去年9月底以來最高。上午收市報3113點，升24點，升幅0.8%。
-
-深證成份指數報9669點，升205點，升幅2.18%。
-
-創業板指數報1889點，升65點，升幅3.6%。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 11:52:08 +0800
    </pubDate>
   </item>
  </channel>
