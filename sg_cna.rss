@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 21:19:51 +0800
+   Mon, 29 Apr 2024 21:30:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US, Egypt 'hopeful' of Gaza truce as envoys meet in Cairo
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-hamas-war-us-egypt-hopeful-gaza-truce-4300796
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 21:29:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-hamas-war-us-egypt-hopeful-gaza-truce-4300796
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PN1RaG87--/c_crop,h_432,w_768,x_0,y_30/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a8edc1dc6c0e90dff68fe80790a4ee5e676258a1.jpg?itok=vbK6jrna" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Austria calls for rapid regulation as it hosts meeting on 'killer robots'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/austria-calls-rapid-regulation-it-hosts-meeting-killer-robots-4300751
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 21:12:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/austria-calls-rapid-regulation-it-hosts-meeting-killer-robots-4300751
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Oil dips on Israel-Hamas peace talks, slim near-term US rate cut hopes
@@ -419,48 +461,6 @@
     World ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BA0N0lDT--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/02/22/mediacorp_building.png?itok=DrwxvVEw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    CNA launches on UK's largest TV platform
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/cna-launches-uk-freeview-tv-channelbox-4300161
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:12:43 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/cna-launches-uk-freeview-tv-channelbox-4300161
-   </guid>
-   <category>
-    World ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BA0N0lDT--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/02/22/mediacorp_building.png?itok=DrwxvVEw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Financial Times, OpenAI sign content licensing partnership
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/financial-times-openai-sign-content-licensing-partnership-4300201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/financial-times-openai-sign-content-licensing-partnership-4300201
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qC5er80w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t090256z_1_lynxmpek3s08l_rtroptp_3_meta-openai-silverman-infringement.jpg?itok=dRQGTO1o" width="1600"/>
   </item>
  </channel>
 </rss>
