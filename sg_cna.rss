@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 06:28:02 +0800
+   Tue, 30 Apr 2024 06:37:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -437,7 +437,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DCeBVWYR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t210655z_2_lynxmpek3s0sa_rtroptp_3_unitedhlth-grp-cyberattack.jpg?itok=JWEZbDnI" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FjhHVOI4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t223120z_3_lynxmpek3s0sa_rtroptp_3_unitedhlth-grp-cyberattack.jpg?itok=2t58OuW2" width="1600"/>
   </item>
   <item>
    <title>
@@ -458,7 +458,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S-ajTDNm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t200739z_1_lynxmpek3s0qu_rtroptp_3_paramount-global-results.jpg?itok=U0V4LfDW" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sLrAYyJV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t223038z_2_lynxmpek3s0qu_rtroptp_3_paramount-global-results.jpg?itok=eH2d2i3C" width="1600"/>
   </item>
  </channel>
 </rss>
