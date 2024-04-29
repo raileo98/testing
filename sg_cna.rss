@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 21:30:23 +0800
+   Mon, 29 Apr 2024 21:40:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Mega C919 purchase by China’s flagship airline lifts homegrown jet in competition with Boeing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-comac-c919-air-china-buys-100-jets-4300741
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 21:34:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-comac-c919-air-china-buys-100-jets-4300741
+   </guid>
+   <category>
+    Asia ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7d5CAu3q--/c_crop,h_576,w_1024,x_0,y_27/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34jt8ed.jpg?itok=6olGzbCE" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Mega C919 purchase by China’s flagship airline lifts homegrown jet in competition with Boeing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-comac-c919-air-china-buys-100-jets-4300741
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 21:34:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-comac-c919-air-china-buys-100-jets-4300741
+   </guid>
+   <category>
+    Asia ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7d5CAu3q--/c_crop,h_576,w_1024,x_0,y_27/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34jt8ed.jpg?itok=6olGzbCE" width="1600"/>
+  </item>
   <item>
    <title>
     US, Egypt 'hopeful' of Gaza truce as envoys meet in Cairo
@@ -419,48 +461,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--McdxzJqS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t115552z_2_lynxmpek3s095_rtroptp_3_motor-f1-china.jpg?itok=ZSF6Wzlq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chief scientist in China's COVID-19 vaccine project under probe amid graft crackdown on healthcare sector
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/sinopharm-chief-scientist-china-anti-graft-crackdown-covid-19-vaccine-4300126
-   </link>
-   <description>
-    <![CDATA[Once lauded for his achievements in combating COVID-19, Yang Xiaoming is now suspected of “serious violations of discipline and law” and has been stripped of his parliamentary post.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:23:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/sinopharm-chief-scientist-china-anti-graft-crackdown-covid-19-vaccine-4300126
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--10aNKX21--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/yang_xiaoming_new.jpg?itok=0Fv8bcNX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    CNA launches on UK's largest TV platform
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/cna-launches-uk-freeview-tv-channelbox-4300161
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 17:12:43 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/cna-launches-uk-freeview-tv-channelbox-4300161
-   </guid>
-   <category>
-    World ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BA0N0lDT--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/02/22/mediacorp_building.png?itok=DrwxvVEw" width="1600"/>
   </item>
  </channel>
 </rss>
