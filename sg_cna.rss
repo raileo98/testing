@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 17:45:16 +0800
+   Mon, 29 Apr 2024 17:51:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's top FX diplomat Kanda says cannot overlook 'speculative' yen moves
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-top-fx-diplomat-kanda-says-cannot-overlook-speculative-yen-moves-4300291
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 17:46:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-top-fx-diplomat-kanda-says-cannot-overlook-speculative-yen-moves-4300291
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KL20ti05--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t094623z_1_lynxmpek3s09c_rtroptp_3_japan-yen-kanda.jpg?itok=uht0oupv" width="1600"/>
+  </item>
   <item>
    <title>
     CNA Explains: What can we do about the extreme heat across Asia - including in Singapore?
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uCiGg_ij--/c_crop,h_899,w_1598,x_1,y_91/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/ap24085664904199.jpg?itok=6UGLsXkT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rugby Australia announce A$9.2m deficit for 2023
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/rugby-australia-announce-a92m-deficit-2023-4300001
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 15:10:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/rugby-australia-announce-a92m-deficit-2023-4300001
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--G5ld9JB0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t071030z_1_lynxmpek3s06d_rtroptp_3_rugby-union-australia.jpg?itok=B0RAopOg" width="1600"/>
   </item>
  </channel>
 </rss>
