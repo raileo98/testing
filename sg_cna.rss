@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 05:09:43 +0800
+   Tue, 30 Apr 2024 05:20:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Columbia University Gaza protesters refusing to move despite deadline
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/columbia-university-gaza-protesters-refusing-move-after-deadline-4301716
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 05:20:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/columbia-university-gaza-protesters-refusing-move-after-deadline-4301716
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Leicester seal Championship crown with 3-0 win at Preston
@@ -206,7 +227,7 @@
    <category>
     World
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D6q48Esl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t165933z_2_lynxmpek3s0mq_rtroptp_3_health-birdflu-usa-beef.jpg?itok=6t8TxOTa" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W0OA-HO6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t211405z_3_lynxmpek3s0mq_rtroptp_3_health-birdflu-usa-beef.jpg?itok=932fmflo" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7xpUJahY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t154700z_2_lynxmpek3s0jy_rtroptp_3_soccer-england-ntg-ful-report.jpg?itok=-3iMyudk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bayern fans can give us advantage against Real Madrid, says Tuchel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bayern-fans-can-give-us-advantage-against-real-madrid-says-tuchel-4301001
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 23:06:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bayern-fans-can-give-us-advantage-against-real-madrid-says-tuchel-4301001
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
