@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 23:50:29 +0800
+   Tue, 30 Apr 2024 00:00:04 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 22:45:04 +0800
+   Mon, 29 Apr 2024 23:51:28 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    南航首季業績虧轉盈　東航首季虧損收窄近80%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751097-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751097-20240429.htm
+   </link>
+   <description>
+    <![CDATA[中國南方航空按中國會計準則，首季盈利7.56億元人民幣，按年轉虧為盈，因航空客運市場進一步恢復，客運收入增加。
+
+南航首季營業收入446億元，按年增長31%。
+
+集團宣布向中國商飛購入100架C919型飛機，每架飛機目錄價格9900萬美元，包括機身價格及發動機價格，涉及總目錄價格99億美元，預計今年至2031年期間分階段交付。
+
+中國東方航空首季虧損8億元人民幣，按年收窄近80%，主要由於航空運輸收入增加，經營業績明顯改善。
+
+集團首季營業收入331.9億元，增長近49%。]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 23:51:28 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日圓兌美元在156.8水平　市場注視會否再跌
@@ -469,23 +494,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 14:45:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股高收近2%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751027-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751027-20240429.htm
-   </link>
-   <description>
-    <![CDATA[台灣股市造好。加權指數收市報20495點，升375點，升幅1.86%。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 14:36:41 +0800
    </pubDate>
   </item>
  </channel>
