@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 01:05:31 +0800
+   Tue, 30 Apr 2024 01:20:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Experts, politicians call for scrutiny of Venezuela's use of cryptocurrency
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/experts-politicians-call-scrutiny-venezuelas-use-cryptocurrency-4301241
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 01:12:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/experts-politicians-call-scrutiny-venezuelas-use-cryptocurrency-4301241
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CdFLhMSl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t171211z_1_lynxmpek3s0n7_rtroptp_3_spain-dissidents.jpg?itok=HpcBVst0" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Police clear pro-Palestinian protests at Sorbonne university in France
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/police-clear-pro-palestinian-protests-sorbonne-university-france-4300981
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 01:06:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/police-clear-pro-palestinian-protests-sorbonne-university-france-4300981
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XDqxc21a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t123611z_1_lynxmpek3s0fw_rtroptp_3_israel-palestinians-france-students.jpg?itok=EQCj293s" width="1600"/>
+  </item>
   <item>
    <title>
     What did people eat before agriculture? New study offers insight
@@ -417,50 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zg8zqVAr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t114723z_1_lynxmpek3s0dw_rtroptp_3_rugby-union-worldcup-eng-chl-preview.jpg?itok=6b_VvCus" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Spanish authorities find CPF nomination note on iPad of Singaporean woman killed in Spain: Report
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/audrey-fang-mitchell-ong-singaporean-woman-killed-spain-cpf-nomination-note-4300371
-   </link>
-   <description>
-    <![CDATA[The note stated that an unknown person had been nominated by Ms Audrey Fang as the individual was her "long-time friend and trusted confidant". 
- ]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 19:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/audrey-fang-mitchell-ong-singaporean-woman-killed-spain-cpf-nomination-note-4300371
-   </guid>
-   <category>
-    Singapore ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mv35Pdj4--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_dirou_spain_stabbed_facebook.jpg?itok=7bKhyJVL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Spanish authorities find CPF nomination note on iPad of Singaporean woman killed in Spain: Report
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/audrey-fang-mitchell-ong-singaporean-woman-killed-spain-cpf-nomination-note-4300371
-   </link>
-   <description>
-    <![CDATA[The note stated that an unknown person had been nominated by Ms Audrey Fang as the individual was her "long-time friend and trusted confidant". 
- ]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 19:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/audrey-fang-mitchell-ong-singaporean-woman-killed-spain-cpf-nomination-note-4300371
-   </guid>
-   <category>
-    Singapore ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mv35Pdj4--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_dirou_spain_stabbed_facebook.jpg?itok=7bKhyJVL" width="1600"/>
   </item>
  </channel>
 </rss>
