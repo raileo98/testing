@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 15:37:55 +0800
+   Mon, 29 Apr 2024 15:45:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Extreme weather events due to climate change threaten future of tourism in Australia
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/australia-climate-change-extreme-weather-threaten-tourism-future-4300011
+   </link>
+   <description>
+    <![CDATA[Global warming is raising big questions for the future of tourism and how to handle extreme weather conditions.]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 15:44:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/australia-climate-change-extreme-weather-threaten-tourism-future-4300011
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hOGStHfS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/v1/one-cms/core/1721c1d5d15b5451132b04cdb59d267946cb7eda.jpg?itok=Iagy9QtK" width="1600"/>
+  </item>
   <item>
    <title>
     All the movies coming to cinemas and streaming from May to August
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IKbasItn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t050939z_1_lynxmpek3s03q_rtroptp_3_tech-telegram.jpg?itok=TSC_rqyQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Instant view: Japan's yen jumps 5 yen against dollar on suspected intervention
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/instant-view-japans-yen-jumps-5-yen-against-dollar-suspected-intervention-4299761
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 13:01:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/instant-view-japans-yen-jumps-5-yen-against-dollar-suspected-intervention-4299761
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_WM1NGmU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t050105z_1_lynxmpek3s03i_rtroptp_3_imf-worldbank-trilateral.jpg?itok=mRW9xS7J" width="1600"/>
   </item>
  </channel>
 </rss>
