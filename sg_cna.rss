@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 13:34:56 +0800
+   Mon, 29 Apr 2024 13:45:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Alcaraz playing pain-free but hasn't regained full trust in forehand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/alcaraz-playing-pain-free-hasnt-regained-full-trust-forehand-4299866
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 13:35:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/alcaraz-playing-pain-free-hasnt-regained-full-trust-forehand-4299866
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--b5rl3RZz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t053512z_1_lynxmpek3s044_rtroptp_3_tennis-madrid.jpg?itok=y1oP9Ssv" width="1600"/>
+  </item>
   <item>
    <title>
     US energy roadmap at stake in upcoming presidential election
@@ -439,27 +460,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yqJSQ9Hr--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-29t012745z_1_lynxmpek3s00i_rtroptp_3_southkorea-politics.jpg?itok=S10DguuG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hamas says 'no major issues', as Gaza truce effort builds
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-gaza-no-major-issues-truce-effort-ceasefire-builds-egypt-hostage-rafah-4299476
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 11:35:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-gaza-no-major-issues-truce-effort-ceasefire-builds-egypt-hostage-rafah-4299476
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JuERK6Mi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34qg3l2.jpg?itok=1zGbAA_E" width="1600"/>
   </item>
  </channel>
 </rss>
