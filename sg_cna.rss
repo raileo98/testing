@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 01:51:25 +0800
+   Tue, 30 Apr 2024 02:04:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Two people die in southern India as heatwave scorches region
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sustainability/two-people-die-southern-india-heatwave-scorches-region-4300191
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 01:56:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sustainability/two-people-die-southern-india-heatwave-scorches-region-4300191
+   </guid>
+   <category>
+    Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--C6nLhOCC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t114409z_1_lynxmpek3s0dt_rtroptp_3_india-weather.jpg?itok=XSK5zIHP" width="1600"/>
+  </item>
   <item>
    <title>
     Battling Nadal beats Cachin to reach Madrid Open fourth round
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Oil down on Israel-Hamas peace talks, dimming near-term US rate cut hopes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-down-israel-hamas-peace-talks-dimming-near-term-us-rate-cut-hopes-4299321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 21:08:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-down-israel-hamas-peace-talks-dimming-near-term-us-rate-cut-hopes-4299321
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uVHvCX8r--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t073754z_3_lynxmpek3r0au_rtroptp_3_global-oil.jpg?itok=DDezOcQU" width="1600"/>
   </item>
  </channel>
 </rss>
