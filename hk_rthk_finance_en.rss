@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 29 Apr 2024 10:01:09 +0800
+   Mon, 29 Apr 2024 10:20:04 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 28 Apr 2024 13:04:39 +0800
+   Mon, 29 Apr 2024 10:09:07 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks open higher as rally continues
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1750991-20240429.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1750991-20240429.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks rose at the opening of trading on Monday, extending advances into a sixth day, following a strong lead from Wall Street ahead of the Federal Reserve's latest policy decision this week.
+
+The Hang Seng Index added 0.49 percent, or 86.78 points, to 17,737.93.
+
+The Shanghai Composite Index dipped 0.06 percent, or 1.95 points, to 3,086.68, while the Shenzhen Composite Index edged up 0.13 percent, or 2.21 points, to 1,730.70. (AFP)]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 10:09:07 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Q1 GDP growth within forecast range: FS
@@ -617,41 +638,6 @@ But JetBlue sank 18.9 percent as it projected lower revenues in the second quart
    </description>
    <pubDate>
     Wed, 24 Apr 2024 04:54:16 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    London's FTSE strikes record as global sentiment lifts
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750239-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750239-20240423.htm
-   </link>
-   <description>
-    <![CDATA[London's FTSE 100 stocks index hit record highs on Tuesday, catching up with major global peers that have struck all-time peaks this year as inflation cools.
-
-Sentiment was upbeat across major world indices thanks to easing Middle East worries and hopes of interest-rate cuts, while traders are keenly awaiting the release this week of more major earnings and key US inflation data.
-
-London's FTSE 100 reached 8,076 points shortly after the open, surpassing a record 8,047 struck in February last year, though it pared down gains in afternoon deals.
-
-"Good news as this is, it does highlight the sluggishness of the UK's top equity index when compared to its US and European competitors which hit a string of successive records throughout the first quarter of 2024," said David Morrison, senior market analyst at financial services provider Trade Nation.
-
-But, he added, "let's not be too churlish as it could be we see the FTSE outperform its rivals in the years to come should investors seek out dividend paying value stocks rather than techy growthy ones."
-
-The index has in recent weeks been lifted by a weakening of the pound, particularly against the dollar, as markets anticipate cuts to UK interest rates in the coming months thanks to slowing price rises.
-
-A weaker pound benefits FTSE-listed British multinationals that make big earnings in foreign currencies. Sterling gained against the dollar and euro on Tuesday after falling earlier in the day.
-
-The Paris and Frankfurt stock markets won a lift from news of an improvement to business activity in the eurozone this month.
-
-Wall Street opened higher on a busy week on the corporate front, with investors keenly awaiting first-quarter earnings from Elon Musk's Tesla later in the day.
-
-The electric car maker, which enjoyed scorching growth for most of 2022 and 2023, has experienced setbacks that analysts say have raised the stakes for the first-quarter report. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 23:53:44 +0800
    </pubDate>
   </item>
  </channel>
