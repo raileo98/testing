@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 04:50:41 +0800
+   Tue, 30 Apr 2024 05:10:41 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 29 Apr 2024 17:19:58 +0800
+   Tue, 30 Apr 2024 04:58:05 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks end higher, extending rally
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751111-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751111-20240430.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks finished higher on Monday, extending a rally from late last week ahead of a Federal Reserve decision and key earnings reports in the coming days.
+
+A news-jammed week includes Wednesday's Fed decision, where the central bank is expected to keep interest rates unchanged but will update investors on the prospects for cuts.
+
+Investors will also digest April jobs data, as well as surveys measuring manufacturing sector health and consumer confidence.
+
+"This week has something for everyone," said a note from Charles Schwab.
+
+The Dow Jones advanced 0.4 percent to 38,386.
+
+The S&P 500 gained 0.3 percent to 5,116, while the Nasdaq climbed 0.4 percent to 15,983.
+
+Apple, Coca-Cola and Pfizer are among the large companies reporting quarterly earnings.
+
+Companies in the S&P 500 have thus reported an average of 3.5 percent higher earnings compared with the year-ago period, according to Factset.
+
+Among individual companies, Tesla shot up nearly 15 percent after receiving a key security clearance from the Chinese government for smart cars during a visit to China by Chief Executive Elon Musk.
+
+Apple gained 2.7 percent following an upgrade from equity analysts at Bernstein.
+
+Domino's Pizza jumped 5.6 percent as it reported a 6.1 percent increase in first-quarter sales to US$4.4 billion. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 04:58:05 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong shares end up for sixth day
@@ -605,27 +642,6 @@ However, the lower income was partially offset by strong derivatives trading, re
    </description>
    <pubDate>
     Wed, 24 Apr 2024 15:52:57 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks open higher, lifted by US market gains
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750275-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750275-20240424.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks extended gains into a third straight day on Wednesday following another strong advance on Wall Street as traders welcomed healthy earnings from US tech giants. 
-
-The Hang Seng Index climbed almost one percent to 16,993.
-
-The Shanghai Composite Index added 0.3 percent to 3,029, and the Shenzhen Composite Index was flat, inching up 0.01 points to 1,675. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 09:45:02 +0800
    </pubDate>
   </item>
  </channel>

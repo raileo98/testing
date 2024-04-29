@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 04:51:10 +0800
+   Tue, 30 Apr 2024 05:09:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Leicester seal Championship crown with 3-0 win at Preston
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leicester-seal-championship-crown-3-0-win-preston-4301701
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 05:02:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leicester-seal-championship-crown-3-0-win-preston-4301701
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PrMgLXfL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t210232z_1_lynxmpek3s0sb_rtroptp_3_soccer-england-pne-lei-report.jpg?itok=n2mVI8Ss" width="1600"/>
+  </item>
+  <item>
+   <title>
+    UnitedHealth hackers took advantage of Citrix vulnerabilty to break in, CEO says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/unitedhealth-hackers-took-advantage-citrix-vulnerabilty-break-ceo-says-4301696
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 05:01:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/unitedhealth-hackers-took-advantage-citrix-vulnerabilty-break-ceo-says-4301696
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DCeBVWYR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t210655z_2_lynxmpek3s0sa_rtroptp_3_unitedhlth-grp-cyberattack.jpg?itok=JWEZbDnI" width="1600"/>
+  </item>
   <item>
    <title>
     Paramount CEO Bob Bakish resigns amid merger talks
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    World Central Kitchen resuming Gaza work after 7 staff killed
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/gaza-israel-hamas-war-world-central-kitchen-resumes-operations-seven-killed-israeli-drone-strike-4300936
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 22:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/gaza-israel-hamas-war-world-central-kitchen-resumes-operations-seven-killed-israeli-drone-strike-4300936
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xharvtAe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-05t121037z_1_lynxnpek340i6_rtroptp_3_israel-palestinians-gaza-charity.jpg?itok=gcvr-cX-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    L'Occitane's billionaire owner Geiger to take firm private in $1.8 billion deal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/loccitanes-billionaire-owner-geiger-take-firm-private-18-billion-deal-4300961
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 22:49:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/loccitanes-billionaire-owner-geiger-take-firm-private-18-billion-deal-4300961
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---48MmyWT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t151219z_1_lynxmpek3s0k1_rtroptp_3_blackstone-m-a-l-occitane.jpg?itok=VPrJNhsP" width="1600"/>
   </item>
  </channel>
 </rss>
