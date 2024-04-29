@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 07:39:18 +0800
+   Tue, 30 Apr 2024 07:51:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan March jobless rate stays flat at 2.6%
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-march-jobless-rate-stays-flat-26-4301916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 07:41:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-march-jobless-rate-stays-flat-26-4301916
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xoAHbu9F--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t234135z_1_lynxmpek3s0ue_rtroptp_3_japan-economy-boj.jpg?itok=9yUm62ai" width="1600"/>
+  </item>
   <item>
    <title>
     Money Talks Podcast: How companies can maximise government grants and subsidies
@@ -273,69 +294,6 @@
   </item>
   <item>
    <title>
-    Commentary: Science is closing in on the frailties of old age
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/ageing-old-age-longevity-disease-illness-healthy-young-4299571
-   </link>
-   <description>
-    <![CDATA[Research is finding ways to extend animal lifespans but regulators are still wary of treating ageing as a disease, says the Financial Times' Camilla Cavendish.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/ageing-old-age-longevity-disease-illness-healthy-young-4299571
-   </guid>
-   <category>
-    Commentary ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f3-mgMPG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/16/an_elderly_couple_crosses_the_road_in_toa_payoh_on_thursday_feb_8.jpg?itok=Np2KY8Pv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Here’s what flexible work could look like for frontline workers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/flexible-work-frontline-worker-services-food-healthcare-education-tripartite-guidelines-4299781
-   </link>
-   <description>
-    <![CDATA[Flexi-work arrangements are readily applicable for most white-collar jobs, but not for frontline workers in food services, healthcare and more, says ArcLab CEO James Chia.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/flexible-work-frontline-worker-services-food-healthcare-education-tripartite-guidelines-4299781
-   </guid>
-   <category>
-    Commentary ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LK1s7gar--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/26/20231222_124917.jpg?itok=ok0_kCaS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Multi-currency e-wallets can do more in fraud prevention and customer support, experts say
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/multi-currency-e-wallets-youtrip-revolut-wise-fraud-customer-support-4285431
-   </link>
-   <description>
-    <![CDATA[A user of multi-currency e-wallet YouTrip recently discovered 31 unauthorised transactions charged to her card.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/multi-currency-e-wallets-youtrip-revolut-wise-fraud-customer-support-4285431
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--URE-718s--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/istock_multi_currency_travel_wallet_0.jpg?itok=8Sfaodyl" width="1600"/>
-  </item>
-  <item>
-   <title>
     Commentary: Here’s what flexible work could look like for frontline workers
    </title>
    <link>
@@ -420,6 +378,69 @@
   </item>
   <item>
    <title>
+    Commentary: Science is closing in on the frailties of old age
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/ageing-old-age-longevity-disease-illness-healthy-young-4299571
+   </link>
+   <description>
+    <![CDATA[Research is finding ways to extend animal lifespans but regulators are still wary of treating ageing as a disease, says the Financial Times' Camilla Cavendish.]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/ageing-old-age-longevity-disease-illness-healthy-young-4299571
+   </guid>
+   <category>
+    Commentary ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f3-mgMPG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/16/an_elderly_couple_crosses_the_road_in_toa_payoh_on_thursday_feb_8.jpg?itok=Np2KY8Pv" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: Here’s what flexible work could look like for frontline workers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/flexible-work-frontline-worker-services-food-healthcare-education-tripartite-guidelines-4299781
+   </link>
+   <description>
+    <![CDATA[Flexi-work arrangements are readily applicable for most white-collar jobs, but not for frontline workers in food services, healthcare and more, says ArcLab CEO James Chia.]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/flexible-work-frontline-worker-services-food-healthcare-education-tripartite-guidelines-4299781
+   </guid>
+   <category>
+    Commentary ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LK1s7gar--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/26/20231222_124917.jpg?itok=ok0_kCaS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Multi-currency e-wallets can do more in fraud prevention and customer support, experts say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/multi-currency-e-wallets-youtrip-revolut-wise-fraud-customer-support-4285431
+   </link>
+   <description>
+    <![CDATA[A user of multi-currency e-wallet YouTrip recently discovered 31 unauthorised transactions charged to her card.]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/multi-currency-e-wallets-youtrip-revolut-wise-fraud-customer-support-4285431
+   </guid>
+   <category>
+    Singapore ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--URE-718s--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/25/istock_multi_currency_travel_wallet_0.jpg?itok=8Sfaodyl" width="1600"/>
+  </item>
+  <item>
+   <title>
     Lewandowski hat-trick leads Barca to 4-2 win over 10-man Valencia
    </title>
    <link>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UjcxZXHY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t213837z_1_lynxmpek3s0sx_rtroptp_3_soccer-spain-fcb-val-report.jpg?itok=l-hvMXG_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    A galaxy of culinary stars celebrated 10 years of Gallery by Chele, a restaurant in Manila championing fresh Filipino produce
-   </title>
-   <link>
-    https://www.channelnewsasia.com/experiences/gallery-chele-restaurant-philippines-manila-chef-gonzalez-4298346
-   </link>
-   <description>
-    <![CDATA[There was also a preview of chef Chele Gonzalez’s new restaurant, Asador Alfonso.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 05:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/experiences/gallery-chele-restaurant-philippines-manila-chef-gonzalez-4298346
-   </guid>
-   <category>
-    Experiences ,CNA Luxury ,Dining ,Remarkable Living ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KkqUq9dX--/c_crop,h_843,w_1500,x_0,y_141/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/28/hero-3-gallery_by_chele_restaurant_philippines_manila_chef_gonzalez.jpg?itok=edG2yaKf" width="1600"/>
   </item>
  </channel>
 </rss>
