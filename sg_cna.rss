@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 11:09:45 +0800
+   Mon, 29 Apr 2024 11:19:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Henry takes bowling spot in New Zealand's T20 World Cup squad
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/henry-takes-bowling-spot-new-zealands-t20-world-cup-squad-4299516
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 11:13:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/henry-takes-bowling-spot-new-zealands-t20-world-cup-squad-4299516
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eayhJMAr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t031313z_1_lynxmpek3s01j_rtroptp_3_cricket-worldcup-eng-nzl.jpg?itok=vOevdnbN" width="1600"/>
+  </item>
   <item>
    <title>
     G7 holds 'strategic' talks in climate hotspot Italy
@@ -198,7 +219,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 29 Apr 2024 10:09:22 +0800
+    Mon, 29 Apr 2024 10:09:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/philippines-students-suffer-wilting-heat-thwarting-education-elnino-weather-4299346
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u8x79jFu--/c_crop,h_450,w_800,x_0,y_5/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t202153z_1_lynxmpek3r09y_rtroptp_3_music-taylor-swift.jpg?itok=_drnzmUL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Work It Podcast: Is flexible work shaping the office of the future?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/podcasts/flexible-work-arrangements-home-load-time-workspace-hybrid-work-it-4294251
-   </link>
-   <description>
-    <![CDATA[Companies are starting to consider satellite offices that are closer to homes, but financing them is a key consideration.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 07:37:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/podcasts/flexible-work-arrangements-home-load-time-workspace-hybrid-work-it-4294251
-   </guid>
-   <category>
-    Podcasts ,Business ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cvg7DjSX--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/14/work%20it%20(no%20gradient)-2.jpg?itok=wW0DykxP" width="1600"/>
   </item>
  </channel>
 </rss>
