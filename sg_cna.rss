@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 18:49:34 +0800
+   Mon, 29 Apr 2024 19:08:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thiago Silva to leave Chelsea at end of season but hopes to return
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/thiago-silva-leave-chelsea-end-season-hopes-return-4300431
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 19:01:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/thiago-silva-leave-chelsea-end-season-hopes-return-4300431
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a4k3wy2c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t110126z_1_lynxmpek3s0c2_rtroptp_3_soccer-england-che-silva.jpg?itok=Agn-XB9l" width="1600"/>
+  </item>
   <item>
    <title>
     EU to probe Meta over handling of Russian disinformation, FT reports
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MIASpjPi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/15/su_baolin.png?itok=bC098046" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Documentary focuses on man behind a cruelly bizarre 1990s Japanese reality show
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/contestant-documentary-tomoaki-hamatsu-nasubi-4299631
-   </link>
-   <description>
-    <![CDATA[The Contestant explores the story behind the late 1990s hit reality TV show from Japan, A Life In Prizes, in which a comedian nicknamed Nasubi is forced to survive on whatever he can redeem from mail-in coupons. ]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 15:54:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/contestant-documentary-tomoaki-hamatsu-nasubi-4299631
-   </guid>
-   <category>
-    Entertainment ,Asia ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fAWHtRqc--/c_crop,h_576,w_1024,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/ap24114374594316.jpg?itok=K4OCt4kB" width="1600"/>
   </item>
  </channel>
 </rss>
