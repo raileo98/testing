@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 29 Apr 2024 11:34:52 +0800
+   Mon, 29 Apr 2024 11:41:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    South Korea's Yoon to meet opposition leader amid bid to reset presidency
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/south-korea-yoon-meet-opposition-leader-reset-presidenc-4299381
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 11:41:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/south-korea-yoon-meet-opposition-leader-reset-presidenc-4299381
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yqJSQ9Hr--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-29t012745z_1_lynxmpek3s00i_rtroptp_3_southkorea-politics.jpg?itok=S10DguuG" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Hamas says 'no major issues', as Gaza truce effort builds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-hamas-gaza-no-major-issues-truce-effort-ceasefire-builds-egypt-hostage-rafah-4299476
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 29 Apr 2024 11:35:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-hamas-gaza-no-major-issues-truce-effort-ceasefire-builds-egypt-hostage-rafah-4299476
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JuERK6Mi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/000_34qg3l2.jpg?itok=1zGbAA_E" width="1600"/>
+  </item>
   <item>
    <title>
     Henry takes bowling spot in New Zealand's T20 World Cup squad
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lfDU5HCa--/c_crop,h_576,w_1024,x_0,y_15/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/ap24119605090986.jpg?itok=aCjyXXdZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taylor Swift's Tortured Poets Department dominates US sales and Billboard charts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/taylor-swift-tortured-poets-department-billboard-us-charts-4299036
-   </link>
-   <description>
-    <![CDATA[Traditional album sales totalled 1.91 million in the week ending Apr 25 between digital download albums, CDs, cassettes and also included 859,000 vinyl sales, Billboard said, citing data from Luminate.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 07:50:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/taylor-swift-tortured-poets-department-billboard-us-charts-4299036
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u8x79jFu--/c_crop,h_450,w_800,x_0,y_5/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t202153z_1_lynxmpek3r09y_rtroptp_3_music-taylor-swift.jpg?itok=_drnzmUL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taylor Swift's Tortured Poets Department dominates US sales and Billboard charts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/taylor-swift-tortured-poets-department-billboard-us-charts-4299036
-   </link>
-   <description>
-    <![CDATA[Traditional album sales totalled 1.91 million in the week ending Apr 25 between digital download albums, CDs, cassettes and also included 859,000 vinyl sales, Billboard said, citing data from Luminate.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 07:50:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/taylor-swift-tortured-poets-department-billboard-us-charts-4299036
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u8x79jFu--/c_crop,h_450,w_800,x_0,y_5/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-28t202153z_1_lynxmpek3r09y_rtroptp_3_music-taylor-swift.jpg?itok=_drnzmUL" width="1600"/>
   </item>
  </channel>
 </rss>
