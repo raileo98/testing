@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 01:40:59 +0800
+   Tue, 30 Apr 2024 01:51:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Battling Nadal beats Cachin to reach Madrid Open fourth round
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/battling-nadal-beats-cachin-reach-madrid-open-fourth-round-4301311
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 01:46:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/battling-nadal-beats-cachin-reach-madrid-open-fourth-round-4301311
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Axel Springer to migrate some cloud applications to Microsoft's Azure
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/axel-springer-migrate-some-cloud-applications-microsofts-azure-4301291
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 01:38:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/axel-springer-migrate-some-cloud-applications-microsofts-azure-4301291
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0W6hKxBH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t173858z_1_lynxmpek3s0nr_rtroptp_3_microsoft-ai.jpg?itok=ooiCSFgL" width="1600"/>
+  </item>
   <item>
    <title>
     Experts, politicians call for scrutiny of Venezuela's use of cryptocurrency
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uVHvCX8r--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t073754z_3_lynxmpek3r0au_rtroptp_3_global-oil.jpg?itok=DDezOcQU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bangladesh again shuts schools due to heatwave
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/bangladesh-heat-schools-shut-south-asia-4300621
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 20:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/bangladesh-heat-schools-shut-south-asia-4300621
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sekZkuK7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t121010z_1_lynxmpek3s0ex_rtroptp_3_asia-weather-bangladesh.jpg?itok=XY9-auZE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    England's Vunipola fined for assault after arrest in Mallorca
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/englands-vunipola-fined-assault-after-arrest-mallorca-4300586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 19:47:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/englands-vunipola-fined-assault-after-arrest-mallorca-4300586
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zg8zqVAr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t114723z_1_lynxmpek3s0dw_rtroptp_3_rugby-union-worldcup-eng-chl-preview.jpg?itok=6b_VvCus" width="1600"/>
   </item>
  </channel>
 </rss>
