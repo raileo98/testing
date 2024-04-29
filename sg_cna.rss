@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 00:52:10 +0800
+   Tue, 30 Apr 2024 01:05:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    What did people eat before agriculture? New study offers insight
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/what-did-people-eat-agriculture-new-study-offers-insight-4301196
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 00:53:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/what-did-people-eat-agriculture-new-study-offers-insight-4301196
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m-skMess--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t165327z_1_lynxmpek3s0mn_rtroptp_3_science-diet.jpg?itok=xk69-Tci" width="1600"/>
+  </item>
   <item>
    <title>
     Crypto company Tether invests $200 million in brain-chip maker Blackrock Neurotech
@@ -126,10 +147,10 @@
   </item>
   <item>
    <title>
-    Premier League clubs vote in favour of spending cap, BBC reports
+    Premier League clubs take step towards spending cap
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/premier-league-clubs-vote-favour-spending-cap-bbc-reports-4301021
+    https://www.channelnewsasia.com/sport/premier-league-clubs-take-step-towards-spending-cap-4301021
    </link>
    <description>
     <![CDATA[]]>
@@ -138,7 +159,7 @@
     Mon, 29 Apr 2024 23:12:50 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/premier-league-clubs-vote-favour-spending-cap-bbc-reports-4301021
+    https://www.channelnewsasia.com/sport/premier-league-clubs-take-step-towards-spending-cap-4301021
    </guid>
    <category>
     Sport
@@ -440,27 +461,6 @@
     Singapore ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mv35Pdj4--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/20/audrey_fang_dirou_spain_stabbed_facebook.jpg?itok=7bKhyJVL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Surfing-World record holder Steudtner finds peace in chaos
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/surfing-world-record-holder-steudtner-finds-peace-chaos-4300536
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 19:25:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/surfing-world-record-holder-steudtner-finds-peace-chaos-4300536
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
