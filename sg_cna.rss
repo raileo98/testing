@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 19:37:29 +0800
+   Tue, 30 Apr 2024 19:45:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Dortmund say Sabitzer, Malen likely to be fit for PSG clash
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/dortmund-say-sabitzer-malen-likely-be-fit-psg-clash-4303381
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 19:41:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/dortmund-say-sabitzer-malen-likely-be-fit-psg-clash-4303381
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    PayPal lifts 2024 profit forecast as spending stays resilient, margins improve
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/paypal-lifts-2024-profit-forecast-spending-stays-resilient-margins-improve-4303376
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 19:40:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/paypal-lifts-2024-profit-forecast-spending-stays-resilient-margins-improve-4303376
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tqUFz23B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t114022z_1_lynxmpek3t0gk_rtroptp_3_paypal-holdings-results.jpg?itok=D6dTGRmD" width="1600"/>
+  </item>
   <item>
    <title>
     MAS will not extend six-month pause on DBS' non-essential activities
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EUAcUa-C--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t094316z_1_lynxmpek3t0bs_rtroptp_3_sri-lanka-economy-debt.jpg?itok=K8WXm97x" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sword-wielding man held in east London after attacks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/sword-wielding-man-arrested-east-london-hainault-attack-4302921
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:42:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/sword-wielding-man-arrested-east-london-hainault-attack-4302921
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KqEavaOJ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/ap24121320443749.jpg?itok=gzKfUbhu" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China says Hamas and Fatah express political will for reconciliation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-says-hamas-and-fatah-express-political-will-reconciliation-4302816
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:35:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-says-hamas-and-fatah-express-political-will-reconciliation-4302816
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SQx4_Rwz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t080908z_1_lynxmpek3t08s_rtroptp_3_china-diplomacy.jpg?itok=BLbeikji" width="1600"/>
   </item>
  </channel>
 </rss>
