@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 05:40:29 +0800
+   Wed, 01 May 2024 05:50:47 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 04:15:21 +0800
+   Wed, 01 May 2024 05:43:05 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    長洲錄得每小時超過100公里的猛烈陣風
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751311-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751311-20240501.htm
+   </link>
+   <description>
+    <![CDATA[受到一道低壓槽影響，本港有大驟雨及狂風雷暴，天文台在凌晨4時15分發出黃色暴雨警告信號。長洲在凌晨4時50分錄得每小時超過100公里的猛烈陣風。
+
+天文台在昨晚9時半亦一度發出黃色暴雨警告信號，一個半小時後取消。
+
+天文台預測明日間中有驟雨及雷暴。隨後一兩日仍然有幾陣驟雨。]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 05:43:05 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     黃色暴雨警告信號現正生效
@@ -419,27 +440,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 20:16:21 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    中總冀當局密切關注最低工資新檢討機制實施後企業經營情況
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751268-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751268-20240430.htm
-   </link>
-   <description>
-    <![CDATA[行政長官會同行政會議接納優化法定最低工資檢討機制的建議，包括引入最低工資調整機制方程式，檢討頻率亦加密至「一年一檢」。香港中華總商會蔡冠深認為，制訂客觀的檢討機制方程式，可減少過往在討論調整最低工資水平過程出現的爭拗，期望當局密切關注機制實施後的企業經營情況，避免為營商環境和就業市場帶來負面影響。
-
-中總表示，本港市道仍然疲弱，中小企業經營尤其困難，縮短最低工資檢討周期將加重中小企經營和人手開支負擔。另外，調整機制方程式主要採用過去的本地生產總值和消費物價指數變動數據，或未能反映未來經濟前景及營商環境變化可能帶來的影響。
-
-中總期望政府在優化僱員權益保障的同時，也要兼顧企業承擔能力，為有需要的中小企提供靈活的財政支援，舒緩可能遇到的財務負擔。長遠要著力優化有助提振本港營商與投資環境的政策措施，讓企業有更好的業務經營前景，進一步提升僱員的薪酬待遇，達致勞資雙贏。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 19:41:00 +0800
    </pubDate>
   </item>
  </channel>
