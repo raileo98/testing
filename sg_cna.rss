@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 02:36:20 +0800
+   Wed, 01 May 2024 02:46:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Atletico Madrid hit with two-match partial stand closure after racist abuse
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/atletico-madrid-hit-two-match-partial-stand-closure-after-racist-abuse-4304396
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 02:35:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/atletico-madrid-hit-two-match-partial-stand-closure-after-racist-abuse-4304396
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y1Hh7Gju--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t183546z_1_lynxmpek3t0tv_rtroptp_3_soccer-spain-atm-atb-report.jpg?itok=e2---xXZ" width="1600"/>
+  </item>
   <item>
    <title>
     US newspapers sue OpenAI for copyright infringement over AI training
@@ -143,7 +164,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XqfkoO0b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t171658z_2_lynxmpek3t0su_rtroptp_3_tech-antitrust-google.jpg?itok=9T2KnbZ0" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EFnua6Oj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t184052z_3_lynxmpek3t0su_rtroptp_3_tech-antitrust-google.jpg?itok=YXC2Ns8g" width="1600"/>
   </item>
   <item>
    <title>
@@ -434,27 +455,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qmo3vCCq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t120608z_1_lynxmpek3t0hc_rtroptp_3_israel-palestinians-usa-protests-columbia.jpg?itok=rMgZ9MV-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Flamengo forward Barbosa cleared to play pending anti-doping ban appeal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/flamengo-forward-barbosa-cleared-play-pending-anti-doping-ban-appeal-4303786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 21:50:33 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/flamengo-forward-barbosa-cleared-play-pending-anti-doping-ban-appeal-4303786
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PCRRq0cL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t135033z_1_lynxmpek3t0l5_rtroptp_3_soccer-brazil-fla-gabigol.jpg?itok=98T-84yi" width="1600"/>
   </item>
  </channel>
 </rss>
