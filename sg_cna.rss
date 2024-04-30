@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 06:42:24 +0800
+   Wed, 01 May 2024 06:48:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ancelotti unhappy with Real's attitude in draw at Bayern
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ancelotti-unhappy-reals-attitude-draw-bayern-4304921
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 06:41:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ancelotti-unhappy-reals-attitude-draw-bayern-4304921
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dAgnx-s9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t224127z_1_lynxmpek3t0xv_rtroptp_3_soccer-champions-bay-mad-report.jpg?itok=tJbX9U02" width="1600"/>
+  </item>
   <item>
    <title>
     Did you know the simple Vipp waste pedal bin has a place in the Museum of Modern Art's permanent design collection?
@@ -439,27 +460,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--j9Dx4TMz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t205735z_2_lynxmpek3t0wc_rtroptp_3_unitedhlth-grp-cyberattack.jpg?itok=RG5qMkhZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US drug enforcers to ease restrictions on cannabis, AP reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-drug-enforcers-ease-restrictions-cannabis-ap-reports-4304286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 04:48:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-drug-enforcers-ease-restrictions-cannabis-ap-reports-4304286
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--paSx0SkV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t192310z_3_lynxmpek3t0t5_rtroptp_3_usa-marijuana-new-york.jpg?itok=0kiSBJ0A" width="1600"/>
   </item>
  </channel>
 </rss>
