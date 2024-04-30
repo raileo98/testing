@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 03:35:10 +0800
+   Wed, 01 May 2024 03:40:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Columbia threatens student protesters occupying building with expulsion
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/columbia-campus-protests-admin-expulsion-palestine-gaza-occupation-4304461
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 03:36:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/columbia-campus-protests-admin-expulsion-palestine-gaza-occupation-4304461
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--q8SKgXj---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t190248z_1_lynxmpek3t0ud_rtroptp_3_israel-palestinians-usa-protests.jpg?itok=5JVUc6jr" width="1600"/>
+  </item>
   <item>
    <title>
     More automakers plug into Tesla's EV charging network
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SfO4yL6_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t153101z_2_lynxmpek3t0m9_rtroptp_3_apple-tv-fifa.jpg?itok=KqbS3bgH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South African cryptocurrency exchange VALR targets global expansion
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/south-african-cryptocurrency-exchange-valr-targets-global-expansion-4303811
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 22:04:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/south-african-cryptocurrency-exchange-valr-targets-global-expansion-4303811
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
