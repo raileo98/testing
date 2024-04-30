@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 12:21:36 +0800
+   Tue, 30 Apr 2024 12:29:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Microsoft to invest $1.7 billion in cloud, AI in Indonesia, CEO says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/microsoft-invest-17-billion-cloud-ai-indonesia-ceo-says-4302411
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 12:20:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/microsoft-invest-17-billion-cloud-ai-indonesia-ceo-says-4302411
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     HSBC announces CEO Quinn's retirement, first-quarter profit drops 1.8%
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Mh1-MTaI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t041518z_2_lynxmpek3t02w_rtroptp_3_hsbc-results.jpg?itok=EMMGk7Av" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JZ9Yj5Vn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t042231z_3_lynxmpek3t02w_rtroptp_3_hsbc-results.jpg?itok=zVqURJs2" width="1600"/>
   </item>
   <item>
    <title>
@@ -192,7 +213,7 @@
     Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict
    </title>
    <link>
-    https://www.channelnewsasia.com/asia/malaysias-kfc-closes-over-100-outlets-amid-boycotts-linked-gaza-conflict-4302296
+    https://www.channelnewsasia.com/asia/malaysia-kfc-closures-boycott-gaza-conflict-4302296
    </link>
    <description>
     <![CDATA[The US chain’s owner, QSR brands, said in a statement that the decision was a response to “challenging economic conditions” and that affected employees had been offered the opportunity to relocate to busier stores. ]]>
@@ -201,7 +222,7 @@
     Tue, 30 Apr 2024 11:54:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/malaysias-kfc-closes-over-100-outlets-amid-boycotts-linked-gaza-conflict-4302296
+    https://www.channelnewsasia.com/asia/malaysia-kfc-closures-boycott-gaza-conflict-4302296
    </guid>
    <category>
     Asia
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TS73AeVM--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/558d7fe1e171f098b9b20e1a18f2297842cd305f.jpg?itok=c7Tec1Z0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hopes rise for possible Gaza truce deal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-hope-rise-possible-gaza-truce-deal-ceasefire-united-states-4299521
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 10:09:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-hope-rise-possible-gaza-truce-deal-ceasefire-united-states-4299521
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mgmpgC-a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-29t114444z_2_lynxmpek3s0cx_rtroptp_3_israel-palestinians-hostages.jpg?itok=s0a50Pjl" width="1600"/>
   </item>
  </channel>
 </rss>
