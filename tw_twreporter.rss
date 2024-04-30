@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Mon, 29 Apr 2024 17:00:02 GMT
+   Tue, 30 Apr 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,42 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    張烽益／如何平衡工作與生活的反思，是人類進步的動力──讀《終結職業倦怠》
+   </title>
+   <description>
+    <![CDATA[根據官方調查，台灣勞工對整體工作滿意度超過7成，打算轉換工作只有1成5。台灣整體職業倦怠似乎沒有想像得高？這當中的因素尚待更細緻的分析。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-the-end-of-burnout
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-the-end-of-burnout
+   </guid>
+   <pubDate>
+    Tue, 30 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240427010603-2599aedb553336e559938d88debc5c24-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    【投書】電價調漲後，解決能源貧窮、加速節電措施不能等
+   </title>
+   <description>
+    <![CDATA[在能源成本高漲之下，平均調漲11%的新電價方案已於4月1日上路。政府除了必須正視相應而來經濟弱勢面臨的能源貧窮問題之外，許多待調整的節電配套策略也值得討論。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/opinion-after-raising-electricity-prices
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/opinion-after-raising-electricity-prices
+   </guid>
+   <pubDate>
+    Mon, 29 Apr 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240429200822-f013c53e8098dbffdfcd269af0c19729-mobile.jpg"/>
+  </item>
   <item>
    <title>
     熊貓如何滲透大象之國：拆解中對泰政治作戰的多路攻勢
@@ -162,24 +198,6 @@
   </item>
   <item>
    <title>
-    「為孩子好」，不見得真的對他好──犯罪心理學家寫給父母的教養備忘錄
-   </title>
-   <description>
-    <![CDATA[一旦父母堅持「我是為了孩子好」而一意孤行，無法察覺孩子行為變化背後的意義，這麼一來，孩子心中的不滿情緒，就有可能因一點小事而徹底爆發，反而導致孩子出現非行或犯罪行為。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-words-that-curse-children-or-save-them
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-words-that-curse-children-or-save-them
-   </guid>
-   <pubDate>
-    Sun, 21 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417125125-6018f7e6b7dcb3c97f5286e4f5806c03-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     死囚有沒有妥善道別的最後權利？日本「執行死刑黑箱」訴訟，與來自刑場的錄音
    </title>
    <description>
@@ -195,24 +213,6 @@
     Sun, 21 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240422112325-10e6c2af14efd0b83b32c03a46d7208e-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    詹育杰／真相與奇觀：法醫鑑識風格影像的媒體映照
-   </title>
-   <description>
-    <![CDATA[屍體倒臥雪地的電影劇照、巨大的抹香鯨擱淺雕塑照、身首異處的斷頭古樹照⋯⋯這類看似客觀卻無疑是奇觀的「類」新聞畫面，為何總是成功吸睛？與上世紀興起的法醫鑑識攝影有何關聯？]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/photo-truth-and-spectacle-forensic-style-tragedy-imagery
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/photo-truth-and-spectacle-forensic-style-tragedy-imagery
-   </guid>
-   <pubDate>
-    Sat, 20 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240418145112-aed004e7cfa72f969f6bb95b61252158-mobile.jpg"/>
   </item>
  </channel>
 </rss>
