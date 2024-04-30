@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 06:20:29 +0800
+   Wed, 01 May 2024 06:30:41 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 05:43:05 +0800
+   Wed, 01 May 2024 06:23:40 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    本港多區今早錄得約30毫米雨量　西貢雨量更超過50毫米
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751317-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751317-20240501.htm
+   </link>
+   <description>
+    <![CDATA[受到一道低壓槽影響，本港有大驟雨及狂風雷暴，黃色暴雨警告信號和雷暴警告現正生效。
+
+天文台表示，今早本港多處地區錄得約30毫米雨量，而西貢的雨量更超過50毫米。另外，長洲在凌晨4時50分錄得每小時超過100公里的猛烈陣風。
+
+天文台預測明日間中有驟雨及雷暴。隨後一兩日仍然有幾陣驟雨。]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 06:23:40 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     長洲錄得每小時超過100公里的猛烈陣風
@@ -421,25 +442,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 20:40:16 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    入境處將26名越南籍非法入境者遣返越南
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751269-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751269-20240430.htm
-   </link>
-   <description>
-    <![CDATA[入境處執行遣送行動，將26名越南籍非法入境者遣返越南。該批人士包括12名男子及14名女子，全部曾在香港提出免遣返聲請但不獲確立，部分曾因干犯刑事罪行被判監及服刑至刑滿出獄。
-
-入境處會繼續加快遣送程序，視乎實際情況和需要，採取一切合適措施將非法入境者及逾期逗留人士盡快遣離香港。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:16:21 +0800
    </pubDate>
   </item>
  </channel>
