@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 23:41:14 +0800
+   Tue, 30 Apr 2024 23:55:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Mayor confident Seine pool party will convince river is safe
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/mayor-confident-seine-pool-party-will-convince-river-safe-4304041
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 23:49:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/mayor-confident-seine-pool-party-will-convince-river-safe-4304041
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RYHT60Te--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t154928z_1_lynxmpek3t0q6_rtroptp_3_olympics-2024-hidalgo.jpg?itok=zljub0B6" width="1600"/>
+  </item>
   <item>
    <title>
     Troon's sixth hole to set Open distance record
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f05P-kDk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/fbb81aa7ec1e0956416382e93eb394ca4fc0e8bf.jpg?itok=ovpd7CaX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    SiriusXM's higher-than-expected subscriber loss clouds quarterly revenue beat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/siriusxms-higher-expected-subscriber-loss-clouds-quarterly-revenue-beat-4303586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:48:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/siriusxms-higher-expected-subscriber-loss-clouds-quarterly-revenue-beat-4303586
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
