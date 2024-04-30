@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 03:21:56 +0800
+   Wed, 01 May 2024 03:35:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More automakers plug into Tesla's EV charging network
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/more-automakers-plug-teslas-ev-charging-network-3824116
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 03:28:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/more-automakers-plug-teslas-ev-charging-network-3824116
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oTxnSDCD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t190653z_1_lynxmpek3t0uh_rtroptp_3_tesla-results.jpg?itok=r8fhGb20" width="1600"/>
+  </item>
   <item>
    <title>
     Underdogs Al-Ain can make Asian Champions League dream come true, says Erik
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Fulham in sanction agreement with Premier League regarding player registrations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fulham-sanction-agreement-premier-league-regarding-player-registrations-4303796
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 21:58:33 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fulham-sanction-agreement-premier-league-regarding-player-registrations-4303796
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sDCLo4XV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t135833z_1_lynxmpek3t0l8_rtroptp_3_soccer-england-ful-shu-report.jpg?itok=RPuCn84Y" width="1600"/>
   </item>
  </channel>
 </rss>
