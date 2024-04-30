@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 04:25:01 +0800
+   Wed, 01 May 2024 04:35:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Manchester United's interim CEO, CFO to step down
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/manchester-uniteds-interim-ceo-cfo-step-down-4304651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 04:28:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/manchester-uniteds-interim-ceo-cfo-step-down-4304651
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yYuSosF_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t202815z_1_lynxmpek3t0w0_rtroptp_3_soccer-england-mun-lut-report.jpg?itok=OiGUksmc" width="1600"/>
+  </item>
   <item>
    <title>
     Chipmaker AMD beats first-quarter revenue estimates
@@ -101,7 +122,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Dpuw0rml--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t202510z_1_lynxmpek3t0vw_rtroptp_3_super-micro-comp-stocks.jpg?itok=6zF-xemg" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RYHT60Te--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t154928z_1_lynxmpek3t0q6_rtroptp_3_olympics-2024-hidalgo.jpg?itok=zljub0B6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Troon's sixth hole to set Open distance record
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/troons-sixth-hole-set-open-distance-record-4303996
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 23:34:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/troons-sixth-hole-set-open-distance-record-4303996
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
