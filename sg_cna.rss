@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 23:36:05 +0800
+   Tue, 30 Apr 2024 23:41:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Troon's sixth hole to set Open distance record
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/troons-sixth-hole-set-open-distance-record-4303996
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 23:34:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/troons-sixth-hole-set-open-distance-record-4303996
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Stocks set for monthly loss, earnings, macro action heats up
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Thai PM Srettha Thavisin vows to shoulder consequences of Cabinet reshuffle
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thailand-cabinet-reshuffle-srettha-thavisin-parnpree-bahiddha-nukara-foreign-finance-ministry-4303016
-   </link>
-   <description>
-    <![CDATA[Thai Foreign Minister Parnpree Bahiddha-Nukara abruptly resigned in apparent displeasure over a cabinet reshuffle which stripped him of his deputy prime minister portfolio.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:45:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thailand-cabinet-reshuffle-srettha-thavisin-parnpree-bahiddha-nukara-foreign-finance-ministry-4303016
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--irttfeqV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-11-10t051045z_1_lynxmpeja903j_rtroptp_3_thailand-politics.jpg?itok=8mVLahym" width="1600"/>
   </item>
  </channel>
 </rss>
