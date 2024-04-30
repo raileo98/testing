@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 11:21:46 +0800
+   Tue, 30 Apr 2024 11:34:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Corruption-related reports fall 8% in 2023, situation 'firmly under control': CPIB
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/cpib-corruption-public-sector-private-annual-report-2023-4302236
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 11:25:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/cpib-corruption-public-sector-private-annual-report-2023-4302236
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hqlP8sKj--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-25t052054z_2_lynxnpek2o04d_rtroptp_3_singapore-tourism.jpg?itok=mM3Jsod7" width="1600"/>
+  </item>
   <item>
    <title>
     Running Man's Haha, Sandara Park and Exo's Suho among celebs taking part in Korean fundraiser for children in Gaza
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eXbSHJM_--/c_crop,h_450,w_800,x_0,y_19/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-15t145024z_1_lynxnpek1e0jf_rtroptp_3_israel-palestinians-shipping-carnival.jpg?itok=d2Qmc6pf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Computer parts maker Logitech Q4 sales rise; first positive qtr in over 2 years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/computer-parts-maker-logitech-q4-sales-rise-first-positive-qtr-over-2-years-4302011
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 09:10:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/computer-parts-maker-logitech-q4-sales-rise-first-positive-qtr-over-2-years-4302011
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X7W1kBIc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t011027z_1_lynxmpek3t00w_rtroptp_3_logitech-intl-results.jpg?itok=vFofZPox" width="1600"/>
   </item>
  </channel>
 </rss>
