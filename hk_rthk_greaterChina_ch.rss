@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 12:30:26 +0800
+   Tue, 30 Apr 2024 12:40:36 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 12:20:07 +0800
+   Tue, 30 Apr 2024 12:31:17 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    神十七將返東風著陸場　採用空中搜救航天員及地面處置返回艙模式
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751175-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751175-20240430.htm
+   </link>
+   <description>
+    <![CDATA[神舟十七號載人飛船已經與太空站組合體分離，神十七乘組3名航天員湯洪波、唐勝傑、江新林啟程返航，他們狀態良好，按計劃今日稍後返回內蒙古東風著陸場。
+
+在著陸場，搜救回收空中分隊5架直升機飛抵集合地點。央視新聞報道，今次任務依然採取「空中搜救航天員，地面處置返回艙」的模式，參與的5部直升機包括指揮機，通信機、醫監醫救機各一部，以及兩部醫療救護機。
+
+報道又指，神十七飛船將採用5圈快速返回方案，經歷4個階段，分別是制動離軌、自由滑行、再入大氣層及開傘著陸，整個返回著陸過程將耗時約50分鐘。
+
+神十七乘組返航前，在地面人員配合下，完成撤離前各項工作，包括太空站組合體狀態設置、實驗數據整理下傳、留軌物資清理轉運等，並與神十八乘組完成交接。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 12:31:17 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     全國本月平均雨量較常年同期偏多　國家氣象局籲留意五一假期天氣
@@ -447,25 +470,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 15:05:19 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    習近平下月訪問法國等三個國家
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751032-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751032-20240429.htm
-   </link>
-   <description>
-    <![CDATA[在北京，外交部發言人華春瑩宣布，應法國總統馬克龍、塞爾維亞總統武契奇，以及匈牙利總統舒尤克和總理歐爾班邀請，國家主席習近平將於5月5日至10日，對三國進行國事訪問。
-
-外交部表示，習近平今次出訪，對中國與法國、塞爾維亞、匈牙利、歐盟關係至關重要，為世界和平與發展注入動力。中國期待同法國一起，進一步增進政治互信和團結合作，習近平將同法國總統馬克龍，就中法、中歐關係及國際關心問題深入交換意見。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 15:04:11 +0800
    </pubDate>
   </item>
  </channel>
