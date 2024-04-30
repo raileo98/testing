@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 04:20:23 +0800
+   Wed, 01 May 2024 04:25:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Chipmaker AMD beats first-quarter revenue estimates
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/chipmaker-amd-beats-first-quarter-revenue-estimates-4304646
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 04:23:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/chipmaker-amd-beats-first-quarter-revenue-estimates-4304646
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8TN8sxjt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t202334z_1_lynxmpek3t0vv_rtroptp_3_amd-results.jpg?itok=IJ6hkzmE" width="1600"/>
+  </item>
+  <item>
+   <title>
     Binance's former CEO sentenced to 4 months prison in money laundering violations
    </title>
    <link>
@@ -60,6 +81,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W7D3S7xU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/490a1b25473ab05a3801c8676ab61fc997a3bb02.jpg?itok=cd0BQ5OA" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Super Micro forecasts quarterly revenue above estimates as AI powers server demand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-ai-powers-server-demand-4304601
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 04:09:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-ai-powers-server-demand-4304601
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Stocks set for monthly drop, dollar rebounds as data, Fed loom large
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/stocks-notch-monthly-drop-dollar-rebounds-data-fed-loom-large-4302116
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 23:01:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/stocks-notch-monthly-drop-dollar-rebounds-data-fed-loom-large-4302116
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    SocGen Hong Kong traders left bank after unauthorised bets uncovered, source says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/socgen-hong-kong-traders-left-bank-after-unauthorised-bets-uncovered-source-says-4303906
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 22:50:33 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/socgen-hong-kong-traders-left-bank-after-unauthorised-bets-uncovered-source-says-4303906
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jgylwzF5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t145033z_1_lynxmpek3t0o0_rtroptp_3_societe-generale-traders-hong-kong.jpg?itok=cLQfkCOW" width="1600"/>
   </item>
  </channel>
 </rss>
