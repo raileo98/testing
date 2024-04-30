@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 18:01:48 +0800
+   Tue, 30 Apr 2024 18:20:42 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 16:55:49 +0800
+   Tue, 30 Apr 2024 18:19:02 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Shenzhou-17 declared a success as crew return
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751247-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751247-20240430.htm
+   </link>
+   <description>
+    <![CDATA[The Shenzhou-17 manned space mission was declared a success as its three crew members returned to Earth on Tuesday afternoon after a six-month mission in space.
+
+The China Manned Space Agency said astronauts Tang Hongbo, Tang Shengjie and Jiang Xinlin were in good health conditions as they emerged from the spacecraft's return capsule that touched down at the Dongfeng landing site in Inner Mongolia.
+
+Earlier on Tuesday, the Shenzhou-17 separated from the country's space station combination and started its journey back to Earth.
+
+Before the separation, the Shenzhou-17 crew – with the assistance of the ground staff – completed various tasks such as setting the status of the space station combination and carried out handover work with the Shenzhou-18 crew.
+
+The Shenzhou-17 crew were launched to the Tiangong space station last October, while the Shenzhou-18 was launched last week. (Additional reporting by Xinhua)]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 18:19:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Party plenum to be held in July
@@ -647,29 +672,6 @@ The Foreign Ministry said last month there is "no fairness to speak of" in citin
    </description>
    <pubDate>
     Wed, 24 Apr 2024 11:10:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Shenzhou-18 ready for launch
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750234-20240423.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750234-20240423.htm
-   </link>
-   <description>
-    <![CDATA[The Shenzhou-18 crewed space mission on Tuesday completed its last joint practice before launch.
-
-The combination of the Shenzhou-18 crewed spaceship and a Long March-2F carrier rocket has been transferred to the launch site.
-
-Both the rocket and spacecraft have completed the electrical performance test, and the astronauts and all systems at the launch site have carried out the launch drill, with everything reported to be in good condition.
-
-The Shenzhou-18 is expected to be launched from the Jiuquan Satellite Launch Centre in the coming days. (Reporting by Xinhua)]]>
-   </description>
-   <pubDate>
-    Tue, 23 Apr 2024 22:50:02 +0800
    </pubDate>
   </item>
  </channel>
