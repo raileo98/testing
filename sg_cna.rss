@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 10:25:48 +0800
+   Tue, 30 Apr 2024 10:35:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    KFC Malaysia temporarily shutters outlets citing challenging economy
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/kfc-malaysia-temporarily-shutters-outlets-citing-challenging-economy-4302171
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 10:29:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/kfc-malaysia-temporarily-shutters-outlets-citing-challenging-economy-4302171
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mFQ0HF0h--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t022905z_1_lynxmpek3t022_rtroptp_3_malaysia-kfc-shareholders.jpg?itok=W6nGJ0vC" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Indonesia's wait for Olympic football goes on after Uzbekistan defeat
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/indonesias-wait-olympic-football-goes-after-uzbekistan-defeat-4301236
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 10:27:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/indonesias-wait-olympic-football-goes-after-uzbekistan-defeat-4301236
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TS73AeVM--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/558d7fe1e171f098b9b20e1a18f2297842cd305f.jpg?itok=c7Tec1Z0" width="1600"/>
+  </item>
   <item>
    <title>
     Hopes rise for possible Gaza truce deal
@@ -417,48 +459,6 @@
     Podcasts ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4zO3pvpb--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/16/money%20talks%20(1).jpg?itok=lX35tYD4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Why do some people sweat a lot? Does sweating help you detox? Why does it feel sticky after it's dried up?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/wellness/hot-weather-sweat-stains-stickiness-detoxify-sports-clothes-eczema-4288416
-   </link>
-   <description>
-    <![CDATA[Feeling hot and sweaty? CNA Lifestyle asks your burning questions about all things related to sweat. ]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 07:23:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/wellness/hot-weather-sweat-stains-stickiness-detoxify-sports-clothes-eczema-4288416
-   </guid>
-   <category>
-    Wellness ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CZiG-ydn--/c_crop,h_900,w_1600,x_0,y_166/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/istock-1491429561.jpg?itok=gOX-h4YQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Why do some people sweat a lot? Does sweating help you detox? Why does it feel sticky after it's dried up?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/wellness/hot-weather-sweat-stains-stickiness-detoxify-sports-clothes-eczema-4288416
-   </link>
-   <description>
-    <![CDATA[Feeling hot and sweaty? CNA Lifestyle asks your burning questions about all things related to sweat. ]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 07:23:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/wellness/hot-weather-sweat-stains-stickiness-detoxify-sports-clothes-eczema-4288416
-   </guid>
-   <category>
-    Wellness ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CZiG-ydn--/c_crop,h_900,w_1600,x_0,y_166/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/istock-1491429561.jpg?itok=gOX-h4YQ" width="1600"/>
   </item>
  </channel>
 </rss>
