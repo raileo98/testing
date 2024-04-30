@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 05:01:45 +0800
+   Wed, 01 May 2024 05:40:18 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 23:20:36 +0800
+   Wed, 01 May 2024 05:37:00 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股回吐逾1%至2%　4月跌逾4%至5%　結束5個月升勢
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751310-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751310-20240501.htm
+   </link>
+   <description>
+    <![CDATA[美股連升兩日後顯著回吐，3大指數以近全日低位收市，跌逾1%至2%，科技股捱沽。
+
+美國首季就業成本加快上升，反映通脹壓力升溫，或令聯儲局推遲減息。另外，4月消費者信心跌至逾1年半以來最低。市場觀望聯儲局議息結果，以及官員對近期經濟形勢的看法。
+
+道瓊斯指數收報37815點，跌570點，跌幅1.49%。
+
+納斯達克指數收報15657點，跌325點，跌幅2.04%。
+
+標準普爾500指數守住5000點關口，收報5035點，跌80點，跌幅1.57%。
+
+Tesla回吐逾5.5%；微軟及亞馬遜低收逾3%，但亞馬遜收市後公布的業績好過預期，帶動股價在收市後交易時段向上；蘋果、Alphabet跌近2%或以上。
+
+全個月計，3大指數都結束5個月升勢，道指4月累計跌5%，創逾1年半以來最大跌幅。納指及標普500指數分別跌4.4%及4.2%，同樣創7個月以來最大單月跌幅。]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 05:37:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     北京市住房限購政策13年來首次調整
@@ -443,25 +472,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 18:11:06 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    五一煙火表演或受天氣影響　李家超：盡量做好旅客服務和體驗
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751245-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751245-20240430.htm
-   </link>
-   <description>
-    <![CDATA[「五一黃金周」明天展開，明晚預定在維港舉辦的首場海上煙火表演，可能受天氣影響。行政長官李家超表示，天氣無法控制，但政府會全面部署，確保盡量做好旅客來港的服務和體驗。
-
-李家超又指，整體香港社會應該以積極和進取的態度看待所有問題，展現香港輝煌一面，若沉醉在日常生活經常會見到的變化，並把它以一個誇大的方式處理，他認為對整體香港未必是最正確的方法。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 18:11:02 +0800
    </pubDate>
   </item>
  </channel>
