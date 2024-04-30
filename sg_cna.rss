@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 22:55:20 +0800
+   Tue, 30 Apr 2024 23:10:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,23 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Stocks set for monthly loss, earnings, macro action heats up
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate/>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     SocGen Hong Kong traders left bank after unauthorised bets uncovered, source says
@@ -248,7 +265,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fnLViFyQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t131411z_1_lynxmpek3t0ka_rtroptp_3_alphabet-results.jpg?itok=hdVA3WFv" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DV3iNGN---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t145508z_2_lynxmpek3t0ka_rtroptp_3_alphabet-results.jpg?itok=YOAWJgCr" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +455,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Kh5soTY---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t123134z_1_lynxmpek3t0ie_rtroptp_3_czech-nuclear.jpg?itok=cXbHQZXn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Asia's first spot bitcoin, ether ETFs start trading in Hong Kong
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/asias-first-spot-bitcoin-ether-etfs-start-trading-hong-kong-4302256
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:28:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/asias-first-spot-bitcoin-ether-etfs-start-trading-hong-kong-4302256
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7AyERB80--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/781cec0bda96c6c29b0e0f02af3fa0d669f87cf7.jpg?itok=1MO6mDWd" width="1600"/>
   </item>
  </channel>
 </rss>
