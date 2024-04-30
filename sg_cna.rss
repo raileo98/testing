@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 04:50:11 +0800
+   Wed, 01 May 2024 05:10:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Vinicius Jr double earns Real Madrid 2-2 draw at Bayern
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/vinicius-jr-double-earns-real-madrid-2-2-draw-bayern-4304721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 05:05:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/vinicius-jr-double-earns-real-madrid-2-2-draw-bayern-4304721
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OIATKJPH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t210502z_1_lynxmpek3t0wp_rtroptp_3_soccer-champions-bay-mad-report.jpg?itok=K04EPgBb" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Almost all US hospitals took financial hit from Change hack, AHA says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/almost-all-us-hospitals-took-financial-hit-change-hack-aha-says-4304706
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 04:57:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/almost-all-us-hospitals-took-financial-hit-change-hack-aha-says-4304706
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--j9Dx4TMz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t205735z_2_lynxmpek3t0wc_rtroptp_3_unitedhlth-grp-cyberattack.jpg?itok=RG5qMkhZ" width="1600"/>
+  </item>
   <item>
    <title>
     US drug enforcers to ease restrictions on cannabis, AP reports
@@ -126,10 +168,10 @@
   </item>
   <item>
    <title>
-    Super Micro forecasts quarterly revenue above estimates as AI powers server demand
+    Super Micro misses quarterly revenue estimates on stiff competition, shares fall
    </title>
    <link>
-    https://www.channelnewsasia.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-ai-powers-server-demand-4304601
+    https://www.channelnewsasia.com/business/super-micro-misses-quarterly-revenue-estimates-stiff-competition-shares-fall-4304601
    </link>
    <description>
     <![CDATA[]]>
@@ -138,7 +180,7 @@
     Wed, 01 May 2024 04:09:57 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-ai-powers-server-demand-4304601
+    https://www.channelnewsasia.com/business/super-micro-misses-quarterly-revenue-estimates-stiff-competition-shares-fall-4304601
    </guid>
    <category>
     Business
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EFnua6Oj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t184052z_3_lynxmpek3t0su_rtroptp_3_tech-antitrust-google.jpg?itok=YXC2Ns8g" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Britain's Archibald ready to fill Kenny's shoes in triple gold hunt
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/britains-archibald-ready-fill-kennys-shoes-triple-gold-hunt-4304056
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 00:04:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/britains-archibald-ready-fill-kennys-shoes-triple-gold-hunt-4304056
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Police warn of WhatsApp account takeover in Facebook job scam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/police-warn-whatsapp-account-takeover-facebook-job-scam-4303946
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 23:57:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/police-warn-whatsapp-account-takeover-facebook-job-scam-4303946
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--57sCi457--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/image_80.png?itok=QCq45lRp" width="1600"/>
   </item>
  </channel>
 </rss>

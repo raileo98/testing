@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 04:50:04 +0800
+   Wed, 01 May 2024 05:01:32 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 21:33:23 +0800
+   Wed, 01 May 2024 04:52:22 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks fall amid worries that rates will stay high
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751308-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751308-20240501.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks fell sharply on Tuesday following disappointing economic data as US Treasury yields pushed higher ahead of a Federal Reserve decision.
+
+US consumer confidence fell to its lowest level since July 2022, missing expectations amid rising anxiety over the jobs market and future financial conditions.
+
+Analysts also cited an uptick in US Treasury yields following data showing a jump in US employee compensation costs in the first quarter. The rise came as the Fed kicked off a two-day monetary policy meeting.
+
+The Dow Jones Industrial Average fell 1.5 percent to 37,815.
+
+The broad-based S&P 500 dropped 1.6 percent to 5,035, while the tech-rich Nasdaq Composite Index slumped 2.0 percent to 15,657. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 04:52:22 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Negative equity cases at their highest in two decades
@@ -613,27 +638,6 @@ The council, an advisory body to APEC economic leaders, held a meeting in Hong K
    </description>
    <pubDate>
     Thu, 25 Apr 2024 17:26:05 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong shares extend gains to fourth day
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750509-20240425.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750509-20240425.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks rose for a fourth straight day on Thursday as traders grow increasingly hopeful for company earnings and ahead of the release of a key US inflation report at the end of the week.
-
-The Hang Seng Index edged up 0.5 percent, or 83 points, to 17,284.
-
-The Shanghai Composite Index gained 0.3 percent, or 8 points, to 3,052, while the Shenzhen Composite Index added 0.2 percent, or 3 points, to 1,698. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 25 Apr 2024 16:35:13 +0800
    </pubDate>
   </item>
  </channel>
