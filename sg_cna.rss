@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 03:40:05 +0800
+   Wed, 01 May 2024 03:47:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,7 +42,28 @@
   </image>
   <item>
    <title>
-    Columbia threatens student protesters occupying building with expulsion
+    Belgium goalkeeper Courtois to miss out on Euro 2024
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/belgium-goalkeeper-courtois-miss-out-euro-2024-4304531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 03:42:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/belgium-goalkeeper-courtois-miss-out-euro-2024-4304531
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NgJEVQma--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t194221z_1_lynxmpek3t0v4_rtroptp_3_soccer-belgium-courtois.jpg?itok=n2L1P4uj" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Pro-Palestinian protesters occupying building threatened with expulsion at Columbia
    </title>
    <link>
     https://www.channelnewsasia.com/world/columbia-campus-protests-admin-expulsion-palestine-gaza-occupation-4304461
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 01 May 2024 03:36:49 +0800
+    Wed, 01 May 2024 03:36:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/columbia-campus-protests-admin-expulsion-palestine-gaza-occupation-4304461
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Some FIFA rules on player transfers may be illegal, EU adviser says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/some-fifa-rules-player-transfers-may-be-illegal-eu-adviser-says-4303821
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 22:23:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/some-fifa-rules-player-transfers-may-be-illegal-eu-adviser-says-4303821
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SfO4yL6_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t153101z_2_lynxmpek3t0m9_rtroptp_3_apple-tv-fifa.jpg?itok=KqbS3bgH" width="1600"/>
   </item>
  </channel>
 </rss>
