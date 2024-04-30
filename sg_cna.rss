@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 19:50:49 +0800
+   Tue, 30 Apr 2024 20:07:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Spain appoints ex-national coach del Bosque to supervise soccer federation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/spain-appoints-ex-national-coach-del-bosque-supervise-soccer-federation-4303416
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 20:03:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/spain-appoints-ex-national-coach-del-bosque-supervise-soccer-federation-4303416
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lxn79oWe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t120327z_1_lynxmpek3t0h9_rtroptp_3_soccer-euro-ita-esp.jpg?itok=eDgR7FkA" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Logitech CEO aiming to double target market for peripherals
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/logitech-ceo-aiming-double-target-market-peripherals-4303406
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 19:53:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/logitech-ceo-aiming-double-target-market-peripherals-4303406
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MpJJUjMq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t115356z_1_lynxmpek3t0gw_rtroptp_3_logitech-results.jpg?itok=m9IyBizD" width="1600"/>
+  </item>
   <item>
    <title>
     Dortmund say Sabitzer, Malen likely to be fit for PSG clash
@@ -417,48 +459,6 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FMevzHVN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t093733z_1_lynxmpek3t0bn_rtroptp_3_tesla-india-china.jpg?itok=ZL_Olp5l" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hong Kong's negative equity mortgage cases rise to 20-year high
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/hong-kongs-negative-equity-mortgage-cases-rise-20-year-high-4303031
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:47:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/hong-kongs-negative-equity-mortgage-cases-rise-20-year-high-4303031
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9xUl-DfP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t094700z_1_lynxmpek3t0bx_rtroptp_3_hongkong-property.jpg?itok=6DESmpjR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sri Lanka's key inflation rate rises to 1.5% in April
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sri-lankas-key-inflation-rate-rises-15-april-4303006
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:43:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sri-lankas-key-inflation-rate-rises-15-april-4303006
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EUAcUa-C--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t094316z_1_lynxmpek3t0bs_rtroptp_3_sri-lanka-economy-debt.jpg?itok=K8WXm97x" width="1600"/>
   </item>
  </channel>
 </rss>
