@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 22:30:40 +0800
+   Tue, 30 Apr 2024 22:41:01 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 21:42:04 +0800
+   Tue, 30 Apr 2024 22:36:57 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    FHFA：美國2月樓價按年上升7%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751279-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751279-20240430.htm
+   </link>
+   <description>
+    <![CDATA[美國聯邦住房金融局（FHFA）公布，2月樓價按月上升1.2%，按年上升7%。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 22:36:57 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美股開市後下跌
@@ -445,27 +462,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 17:44:49 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    本港首季負資產住宅按揭宗數按季升27%　創20年新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751233-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751233-20240430.htm
-   </link>
-   <description>
-    <![CDATA[金管局公布，截至3月底，負資產住宅按揭貸款有32073宗，創20年新高，較去年底增加27%，主要涉及銀行職員住屋按揭貸款或按揭保險計劃的貸款，這類貸款按揭成數一般較高。
-
-數據顯示，3月底負資產住宅按揭貸款金額涉及1653億元，較去年底增加26%。其中無抵押部分增加53%至112億元。
-
-截至首季末，拖欠3個月以上負資產住宅按揭貸款比率，按季上升0.03個百分點，升至0.06%。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:35:09 +0800
    </pubDate>
   </item>
  </channel>

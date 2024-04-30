@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 22:35:55 +0800
+   Tue, 30 Apr 2024 22:50:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Judge fines Trump US$9,000 for gag order violations, threatens jail
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/donald-trump-trial-fine-gag-order-violations-4303861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 22:47:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/donald-trump-trial-fine-gag-order-violations-4303861
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pqc1P1Ue--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/15b6ebe3d8e1cadcffb29c17f0f2ab3d69accace.jpg?itok=ku-8jCL_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    France must curb child, teen use of smartphones, social media, says panel
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/france-must-curb-child-teen-use-smartphones-social-media-says-panel-4303896
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 22:43:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/france-must-curb-child-teen-use-smartphones-social-media-says-panel-4303896
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QiTQqNpc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t144331z_1_lynxmpek3t0ni_rtroptp_3_fashion-paris-kids-fashion.jpg?itok=DKewt2l2" width="1600"/>
+  </item>
   <item>
    <title>
     Swiatek roars back to reach Madrid semi-finals
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_yW6-4Mu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/58e4b2d35dedc3cad68bb03f2f5554e7a276c4d7.jpg?itok=lRCHxePn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Zebra Technologies first-quarter results beat estimates
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/zebra-technologies-first-quarter-results-beat-estimates-4303461
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:10:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/zebra-technologies-first-quarter-results-beat-estimates-4303461
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Spain appoints ex-national coach del Bosque to supervise soccer federation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/spain-appoints-ex-national-coach-del-bosque-supervise-soccer-federation-4303416
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/spain-appoints-ex-national-coach-del-bosque-supervise-soccer-federation-4303416
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lxn79oWe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t120327z_1_lynxmpek3t0h9_rtroptp_3_soccer-euro-ita-esp.jpg?itok=eDgR7FkA" width="1600"/>
   </item>
  </channel>
 </rss>
