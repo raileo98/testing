@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 20:35:56 +0800
+   Tue, 30 Apr 2024 20:52:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thai PM Srettha Thavisin vows to shoulder consequences of cabinet reshuffle
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/thailand-cabinet-reshuffle-srettha-thavisin-parnpree-bahiddha-nukara-foreign-finance-ministry-4303016
+   </link>
+   <description>
+    <![CDATA[Thai Foreign Minister Parnpree Bahiddha-Nukara abruptly resigned in apparent displeasure over a cabinet reshuffle which stripped him of his deputy prime minister portfolio.]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 20:45:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/thailand-cabinet-reshuffle-srettha-thavisin-parnpree-bahiddha-nukara-foreign-finance-ministry-4303016
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--irttfeqV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-11-10t051045z_1_lynxmpeja903j_rtroptp_3_thailand-politics.jpg?itok=8mVLahym" width="1600"/>
+  </item>
   <item>
    <title>
     CEZ gets French, S Korean bids to build up to four nuclear power units
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5DwVRE64--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t100709z_1_lynxmpek3t0ct_rtroptp_3_amazon-com-primeday.jpg?itok=pwlE1UC1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Binance's founder Zhao faces sentencing over money laundering violations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/binance-former-ceo-founder-changpeng-zhao-sentencing-money-laundering-violations-4303086
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 18:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/binance-former-ceo-founder-changpeng-zhao-sentencing-money-laundering-violations-4303086
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Oc4SDuXq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t103014z_2_lynxmpek3t0ce_rtroptp_3_fintech-crypto-binance-greece.jpg?itok=CrK2ENSo" width="1600"/>
   </item>
  </channel>
 </rss>
