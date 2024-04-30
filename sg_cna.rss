@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 22:50:06 +0800
+   Tue, 30 Apr 2024 22:55:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    SocGen Hong Kong traders left bank after unauthorised bets uncovered, source says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/socgen-hong-kong-traders-left-bank-after-unauthorised-bets-uncovered-source-says-4303906
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 22:50:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/socgen-hong-kong-traders-left-bank-after-unauthorised-bets-uncovered-source-says-4303906
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jgylwzF5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t145033z_1_lynxmpek3t0o0_rtroptp_3_societe-generale-traders-hong-kong.jpg?itok=cLQfkCOW" width="1600"/>
+  </item>
   <item>
    <title>
     Judge fines Trump US$9,000 for gag order violations, threatens jail
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7AyERB80--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/781cec0bda96c6c29b0e0f02af3fa0d669f87cf7.jpg?itok=1MO6mDWd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'Bloodsicles', baths keep Philippine zoo animals cool as heatwave hits
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/bloodsicles-baths-keep-animals-philippines-zoo-cool-heatwave-southeast-asia-4303446
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 20:25:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/bloodsicles-baths-keep-animals-philippines-zoo-cool-heatwave-southeast-asia-4303446
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_yW6-4Mu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/58e4b2d35dedc3cad68bb03f2f5554e7a276c4d7.jpg?itok=lRCHxePn" width="1600"/>
   </item>
  </channel>
 </rss>
