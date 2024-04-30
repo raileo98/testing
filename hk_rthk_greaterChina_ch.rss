@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 12:50:12 +0800
+   Tue, 30 Apr 2024 13:10:41 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 12:43:40 +0800
+   Tue, 30 Apr 2024 12:53:27 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    廣州白雲機場啟動大面積延誤應急處置黃色響應　籲旅客留意天氣
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751180-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751180-20240430.htm
+   </link>
+   <description>
+    <![CDATA[廣州白雲國際機場受天氣影響，截至上午11時14分，延誤一小時以上仍未執行離境的客運航班為65班，現時航班大面積延誤應急處置響應等級，升級為黃色。
+
+央視報道，白雲機場今日原定升降878班航機，其中453班離境，425班入境。根據天氣預報，上午9時至下午2時，機場中北部及附近區域有系統性的中等偏強雷暴，伴隨強降水，覆蓋率為三成至五成；上午11時至下午2時，有中到大雨伴隨雷暴，短時期更會伴隨雷暴大風及風切變。下午2時至晚上8時，有關區域的中等偏強雷暴覆蓋率兩成至四成，下午5時至晚上8時有間歇性雷陣雨。
+
+機場方面提醒旅客，出行前密切關注天氣影響，留意航班動態及調整提示。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 12:53:27 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     國家氣候中心料未來數天南方地區會降雨較多
@@ -447,27 +468,6 @@
    </description>
    <pubDate>
     Mon, 29 Apr 2024 16:36:59 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    廣東提升防汛應急響應至Ⅲ級　部分鐵路班次受影響
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751040-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751040-20240429.htm
-   </link>
-   <description>
-    <![CDATA[內地氣象和水文部門監測預測，未來幾天廣東省強降雨仍將持續，當局中午起把防汛Ⅳ級應急響應提升至Ⅲ級。
-
-而湖南省氣象台預計，今明兩日將遇上強降雨和強對流天氣，部分地區有暴雨，雷暴大風、冰雹等強對流天氣。長沙市氣象台中午發布暴雨黃色預警信號，多個區域降雨量將達50毫米以上。
-
-惡劣天氣對鐵路運輸秩序造成影響。廣鐵集團計劃今日至星期三，停運京廣鐵路普速列車62列，京廣、京九普鐵和京廣高鐵的部分列車將出現晚點。]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 16:03:38 +0800
    </pubDate>
   </item>
  </channel>
