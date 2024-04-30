@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 05:50:24 +0800
+   Wed, 01 May 2024 06:01:32 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 05:37:00 +0800
+   Wed, 01 May 2024 05:54:51 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    歐股下挫　德股跌穿18000點　法股失守8000點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751312-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751312-20240501.htm
+   </link>
+   <description>
+    <![CDATA[歐洲股市在4月最後1個交易日下跌，意大利及西班牙股市跌幅較大，低收近2%或以上。汽車股急挫拖累大市，市場亦關注西班牙對外銀行(BBVA)與Sabadell開展合併談判。
+
+德法股市都連跌兩日，德國DAX指數跌穿18000點關口，收報17932點，跌186點，跌幅1.03%。
+
+法國CAC指數亦失守8000點，收報7984點，跌80點，跌幅0.99%。
+
+英國富時100指數日內大部分時間造好，尾市倒跌，收報8144點，跌2點，扭轉3日升勢。
+
+英股4月累計升2.4%，連升兩個月。德法股市都結束五連升，分別跌3%及2.7%。]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 05:54:51 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美股回吐逾1%至2%　4月跌逾4%至5%　結束5個月升勢
@@ -453,25 +478,6 @@ Tesla回吐逾5.5%；微軟及亞馬遜低收逾3%，但亞馬遜收市後公布
    </description>
    <pubDate>
     Tue, 30 Apr 2024 18:15:26 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    在岸人民幣兌美元創逾一周新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751244-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751244-20240430.htm
-   </link>
-   <description>
-    <![CDATA[在岸人民幣兌美元收市報7.2416元兌1美元，上升51點子，創逾一周新高。4月累計下跌約0.3%，連續4個月下跌。人民幣中間價今早微升，與市場預測仍偏離近1400點子。
-
-交易員指出，內地PMI數據對匯市影響不大，中央政治局會議輕微支持人民幣匯價。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 18:11:06 +0800
    </pubDate>
   </item>
  </channel>
