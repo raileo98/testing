@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 17:31:16 +0800
+   Tue, 30 Apr 2024 17:40:31 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 17:24:40 +0800
+   Tue, 30 Apr 2024 17:35:09 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    本港首季負資產住宅按揭宗數按季升27%　創20年新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751233-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751233-20240430.htm
+   </link>
+   <description>
+    <![CDATA[金管局公布，截至3月底，負資產住宅按揭貸款有32073宗，創20年新高，較去年底增加27%，主要涉及銀行職員住屋按揭貸款或按揭保險計劃的貸款，這類貸款按揭成數一般較高。
+
+數據顯示，3月底負資產住宅按揭貸款金額涉及1653億元，較去年底增加26%。其中無抵押部分增加53%至112億元。
+
+截至首季末，拖欠3個月以上負資產住宅按揭貸款比率，按季上升0.03個百分點，升至0.06%。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 17:35:09 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     內地五一假期展開　郭俊峯稱視乎晚上過關情況與內地部門聯繫
@@ -475,33 +496,6 @@ IMF預計，中國經濟增長將由去年的5.2%，放緩到今年的4.6%，202
    </description>
    <pubDate>
     Tue, 30 Apr 2024 13:30:47 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    滙控首季淨利息收益率按年收窄6個基點　按季擴闊11個基點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751186-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751186-20240430.htm
-   </link>
-   <description>
-    <![CDATA[滙控首季除稅前利潤126.5億美元，以列帳基準計，按年跌近2%，按季急升近12倍。
-
-期內，淨利息收益86.5億美元，按年跌逾3%，主要反映存款轉移；按季升逾4%。淨利息收益率1.63厘，按年收窄6個基點；但按季升11個基點，反映阿根廷惡性通脹及貨幣貶值的影響，部分升幅被負債資金成本上升所抵銷。
-
-上季淨息差1.21厘，按年收窄4個基點，按季則擴闊14個基點。
-
-首季費用收益淨額近31.5億美元，按年升近5%，按季升14%。
-
-期內，預期信貸損失及其他信貸減值準備變動為7.2億美元，按年增加近67%，按季減少30%。首季提撥主要包括財富管理及個人銀行業務和批發業務的第三級提撥。
-
-集團表示，視乎環球利率走勢，預計今年銀行業務淨利息收益至少達到410億美元。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 13:21:59 +0800
    </pubDate>
   </item>
  </channel>
