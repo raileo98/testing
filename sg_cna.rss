@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 16:48:36 +0800
+   Tue, 30 Apr 2024 16:52:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    South Africa pick Nortje and uncapped duo Rickelton, Baartman for T20 World Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/south-africa-pick-nortje-and-uncapped-duo-rickelton-baartman-t20-world-cup-4302866
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 16:47:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/south-africa-pick-nortje-and-uncapped-duo-rickelton-baartman-t20-world-cup-4302866
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     'Have to be outside': Thai delivery riders swelter in heatwave
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9bO9PrD_--/c_crop,h_833,w_1481,x_1,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/sunset_screenings_movies_at_armenian_street.jpg?itok=o24qvpCS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Olympics on Green's mind after second LPGA win of the season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/olympics-greens-mind-after-second-lpga-win-season-4302701
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 14:37:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/olympics-greens-mind-after-second-lpga-win-season-4302701
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GeBvUw7O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t063746z_1_lynxmpek3t06j_rtroptp_3_golf-olympics-green.jpg?itok=Y-bfvlbT" width="1600"/>
   </item>
  </channel>
 </rss>
