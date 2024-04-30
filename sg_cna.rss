@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 01:22:10 +0800
+   Wed, 01 May 2024 01:36:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Dortmund v PSG set to be another Champions League thriller, says Luis Enrique
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/dortmund-v-psg-set-be-another-champions-league-thriller-says-luis-enrique-4304266
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 01:25:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/dortmund-v-psg-set-be-another-champions-league-thriller-says-luis-enrique-4304266
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CIqdAZSU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t172531z_1_lynxmpek3t0sz_rtroptp_3_soccer-champions-dor-psg-preview.jpg?itok=-JdaJpTD" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Comcast's Peacock to raise streaming prices ahead of Paris Olympics
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/comcasts-peacock-raise-streaming-prices-ahead-paris-olympics-4304251
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 01:22:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/comcasts-peacock-raise-streaming-prices-ahead-paris-olympics-4304251
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qipn4Mx8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t172225z_1_lynxmpek3t0sy_rtroptp_3_comcast-streaming-peacock.jpg?itok=vyjOH_3p" width="1600"/>
+  </item>
   <item>
    <title>
     Ex-Google workers say firings for protesting Israel contract were illegal
@@ -413,48 +455,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    McDonald's posts rare profit miss as customers turn picky
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/mcdonalds-posts-rare-profit-miss-customers-turn-picky-4303616
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 21:03:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/mcdonalds-posts-rare-profit-miss-customers-turn-picky-4303616
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NzBprC-s--/c_crop,h_450,w_800,x_0,y_124/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-21t150236z_1_lynxnpek2k0md_rtroptp_3_mcdonald-s-corp-tech.jpg?itok=ypzaTDL9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    McDonald's posts rare profit miss as customers turn picky
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/mcdonalds-posts-rare-profit-miss-customers-turn-picky-4303616
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 21:03:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/mcdonalds-posts-rare-profit-miss-customers-turn-picky-4303616
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NzBprC-s--/c_crop,h_450,w_800,x_0,y_124/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-21t150236z_1_lynxnpek2k0md_rtroptp_3_mcdonald-s-corp-tech.jpg?itok=ypzaTDL9" width="1600"/>
   </item>
  </channel>
 </rss>
