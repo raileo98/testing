@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 21:54:52 +0800
+   Tue, 30 Apr 2024 22:10:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Fulham in sanction agreement with Premier League regarding player registrations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fulham-sanction-agreement-premier-league-regarding-player-registrations-4303796
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 21:58:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fulham-sanction-agreement-premier-league-regarding-player-registrations-4303796
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sDCLo4XV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t135833z_1_lynxmpek3t0l8_rtroptp_3_soccer-england-ful-shu-report.jpg?itok=RPuCn84Y" width="1600"/>
+  </item>
+  <item>
+   <title>
     Pro-Palestinian protesters occupy building at Columbia University
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 30 Apr 2024 21:51:54 +0800
+    Tue, 30 Apr 2024 21:51:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/pro-palestinian-protesters-occupy-building-columbia-university-new-york-gaza-war-4303441
@@ -59,7 +80,7 @@
    <category>
     World
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qmo3vCCq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t120608z_1_lynxmpek3t0hc_rtroptp_3_israel-palestinians-usa-protests-columbia.jpg?itok=rMgZ9MV-" width="1600"/>
   </item>
   <item>
    <title>
@@ -84,7 +105,7 @@
   </item>
   <item>
    <title>
-    Google to pay up to $6 million to News Corp for new AI-content, The Information reports
+    Google to pay up to $6 million to News Corp for new AI content, The Information reports
    </title>
    <link>
     https://www.channelnewsasia.com/business/google-pay-6-million-news-corp-new-ai-content-information-reports-4303676
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tqUFz23B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t114022z_1_lynxmpek3t0gk_rtroptp_3_paypal-holdings-results.jpg?itok=D6dTGRmD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    MAS will not extend six-month pause on DBS' non-essential activities
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mas-will-not-extend-pause-dbs-non-essential-activities-4303041
-   </link>
-   <description>
-    <![CDATA[The six-month pause was imposed in November last year after repeated banking service disruptions.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 19:30:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mas-will-not-extend-pause-dbs-non-essential-activities-4303041
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nIWYXgNp--/c_fill,h_900,w_1600/f_auto,q_auto/dbs-bank-singapore--4-.jpg?itok=gR4HFhsj" width="1600"/>
   </item>
  </channel>
 </rss>
