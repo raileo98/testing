@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 11:34:20 +0800
+   Tue, 30 Apr 2024 11:40:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Indonesia's Mount Ruang volcano erupts again, closes international airport
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-volcano-erupts-again-airport-closed-4302276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 11:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-volcano-erupts-again-airport-closed-4302276
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QmGLYHck--/c_crop,h_432,w_768,x_0,y_144/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d29e94da385fc00c4588f03005ea0aa615f68f85.jpg?itok=Mg97X9_f" width="1600"/>
+  </item>
   <item>
    <title>
     Corruption-related reports fall 8% in 2023, situation 'firmly under control': CPIB
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iGp42u3W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2022-03-21t014746z_2_lynxnpei2j0bk_rtroptp_3_myanmar-rohingya-island.jpg?itok=gtP5OUyx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Houthis attack four ships in Indian Ocean, Red Sea
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/houthis-attack-four-ships-indian-ocean-red-sea-4296646
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 09:29:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/houthis-attack-four-ships-indian-ocean-red-sea-4296646
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eXbSHJM_--/c_crop,h_450,w_800,x_0,y_19/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-15t145024z_1_lynxnpek1e0jf_rtroptp_3_israel-palestinians-shipping-carnival.jpg?itok=d2Qmc6pf" width="1600"/>
   </item>
  </channel>
 </rss>
