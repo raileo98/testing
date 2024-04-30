@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 09:30:49 +0800
+   Tue, 30 Apr 2024 10:01:26 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 04:58:05 +0800
+   Tue, 30 Apr 2024 09:49:38 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks open up; crypto ETFs gain on debut
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751142-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751142-20240430.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks rose at the open Tuesday, extending gains into a seventh straight trading day, following a healthy lead from Wall Street as investors gear up for the latest Federal Reserve policy decision.
+
+Meanwhile Six spot bitcoin and ether exchange traded funds (ETFs) gained in their Hong Kong debut, with the three bitcoin ETFs climbing more than 3 percent in early trade.
+
+The Hang Seng Index advanced 0.54 percent to 17,843.
+
+The Shanghai Composite Index dipped 0.09 percent to 3,110, while the Shenzhen Composite Index on the mainland's second exchange also lost 0.09 percent to 1,767. (AFP/Reuters)]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 09:49:38 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks end higher, extending rally
@@ -611,37 +634,6 @@ The Shanghai Composite Index added 0.8 percent, or 22 points, to 3,044, while th
    </description>
    <pubDate>
     Wed, 24 Apr 2024 16:17:12 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HKEX sees profit drop 13pc in Q1
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750345-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750345-20240424.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong Exchanges and Clearing (HKEX) on Wednesday reported a 13 percent annual decline in its net profit in the first quarter of this year, as lower turnover weighed on fees, while fewer listings eroded revenues.
-
-Data from the city’s bourse showed the group’s profit stood at HK$2.97 billion for the first three months of the year, compared with the HK$3.4 billion seen in the same period a year ago when economic activities rebounded after Covid.
-
-Revenue and other income also declined, dropping 6 percent year on year to HK$5.2 billion.
-
-The declines came as average daily trading turnover dropped 22 percent year on year to HK$99.4 billion, while listing fees fell 25 percent year on year following the reduction in the number of new listings.
-
-However, the lower income was partially offset by strong derivatives trading, record quarterly high turnover in the Northbound Stock Connect, as well as increased trades at its subsidiary, the London Metal Exchange.
-
-“The HKEX demonstrated its strength and resilience in the first quarter of the year,” said the group’s newly appointed chief executive Bonnie Chan.
-
-“Despite a fragile global backdrop, the group’s derivatives and commodities business performed strongly - the former achieving record quarterly volume,” she said, adding there was a notable increase in daily trading volume in March and April, indicating growing confidence.
-
-“Looking ahead, despite the prevailing backdrop, we are optimistic about HKEX’s ability to capitalise on the long-term growth of China, the considerable opportunities to connect with the fast-growing capital hubs of Southeast Asia and the Middle East, and the continuing exciting developments in technology in our industry and beyond,” Chan said.]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 15:52:57 +0800
    </pubDate>
   </item>
  </channel>
