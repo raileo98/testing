@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 22:29:48 +0800
+   Tue, 30 Apr 2024 22:35:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Swiatek roars back to reach Madrid semi-finals
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/swiatek-roars-back-reach-madrid-semi-finals-4303851
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 22:30:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/swiatek-roars-back-reach-madrid-semi-finals-4303851
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     T. rex is at the center of a debate over dinosaur intelligence
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lxn79oWe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t120327z_1_lynxmpek3t0h9_rtroptp_3_soccer-euro-ita-esp.jpg?itok=eDgR7FkA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Logitech CEO aiming to double target market for peripherals
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/logitech-ceo-aiming-double-target-market-peripherals-4303406
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 19:53:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/logitech-ceo-aiming-double-target-market-peripherals-4303406
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MpJJUjMq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t115356z_1_lynxmpek3t0gw_rtroptp_3_logitech-results.jpg?itok=m9IyBizD" width="1600"/>
   </item>
  </channel>
 </rss>
