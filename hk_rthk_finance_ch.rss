@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 18:30:31 +0800
+   Tue, 30 Apr 2024 18:40:49 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 18:26:04 +0800
+   Tue, 30 Apr 2024 18:33:47 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    金管局：3月底在港人民幣存款跌2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751239-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751239-20240430.htm
+   </link>
+   <description>
+    <![CDATA[金管局公布，3月認可機構的存款總額上升0.2%，其中港元存款升0.7%，外幣存款則下跌0.2%。
+
+首季存款總額下降0.2%，港元存款則上升0.1%。截至3月底，香港人民幣存款跌2%至9447億元。上月跨境貿易結算的人民幣匯款總額為12484億元，多過2月的10644億元。
+
+3月貸款與墊款總額升0.8%，首季則跌1%。其中在香港使用包括貿易融資的貸款，及香港境外使用的貸款，3月分別升0.8%及0.7%。由於港元存款上升而港元貸款沒有明顯變動，港元貸存比率由2月底的83.7%，下跌至3月底的83.2%。
+
+首季在香港使用的貸款按季下跌1.2%，主要由對金融公司的貸款，以及對批發及零售業的貸款帶動。
+
+3月份港元貨幣供應量M2及M3均上升0.6%，按年均下跌0.4%。經季節因素調整，3月港元貨幣供應量M1下跌1%，按年跌11.4%，部分反映投資相關活動。貨幣供應量總額M2及M3於3月均上升0.2%，M2及M3按年均上升3.4%。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 18:33:47 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     本港暫停從美國密歇根州Newaygo縣入口禽類產品
@@ -473,23 +498,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 15:24:00 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股收市靠穩
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751197-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751197-20240430.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市靠穩。首爾綜合指數收市報2692點，升4點，升幅0.17%。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 14:54:47 +0800
    </pubDate>
   </item>
  </channel>
