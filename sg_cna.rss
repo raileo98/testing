@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 11:50:11 +0800
+   Tue, 30 Apr 2024 11:57:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thunder seal Pelicans sweep to advance as Celtics on brink
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/thunder-seal-pelicans-sweep-advance-celtics-brink-4302176
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 11:54:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/thunder-seal-pelicans-sweep-advance-celtics-brink-4302176
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WSj6iI8Z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/66e1cf85907ef0d2053dd8478111a04e32957640.jpg?itok=ivkns4EP" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Malaysia's KFC closes over 100 outlets amid boycotts linked to Gaza conflict
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/malaysias-kfc-closes-over-100-outlets-amid-boycotts-linked-gaza-conflict-4302296
+   </link>
+   <description>
+    <![CDATA[The US chain’s owner, QSR brands, said in a statement that the decision was a response to “challenging economic conditions” and that affected employees had been offered the opportunity to relocate to busier stores. ]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 11:54:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/malaysias-kfc-closes-over-100-outlets-amid-boycotts-linked-gaza-conflict-4302296
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---vBOLhuJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/fdz_7327.jpg?itok=4e4qPhou" width="1600"/>
+  </item>
   <item>
    <title>
     Indonesia's Mount Ruang volcano erupts again, closes international airport
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--M67EfnuS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/voting_rights_new_mexico_62308.jpg?itok=ZyPsTdtQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Brazil great Ronaldo selling stake in boyhood club Cruzeiro
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/brazil-great-ronaldo-selling-stake-boyhood-club-cruzeiro-4302046
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 09:37:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/brazil-great-ronaldo-selling-stake-boyhood-club-cruzeiro-4302046
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bDEp0k1Q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t013705z_1_lynxmpek3t013_rtroptp_3_soccer-brazil-crz-ronaldo.jpg?itok=kLYNap08" width="1600"/>
-  </item>
-  <item>
-   <title>
-    ‘We want them to be able to live independently’: Why a Japanese non-profit is training Rohingya refugees
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/rohingya-bhasan-char-island-coxs-bazaar-refugee-nippon-foundation-japan-training-4300566
-   </link>
-   <description>
-    <![CDATA[Bangladesh is aiming to accommodate a total of 100,000 Rohingya refugees on the island of Bhasan Char, and they are getting help from Nippon Foundation.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 09:34:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/rohingya-bhasan-char-island-coxs-bazaar-refugee-nippon-foundation-japan-training-4300566
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iGp42u3W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2022-03-21t014746z_2_lynxnpei2j0bk_rtroptp_3_myanmar-rohingya-island.jpg?itok=gtP5OUyx" width="1600"/>
   </item>
  </channel>
 </rss>
