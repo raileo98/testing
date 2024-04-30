@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 14:06:29 +0800
+   Tue, 30 Apr 2024 14:20:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    IMF $1.1 billion tranche to help Pakistan's economic stability, says PM Sharif
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/imf-11-billion-tranche-help-pakistans-economic-stability-says-pm-sharif-4302666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 14:09:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/imf-11-billion-tranche-help-pakistans-economic-stability-says-pm-sharif-4302666
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WSDag4Q6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t060951z_1_lynxmpek3t05f_rtroptp_3_saudi-davos.jpg?itok=4CVPWhTl" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Bank of Japan upbeat on consumption, service price outlook
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/bank-japan-upbeat-consumption-service-price-outlook-4302646
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 14:04:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/bank-japan-upbeat-consumption-service-price-outlook-4302646
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uKBgvgvW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t060416z_1_lynxmpek3t055_rtroptp_3_japan-economy-boj.jpg?itok=KGNMDfS9" width="1600"/>
+  </item>
   <item>
    <title>
     Ngannou mourns death of 15-month-old son
@@ -324,7 +366,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 30 Apr 2024 13:06:27 +0800
+    Tue, 30 Apr 2024 13:06:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/frances-thales-could-be-tempted-some-atos-defence-assets-says-cfo-4302556
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    China's slow April factory, services activity dents economic momentum
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/chinas-slow-april-factory-services-activity-dents-economic-momentum-4302051
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 12:45:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/chinas-slow-april-factory-services-activity-dents-economic-momentum-4302051
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qdmx-5TK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t023437z_1_lynxmpek3t024_rtroptp_3_china-economy.jpg?itok=Ib2lmhSv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China's slow April factory, services activity dents economic momentum
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/chinas-slow-april-factory-services-activity-dents-economic-momentum-4302051
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 12:45:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/chinas-slow-april-factory-services-activity-dents-economic-momentum-4302051
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qdmx-5TK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t023437z_1_lynxmpek3t024_rtroptp_3_china-economy.jpg?itok=Ib2lmhSv" width="1600"/>
   </item>
  </channel>
 </rss>
