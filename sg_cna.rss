@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 13:39:22 +0800
+   Tue, 30 Apr 2024 13:51:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ngannou mourns death of 15-month-old son
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ngannou-mourns-death-15-month-old-son-4302611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 13:47:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ngannou-mourns-death-15-month-old-son-4302611
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JCh3oUCO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t054742z_1_lynxmpek3t04t_rtroptp_3_boxing-heavyweight-joshua-ngannou.jpg?itok=gcX5E4XF" width="1600"/>
+  </item>
   <item>
    <title>
     Employment growth cools in Q1 of 2024, retrenchments down for second straight quarter: MOM
@@ -438,27 +459,6 @@
     Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qdmx-5TK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t023437z_1_lynxmpek3t024_rtroptp_3_china-economy.jpg?itok=Ib2lmhSv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    A governor, her dead dog, and the US presidential election
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/kristi-noem-us-presidential-elections-trump-dog-4302406
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 12:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/kristi-noem-us-presidential-elections-trump-dog-4302406
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W7VbViPQ--/c_crop,h_396,w_704,x_295,y_269/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/election_2024_trump_south_dakota_81221.jpg?itok=mNLF-lMh" width="1600"/>
   </item>
  </channel>
 </rss>
