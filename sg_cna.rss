@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 15:54:46 +0800
+   Tue, 30 Apr 2024 16:11:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Hyundai Motor Group plans hybrid car launch in India, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/hyundai-motor-group-plans-hybrid-car-launch-india-sources-say-4302811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 16:03:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/hyundai-motor-group-plans-hybrid-car-launch-india-sources-say-4302811
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0mQP3Ry9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t080316z_1_lynxmpek3t08j_rtroptp_3_hyundai-results.jpg?itok=OtkxP3Ad" width="1600"/>
+  </item>
+  <item>
+   <title>
     Satellite company SES to buy Intelsat for $3.1 billion
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FovzFeaJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t074528z_2_lynxmpek3t06z_rtroptp_3_intelsat-results.jpg?itok=cLBVwZWD" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nWCp9-4L--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t075353z_3_lynxmpek3t06z_rtroptp_3_intelsat-results.jpg?itok=M18dC0Sz" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WMmXAvMX--/c_crop,h_576,w_1024,x_0,y_106/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/000_336w7n3.jpg?itok=X-hWAlxV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Conan Gray to perform at the Singapore Indoor Stadium in September
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/conan-gray-singapore-indoor-stadium-concert-september-2024-4302436
-   </link>
-   <description>
-    <![CDATA[This marks the singer-songwriter's second concert in Singapore.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 13:34:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/conan-gray-singapore-indoor-stadium-concert-september-2024-4302436
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cYTkOizD--/c_crop,h_562,w_1000,x_0,y_18/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/conan_gray_performs_on_nbcs_today_show_98085.jpg?itok=_hgF6IxP" width="1600"/>
   </item>
  </channel>
 </rss>
