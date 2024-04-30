@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 30 Apr 2024 23:20:31 +0800
+   Tue, 30 Apr 2024 23:30:12 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 30 Apr 2024 22:42:31 +0800
+   Tue, 30 Apr 2024 23:20:36 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    北京市住房限購政策13年來首次調整
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751297-20240430.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751297-20240430.htm
+   </link>
+   <description>
+    <![CDATA[北京市發布優化調整住房限購政策通知，在執行現有限購政策基礎上，允許已擁有住房達到限購數目的居民家庭，到五環外新購一套住房，是北京自2011年起執行限購政策13年來首次調整。
+
+北京市住建委網頁上刊登通知，表示為更好滿足居民剛性住房需求及多樣化改善住房需求，允許居民家庭，包括夫妻雙方及未成年子女，或成年單身人士，在五環外新購買一套商品住房，包括新建商品住房及二手住房。
+
+其中，新購買商品住房位於通州區的居民家庭或成年單身人士，要是通州區戶籍，或與在通州區註冊或經營的企業、疏解搬遷至通州區的黨政機關、企事業單位存在勞動關係。
+
+成都市已在周日宣布，本周一起全市範圍內住房交易不再審核戶籍、社保等購房條件，不再限制購買套數。]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 23:20:36 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     比亞迪將召回近1.7萬輛海鷗電動車　因攝像頭問題影響倒車視野
@@ -439,27 +462,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 18:11:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    金管局：3月外匯基金總資產按月增加近230億元
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751240-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751240-20240430.htm
-   </link>
-   <description>
-    <![CDATA[金管局公布，截至3月底外匯基金總資產40638億港元，較2月底增加229億元，其中外幣資產增加232億元，港元資產則減少3億元。
-
-外幣資產增加，主要因為投資按市價重估及來自投資的利息收入。港元資產減少，主要因為香港股票按市價重估及已購入但未結算證券的月底餘額減少。
-
-貨幣發行局帳目顯示，3月底貨幣基礎19181億元，較2月底增加84億元，增幅0.4%。支持資產總額增加136億元至21315億港元，增幅0.6%，支持比率由2月底的110.9%，上升至3月底的111.12%。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:49:15 +0800
    </pubDate>
   </item>
  </channel>
