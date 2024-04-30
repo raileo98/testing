@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 21:43:49 +0800
+   Tue, 30 Apr 2024 21:54:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pro-Palestinian protesters occupy building at Columbia University
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/pro-palestinian-protesters-occupy-building-columbia-university-new-york-gaza-war-4303441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 21:51:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/pro-palestinian-protesters-occupy-building-columbia-university-new-york-gaza-war-4303441
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Flamengo forward Barbosa cleared to play pending anti-doping ban appeal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/flamengo-forward-barbosa-cleared-play-pending-anti-doping-ban-appeal-4303786
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 21:50:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/flamengo-forward-barbosa-cleared-play-pending-anti-doping-ban-appeal-4303786
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PCRRq0cL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t135033z_1_lynxmpek3t0l5_rtroptp_3_soccer-brazil-fla-gabigol.jpg?itok=98T-84yi" width="1600"/>
+  </item>
   <item>
    <title>
     Google to pay up to $6 million to News Corp for new AI-content, The Information reports
@@ -416,49 +458,7 @@
    <category>
     Singapore ,Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MN6G4r5o--/c_crop,h_900,w_1600,x_0,y_150/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/14/img_4477.jpg?itok=M1mfPejO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    MAS will not extend six-month pause on DBS' non-essential activities
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mas-will-not-extend-pause-dbs-non-essential-activities-4303041
-   </link>
-   <description>
-    <![CDATA[The six-month pause was imposed in November last year after repeated banking service disruptions.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 19:30:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mas-will-not-extend-pause-dbs-non-essential-activities-4303041
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MN6G4r5o--/c_crop,h_900,w_1600,x_0,y_150/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/14/img_4477.jpg?itok=M1mfPejO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel waiting on Hamas on proposed halt to fighting before sending team to Cairo
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-waiting-hamas-proposed-halt-truce-fighting-gaza-war-4303131
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 19:06:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-waiting-hamas-proposed-halt-truce-fighting-gaza-war-4303131
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vJJrqwny--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t101239z_1_lynxmpek3t0d3_rtroptp_3_israel-palestinians-usa-protest.jpg?itok=z4XOas2X" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nIWYXgNp--/c_fill,h_900,w_1600/f_auto,q_auto/dbs-bank-singapore--4-.jpg?itok=gR4HFhsj" width="1600"/>
   </item>
  </channel>
 </rss>
