@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 05:25:08 +0800
+   Wed, 01 May 2024 05:35:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Trump raises stake in his media firm to nearly 65%
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/trump-raises-stake-his-media-firm-nearly-65-4304766
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 05:28:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/trump-raises-stake-his-media-firm-nearly-65-4304766
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--g_KAFWXh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t212843z_1_lynxmpek3t0x3_rtroptp_3_trump-media-stake.jpg?itok=f2wNkJL7" width="1600"/>
+  </item>
   <item>
    <title>
     IBM wins reversal of $1.6 billion judgment to BMC over software contract
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CIqdAZSU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t172531z_1_lynxmpek3t0sz_rtroptp_3_soccer-champions-dor-psg-preview.jpg?itok=-JdaJpTD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Comcast's Peacock to raise streaming prices ahead of Paris Olympics
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/comcasts-peacock-raise-streaming-prices-ahead-paris-olympics-4304251
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 01:22:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/comcasts-peacock-raise-streaming-prices-ahead-paris-olympics-4304251
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qipn4Mx8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t172225z_1_lynxmpek3t0sy_rtroptp_3_comcast-streaming-peacock.jpg?itok=vyjOH_3p" width="1600"/>
   </item>
  </channel>
 </rss>
