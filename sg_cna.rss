@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 30 Apr 2024 16:11:34 +0800
+   Tue, 30 Apr 2024 16:27:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Punggol Digital District to have 200-room hotel facing Coney Island
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/punggol-digital-district-have-200-room-hotel-facing-coney-island-jtc-ura-4302651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 16:23:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/punggol-digital-district-have-200-room-hotel-facing-coney-island-jtc-ura-4302651
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TbzrSFFE--/c_crop,h_856,w_1522,x_0,y_264/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/hospitality_project.png?itok=TLEFxktz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Singapore’s Ninja Van lays off about 10% of tech team in the region
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ninja-van-layoffs-tech-team-singapore-region-4302731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 30 Apr 2024 16:23:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ninja-van-layoffs-tech-team-singapore-region-4302731
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7DTJbCcc--/c_crop,h_540,w_960,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/ninja-van-file-photo.jpg?itok=V3LD4syD" width="1600"/>
+  </item>
   <item>
    <title>
     Hyundai Motor Group plans hybrid car launch in India, sources say
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JCh3oUCO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t054742z_1_lynxmpek3t04t_rtroptp_3_boxing-heavyweight-joshua-ngannou.jpg?itok=gcX5E4XF" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Employment growth cools in Q1 of 2024, retrenchments down for second straight quarter: MOM
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mom-labour-force-report-advance-release-q1-2024-4302461
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 13:38:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mom-labour-force-report-advance-release-q1-2024-4302461
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WMmXAvMX--/c_crop,h_576,w_1024,x_0,y_106/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/000_336w7n3.jpg?itok=X-hWAlxV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Employment growth cools in Q1 of 2024, retrenchments down for second straight quarter: MOM
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/mom-labour-force-report-advance-release-q1-2024-4302461
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 13:38:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/mom-labour-force-report-advance-release-q1-2024-4302461
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WMmXAvMX--/c_crop,h_576,w_1024,x_0,y_106/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/000_336w7n3.jpg?itok=X-hWAlxV" width="1600"/>
   </item>
  </channel>
 </rss>
