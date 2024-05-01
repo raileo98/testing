@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 13:56:31 +0800
+   Wed, 01 May 2024 14:21:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    NHL roundup: Leafs outlast Bruins in OT, force Game 6
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/nhl-roundup-leafs-outlast-bruins-ot-force-game-6-4305651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 14:05:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/nhl-roundup-leafs-outlast-bruins-ot-force-game-6-4305651
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Hungry for more Kane says it's not a one-off year with Bayern
@@ -143,7 +164,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LirQB7Uz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t050731z_2_lynxmpek4012g_rtroptp_3_usa-markets-yields.jpg?itok=wT86LHRC" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TKiCisDa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/screenshot_2024-05-01_094416.png?itok=pBtYZoJ5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Meet the Singaporean artist who brought a piece of Bukit Panjang to the world’s biggest art event
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/venice-biennale-robert-zhao-renhui-singapore-pavilion-4293996
-   </link>
-   <description>
-    <![CDATA[What do Singapore's owls and forests have to do with the world's biggest art event? CNA Lifestyle was at the Venice Biennale for a chat with artist Robert Zhao Renhui about his work, Seeing Forest at the Singapore Pavilion.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 09:34:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/venice-biennale-robert-zhao-renhui-singapore-pavilion-4293996
-   </guid>
-   <category>
-    Singapore ,Entertainment ,People ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AuUDYjFp--/c_crop,h_900,w_1600,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/dsc_4119_copy_0.jpg?itok=5fNYqptz" width="1600"/>
   </item>
  </channel>
 </rss>
