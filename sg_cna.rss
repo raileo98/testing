@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 15:15:29 +0800
+   Wed, 01 May 2024 15:24:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Building consistency a priority for Wallabies coach Schmidt
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/building-consistency-priority-wallabies-coach-schmidt-4305776
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 15:12:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/building-consistency-priority-wallabies-coach-schmidt-4305776
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w66k88Wa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t071532z_1_lynxmpek4014u_rtroptp_3_rugby-union-worldcup-nzl-zaf.jpg?itok=sUg9dgS7" width="1600"/>
+  </item>
   <item>
    <title>
     Novo Nordisk owner to invest $200 million in quantum computing startups
@@ -436,27 +457,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6TF5jKQ0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/000_34qj9zd.jpg?itok=G1YjsCsk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia volcano eruption shuts more airports, ash reaches Malaysia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/mount-ruang-volcano-eruption-indonesia-airports-shut-ash-malaysia-4305226
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 10:58:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/mount-ruang-volcano-eruption-indonesia-airports-shut-ash-malaysia-4305226
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QmGLYHck--/c_crop,h_432,w_768,x_0,y_144/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d29e94da385fc00c4588f03005ea0aa615f68f85.jpg?itok=Mg97X9_f" width="1600"/>
   </item>
  </channel>
 </rss>
