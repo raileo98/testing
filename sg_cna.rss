@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 02:23:17 +0800
+   Thu, 02 May 2024 02:29:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US to probe GoPro claims Chinese firm violated its patents
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-probe-gopro-claims-chinese-firm-violated-its-patents-4306786
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 02:23:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-probe-gopro-claims-chinese-firm-violated-its-patents-4306786
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JyZiqOb3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t170914z_1_lynxmpek401le_rtroptp_3_gopro-redundancies.jpg?itok=oq2IRXiH" width="1600"/>
+  </item>
   <item>
    <title>
     Blinken says US cannot support Rafah assault without humanitarian plan
@@ -437,28 +458,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tNCdOXhE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t130537z_1_lynxmpek401ex_rtroptp_3_roblox-ipo.jpg?itok=C8RjGs0c" width="1600"/>
-  </item>
-  <item>
-   <title>
-    VAR is here to stay, but needs changes, says Postecoglou
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/var-here-stay-needs-changes-says-postecoglou-4306361
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 20:49:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/var-here-stay-needs-changes-says-postecoglou-4306361
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vlxjdGrN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t124905z_1_lynxmpek401ed_rtroptp_3_soccer-england-tot-ars-report.jpg?itok=MmwZZrPe" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nyiW2Lri--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t182721z_2_lynxmpek401ex_rtroptp_3_roblox-ipo.jpg?itok=1rygTIpB" width="1600"/>
   </item>
  </channel>
 </rss>
