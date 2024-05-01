@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 02:06:10 +0800
+   Thu, 02 May 2024 02:23:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blinken says US cannot support Rafah assault without humanitarian plan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/blinken-says-us-cannot-support-rafah-assault-without-humanitarian-plan-4306876
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 02:13:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/blinken-says-us-cannot-support-rafah-assault-without-humanitarian-plan-4306876
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cjSekHFX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t162218z_1_lynxmpek401k5_rtroptp_3_israel-palestinians-blinken.jpg?itok=CdQKi3pB" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Scientists explore how to improve crop yields - on Mars
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/scientists-explore-how-improve-crop-yields-mars-4306891
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 02:05:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/scientists-explore-how-improve-crop-yields-mars-4306891
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Analysis:Tesla's restructuring hits executive bench hailed by Elon Musk
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vlxjdGrN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t124905z_1_lynxmpek401ed_rtroptp_3_soccer-england-tot-ars-report.jpg?itok=MmwZZrPe" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Global Payments forecasts full-year profit above estimates on strong spending
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/global-payments-forecasts-full-year-profit-above-estimates-strong-spending-4306326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 20:27:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/global-payments-forecasts-full-year-profit-above-estimates-strong-spending-4306326
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D8oIZ938--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t165117z_1_lynxmpek401l0_rtroptp_3_finance-visa.jpg?itok=l0xXq15m" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tottenham hit with double injury blow as Davies and Werner ruled out
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/tottenham-hit-double-injury-blow-davies-and-werner-ruled-out-4306301
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 20:16:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/tottenham-hit-double-injury-blow-davies-and-werner-ruled-out-4306301
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
