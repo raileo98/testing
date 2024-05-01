@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 02:20:05 +0800
+   Thu, 02 May 2024 02:50:27 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 02:13:43 +0800
+   Thu, 02 May 2024 02:28:28 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    道指重上38000點　納指及標普500指數止跌
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751413-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751413-20240502.htm
+   </link>
+   <description>
+    <![CDATA[聯儲局一如預期維持利率不變，並表示近期在實現2%通脹目標方面缺乏進展，預計在對通脹可持續走向2%抱有更大信心之前減息並不合適。另外，6月開始將會減慢縮表速度。
+
+交易員認為，聯儲局較有可能11月減息，今年不減息的機會較小。
+
+議息結果公布後，美股表現改善。道瓊斯指數重上38000點水平，較早時報38009點，升193點，升幅0.51%。納斯達克指數止跌回升，報15677點，升19點，升幅0.13%。標準普爾500指數亦轉升，報5037點，升1點。
+
+美元指數偏軟，較早時報106.17，跌幅0.14%。
+
+美債孳息率下跌，10年期債息較早時徘徊4.64厘附近，跌逾4個基點。兩年期債息略高於5厘；30年期債息貼近4.74厘，跌約5個基點。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 02:28:28 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     聯儲局維持利率不變　6月起減慢縮表速度
@@ -449,31 +474,6 @@ AMD在美股收市後交易時段曾急挫逾9%，較早時仍跌約7%。]]>
    </description>
    <pubDate>
     Wed, 01 May 2024 06:24:26 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    多隻藍籌股ADR跌逾1%至逾2%　滙控升近2%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751314-20240501.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751314-20240501.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)大多下挫。
-
-美團ADR比本港昨日收市價跌逾2%，以港元計折合報106.9元。
-
-騰訊、阿里巴巴、小米、京東ADR都跌逾1%。
-
-金融股亦大多受壓，友邦、港交所、平保、建行、工行、中行ADR跌逾1%。
-
-滙控業績後股價造好，ADR折合報68.2元，比本港昨日收市價升近2%。]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 06:24:02 +0800
    </pubDate>
   </item>
  </channel>
