@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 23:05:48 +0800
+   Wed, 01 May 2024 23:25:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Anthropic releases business chatbot in hunt for corporate dollars
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/anthropic-releases-business-chatbot-hunt-corporate-dollars-4306581
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 23:04:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/anthropic-releases-business-chatbot-hunt-corporate-dollars-4306581
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     US prosecutors examining financial transactions at Block, NBC News reports
@@ -189,27 +210,6 @@
   </item>
   <item>
    <title>
-    Tottenham hit with double injury blow as Davies and Werner ruled out
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/tottenham-hit-double-injury-blow-davies-and-werner-ruled-out-4306301
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 20:16:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/tottenham-hit-double-injury-blow-davies-and-werner-ruled-out-4306301
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
     Garmin's Q1 results beat on strong demand for fitness, auto products
    </title>
    <link>
@@ -228,6 +228,27 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xwcNbxpD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t121645z_1_lynxmpek401e0_rtroptp_3_tech-ifa.jpg?itok=VGc3uC-h" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Tottenham hit with double injury blow as Davies and Werner ruled out
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/tottenham-hit-double-injury-blow-davies-and-werner-ruled-out-4306301
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 20:16:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/tottenham-hit-double-injury-blow-davies-and-werner-ruled-out-4306301
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K_wuz47H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t091531z_2_lynxmpek40190_rtroptp_3_motor-f1-bahrain.jpg?itok=v3_BO1D7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Australian PM says violence against women a 'national crisis'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/australian-pm-says-violence-against-women-national-crisis-4305271
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 17:05:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/australian-pm-says-violence-against-women-national-crisis-4305271
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--46LJI36n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/feeb6f4b0e32e0aea1d4662406434cbe95da59c2.jpg?itok=KpnvmZ0R" width="1600"/>
   </item>
  </channel>
 </rss>
