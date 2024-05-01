@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 17:17:33 +0800
+   Wed, 01 May 2024 17:24:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    'My chief; my PM': Tributes flow for Prime Minister Lee Hsien Loong at final May Day Rally
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/tributes-flow-pm-lee-final-may-day-rally-may-15-handover-4305821
+   </link>
+   <description>
+    <![CDATA[In his speech, the outgoing Singapore leader thanked unionists several times for their work. The gratitude went both ways.]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 17:20:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/tributes-flow-pm-lee-final-may-day-rally-may-15-handover-4305821
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DZVj4qWI--/c_crop,h_900,w_1600,x_0,y_136/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ray_0180.jpg?itok=sdwiBC6T" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Newey to leave Red Bull in 2025
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/newey-leave-red-bull-2025-4305946
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 17:15:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/newey-leave-red-bull-2025-4305946
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K_wuz47H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t091531z_2_lynxmpek40190_rtroptp_3_motor-f1-bahrain.jpg?itok=v3_BO1D7" width="1600"/>
+  </item>
   <item>
    <title>
     Australian PM says violence against women a 'national crisis'
@@ -418,48 +460,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XYezeC8g--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/screenshot_2024-05-01_124933.png?itok=hy47IHaV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Analysis:Bank of Japan's hawkish whispers drowned out by rowdy yen selloff
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/analysisbank-japans-hawkish-whispers-drowned-out-rowdy-yen-selloff-4305556
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 13:13:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/analysisbank-japans-hawkish-whispers-drowned-out-rowdy-yen-selloff-4305556
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Investors scour the globe for shelter as Wall Street shakes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/investors-scour-globe-shelter-wall-street-shakes-4305536
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 13:07:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/investors-scour-globe-shelter-wall-street-shakes-4305536
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lh_arUDr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t085633z_2_lynxmpek40140_rtroptp_3_japan-forex-mrswatanabe.jpg?itok=pVEmTQep" width="1600"/>
   </item>
  </channel>
 </rss>
