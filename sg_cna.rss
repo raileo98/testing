@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 12:19:48 +0800
+   Wed, 01 May 2024 12:33:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Long hours, low wages: What is it like to be a gig worker in China's growing food delivery market?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/long-hours-low-wages-gig-economy-worker-food-delivery-rider-china-4305356
+   </link>
+   <description>
+    <![CDATA[China's food delivery market has experienced explosive growth in recent years, but critics say the industry is built on digital exploitation of the country's delivery riders. ]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 12:21:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/long-hours-low-wages-gig-economy-worker-food-delivery-rider-china-4305356
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MEsz44Gf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/china_daily_life_79220.jpg?itok=hP1afMtN" width="1600"/>
+  </item>
+  <item>
+   <title>
     Microsoft to open first regional data centre in Thailand
    </title>
    <link>
@@ -63,7 +84,7 @@
   </item>
   <item>
    <title>
-    Hong Kong Cantopop boyband Mirror talks growth, touring and the future ahead
+    Hong Kong Cantopop boyband Mirror talks growth and touring ahead of first Singapore concert
    </title>
    <link>
     https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
@@ -72,7 +93,7 @@
     <![CDATA[“It’s been very amazing, and we’re really grateful for the chances that we have…and (we) hope that more people around the world will know more about (Mirror),” says Mirror’s Edan Lui.]]>
    </description>
    <pubDate>
-    Wed, 01 May 2024 11:57:01 +0800
+    Wed, 01 May 2024 11:57:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
@@ -84,7 +105,7 @@
   </item>
   <item>
    <title>
-    Hong Kong Cantopop boyband Mirror talks growth, touring and the future ahead
+    Hong Kong Cantopop boyband Mirror talks growth and touring ahead of first Singapore concert
    </title>
    <link>
     https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
@@ -93,7 +114,7 @@
     <![CDATA[“It’s been very amazing, and we’re really grateful for the chances that we have…and (we) hope that more people around the world will know more about (Mirror),” says Mirror’s Edan Lui.]]>
    </description>
    <pubDate>
-    Wed, 01 May 2024 11:57:01 +0800
+    Wed, 01 May 2024 11:57:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Wuj8iDNu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t011044z_1_lynxmpek400zm_rtroptp_3_japan-yen-jump.jpg?itok=tEQd9RNs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Alicia Keys, Brian d’Arcy James, Daniel Radcliffe and more react to earning Tony Award nominations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/tony-awards-2024-reactions-nominees-4305081
-   </link>
-   <description>
-    <![CDATA[This year's Tony Awards ceremony will be on Jun 16.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 09:01:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/tony-awards-2024-reactions-nominees-4305081
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uRj8ftOM--/c_crop,h_900,w_1600,x_0,y_50/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ap24112113516157.jpg?itok=73ehnlmx" width="1600"/>
   </item>
  </channel>
 </rss>
