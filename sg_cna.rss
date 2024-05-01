@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 17:54:50 +0800
+   Wed, 01 May 2024 18:06:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Explainer-The Eta Aquariid meteor shower: When is it and what to expect?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/explainer-eta-aquariid-meteor-shower-when-it-and-what-expect-4306026
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 18:01:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/explainer-eta-aquariid-meteor-shower-when-it-and-what-expect-4306026
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--C2cSEIpG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t100107z_1_lynxmpek4019t_rtroptp_3_space-exploration-meteors.jpg?itok=xjLAwMZa" width="1600"/>
+  </item>
   <item>
    <title>
     Clashes erupt on UCLA campus between pro-Palestinian supporters and counter-protesters
@@ -342,7 +363,7 @@ This article contains affiliate links. If you buy through these links, we may ea
     Novo Nordisk owner to invest $200 million in quantum computing startups
    </title>
    <link>
-    https://www.channelnewsasia.com/
+    https://www.channelnewsasia.com/business/novo-nordisk-owner-invest-200-million-quantum-computing-startups-4305756
    </link>
    <description>
     <![CDATA[]]>
@@ -350,7 +371,9 @@ This article contains affiliate links. If you buy through these links, we may ea
    <pubDate>
     Wed, 01 May 2024 15:02:30 +0800
    </pubDate>
-   <guid isPermaLink="false"/>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/novo-nordisk-owner-invest-200-million-quantum-computing-startups-4305756
+   </guid>
    <category>
     Business
    </category>
@@ -439,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iwbXTKmn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t053133z_1_lynxmpek4012y_rtroptp_3_soccer-champions-bay-mad-report.jpg?itok=a_2TMm1D" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taiwan on alert for post-inauguration Chinese drills
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-taiwan-tensions-military-exercises-inauguration-president-elect-lai-ching-te-4305231
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 13:29:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-taiwan-tensions-military-exercises-inauguration-president-elect-lai-ching-te-4305231
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w7WVievn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-05-05t011556z_2_lynxmpej4400n_rtroptp_3_china-military-carriers.jpg?itok=ZvEEphg3" width="1600"/>
   </item>
  </channel>
 </rss>
