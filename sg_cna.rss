@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 16:56:52 +0800
+   Wed, 01 May 2024 17:17:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Australian PM says violence against women a 'national crisis'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/australian-pm-says-violence-against-women-national-crisis-4305271
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 17:05:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/australian-pm-says-violence-against-women-national-crisis-4305271
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--46LJI36n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/feeb6f4b0e32e0aea1d4662406434cbe95da59c2.jpg?itok=KpnvmZ0R" width="1600"/>
+  </item>
   <item>
    <title>
     Doping-Refugee Olympian Lohalith suspended after failing dope test
@@ -438,28 +459,7 @@ This article contains affiliate links. If you buy through these links, we may ea
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aSdKFxX_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t062920z_1_lynxmpek40140_rtroptp_3_japan-forex-mrswatanabe.jpg?itok=BM0uJjbN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Microsoft, Brookfield to partner on renewable energy projects
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/microsoft-brookfield-partner-renewable-energy-projects-4305506
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 12:50:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/microsoft-brookfield-partner-renewable-energy-projects-4305506
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8gKznHSX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t073544z_2_lynxmpek4011x_rtroptp_3_microsoft-brookfield-renewables.jpg?itok=ZgpS1q0H" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lh_arUDr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t085633z_2_lynxmpek40140_rtroptp_3_japan-forex-mrswatanabe.jpg?itok=pVEmTQep" width="1600"/>
   </item>
  </channel>
 </rss>
