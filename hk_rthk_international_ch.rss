@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 11:50:18 +0800
+   Wed, 01 May 2024 12:01:45 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 11:45:24 +0800
+   Wed, 01 May 2024 11:54:54 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國高等院校聲援巴人示威持續　聯合國人權專員關注美國鎮壓示威
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751350-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751350-20240501.htm
+   </link>
+   <description>
+    <![CDATA[美國高等院校聲援加沙巴勒斯坦人的反戰示威持續。
+
+哥倫比亞大學有示威闖入校園，警方在校方授權後進入校園，拘捕示威者。校長已經要求警方留低，直至月中的畢業禮結束。
+
+聯合國人權事務高級專員關注美國採取一系列嚴厲手法驅散和鎮壓校園示威。]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 11:54:54 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     習近平覆信斯梅戴雷沃鋼廠塞爾維亞職工　勉勵為中塞友誼作新貢獻
@@ -445,27 +466,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 15:32:20 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    以色列談判代表據報今日前往開羅準備與哈馬斯談判停火
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751189-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751189-20240430.htm
-   </link>
-   <description>
-    <![CDATA[以色列傳媒報道，以方談判代表今日前往埃及首都開羅，準備參加與巴勒斯坦武裝組織哈馬斯的停火談判。報道引述埃及當局消息人士，指哈馬斯代表已暫時離開開羅，就最新停火方案進行內部討論，完成後會帶著哈馬斯方面的書面回覆，回到開羅。
-
-國際間及以色列國內繼續有人呼籲以色列政府與哈馬斯達成協議。特拉維夫昨日有大批民眾上街，要求政府促成被扣押的以色列人獲釋，期間爆發衝突，警方用高壓水槍驅散人群。
-
-美國高等院校聲援加沙巴勒斯坦人的反戰示威持續，其中哥倫比亞大學開始對拒絕離開示威營地的學生採取停學處分。校方說領導層與示威主辦者談判多日，但未能勸服學生；示威學生就表明會繼續紮營抗議。另外，一個由90多名律師組成的團體去信美國政府，敦促政府切斷對以色列的軍事援助，指以色列在加沙的行動不符合美國法律及國際法。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 13:42:25 +0800
    </pubDate>
   </item>
  </channel>

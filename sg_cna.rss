@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 11:49:19 +0800
+   Wed, 01 May 2024 12:09:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hong Kong Cantopop boyband Mirror talks growth, touring and the future ahead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
+   </link>
+   <description>
+    <![CDATA[“It’s been very amazing, and we’re really grateful for the chances that we have…and (we) hope that more people around the world will know more about (Mirror),” says Mirror’s Edan Lui.]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 11:57:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
+   </guid>
+   <category>
+    Entertainment ,CNA Lifestyle
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---_7QAO0i--/c_crop,h_899,w_1599,x_1,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/Mirror%20Hong%20Kong%20Cantopop%20boy%20group%20in%20Singapore-2.jpg?itok=Bv54cXVj" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Hong Kong Cantopop boyband Mirror talks growth, touring and the future ahead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
+   </link>
+   <description>
+    <![CDATA[“It’s been very amazing, and we’re really grateful for the chances that we have…and (we) hope that more people around the world will know more about (Mirror),” says Mirror’s Edan Lui.]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 11:57:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
+   </guid>
+   <category>
+    Entertainment ,CNA Lifestyle
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---_7QAO0i--/c_crop,h_899,w_1599,x_1,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/Mirror%20Hong%20Kong%20Cantopop%20boy%20group%20in%20Singapore-2.jpg?itok=Bv54cXVj" width="1600"/>
+  </item>
   <item>
    <title>
     Japan's Mitsui sees net profit falling 15% on weaker energy business
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uRj8ftOM--/c_crop,h_900,w_1600,x_0,y_50/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ap24112113516157.jpg?itok=73ehnlmx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil falls for a third day as US crude inventories swell
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-falls-third-day-us-crude-inventories-swell-4305076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 08:49:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-falls-third-day-us-crude-inventories-swell-4305076
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CnUFQ_WJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t004936z_1_lynxmpek400zc_rtroptp_3_global-oil.jpg?itok=Hgm6zvzO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nadal bids farewell to Madrid after defeat by Lehecka
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/nadal-bids-farewell-madrid-after-defeat-lehecka-4305071
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 08:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/nadal-bids-farewell-madrid-after-defeat-lehecka-4305071
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SQU3zex6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t004843z_1_lynxmpek400z8_rtroptp_3_tennis-madrid.jpg?itok=AecMqIx3" width="1600"/>
   </item>
  </channel>
 </rss>
