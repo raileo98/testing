@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 11:40:28 +0800
+   Wed, 01 May 2024 11:49:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Japan's Mitsui sees net profit falling 15% on weaker energy business
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-mitsui-sees-net-profit-falling-15-weaker-energy-business-4305351
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 11:41:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-mitsui-sees-net-profit-falling-15-weaker-energy-business-4305351
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tHA4ZyP2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t034108z_1_lynxmpek40116_rtroptp_3_mitsui-results.jpg?itok=QNpAJn8P" width="1600"/>
+  </item>
+  <item>
+   <title>
     Political stability, trust in government critical for Singapore: PM Lee in final major speech as prime minister
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HnXVZf83--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/PM%20-%20May%20Day%20emotional%201.png?itok=YY2S_WRV" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qLHF4qM5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/pm_lee_today.png?itok=uqdmSVng" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SQU3zex6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t004843z_1_lynxmpek400z8_rtroptp_3_tennis-madrid.jpg?itok=AecMqIx3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    She went from peeling onions to having her own special menu in a Changi Airport first class lounge
-   </title>
-   <link>
-    https://www.channelnewsasia.com/women/changi-airport-qantas-singapore-lounge-chef-linda-sim-4271676
-   </link>
-   <description>
-    <![CDATA[From not being able to cook and almost quitting after one day in her first kitchen job, executive chef Linda Sim is now whipping up dishes such as crayfish laksa, prawn paste chicken and nasi lemak at Qantas Business and First Class Lounges at Changi Airport Terminal 1.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 08:28:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/women/changi-airport-qantas-singapore-lounge-chef-linda-sim-4271676
-   </guid>
-   <category>
-    Women ,Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8nGPwxaX--/c_crop,h_843,w_1500,x_0,y_146/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/17/executive_chef_linda_sim-qantas_singapore_business_and_first_lounges.jpg?itok=5A0Ujoob" width="1600"/>
   </item>
  </channel>
 </rss>
