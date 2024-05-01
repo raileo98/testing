@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 01:27:47 +0800
+   Thu, 02 May 2024 01:36:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -59,7 +59,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6-cYm_MY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t172234z_1_lynxmpek401lq_rtroptp_3_basketball-wnba-griner.jpg?itok=iy4Wdd6D" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0Nh3x2Vp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t173243z_2_lynxmpek401lq_rtroptp_3_basketball-wnba-griner.jpg?itok=zUAKJQF-" width="1600"/>
   </item>
   <item>
    <title>
@@ -357,27 +357,6 @@
   </item>
   <item>
    <title>
-    Garmin's Q1 results beat on strong demand for fitness, auto products
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/garmins-q1-results-beat-strong-demand-fitness-auto-products-4306296
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 20:16:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/garmins-q1-results-beat-strong-demand-fitness-auto-products-4306296
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xwcNbxpD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t121645z_1_lynxmpek401e0_rtroptp_3_tech-ifa.jpg?itok=VGc3uC-h" width="1600"/>
-  </item>
-  <item>
-   <title>
     Tottenham hit with double injury blow as Davies and Werner ruled out
    </title>
    <link>
@@ -396,6 +375,27 @@
     Sport
    </category>
    <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Garmin's Q1 results beat on strong demand for fitness, auto products
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/garmins-q1-results-beat-strong-demand-fitness-auto-products-4306296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 20:16:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/garmins-q1-results-beat-strong-demand-fitness-auto-products-4306296
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xwcNbxpD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t121645z_1_lynxmpek401e0_rtroptp_3_tech-ifa.jpg?itok=VGc3uC-h" width="1600"/>
   </item>
   <item>
    <title>
