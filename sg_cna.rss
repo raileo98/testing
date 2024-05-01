@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 17:24:37 +0800
+   Wed, 01 May 2024 17:37:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Clashes erupt on UCLA campus between pro-Palestinian supporters and counter-protesters
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/clashes-erupt-ucla-campus-between-pro-palestinian-supporters-and-counter-protesters-4305926
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 17:34:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/clashes-erupt-ucla-campus-between-pro-palestinian-supporters-and-counter-protesters-4305926
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Mbpe7xdI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t090440z_5_lynxmpek4018f_rtroptp_3_israel-palestinians-usa-protests.jpg?itok=KA2YANux" width="1600"/>
+  </item>
   <item>
    <title>
     'My chief; my PM': Tributes flow for Prime Minister Lee Hsien Loong at final May Day Rally
@@ -210,10 +231,10 @@
   </item>
   <item>
    <title>
-    Crypto washout sends bitcoin below $58,000 into bear market
+    Crypto washout sends bitcoin below $58,000 ahead of Fed decision
    </title>
    <link>
-    https://www.channelnewsasia.com/business/crypto-washout-sends-bitcoin-below-58000-bear-market-4305806
+    https://www.channelnewsasia.com/business/crypto-washout-sends-bitcoin-below-58000-ahead-fed-decision-4305806
    </link>
    <description>
     <![CDATA[]]>
@@ -222,7 +243,7 @@
     Wed, 01 May 2024 15:39:31 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/crypto-washout-sends-bitcoin-below-58000-bear-market-4305806
+    https://www.channelnewsasia.com/business/crypto-washout-sends-bitcoin-below-58000-ahead-fed-decision-4305806
    </guid>
    <category>
     Business
@@ -439,27 +460,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w7WVievn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-05-05t011556z_2_lynxmpej4400n_rtroptp_3_china-military-carriers.jpg?itok=ZvEEphg3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Small confectioners move away from just selling chocolates as global cocoa shortage hits hard
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/chocolate-rising-prices-cocoa-global-shortage-confectioners-change-business-model-4305481
-   </link>
-   <description>
-    <![CDATA[Local confectioners told CNA they are diversifying their offerings and thinking about increasing the price of their chocolates.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 13:22:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/chocolate-rising-prices-cocoa-global-shortage-confectioners-change-business-model-4305481
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XYezeC8g--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/screenshot_2024-05-01_124933.png?itok=hy47IHaV" width="1600"/>
   </item>
  </channel>
 </rss>
