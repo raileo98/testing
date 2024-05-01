@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 00:57:24 +0800
+   Thu, 02 May 2024 01:15:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Flawless Rublev knocks out champion Alcaraz to move into Madrid semis
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/flawless-rublev-knocks-out-champion-alcaraz-move-madrid-semis-4306791
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 01:11:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/flawless-rublev-knocks-out-champion-alcaraz-move-madrid-semis-4306791
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Abu Dhabi AI company Presight takes majority stake in tech venture AIQ
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bY9TGPf1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t103306z_1_lynxmpek401bo_rtroptp_3_soccer-england-replays.jpg?itok=0X5CTQVU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mass fish die-off in Vietnam as heatwave roasts Southeast Asia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/vietnam-heat-mass-fish-die-dong-nai-lack-water-schools-closed-4305976
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 18:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/vietnam-heat-mass-fish-die-dong-nai-lack-water-schools-closed-4305976
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nur51veA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/vietnam_dead_fish.jpg?itok=D9Bzbo04" width="1600"/>
   </item>
  </channel>
 </rss>

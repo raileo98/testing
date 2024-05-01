@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 00:30:43 +0800
+   Thu, 02 May 2024 01:10:16 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 15:17:18 +0800
+   Thu, 02 May 2024 00:45:58 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    New flu trend detection model for better vaccines
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751406-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751406-20240502.htm
+   </link>
+   <description>
+    <![CDATA[A Chinese University researcher said a new computing model could help the authorities make better choices in selecting the strain of flu they vaccinate people against. 
+
+Health officials have to choose which vaccine to order ahead of each flu season. 
+
+Maggie Wang, who developed the new model, known as beth-1, with colleagues from the Faculty of Medicine, said it could predict how the virus would change in the future.
+
+She said the model would give authorities early warnings of emerging virus variants, particularly for the H3N2 virus, the H1N1 virus and the influenza B virus. 
+
+"This information is particularly important for the WHO (World Health Organisation) because each year or each season, the next season's influenza vaccine strain should be determined earlier, that is almost nine to 12 months ahead of the target season. A prediction model can provide critical information to inform the decision makers of the optimal vaccine strain to select," she said. 
+
+"For pharmaceutical companies, the forecasting model is also very useful because the manufacturing of the influenza vaccine has a really compact timeline. So earlier prediction can give more time and the buffer for the manufacturers to prepare the vaccine development and manufacturing."
+
+Wang added that their research team has already been working closely with institutions in the mainland to conduct animal experiments for manufacturing more effective vaccines using the beth-1 model.
+
+"We did the prospective validation using mice model. That is, we predict the next season, the future season's representative viral strain, and then use this strain to make the vaccine to immunize the mice, and we also immunize another group of mice using the current vaccines," she said. 
+
+"And after a few months, when the target season comes, we collect the circulating viruses from the Prince of Wales Hospital, and then use this circulating virus to challenge the immunized mice, and compare how strongly antibody response in these two groups of mice. The outcome is that our model-predicted strain generates significantly higher, or non-inferior neutralization titer, antibody response against the circulating viruses."]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 00:45:58 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Still many problems with waste charging scheme: govt
@@ -635,33 +668,6 @@ Ho warned that scrapping a prison sentence from the bill would lower the effecti
    </description>
    <pubDate>
     Mon, 29 Apr 2024 15:54:34 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    'HK to adopt soft sell tactics to promote patriotism'
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751024-20240429.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751024-20240429.htm
-   </link>
-   <description>
-    <![CDATA[Chief Secretary Eric Chan said on Monday that a "soft sell" approach will be adopted when it comes to promoting patriotism in Hong Kong.
-
-Chan, who chairs the new Working Group on Patriotic Education, said the group is aimed at integrating patriotism into core values of the community, but this will not involve "hard sell" tactics.
-
-"Patriotism is not something that can be learnt by repeating from memory. Getting to understand is the first step. The ultimate goal is to achieve emotional identification. Sincerely identify with the country, feel proud of the country and then consciously love and protect the country," Chan told reporters after an inaugural meeting of the working group.
-
-Chan said the group will make reference to the mainland's patriotic education law and come up with appropriate and suitable proposals for the SAR.
-
-But he said the government has no plans to legislate patriotism and will rely on policies and activities to promote it.
-
-Chan also said the government will organise various activities and celebrations in the run-up to October's 75th anniversary of the founding of the People's Republic of China, to enable young people to learn more about their country.]]>
-   </description>
-   <pubDate>
-    Mon, 29 Apr 2024 14:31:54 +0800
    </pubDate>
   </item>
  </channel>
