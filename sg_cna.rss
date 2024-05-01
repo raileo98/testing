@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 15:40:28 +0800
+   Wed, 01 May 2024 15:48:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    With PM Lee's last major speech before handover, election campaigning 'has started': Analysts
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/pm-lee-hsien-loong-may-day-rally-election-campaign-ge-pap-4305666
+   </link>
+   <description>
+    <![CDATA[This was Prime Minister Lee Hsien Loong's last platform to deliver a message before Singapore heads to a pivotal polls, according to political observers.]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 15:45:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/pm-lee-hsien-loong-may-day-rally-election-campaign-ge-pap-4305666
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z29X-Gun--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/pm_lee_hsien_loong_may_day_rally_2024_crowd.jpg?itok=uF_De1PA" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Bitcoin slides below $58,000, rattled by tougher Fed rate outlook
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/bitcoin-slides-below-58000-rattled-tougher-fed-rate-outlook-4305806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 15:39:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/bitcoin-slides-below-58000-rattled-tougher-fed-rate-outlook-4305806
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MIpRdzMv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t073931z_1_lynxmpek40159_rtroptp_3_fintech-crypto-bitcoin.jpg?itok=h9v17qZ-" width="1600"/>
+  </item>
   <item>
    <title>
     Star Wars Day: 9 budget gifts for the Star Wars fan in your life
@@ -418,48 +460,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Hong Kong Cantopop boyband Mirror talks growth and touring ahead of first Singapore concert
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
-   </link>
-   <description>
-    <![CDATA[“It’s been very amazing, and we’re really grateful for the chances that we have…and (we) hope that more people around the world will know more about (Mirror),” says Mirror’s Edan Lui.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 11:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---_7QAO0i--/c_crop,h_899,w_1599,x_1,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/Mirror%20Hong%20Kong%20Cantopop%20boy%20group%20in%20Singapore-2.jpg?itok=Bv54cXVj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hong Kong Cantopop boyband Mirror talks growth and touring ahead of first Singapore concert
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
-   </link>
-   <description>
-    <![CDATA[“It’s been very amazing, and we’re really grateful for the chances that we have…and (we) hope that more people around the world will know more about (Mirror),” says Mirror’s Edan Lui.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 11:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/cantopop-band-mirror-interview-4304961
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---_7QAO0i--/c_crop,h_899,w_1599,x_1,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/Mirror%20Hong%20Kong%20Cantopop%20boy%20group%20in%20Singapore-2.jpg?itok=Bv54cXVj" width="1600"/>
   </item>
  </channel>
 </rss>
