@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 00:31:44 +0800
+   Thu, 02 May 2024 00:40:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US defender Dest to undergo ACL surgery, miss Copa America
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/us-defender-dest-undergo-acl-surgery-miss-copa-america-4306726
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 00:29:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/us-defender-dest-undergo-acl-surgery-miss-copa-america-4306726
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m89k7EjL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t162948z_1_lynxmpek401ka_rtroptp_3_soccer-champions-psv-dor-report.jpg?itok=PEMP-cnU" width="1600"/>
+  </item>
   <item>
    <title>
     Israel supporters attack pro-Palestinian camp in LA, 300 Gaza protesters arrested in New York
@@ -101,7 +122,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---c7fikcH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t145021z_1_lynxmpek401hp_rtroptp_3_block-results.jpg?itok=u_h88oCH" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--H3yrUEZT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t163149z_2_lynxmpek401hp_rtroptp_3_block-results.jpg?itok=_NQEBfqG" width="1600"/>
   </item>
   <item>
    <title>
@@ -276,7 +297,7 @@
     AMD, Super Micro tumble as earnings fall short of lofty AI expectations
    </title>
    <link>
-    https://www.channelnewsasia.com/business/amd-super-micro-tumble-earnings-fall-short-lofty-ai-expectations-4306231
+    https://www.channelnewsasia.com/business/amd-super-micro-spark-chip-selloff-earnings-miss-lofty-ai-expectations-4306231
    </link>
    <description>
     <![CDATA[]]>
@@ -285,7 +306,7 @@
     Wed, 01 May 2024 19:23:47 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amd-super-micro-tumble-earnings-fall-short-lofty-ai-expectations-4306231
+    https://www.channelnewsasia.com/business/amd-super-micro-spark-chip-selloff-earnings-miss-lofty-ai-expectations-4306231
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--64jKlnZS--/c_crop,h_900,w_1600,x_0,y_61/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ucla_police_protests.jpg?itok=ZgXuNbIT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'My chief; my PM': Tributes flow for Prime Minister Lee Hsien Loong at final May Day Rally
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tributes-flow-pm-lee-final-may-day-rally-may-15-handover-4305821
-   </link>
-   <description>
-    <![CDATA[In his speech, the outgoing Singapore leader thanked unionists several times for their work. The gratitude went both ways.]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 17:20:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tributes-flow-pm-lee-final-may-day-rally-may-15-handover-4305821
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DZVj4qWI--/c_crop,h_900,w_1600,x_0,y_136/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ray_0180.jpg?itok=sdwiBC6T" width="1600"/>
   </item>
  </channel>
 </rss>
