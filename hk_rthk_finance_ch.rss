@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 05:30:59 +0800
+   Thu, 02 May 2024 06:10:25 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 05:17:21 +0800
+   Thu, 02 May 2024 06:00:12 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    聯儲局維持利率不變　鮑威爾：今年來通脹數據未帶來更大信心
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751428-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751428-20240502.htm
+   </link>
+   <description>
+    <![CDATA[聯儲局一如預期連續6次會議維持利率不變，聯邦基金利率目標區間維持於5.25厘至5.5厘。
+
+議息聲明提到，近期在實現2%通脹目標方面缺乏進展，預計在對通脹可持續走向2%抱有更大信心之前，減息並不合適。
+
+主席鮑威爾表示，下一步行動不太可能是加息，至於減息時機取決於數據，逐次會議作出決定，強調聯儲局可以保持耐性。
+
+他認為，美國經濟並沒有陷入滯脹，但今年以來的通脹數據並未帶來更大信心，仍然處於過高水平。他預期，今年通脹會回落，但他對通脹回落的信心亦低於之前。
+
+另外，聯儲局6月開始將會減慢縮表速度，美債減持上限由每月600億美元，削減至250億美元；按揭抵押證券(MBS)減持上限則維持350億美元不變，並將多出的MBS回籠本金重新投資於美債。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 06:00:12 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美元指數跌穿106　交易員料聯儲局最有可能11月開始減息
@@ -459,23 +484,6 @@
    </description>
    <pubDate>
     Wed, 01 May 2024 12:31:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股半日跌0.56%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751340-20240501.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751340-20240501.htm
-   </link>
-   <description>
-    <![CDATA[日股偏軟，日經指數最多跌369點，低見38036點。半日收報38189點，跌216點，跌幅0.56%。]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 10:38:25 +0800
    </pubDate>
   </item>
  </channel>
