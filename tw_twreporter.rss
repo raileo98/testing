@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Tue, 30 Apr 2024 17:00:02 GMT
+   Wed, 01 May 2024 17:00:02 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    李雪莉／《巴奈回家》：為族群主流化的平等理想一起努力
+   </title>
+   <description>
+    <![CDATA[「柯美黛」這位「城市小姐」，是怎麼一路找回自己的阿美族名字巴奈（Panai）？一個又一個的個體，如何被捲入不義制度的夾縫中，又如何在逆境中確實抵抗？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-return-to-the-motherland
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-return-to-the-motherland
+   </guid>
+   <pubDate>
+    Wed, 01 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430100347-d1b2d9df4318e2e12c2827bce774010d-mobile.jpg"/>
+  </item>
   <item>
    <title>
     張烽益／如何平衡工作與生活的反思，是人類進步的動力──讀《終結職業倦怠》
@@ -195,24 +213,6 @@
     Mon, 22 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240423143743-4887e5e265db448f3e3a85906ee871d9-mobile.jpeg"/>
-  </item>
-  <item>
-   <title>
-    死囚有沒有妥善道別的最後權利？日本「執行死刑黑箱」訴訟，與來自刑場的錄音
-   </title>
-   <description>
-    <![CDATA[主張日本目前執行死刑的「即日告知・即日執行制」違憲的訴訟，雖初步敗訴，但也凸顯了日本死刑制度黑箱主義。這能否更促使社會在廢死辯論外，重新思考這種終極刑罰所帶來的法理情難題？]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/hello-world-2024-04-22
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/hello-world-2024-04-22
-   </guid>
-   <pubDate>
-    Sun, 21 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240422112325-10e6c2af14efd0b83b32c03a46d7208e-mobile.jpg"/>
   </item>
  </channel>
 </rss>
