@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 02:51:33 +0800
+   Thu, 02 May 2024 04:25:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    EBay forecasts quarterly revenue below expectations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ebay-forecasts-quarterly-revenue-below-expectations-4307051
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 04:12:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ebay-forecasts-quarterly-revenue-below-expectations-4307051
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--50Al40VG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t200854z_1_lynxmpek401n2_rtroptp_3_tech-ebay.jpg?itok=se7570uH" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Harvey Weinstein in court after NY convictions quashed
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/harvey-weinstein-court-after-ny-convictions-quashed-4306951
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 03:16:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/harvey-weinstein-court-after-ny-convictions-quashed-4306951
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--reMPB-fl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/44d64de04c1a959078def0aee30fd55ddcc04543.jpg?itok=0esHgVh1" width="1600"/>
+  </item>
   <item>
    <title>
     US to probe GoPro claims Chinese firm violated its patents
@@ -360,7 +402,7 @@
     Rybakina survives Putintseva scare to reach Madrid semis
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/rybakina-survives-putintseva-scare-reach-madrid-semis-4306571
+    https://www.channelnewsasia.com/sport/rybakina-survives-putintseva-scare-reach-madrid-semis-sabalenka-eases-past-andreeva-4306571
    </link>
    <description>
     <![CDATA[]]>
@@ -369,7 +411,7 @@
     Wed, 01 May 2024 22:47:52 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/rybakina-survives-putintseva-scare-reach-madrid-semis-4306571
+    https://www.channelnewsasia.com/sport/rybakina-survives-putintseva-scare-reach-madrid-semis-sabalenka-eases-past-andreeva-4306571
    </guid>
    <category>
     Sport
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Hamas official insists Gaza ceasefire must be permanent
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-war-gaza-ceasefire-negotiations-exchange-hostages-rafah-4306386
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 21:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-war-gaza-ceasefire-negotiations-exchange-hostages-rafah-4306386
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yf8Vc8Qk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t125946z_1_lynxmpek3t0ji_rtroptp_3_israel-palestinians-gaza.jpg?itok=fES6Kbui" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Roblox players to start seeing video ads in its virtual realms
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/roblox-players-start-seeing-video-ads-its-virtual-realms-4306406
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 21:05:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/roblox-players-start-seeing-video-ads-its-virtual-realms-4306406
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nyiW2Lri--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t182721z_2_lynxmpek401ex_rtroptp_3_roblox-ipo.jpg?itok=1rygTIpB" width="1600"/>
   </item>
  </channel>
 </rss>
