@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 12:33:24 +0800
+   Wed, 01 May 2024 12:41:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Sydney's World Marathon Majors bid boosted by record entry
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/sydneys-world-marathon-majors-bid-boosted-record-entry-4305446
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 12:30:30 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/sydneys-world-marathon-majors-bid-boosted-record-entry-4305446
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e-_nIWcX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t043030z_1_lynxmpek4011n_rtroptp_3_athletics-marathon-sydney.jpg?itok=KLI1L5Mw" width="1600"/>
+  </item>
   <item>
    <title>
     Long hours, low wages: What is it like to be a gig worker in China's growing food delivery market?
@@ -164,7 +185,7 @@
    <category>
     Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qLHF4qM5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/pm_lee_today.png?itok=uqdmSVng" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sx5GQMx9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/pm_lee_hsien_loong_may_day_rally_2024_1.jpg?itok=MuuqZ3Rw" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--beNJYD_3--/c_crop,h_450,w_800,x_0,y_9/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-30t134132z_2_lynxmpek3t0ke_rtroptp_3_awards-breakthrough-prize.jpg?itok=LciJA6JN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan may introduce tax breaks to spur repatriation into yen, Sankei reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japan-may-introduce-tax-breaks-spur-repatriation-yen-sankei-reports-4305106
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 09:10:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japan-may-introduce-tax-breaks-spur-repatriation-yen-sankei-reports-4305106
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Wuj8iDNu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t011044z_1_lynxmpek400zm_rtroptp_3_japan-yen-jump.jpg?itok=tEQd9RNs" width="1600"/>
   </item>
  </channel>
 </rss>
