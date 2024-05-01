@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 19:05:54 +0800
+   Wed, 01 May 2024 19:15:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More than S$370,000 recovered after banks, Singapore and Hong Kong police foil scam
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/scam-police-singapore-hong-kong-uob-dbs-bank-technical-support-4305966
+   </link>
+   <description>
+    <![CDATA[The 70-year-old victim divulged his bank credentials to a scammer after being told his computer had been hacked and his bank accounts were used for illegal activities. ]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 19:06:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/scam-police-singapore-hong-kong-uob-dbs-bank-technical-support-4305966
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FnUKIl_w--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/computer_user.jpg?itok=mwkfiQHZ" width="1600"/>
+  </item>
   <item>
    <title>
     Angry clubs call on government to protect FA Cup replays
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    US Fed likely to keep rates steady as hopes of early cuts fade
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-federal-reserve-meeting-interest-rate-inflation-4305596
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 14:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-federal-reserve-meeting-interest-rate-inflation-4305596
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IY4rWyVj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/32b0ef1519f1f1112fb700c2cab23311514762ef.jpg?itok=1pX8PVXm" width="1600"/>
   </item>
  </channel>
 </rss>
