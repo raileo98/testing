@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 01:40:24 +0800
+   Thu, 02 May 2024 02:01:49 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 12:39:31 +0800
+   Thu, 02 May 2024 01:51:35 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國4月ADP私人企業新增職位19.2萬個　超出預期
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751408-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751408-20240502.htm
+   </link>
+   <description>
+    <![CDATA[美國4月ADP私人企業新增職位增加19.2萬個，超出市場預期的17.5萬個。
+
+3月ADP新增職位亦向上修訂至20.8萬個，前值為18.4萬個。
+
+另外，美國勞工統計局公布的月度職位空缺及勞動力流動調查(JOLTS)報告顯示，衡量勞動力需求的職位空缺，在3月最後1日減少32.5萬個，減至848.8萬個，創3年新低，並且低於市場預期。2月數據向上修訂至881.3萬個，前值為875.6萬個。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 01:51:35 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     分析指本港新股上市稍有改善但未見活躍　料全年集資額500億元
@@ -469,23 +490,6 @@ Tesla回吐逾5.5%；微軟及亞馬遜低收逾3%，但亞馬遜收市後公布
    </description>
    <pubDate>
     Tue, 30 Apr 2024 22:42:31 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    FHFA：美國2月樓價按年上升7%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751279-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751279-20240430.htm
-   </link>
-   <description>
-    <![CDATA[美國聯邦住房金融局（FHFA）公布，2月樓價按月上升1.2%，按年上升7%。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 22:36:57 +0800
    </pubDate>
   </item>
  </channel>
