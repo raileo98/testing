@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 01 May 2024 16:40:44 +0800
+   Wed, 01 May 2024 16:50:27 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 01 May 2024 16:21:43 +0800
+   Wed, 01 May 2024 16:45:17 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    中國太空站第六批科學實驗樣本順利返回　共重約31.5公斤
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751375-20240501.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751375-20240501.htm
+   </link>
+   <description>
+    <![CDATA[中國太空站第六批科學實驗樣本昨日隨同神舟十七號載人飛船返回艙順利返回，其中生命類實驗樣本在今日凌晨轉運至北京並交付科學家，材料類實驗樣本後續將隨同神舟十七號載人飛船返回艙運抵北京。
+
+今次返回的科學實驗樣本涉及23項科學實驗項目，包括蛋白質晶體、生命有機分子、種子等32種生命類實驗樣本，以及無容器材料、高溫材料和艙外暴露材料等18種材料類實驗樣本，總重量約31.5公斤。
+
+科學家將會分析這些樣本，為相關藥物研製、疫苗開發提供技術支撐。]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 16:45:17 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     王瑞軍轉任中共中央統戰部副部長
@@ -425,27 +446,6 @@
    </description>
    <pubDate>
     Tue, 30 Apr 2024 18:36:46 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    神舟十七號載人飛行任務圓滿成功　航天員身體狀態良好
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751252-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751252-20240430.htm
-   </link>
-   <description>
-    <![CDATA[神舟十七號載人飛船返回艙，下午5時46分在東風著陸場成功著陸，現場醫監醫保人員，確認航天員湯洪波、唐勝傑、江新林身體狀態良好，神十七任務取得圓滿成功。
-
-北京航天飛行控制中心，下午5時前幾分鐘，透過地面測控站發出返回指令，飛船軌道艙與返回艙成功分離，之後飛船的返回制動發動機點火，推進艙與返回艙分離，返回艙成功著陸。
-
-擔負搜救回收任務的搜救分隊，及時發現目標並抵達著陸現場。返回艙艙門打開後，醫監醫保人員確認太空人身體健康。]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 18:25:53 +0800
    </pubDate>
   </item>
  </channel>
