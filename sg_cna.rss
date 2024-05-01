@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 14:57:25 +0800
+   Wed, 01 May 2024 15:15:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,25 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Novo Nordisk owner to invest $200 million in quantum computing startups
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 15:02:30 +0800
+   </pubDate>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     US Fed likely to keep rates steady as hopes of early cuts fade
@@ -438,27 +457,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QmGLYHck--/c_crop,h_432,w_768,x_0,y_144/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d29e94da385fc00c4588f03005ea0aa615f68f85.jpg?itok=Mg97X9_f" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Smith, Fraser-McGurk miss Australia's T20 World Cup squad
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/smith-fraser-mcgurk-miss-australias-t20-world-cup-squad-4305236
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 10:35:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/smith-fraser-mcgurk-miss-australias-t20-world-cup-squad-4305236
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OLT3KTnA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t023521z_1_lynxmpek4010l_rtroptp_3_cricket-usa-smith.jpg?itok=5YJFIU8I" width="1600"/>
   </item>
  </channel>
 </rss>
