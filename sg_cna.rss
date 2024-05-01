@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 01 May 2024 19:27:18 +0800
+   Wed, 01 May 2024 19:36:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,27 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e8qgmcbO--/c_crop,h_3414,w_6071,x_1,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/dogs_heatwave.jpg?itok=opzjhQBm" width="1600"/>
+  </item>
+  <item>
+   <title>
+    AMD, Super Micro tumble as earnings fall short of lofty AI expectations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/amd-super-micro-tumble-earnings-fall-short-lofty-ai-expectations-4306231
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 01 May 2024 19:23:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/amd-super-micro-tumble-earnings-fall-short-lofty-ai-expectations-4306231
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -294,10 +315,10 @@
   </item>
   <item>
    <title>
-    Southern China road collapse kills at least 19
+    At least 24 people killed in south China road collapse
    </title>
    <link>
-    https://www.channelnewsasia.com/asia/southern-china-guangdong-road-collapse-kills-19-4305631
+    https://www.channelnewsasia.com/asia/southern-china-guangdong-road-collapse-kills-24-4305631
    </link>
    <description>
     <![CDATA[]]>
@@ -306,12 +327,12 @@
     Wed, 01 May 2024 16:34:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/southern-china-guangdong-road-collapse-kills-19-4305631
+    https://www.channelnewsasia.com/asia/southern-china-guangdong-road-collapse-kills-24-4305631
    </guid>
    <category>
     Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dw-q4UC5--/c_crop,h_716,w_1274,x_1,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/china_highway_collapse.jpeg?itok=8D4qMmHi" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZSf5REe3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ap24122285491194.jpg?itok=t7i9YT91" width="1600"/>
   </item>
   <item>
    <title>
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Buyers' Guide ,Living ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6UjEZ-L8--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/am_star_wars_unsplash_daniel-k-cheung.jpg?itok=Bw4BIV9a" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Building consistency a priority for Wallabies coach Schmidt
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/building-consistency-priority-wallabies-coach-schmidt-4305776
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 15:12:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/building-consistency-priority-wallabies-coach-schmidt-4305776
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w66k88Wa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t071532z_1_lynxmpek4014u_rtroptp_3_rugby-union-worldcup-nzl-zaf.jpg?itok=sUg9dgS7" width="1600"/>
   </item>
  </channel>
 </rss>
