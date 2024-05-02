@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 02:19:54 +0800
+   Fri, 03 May 2024 02:41:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    PSG's Hernandez set to miss Euros with ACL injury
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/psgs-hernandez-set-miss-euros-acl-injury-4309651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 02:35:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/psgs-hernandez-set-miss-euros-acl-injury-4309651
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JIpMztEy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t183520z_1_lynxmpek410tj_rtroptp_3_soccer-champions-psg-mil-report.jpg?itok=IJb7kYyh" width="1600"/>
+  </item>
   <item>
    <title>
     Many US telecom firms need more funding to replace Huawei and ZTE equipment, FCC says
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iwAJddhN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t130511z_1_lynxmpek410l0_rtroptp_3_soccer-france-rei.jpg?itok=or0Ija2x" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israeli cyber startup Apex gets initial investment from OpenAI's Altman
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/israeli-cyber-startup-apex-gets-initial-investment-openais-altman-4308961
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 20:55:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/israeli-cyber-startup-apex-gets-initial-investment-openais-altman-4308961
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
