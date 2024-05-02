@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 02:41:17 +0800
+   Fri, 03 May 2024 03:11:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -63,10 +63,10 @@
   </item>
   <item>
    <title>
-    Many US telecom firms need more funding to replace Huawei and ZTE equipment, FCC says
+    More funds needed for US telecoms to remove Chinese equipment, says FCC
    </title>
    <link>
-    https://www.channelnewsasia.com/business/many-us-telecom-firms-need-more-funding-replace-huawei-and-zte-equipment-fcc-says-4309647
+    https://www.channelnewsasia.com/business/more-funds-needed-us-telecoms-remove-chinese-equipment-says-fcc-4309647
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +75,7 @@
     Fri, 03 May 2024 02:11:35 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/many-us-telecom-firms-need-more-funding-replace-huawei-and-zte-equipment-fcc-says-4309647
+    https://www.channelnewsasia.com/business/more-funds-needed-us-telecoms-remove-chinese-equipment-says-fcc-4309647
    </guid>
    <category>
     Business
@@ -185,7 +185,28 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m2CYaBWI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t173322z_1_lynxmpek410sl_rtroptp_3_atos-results.jpg?itok=yM8aWfqG" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sHXedboI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t190457z_2_lynxmpek410sl_rtroptp_3_atos-results.jpg?itok=ebCYaIoW" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Exclusive-Synopsys nears $2 billion-plus software unit sale to buyout firms, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-synopsys-nears-2-billion-plus-software-unit-sale-buyout-firms-sources-say-4309566
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 01:22:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-synopsys-nears-2-billion-plus-software-unit-sale-buyout-firms-sources-say-4309566
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Singapore ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--q1vqYVqA--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/singapore%20diplomat%20in%20japan%20bathhouse.jpg?itok=xKyAnrol" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Reims part with manager Still amid winless streak
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/reims-part-manager-still-amid-winless-streak-4308981
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 21:05:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/reims-part-manager-still-amid-winless-streak-4308981
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iwAJddhN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t130511z_1_lynxmpek410l0_rtroptp_3_soccer-france-rei.jpg?itok=or0Ija2x" width="1600"/>
   </item>
  </channel>
 </rss>
