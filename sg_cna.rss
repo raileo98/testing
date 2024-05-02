@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 18:12:40 +0800
+   Thu, 02 May 2024 18:30:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Google faces closing arguments in US market power trial
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/google-faces-closing-arguments-us-market-power-trial-4308611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 18:11:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/google-faces-closing-arguments-us-market-power-trial-4308611
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LK_ojj2R--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t101510z_3_lynxmpek410eu_rtroptp_3_tech-antitrust-google.jpg?itok=awChYCYB" width="1600"/>
+  </item>
   <item>
    <title>
     Japan's May 1 intervention may have cost $23.6 billion, BOJ data shows
@@ -439,27 +460,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HByE4yvH--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/cathay_pacific_airways.png?itok=qeCekYK2" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ex-BOJ official predicts Japan will keep intervening to prevent yen free-fall
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/ex-boj-official-predicts-japan-will-keep-intervening-prevent-yen-free-fall-4308331
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:27:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/ex-boj-official-predicts-japan-will-keep-intervening-prevent-yen-free-fall-4308331
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--N4iLd8lK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t082720z_2_lynxmpek410bi_rtroptp_3_japan-economy-boj.jpg?itok=LXweKLMW" width="1600"/>
   </item>
  </channel>
 </rss>
