@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 19:17:24 +0800
+   Thu, 02 May 2024 19:27:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Nigeria court adjourns Binance and execs trial to May 17
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/nigeria-court-adjourns-binance-and-execs-trial-may-17-4308721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 19:17:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/nigeria-court-adjourns-binance-and-execs-trial-may-17-4308721
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Giant reservoir ready for service as Paris 2024 Games loom
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/giant-reservoir-ready-service-paris-2024-games-loom-4308726
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 19:15:30 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/giant-reservoir-ready-service-paris-2024-games-loom-4308726
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UQfDmDFT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t111530z_1_lynxmpek410h7_rtroptp_3_olympics-2024-water-quality.jpg?itok=_hGEoOhF" width="1600"/>
+  </item>
   <item>
    <title>
     Law firm Shook Lin &amp; Bok hit by ransomware attack
@@ -417,48 +459,6 @@
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--49ZYAbXN--/c_crop,h_607,w_1080,x_0,y_215/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/oriental_kopi_singapore.jpg?itok=aRcszb8q" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Underground bicycle parking to be available at 3 new Thomson-East Coast Line stations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/bicycle-underground-parking-thomson-east-coast-line-4308296
-   </link>
-   <description>
-    <![CDATA[Marine Parade, Marine Terrace and Bayshore stations will be the first MRT stations to feature underground bicycle parking.]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:19:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/bicycle-underground-parking-thomson-east-coast-line-4308296
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--izfJinX---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/photo_6170116246561995604_y.jpg?itok=2HfK1Erg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia's 'murky' spyware imports raise rights fears: Amnesty
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesias-murky-spyware-imports-raise-rights-fears-amnesty-4308336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:12:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesias-murky-spyware-imports-raise-rights-fears-amnesty-4308336
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WbThQ7OB--/c_crop,h_562,w_1000,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/israel_nso_66213.jpg?itok=RVy_3fHp" width="1600"/>
   </item>
  </channel>
 </rss>
