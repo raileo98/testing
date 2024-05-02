@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 04:23:03 +0800
+   Fri, 03 May 2024 04:34:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US defender O'Hara announces retirement
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/us-defender-ohara-announces-retirement-4309776
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 04:25:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/us-defender-ohara-announces-retirement-4309776
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--87yDbHE8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t202511z_1_lynxmpek410vi_rtroptp_3_soccer-concacafwchampionship-usa-hti-report.jpg?itok=VtmltKht" width="1600"/>
+  </item>
   <item>
    <title>
     Coinbase posts soaring profit on jump in crypto prices
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QGrNihq6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t145645z_1_lynxmpek410oq_rtroptp_3_soccer-england-new-tonali.jpg?itok=3KU7a-QT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oracle updates database technology for AI chatbots
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oracle-updates-database-technology-ai-chatbots-4309251
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 22:51:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oracle-updates-database-technology-ai-chatbots-4309251
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OHjt7Kru--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t145140z_1_lynxmpek410og_rtroptp_3_usa-stocks.jpg?itok=5AQoKBi0" width="1600"/>
   </item>
  </channel>
 </rss>
