@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 14:30:40 +0800
+   Thu, 02 May 2024 14:40:50 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 13:24:31 +0800
+   Thu, 02 May 2024 14:38:16 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,44 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股全日跌37點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751487-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751487-20240502.htm
+   </link>
+   <description>
+    <![CDATA[東京股市反覆偏軟。
+
+日經指數收報38236點，跌37點，跌幅0.1%。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 14:38:16 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    台股低收近0.9%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751486-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751486-20240502.htm
+   </link>
+   <description>
+    <![CDATA[台灣股市下跌。
+
+加權指數收報20222點，跌174點，跌幅0.85%。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 14:35:25 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     渣打香港區首季稅前基本溢利按年升17%
@@ -193,6 +231,52 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 12:35:42 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    業界指首日黃金周訪港人數理想　未來經香港出外內地客數量減少
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751475-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751475-20240502.htm
+   </link>
+   <description>
+    <![CDATA[內地五一黃金周昨日開始，全日超過80萬人次出入境香港，當中入境有46萬7千多人次，內地旅客佔約18萬；出境人次約34萬，香港居民佔超過19萬。
+
+有旅遊業界及零售界均認為，首日黃金周訪港人數理想，如果不是天雨影響，相信會有更多人來港。
+
+不過，有酒店業界預料，由於國家宣布對多國實施免簽證或單方面免簽，同時增加航班，未來內地客經香港出外數量會減少。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 12:33:47 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    消委會：已採取行動糾正　委託專家檢查未確定黑客獲帳戶憑證原因
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751472-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751472-20240502.htm
+   </link>
+   <description>
+    <![CDATA[個人資料私隱專員公署完成有關消委會資料外洩事故的調查，認為事故由於消委會的缺失所致，沒有採取所有切實可行的步驟以確保個人資料受保障，違反了私隱條例的規定，私隱專員已向消委會送達執行通知，指示消委會糾正及防止類似違規情況再發生。
+
+消委會回應，對於公署指出的不足之處和提出的建議深表重視，在事故發生後已積極採取即時行動糾正問題，包括為遠端存取資料啟用多重要素認證（MFA）功能、全面檢視網絡安全方案的功能及作出妥善設定，以及進一步加強內部培訓以提升員工對網絡安全的意識和行為。消委會亦正完善其資訊科技政策和工作指引，同時正委託威脅偵測與應變服務供應商，以加強抵禦網絡保安威脅的能力。
+
+消委會又指，已委託鑑證專家檢查系統，結果顯示黑客非法挪用具管理員權限的帳戶憑證，並通過安全資料傳輸層虛擬私人網路入侵消委會電腦系統，儘管鑑證專家及消委會通過不同技術及多角度進行調查，但未能確定黑客獲得憑證的原因，強調有關帳戶一向採用複雜密碼、未曾受到暴力攻擊，帳戶憑證亦未有在暗網出現，受影響的資料少於1.5GB。
+
+消委會說，受影響的個人資料非常有限，主要涉及289名曾經向消委會遞交投訴的人士，亦包括現任和前職員的資料等。調查未能確定資料是否被下載，但根據外聘的暗網監察服務商資料，至目前為止未有發現任何受影響資料被公開。
+
+消委會強調，務必在安全至上的原則下，持續提升資訊系統保安系統及數據安全、採取與時並進的保安技術及方案、提升個人資料管理的工作、加強內部培訓、資料管理政策及指引，並定期進行測試和檢討以提升網絡系統的管治水平。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 12:18:22 +0800
    </pubDate>
   </item>
   <item>
@@ -396,86 +480,6 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 10:16:25 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日本央行：有委員認為央行應該在某些時候放慢買債步伐
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751450-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751450-20240502.htm
-   </link>
-   <description>
-    <![CDATA[日本央行會議紀錄顯示，很多央行委員會成員認為，日本的長期利率應該由市場決定，部分人認為央行應該在某些時候放慢買債步伐。
-
-有委員認為，央行利用一些時間調整買債步伐，避免劇烈波動是合適。有委員希望央行某個時候減少買債規模，並透過贖回日本國債減少持倉。
-
-日本3月會議結束長達8年的負利率及債券收益率控制。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:49:54 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    恒指競價時段跌2點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751447-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751447-20240502.htm
-   </link>
-   <description>
-    <![CDATA[港股變動不大，恒指在競價時段報17760點，跌2點。
-
-科技指數報3700點，跌不足1點。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:24:16 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股初段跌逾百點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751446-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751446-20240502.htm
-   </link>
-   <description>
-    <![CDATA[台股初段偏軟，加權指數較早時報20248點，跌147點，跌幅0.72%。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:07:53 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    崔定邦：內地旅客訪港人次理想　冀日後宣傳清楚說明煙火表演規模
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751445-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751445-20240502.htm
-   </link>
-   <description>
-    <![CDATA[內地五一黃金周昨日開始，全日超過80萬人次出入境香港，當中入境有46萬7千6百多人次，其中內地旅客佔約18萬；出境人次約34萬，香港居民佔19萬5千多人次。
-
-旅遊促進會總幹事崔定邦認為，昨日內地旅客訪港人次理想，平了去年五一數字，如果不是受天氣影響，相信人數會更多，他相信有些旅客未必選擇首日假期來港；至於港人趁假期往內地玩樂亦屬正常。
-
-崔定邦在本台節目《千禧年代》說，酒店業界整體入住率理想。他認同深圳的酒店價錢比香港便宜，而目前香港來往內地的交通方便，旅客選擇返內地住宿，翌日再來港亦很方便。
-
-對於昨日旅發局舉行煙火表演，崔定邦說，了解過一些旅客來港真是為看煙火表演，他感到喜出望外，相信是與政府及社交平台小紅書的宣傳推介有關。他希望當局日後在宣傳上，可以更清楚說明煙火表演與賀歲煙花或國慶煙花的規模不同，以及觀看的地點。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 08:57:29 +0800
    </pubDate>
   </item>
  </channel>
