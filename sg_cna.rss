@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 00:35:40 +0800
+   Fri, 03 May 2024 00:46:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hamas says studying Gaza truce proposal 'in positive spirit'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/hamas-says-studying-gaza-truce-proposal-positive-spirit-4309451
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 00:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/hamas-says-studying-gaza-truce-proposal-positive-spirit-4309451
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jNxmOsMd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/907f3c63d2cb52677faa3a44b2cb8cd6ac3e82f1.jpg?itok=JF5f8Nav" width="1600"/>
+  </item>
   <item>
    <title>
     Apple to extend new core technology fee to iPadOS apps
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y2EYUsOC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t120130z_1_lynxmpek410iu_rtroptp_3_global-hedgefund-segantii-prosecution.jpg?itok=7baZkJ16" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Aptiv to sell stake in self-driving venture to Hyundai, cuts FY sales view
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/aptiv-sell-stake-self-driving-venture-hyundai-cuts-fy-sales-view-4308761
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 19:32:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/aptiv-sell-stake-self-driving-venture-hyundai-cuts-fy-sales-view-4308761
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
