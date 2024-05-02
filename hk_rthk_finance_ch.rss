@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 15:01:44 +0800
+   Thu, 02 May 2024 15:10:36 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 14:48:52 +0800
+   Thu, 02 May 2024 15:07:28 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    恒生維持港元最優惠年利率於5.875%不變
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751494-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751494-20240502.htm
+   </link>
+   <description>
+    <![CDATA[恒生銀行宣布，維持港元最優惠年利率於5.875%。
+
+另外，恒生的港元儲蓄存款年利率亦維持不變。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 15:07:28 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     韓股低收逾0.3%
@@ -455,27 +474,6 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 10:40:54 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股再重上18000點　恒指升逾200點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751457-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751457-20240502.htm
-   </link>
-   <description>
-    <![CDATA[港股接近平開後上升，恒指在科技股帶動下，再度升穿18000點，較早時報18003點，升240點，升幅逾1%。
-
-科技指數報3793點，升2.5%。ATMXJ中，美團表現最好，急升逾6%。
-
-滙控業績後造好，升逾2%。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 10:38:47 +0800
    </pubDate>
   </item>
  </channel>
