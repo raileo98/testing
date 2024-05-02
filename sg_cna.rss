@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 18:30:08 +0800
+   Thu, 02 May 2024 18:37:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    DBS internet banking services down for some users
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/dbs-posb-internet-banking-services-down-users-payment-paylah-paynow-4308641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 18:35:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/dbs-posb-internet-banking-services-down-users-payment-paylah-paynow-4308641
+   </guid>
+   <category>
+    Singapore ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0GSn8nXk--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/DBS%20internet%20banking%20down.jpg?itok=YSpSeRWq" width="1600"/>
+  </item>
+  <item>
+   <title>
+    DBS internet banking services down for some users
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/dbs-posb-internet-banking-services-down-users-payment-paylah-paynow-4308641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 18:35:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/dbs-posb-internet-banking-services-down-users-payment-paylah-paynow-4308641
+   </guid>
+   <category>
+    Singapore ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0GSn8nXk--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/DBS%20internet%20banking%20down.jpg?itok=YSpSeRWq" width="1600"/>
+  </item>
   <item>
    <title>
     Google faces closing arguments in US market power trial
@@ -418,48 +460,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--COIG3aOH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/25d5a897187bd2caa42a563d7eee5907bc331ac1.jpg?itok=lYjhq8aC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bearish bets on most Asian FX climb to multi-month highs: Reuters poll
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/bearish-bets-most-asian-fx-climb-multi-month-highs-reuters-poll-4308536
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:41:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bearish-bets-most-asian-fx-climb-multi-month-highs-reuters-poll-4308536
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7-nUqq4N--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t084148z_1_lynxmpek410by_rtroptp_3_southkorea-economy-fitch.jpg?itok=Mmc_LPi-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cathay Pacific passengers left vomiting, screaming in fear on storm-wracked flight to Hong Kong
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/cathay-pacific-cx341-screaming-vomiting-shanghai-hong-kong-turbulence-4308281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:41:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/cathay-pacific-cx341-screaming-vomiting-shanghai-hong-kong-turbulence-4308281
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HByE4yvH--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/cathay_pacific_airways.png?itok=qeCekYK2" width="1600"/>
   </item>
  </channel>
 </rss>
