@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 20:06:42 +0800
+   Thu, 02 May 2024 20:36:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    India's Kerala shuts schools, colleges amid sweltering heat
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/india-heatwave-kerala-shuts-schools-colleges-weather-4308631
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 20:18:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/india-heatwave-kerala-shuts-schools-colleges-weather-4308631
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qeJZWrl0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/kerala_heat.jpg?itok=xA3SnoRJ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Juventus look to wrap up Champions League spot amid dismal run
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/juventus-look-wrap-champions-league-spot-amid-dismal-run-4308836
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 20:07:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/juventus-look-wrap-champions-league-spot-amid-dismal-run-4308836
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q4atGXpQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t120748z_1_lynxmpek410ix_rtroptp_3_soccer-italy-juv-mil-report.jpg?itok=Td_zvS8w" width="1600"/>
+  </item>
   <item>
    <title>
     Nepal battles raging wildfires across the country amid heatwave
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NKEJKUVw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t094530z_1_lynxmpek410dv_rtroptp_3_hongkong-economy-gdp.jpg?itok=BxvnakWT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Coach Rangnick turns down Bayern to stay on with Austria after Euro 2024
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/coach-rangnick-turns-down-bayern-stay-austria-after-euro-2024-4308566
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:35:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/coach-rangnick-turns-down-bayern-stay-austria-after-euro-2024-4308566
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wxPS4OzY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t093554z_1_lynxmpek410dk_rtroptp_3_soccer-germany-bay-rangnick.jpg?itok=Sp64d4U7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Goodbye, Thambi: Iconic Holland Village magazine store to close after over 80 years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/living/thambi-magazine-store-holland-village-closing-4308351
-   </link>
-   <description>
-    <![CDATA[Thambi Magazine Store, the iconic newsstand along Lorong Liput in Holland Village, will close by the end of Sunday (May 5). The shop has had over 80 years of history spanning three family generations.]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:33:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/living/thambi-magazine-store-holland-village-closing-4308351
-   </guid>
-   <category>
-    Living ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cEavCTaK--/c_crop,h_900,w_1600,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/sam_thambi_holland_village_magazines.jpg?itok=SerBgQDW" width="1600"/>
   </item>
  </channel>
 </rss>
