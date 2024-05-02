@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 05:30:20 +0800
+   Fri, 03 May 2024 05:40:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    DoJ seeks more details from US Steel, Nippon Steel on proposed merger
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/doj-seeks-more-details-us-steel-nippon-steel-proposed-merger-4309996
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 05:30:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/doj-seeks-more-details-us-steel-nippon-steel-proposed-merger-4309996
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--j_x0pqqi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t213003z_1_lynxmpek410x7_rtroptp_3_u-s-steel-m-a-nippon-steel-eu.jpg?itok=YbzAOB0V" width="1600"/>
+  </item>
   <item>
    <title>
     Gaza needs biggest post-war reconstruction effort since WWII: UN
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---I4tSCs3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t175807z_1_lynxmpek410t0_rtroptp_3_golf-pga-liv.jpg?itok=I-hlFQ_9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Self-care: Orangutan seen apparently treating wound
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/self-care-orangutan-seen-apparently-treating-wound-4309341
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 01:55:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/self-care-orangutan-seen-apparently-treating-wound-4309341
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h7ifnj_0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/aadf3cb07074f56770ff30193d4da3457ed142df.jpg?itok=37gVqVAz" width="1600"/>
   </item>
  </channel>
 </rss>
