@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 05:30:30 +0800
+   Fri, 03 May 2024 05:50:08 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 22:39:12 +0800
+   Fri, 03 May 2024 05:45:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,33 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股3大指數升近1%或以上　科技股造好
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751581-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751581-20240503.htm
+   </link>
+   <description>
+    <![CDATA[美股3大指數造好，聯儲局的利率指引比市場預期更為鴿派，投資者持續評估貨幣政策前景，並觀望即將公布的4月非農業就業數據。
+
+道瓊斯指數收報38225點，升322點，升幅0.85%，連升兩日。
+
+納指及標普500指數扭轉上日跌勢，納斯達克指數收報15840點，升235點，升幅1.51%。
+
+標準普爾500指數收報5064點，升45點，升幅0.91%。
+
+科技股造好，Alphabet、蘋果、亞馬遜、Nvidia升近2%至逾3%。高通上季業績超出預期，今季收入及盈利預測中位數亦高於市場預期，刺激股價升近10%收市。
+
+電商平台Etsy上季商品銷售總額及盈利遜預期，拖累股價急挫15%，是表現最差標普500指數成份股。DoorDash盈利指引令人失業，低收逾10%。]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 05:45:06 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美國3月工廠訂單按月升1.6%合預期
@@ -427,29 +454,6 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 15:56:50 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    OECD上調今明兩年全球經濟增長預測
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751499-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751499-20240502.htm
-   </link>
-   <description>
-    <![CDATA[經濟合作暨發展組織（OECD）將今明兩年全球經濟增長預測，由2月時的2.9%及3%，上調至3.1%及3.2%，因為美國經濟活動有韌性，令全球經濟增速快過預期。
-
-OECD將美國今年經濟增長預測由2.1%上調至2.6%，明年增長由1.7%上調至1.8%；中國今明兩年經濟增長預測，由4.7%及4.2%，上調至4.9%及4.5%，指出財政政策刺激下，經濟增速較預期快。
-
-OECD亦將歐元區今明兩年經濟增長預測上調至0.7%及1.5%，但下調英國今年經濟增長預測至0.4%，明年預測下調至1%，又下調日本今年經濟增長預測至0.5%，明年則加快至1.1%。組織2月時對日本的增速預測均為1.1%。
-
-OECD表示，各國經濟復蘇分化，歐洲及日本經濟低迷抵銷美國經濟景氣，又預計美國聯儲局及歐洲央行在今年第3季才開始減息，至明年底美國利率區間為3.75-4厘，歐央行為2.5厘。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 15:56:03 +0800
    </pubDate>
   </item>
  </channel>
