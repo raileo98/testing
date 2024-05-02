@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 18:40:48 +0800
+   Thu, 02 May 2024 18:55:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hotel101 targets Nasdaq listing this year, set to be first Philippine brand to list in US
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/hotel101-singapore-hq-nasdaq-first-philippines-brand-listing-expansion-4308476
+   </link>
+   <description>
+    <![CDATA[The Singapore-headquartered hotelier plans to expand to 25 countries by 2026, including destinations in Southeast Asia, East Asia, the Middle East and Europe.]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 18:47:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/hotel101-singapore-hq-nasdaq-first-philippines-brand-listing-expansion-4308476
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9YLJ1HJa--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/screenshot_385_0.png?itok=3FXGrxGX" width="1600"/>
+  </item>
+  <item>
+   <title>
+    England Women to play New Zealand at Twickenham in September
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/england-women-play-new-zealand-twickenham-september-4308686
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 18:44:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/england-women-play-new-zealand-twickenham-september-4308686
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--np5x7sLv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t104413z_1_lynxmpek410gb_rtroptp_3_rugby-union-england.jpg?itok=2bm3WNWb" width="1600"/>
+  </item>
   <item>
    <title>
     DBS, POSB internet banking services down for some users
@@ -417,49 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3g4a9Qzf--/c_crop,h_881,w_1566,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/22/xpeng_byd_tesla_ev_electric_vehicle.jpeg?itok=w_vjK4k_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'Bring it on': Clareburt taking Maori pride to Paris pool
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bring-it-clareburt-taking-maori-pride-paris-pool-4308531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:55:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bring-it-clareburt-taking-maori-pride-paris-pool-4308531
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4bgvkIzq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t085555z_1_lynxmpek410cg_rtroptp_3_olympics-2024-swimming-clareburt.jpg?itok=Qj9XHf8h" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia’s Mount Ruang eruptions unlikely to trigger tsunami, but caution still needed: Experts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-eruption-volcano-tsunami-4308106
-   </link>
-   <description>
-    <![CDATA[ Given the increase in Mount Ruang's eruption activities, Indonesia's National Disaster Management Agency has warned of a potential tsunami and issued an advisory to people in the nearby islands to avoid the coastal areas.
- ]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-eruption-volcano-tsunami-4308106
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--COIG3aOH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/25d5a897187bd2caa42a563d7eee5907bc331ac1.jpg?itok=lYjhq8aC" width="1600"/>
   </item>
  </channel>
 </rss>
