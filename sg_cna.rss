@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 05:40:33 +0800
+   Fri, 03 May 2024 05:44:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Chelsea shatter Spurs' top four bid
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/chelsea-shatter-spurs-top-four-bid-4309801
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 05:43:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/chelsea-shatter-spurs-top-four-bid-4309801
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W4kWvesU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a9a37e8d34a75d1ccaaa20be93c6c82ad53b0c57.jpg?itok=mLJZR5Ic" width="1600"/>
+  </item>
   <item>
    <title>
     DoJ seeks more details from US Steel, Nippon Steel on proposed merger
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--q-_YNHSm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t181135z_1_lynxmpek410t6_rtroptp_3_huawei-china.jpg?itok=_FhPXUiW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Woods accepts special exemption into US Open
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/woods-accepts-special-exemption-us-open-4309632
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 01:58:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/woods-accepts-special-exemption-us-open-4309632
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---I4tSCs3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t175807z_1_lynxmpek410t0_rtroptp_3_golf-pga-liv.jpg?itok=I-hlFQ_9" width="1600"/>
   </item>
  </channel>
 </rss>
