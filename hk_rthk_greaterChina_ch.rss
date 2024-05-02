@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 00:02:08 +0800
+   Fri, 03 May 2024 00:20:44 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 21:28:37 +0800
+   Fri, 03 May 2024 00:19:10 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    山西恒山景區發生落石　造成1死5傷
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751566-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751566-20240503.htm
+   </link>
+   <description>
+    <![CDATA[山西省大同市恒山景區發生落石事故，造成1人死亡，5人受傷。
+
+當局表示，昨日下午三時許，景區虎風口處發生落石，導致6名遊客受傷，其中1人因傷勢過重，經搶救無效不幸身亡，其餘5名傷者無生命危險，正在醫院觀察治療。
+
+事發後，當局啟動應急預案，全力救治傷者，並疏散現場遊客，目前已無遊客滯留。地質專家已前往現場進行勘察排險。]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 00:19:10 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     廣東梅大高速塌方增至48死　黃坤明召開會議部署進一步應急救援
@@ -443,27 +464,6 @@
    </description>
    <pubDate>
     Wed, 01 May 2024 15:32:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    廣東梅大高速公路一段路面塌方釀19死30人傷
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751356-20240501.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751356-20240501.htm
-   </link>
-   <description>
-    <![CDATA[廣東梅大高速公路往福建方向路段發生路面塌方，18輛汽車被困，截至接近中午，涉及49人，其中19人確認死亡，30人正在醫院救治，暫無生命危險。
-
-公路塌方路面位於茶陽路段，長約17.9米，面積約184.3平方米。
-
-事故發生後，廣東省委省政府成立事故救援現場指揮部，公安、應急、消防、衛健、交通、礦山救護隊等投入約500多人參與救援。]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 12:51:28 +0800
    </pubDate>
   </item>
  </channel>
