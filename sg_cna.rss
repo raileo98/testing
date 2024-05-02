@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 16:12:23 +0800
+   Thu, 02 May 2024 16:24:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thailand to increase daily minimum wage to 400 baht in Oct
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/thailand-increase-daily-minimum-wage-400-baht-oct-4308311
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 16:11:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/thailand-increase-daily-minimum-wage-400-baht-oct-4308311
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kjYow1Uj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t081147z_1_lynxmpek4108z_rtroptp_3_thailand-dailylife.jpg?itok=eGdPi_6Z" width="1600"/>
+  </item>
   <item>
    <title>
     Malaysia’s 24-hour eateries urged to cut hours to tackle obesity concerns, but locals lack appetite for change
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gNeriVYv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t061841z_1_lynxmpek41069_rtroptp_3_soccer-champions-dor-psg-report.jpg?itok=1SyfwY9B" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan household spending likely accelerated pace of declines in March: Reuters poll
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japan-household-spending-likely-accelerated-pace-declines-march-reuters-poll-4308131
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 14:16:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japan-household-spending-likely-accelerated-pace-declines-march-reuters-poll-4308131
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--STXRKv5E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t061612z_1_lynxmpek41065_rtroptp_3_japan-economy-gdp.jpg?itok=juuCWCeR" width="1600"/>
   </item>
  </channel>
 </rss>
