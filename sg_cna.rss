@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 11:31:32 +0800
+   Thu, 02 May 2024 11:42:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Death toll from south China road collapse rises to 36
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/guangdong-china-death-toll-road-collapse-highway-rises-36-flood-4307701
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 11:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/guangdong-china-death-toll-road-collapse-highway-rises-36-flood-4307701
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B1gvztnP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/000_34qp2xd.jpg?itok=4xTxNutI" width="1600"/>
+  </item>
   <item>
    <title>
     Malaysian civil servants to see record pay hike of over 13 per cent from Dec: Anwar
@@ -115,7 +136,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 02 May 2024 11:14:43 +0800
+    Thu, 02 May 2024 11:14:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/chee-hong-tat-appointed-monetary-authority-singapore-board-directors-4307666
@@ -136,7 +157,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 02 May 2024 11:14:43 +0800
+    Thu, 02 May 2024 11:14:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/chee-hong-tat-appointed-monetary-authority-singapore-board-directors-4307666
@@ -439,27 +460,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mr09zHAr--/c_crop,h_383,w_681,x_1,y_41/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/ap24122196258998.jpg?itok=EpLYWTuK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tens of thousands rally in Georgia against 'foreign influence' Bill
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/tens-thousands-rally-georgia-against-foreign-influence-bill-4306771
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:38:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/tens-thousands-rally-georgia-against-foreign-influence-bill-4306771
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UxA-wCUA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d46d38b7e273eb77b59b026c0d4b9ea754bcf682.jpg?itok=J5IcX7af" width="1600"/>
   </item>
  </channel>
 </rss>
