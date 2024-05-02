@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 18:55:49 +0800
+   Thu, 02 May 2024 19:09:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Law firm Shook Lin &amp; Bok hit by ransomware attack
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/shook-lin-and-bok-akira-ransomware-paid-ransom-bitcoin-4308441
+   </link>
+   <description>
+    <![CDATA[An online source claims that the law firm paid a ransom of US$1.4m in Bitcoin to the Akira ransomware group.]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 19:05:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/shook-lin-and-bok-akira-ransomware-paid-ransom-bitcoin-4308441
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SJxfIA03--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-19t145101z_1_lynxnpek1i0db_rtroptp_3_cyber-attack.jpg?itok=mTkYelJU" width="1600"/>
+  </item>
   <item>
    <title>
     Hotel101 targets Nasdaq listing this year, set to be first Philippine brand to list in US
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WbThQ7OB--/c_crop,h_562,w_1000,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/israel_nso_66213.jpg?itok=RVy_3fHp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    8 things you may not know about Chinese billionaire and XPeng CEO He Xiaopeng
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/chinese-electric-vehicle-maker-xpeng-billionaire-ceo-global-tesla-4307991
-   </link>
-   <description>
-    <![CDATA[CNA sat down with the 46-year-old entrepreneur to find out what makes him tick, in the first of a series of interviews with prominent figures making waves around East Asia.]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:07:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/chinese-electric-vehicle-maker-xpeng-billionaire-ceo-global-tesla-4307991
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3g4a9Qzf--/c_crop,h_881,w_1566,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/22/xpeng_byd_tesla_ev_electric_vehicle.jpeg?itok=w_vjK4k_" width="1600"/>
   </item>
  </channel>
 </rss>
