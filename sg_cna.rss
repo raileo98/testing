@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 10:24:21 +0800
+   Thu, 02 May 2024 10:38:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's FX intervention signals 160 yen line in the sand, says ex-official
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-fx-intervention-signals-160-yen-line-sand-says-ex-official-4307681
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 10:25:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-fx-intervention-signals-160-yen-line-sand-says-ex-official-4307681
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fHJ5JIR3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t022543z_1_lynxmpek41021_rtroptp_3_japan-yen.jpg?itok=olfo-wtx" width="1600"/>
+  </item>
   <item>
    <title>
     Ah Boys To Men actress Apple Chan announces she's pregnant
@@ -438,27 +459,6 @@
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FP9bX_02--/c_crop,h_842,w_1497,x_1,y_89/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/ananda_bhavan.jpg?itok=yq1H0Y7v" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea consumer inflation eases to 2.9% in April
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/south-korea-consumer-inflation-eases-29-april-4307406
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 07:10:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/south-korea-consumer-inflation-eases-29-april-4307406
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dPWF0sPw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-01t235030z_2_lynxmpek401qu_rtroptp_3_southkorea-economy-inflation-convenience-store.jpg?itok=OEyLds0H" width="1600"/>
   </item>
  </channel>
 </rss>
