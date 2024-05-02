@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 19:01:31 +0800
+   Thu, 02 May 2024 19:10:33 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 16:24:14 +0800
+   Thu, 02 May 2024 19:05:14 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,47 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK logs 'better-than-expected' growth in Q1
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751525-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751525-20240502.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong’s economy grew at a better-than-expected rate of 2.7 percent in the first quarter, partially boosted by the steady rise in exports of goods and services.
+
+However, that growth was lower compared with the 4.3 percent figure seen in the last quarter of 2023, according to official data released by the Census and Statistics Department.
+
+Earlier, the city’s finance chief indicated that first quarter growth would be in line with the projected full-year growth range at between 2.5 and 3.5 percent for 2024.
+
+Commenting on the latest figures, Simon Lee, honorary fellow at Chinese University's Asia-Pacific Institute of Business, said the number was better than expected, but noted the momentum might not be sustainable in the coming quarters.
+
+“My original estimate [for the first quarter] was about one to two percent growth. But the 2.7 percent growth also came on a relatively low base in the first quarter last year when the borders just opened and economic activities were just reactivated,” Lee told RTHK.
+
+“We see that it’s quite remarkable in terms of exports and imports of goods and services [in the first quarter]… but if you look at local consumption… quite a number of local people went elsewhere for spending and this will have a significant effect on the GDP growth.”
+
+“[Although] exports tend to do well at the end of the year, there are also variable factors, such as the economic situation on the mainland and geopolitical issues, so I am still quite cautious on the full-year growth,” he added.
+
+Lee warned Hong Kong could see growth slow to about one or two percent in the coming quarters.
+
+Analysing the major economic components, the growth of private consumption, capital formation, as well as the imports of goods and services all slowed during the three-month period. 
+
+However, exports of goods increased by 6.7 percent year on year, significantly higher compared with the 2.8 percent growth seen in the final quarter of 2023. 
+
+Exports of services rose by a notable 8.1 percent year on year in the quarter, although the pace was much slower compared with the 21.2 percent growth seen in Q4 2023.
+
+“Looking ahead, exports of services should be supported by further revival of inbound tourism alongside the continued recovery of handling capacity and the government's efforts to promote a mega event economy,” a government spokesperson commented.
+
+“Domestically, rising household income and the government's initiatives to boost sentiment should help private consumption, but the changing consumption pattern of residents may pose challenges. [And] a longer period of tight financial conditions may have some dampening effects on economic confidence and activities,” the spokesperson added.]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 19:05:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks rally for an eighth day
@@ -587,35 +628,6 @@ The Shanghai Composite Index rose 1.2 percent, or 35 points, to 3,088, while the
    </description>
    <pubDate>
     Fri, 26 Apr 2024 16:19:07 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    ByteDance says 'no plans' to sell TikTok
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750683-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750683-20240426.htm
-   </link>
-   <description>
-    <![CDATA[Chinese tech giant ByteDance has said it has no plans to sell TikTok after a new US law put it on a deadline to divest from the hugely popular video platform or have it banned in the United States.
-
-Tech publication, The Information, earlier reported that ByteDance is exploring scenarios for selling TikTok's US business without the algorithm that recommends videos to TikTok users. ByteDance denied it was considering a sale.
-
-"Foreign media reports about ByteDance exploring the sale of TikTok are untrue," the company posted on Thursday on Toutiao, a Chinese-language platform it owns.
-
-"ByteDance does not have any plans to sell TikTok."
-
-TikTok's CEO Shou Zi Chew said on Wednesday the social media company expects to win a legal challenge to block legislation signed into law by President Joe Biden that he said would ban its popular short video app used by 170 million Americans.
-
-The bill, passed overwhelmingly by the US Senate on Tuesday, is driven by widespread worries among US lawmakers that China could access Americans' data or use the app for surveillance.
-
-Biden's signing sets a January 19 deadline for a sale – one day before his term is poised to expire – but he could extend the deadline by three months if he determines privately owned ByteDance is making progress. (AFP/Reuters)]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 15:44:24 +0800
    </pubDate>
   </item>
  </channel>
