@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 12:44:04 +0800
+   Thu, 02 May 2024 12:49:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Credit Suisse may face $36 million fine over South Korea short-selling, says Chosun Ilbo
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/credit-suisse-may-face-36-million-fine-over-south-korea-short-selling-says-chosun-ilbo-4307961
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 12:42:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/credit-suisse-may-face-36-million-fine-over-south-korea-short-selling-says-chosun-ilbo-4307961
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vbPz6p8b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t044233z_1_lynxmpek4103t_rtroptp_3_global-banks-credit-suisse.jpg?itok=IOk8jFVi" width="1600"/>
+  </item>
   <item>
    <title>
     The label behind K-pop sensation BTS is holding auditions in Singapore in July
@@ -439,27 +460,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bXirVzs_--/c_crop,h_900,w_1600,x_0,y_66/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/taylor_swift_billboard_1.jpg?itok=GL0N8pTM" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Actor Pierre Png reacts to comments about how youthful he looks at age 50
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/pierre-png-turning-50-4307526
-   </link>
-   <description>
-    <![CDATA[How does he feel about people calling him the "Asian Keanu Reeves"? ]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 10:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/pierre-png-turning-50-4307526
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FP2Tmxuc--/c_crop,h_562,w_1000,x_0,y_144/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/04/09/pierre_png_star_awards_2023_mod.jpg?itok=m7cwRmyQ" width="1600"/>
   </item>
  </channel>
 </rss>
