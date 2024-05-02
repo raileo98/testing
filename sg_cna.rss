@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 20:55:18 +0800
+   Thu, 02 May 2024 21:11:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Reims part with manager Still amid winless streak
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/reims-part-manager-still-amid-winless-streak-4308981
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 21:05:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/reims-part-manager-still-amid-winless-streak-4308981
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iwAJddhN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t130511z_1_lynxmpek410l0_rtroptp_3_soccer-france-rei.jpg?itok=or0Ija2x" width="1600"/>
+  </item>
   <item>
    <title>
     Slovenia's Pogacar in a class of his own ahead of Giro debut
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4BUv_9H2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t095444z_1_lynxmpek410e3_rtroptp_3_motor-f1-alpine.jpg?itok=4kly8_2u" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea parliament approves new probes into crowd crush, marine's death
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-korea-crowd-crush-marine-death-probes-parliament-4308421
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:47:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-korea-crowd-crush-marine-death-probes-parliament-4308421
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x_RJhjvp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t054558z_1_lynxmpek41059_rtroptp_3_southkorea-halloween-crush-anniversary.jpg?itok=Cy1ZxzMv" width="1600"/>
   </item>
  </channel>
 </rss>
