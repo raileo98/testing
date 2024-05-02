@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 09:51:07 +0800
+   Thu, 02 May 2024 10:10:31 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 05:31:18 +0800
+   Thu, 02 May 2024 09:51:38 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK market treads water at open of trade
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751451-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751451-20240502.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares barely moved at the open on Thursday as investors returned from a midweek break to a warning from the Federal Reserve that interest rates would likely stay higher for longer.
+
+The Hang Seng Index inched down just over 2 points to 17,760.
+
+Mainland Chinese markets are closed for the Golden Week holiday. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 09:51:38 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks end mostly lower in volatile reaction to Fed
@@ -591,41 +612,6 @@ The Shanghai Composite Index added 0.07 percent, or 2.08 points, to 3,054.98, wh
    </description>
    <pubDate>
     Fri, 26 Apr 2024 09:52:54 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Wall Street down on GDP blow, tech worries
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750596-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750596-20240426.htm
-   </link>
-   <description>
-    <![CDATA[Wall Street stocks closed lower on Thursday as markets were stunned by data showing slower-than-expected US economic growth and persistent inflation, coupled with a sell-off in large cap stocks triggered by disappointing results from Meta Platforms.
-
-Data on Thursday showed that the US economy grew at its slowest pace in nearly two years in the first quarter while inflation accelerated, dampening hopes that the Federal Reserve would begin cutting interest rates this year.
-
-Disappointing results from Meta, whose shares plunged nearly 11 percent, also weighed on market sentiment. Three other Magnificent Seven stocks, including Alphabet, Amazon.com and Microsoft, finished lower.
-
-However, shares of Alphabet and Microsoft were advancing in extended hours trading after both companies reported quarterly results that beat Wall Street estimates. Intel forecast second-quarter revenue and profit below market estimates, sending its shares down 8 percent in extended hours trading.
-
-"The GDP numbers definitely puts a ding in the paradigm that markets were hanging onto for equities in terms of high growth; and if you don't have high growth that will translate to lower-than-expected earnings," said James St Aubin, chief investment officer at Sierra Mutual Funds in California.
-
-The Dow Jones Industrial Average fell 0.98 percent, to 38,086, the S&P 500 lost 0.46 percent, to 5,048 and the Nasdaq lost 0.64 percent, to 15,612.
-
-Separately, the number of Americans filing new claims for unemployment benefits unexpectedly fell last week, pointing to still tight labour market conditions. The March Personal Consumption expenditures (PCE) index, the Fed's preferred inflation gauge, is due on Friday.
-
-"The double whammy was also the inflation number that came in stronger than expected so there wasn't really a silver lining in that report; it's still positive in absolute terms but relative to high expectations it was disappointing," St. Aubin added.
-
-International Business Machines fell 8 percent after it announced a US$6.4 billion deal to buy HashiCorp alongside its first-quarter results, in which revenue missed estimates.
-
-Southwest Airlines slid nearly 7 percent as the carrier slashed its projections for new aircraft deliveries from Boeing in 2024 for the third time. Caterpillar shed 7 percent after it cut second quarter sales forecasts as demand for its construction equipment eases from last year's boom. (Reuters)]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 05:07:29 +0800
    </pubDate>
   </item>
  </channel>
