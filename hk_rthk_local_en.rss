@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 14:01:13 +0800
+   Thu, 02 May 2024 14:20:30 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 13:49:34 +0800
+   Thu, 02 May 2024 14:14:50 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,45 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Watchdog mauls watchdog over privacy breach
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751485-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751485-20240502.htm
+   </link>
+   <description>
+    <![CDATA[Privacy Commissioner Ada Chung on Thursday criticised the Consumer Council over a data breach last year, saying the watchdog contravened the Personal Data Ordinance with its deficiencies.
+
+An attack by hackers resulted in the leak of personal data on more than 450 individuals, including staff members and people who failed complaints with the council.
+
+Chung's office said the council started allowing staff to connect to its server using a Virtual Private Network (VPN) when work-from-home arrangements were introduced during the pandemic.
+
+But the council failed to enable multi-factor authentication for the remote access and a hacker group obtained the credentials of a user account before deploying ransomware in the council's servers and endpoints.
+
+At a press briefing, Chung said the council had not taken all practicable steps to protect personal data.
+ 
+"The protection given by this multi-factor authentication would be enhanced to over 99 percent if this feature is enabled," she said.
+
+Chung added that two weeks passed before the council realised there had been a breach.
+
+"The cybersecurity solution was supposed to send an email alert to the council once it detected any cybersecurity attack. However, in this case, after the incident the council discovered that the cybersecurity solution was not properly configured," she said. 
+
+"That was why even though it detected the attack in question, it did not send any email alert to the council for this particular incident, and that was why the council only discovered the cyber attack on September 20 [last year]."
+
+The Office of the Privacy Commissioner for Personal Data has served an enforcement notice on the council and has ordered it to submit proof within two months that it has adopted improvement measures.
+
+In response, the council said it attaches great importance to cybersecurity and has adopted various measures since the incident. 
+
+"[The measures include] enabling multi-factor authentication for remote data access via VPN, conducting a comprehensive review of the cybersecurity solutions' functions and appropriate settings, and further strengthening internal training to enhance staff's awareness and behaviour on cybersecurity," it said in a statement.]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 14:14:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Govt should improve public housing: think tank
@@ -635,33 +674,6 @@ While restaurants are now banned from giving out plastic utensils like straws an
    </description>
    <pubDate>
     Tue, 30 Apr 2024 11:55:29 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Loss of immunity extending flu season, HKU medic says
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751141-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751141-20240430.htm
-   </link>
-   <description>
-    <![CDATA[A paediatrician said on Tuesday that Hong Kong's flu season is running longer than normal this year, with cases still increasing rather than tapering off as expected. 
-
-Dr Mike Kwan from the University of Hong Kong's Department of Paediatrics and Adolescent Medicine told RTHK's Hong Kong Today programme that the extended flu season reflected a global phenomenon, with people's immunity against viruses falling when measures were imposed during the Covid pandemic.
-
-He says Hong Kong now faces what he called a tridemic, with people threatened by flu, Covid and another respiratory infection, RSV respiratory syncytial virus, as well as other conditions.
-
-Asked when the flu season would conclude, he told RTHK's Janice Wong: "We cannot make a prediction yet because the number is still rising and we are still seeing so many of the severe cases. Unfortunately, we hear about the news of another fatal case yesterday. This is very sad.
-
-"So I cannot make a prediction at this moment, but I just hope that the citizens can just go and have the flu vaccine if they have not yet received the vaccine."
-
-Kwan said acceptance of the flu vaccine remained relatively low in Hong Kong. He also suggested people wear masks in crowded areas, use proper hygiene and stay home if they have the flu.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 09:45:50 +0800
    </pubDate>
   </item>
  </channel>
