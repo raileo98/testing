@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 14:40:26 +0800
+   Thu, 02 May 2024 14:50:36 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 14:24:48 +0800
+   Thu, 02 May 2024 14:46:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    中大研發精準計算模型　協助提升流感疫苗功效
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751493-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751493-20240502.htm
+   </link>
+   <description>
+    <![CDATA[香港中文大學醫學院研究團隊研發出一套精準計算模型「beth-1」，能夠推算病毒即將出現的變異，令流感疫苗能有效覆蓋預期將會流行的變異病毒株，加強保護功效。
+
+團隊表示，正與內地的科研機構合作，進行動物實驗，開發更具保護功效的疫苗，又指這套計算模型，亦有潛力應用到其他經常出現基因變異的病毒，包括新冠病毒。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 14:46:06 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     張宇人稱昨日多區食肆生意不錯　明年將帶頭與業界做好準備迎五一
@@ -245,7 +264,7 @@
   </item>
   <item>
    <title>
-    團結香港基金料2026/27年度公屋綜合輪候時間降至4.5年
+    團結香港基金指香港步入土地房屋供應收成期　倡政策轉向「提質」
    </title>
    <guid>
     https://news.rthk.hk/rthk/ch/component/k2/1751464-20240502.htm
@@ -457,29 +476,6 @@
    </description>
    <pubDate>
     Wed, 01 May 2024 22:29:57 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    環保署稱先行先試計劃為期約兩個月　上周陸續向試點派5月指定袋
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751400-20240501.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751400-20240501.htm
-   </link>
-   <description>
-    <![CDATA[垃圾徵費「先行先試」計劃展開一個月。有參與計劃的酒樓表示，近日接獲政府口頭通知，「先行先試」延長多一個月。
-
-環境保護署回覆本台查詢表示，在試行開始前已計劃「先行先試」為期約兩個月，政務司副司長領導的跨部門小組會檢視先行先試的結果，並預計於5至6月間向立法會環境事務委員會交代，現時計劃在5月27日向立法會交代試行計劃的報告。
-
-署方表示，指定袋每個月發放一次，可能參與地點有人員再收到5月份的指定袋時有所誤會。專隊人員分階段派發指定袋讓各試點試用，並在上星期起按他們需要陸續派發5月份的指定袋。
-
-發言人表示，再次感謝各試點積極參與先行先試計劃及提供寶貴意見。]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 22:28:50 +0800
    </pubDate>
   </item>
  </channel>

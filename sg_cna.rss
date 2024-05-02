@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 14:43:55 +0800
+   Thu, 02 May 2024 14:54:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Not for changing, captain Marsh to keep Australia 'nice and relaxed'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/not-changing-captain-marsh-keep-australia-nice-and-relaxed-4308161
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 14:47:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/not-changing-captain-marsh-keep-australia-nice-and-relaxed-4308161
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dUodnGCW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t064716z_1_lynxmpek4106r_rtroptp_3_cricket-worldcup-ind-aus.jpg?itok=nU3AYYJ1" width="1600"/>
+  </item>
   <item>
    <title>
     Arrests, evictions continue on US campuses as Israe-Hamas war protest unrest simmers
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cDZWwSIu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t050755z_1_lynxmpek41047_rtroptp_3_global-markets.jpg?itok=jmwZul7z" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Credit Suisse may face $36 million fine over South Korea short-selling, says Chosun Ilbo
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/credit-suisse-may-face-36-million-fine-over-south-korea-short-selling-says-chosun-ilbo-4307961
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 12:42:33 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/credit-suisse-may-face-36-million-fine-over-south-korea-short-selling-says-chosun-ilbo-4307961
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vbPz6p8b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t044233z_1_lynxmpek4103t_rtroptp_3_global-banks-credit-suisse.jpg?itok=IOk8jFVi" width="1600"/>
   </item>
  </channel>
 </rss>
