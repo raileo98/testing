@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 20:36:43 +0800
+   Thu, 02 May 2024 20:55:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Slovenia's Pogacar in a class of his own ahead of Giro debut
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/slovenias-pogacar-class-his-own-ahead-giro-debut-4308951
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 20:49:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/slovenias-pogacar-class-his-own-ahead-giro-debut-4308951
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3GiTSiMT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t124954z_1_lynxmpek410kl_rtroptp_3_cycling-giro.jpg?itok=rT1pXbLE" width="1600"/>
+  </item>
   <item>
    <title>
     India's Kerala shuts schools, colleges amid sweltering heat
@@ -315,13 +336,13 @@
   </item>
   <item>
    <title>
-    DBS, POSB internet banking services down for some users
+    DBS, POSB internet banking services restored after hours-long disruption
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/dbs-posb-internet-banking-services-down-users-payment-paylah-paynow-4308641
    </link>
    <description>
-    <![CDATA[Some users reported that they were also unable to use PayLah! or PayNow payment services.]]>
+    <![CDATA[Some users reported that they could not log in to internet banking, while others said they could not use PayLah! or PayNow payment services.]]>
    </description>
    <pubDate>
     Thu, 02 May 2024 18:35:00 +0800
@@ -336,13 +357,13 @@
   </item>
   <item>
    <title>
-    DBS, POSB internet banking services down for some users
+    DBS, POSB internet banking services restored after hours-long disruption
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/dbs-posb-internet-banking-services-down-users-payment-paylah-paynow-4308641
    </link>
    <description>
-    <![CDATA[Some users reported that they were also unable to use PayLah! or PayNow payment services.]]>
+    <![CDATA[Some users reported that they could not log in to internet banking, while others said they could not use PayLah! or PayNow payment services.]]>
    </description>
    <pubDate>
     Thu, 02 May 2024 18:35:00 +0800
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x_RJhjvp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t054558z_1_lynxmpek41059_rtroptp_3_southkorea-halloween-crush-anniversary.jpg?itok=Cy1ZxzMv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hong Kong Q1 GDP expands 2.7% on year, tight financial conditions seen
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/hong-kong-q1-gdp-expands-27-year-tight-financial-conditions-seen-4308586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 17:45:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/hong-kong-q1-gdp-expands-27-year-tight-financial-conditions-seen-4308586
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NKEJKUVw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t094530z_1_lynxmpek410dv_rtroptp_3_hongkong-economy-gdp.jpg?itok=BxvnakWT" width="1600"/>
   </item>
  </channel>
 </rss>
