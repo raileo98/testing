@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 16:20:16 +0800
+   Thu, 02 May 2024 17:01:21 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 11:14:20 +0800
+   Thu, 02 May 2024 16:24:14 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks rally for an eighth day
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751506-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751506-20240502.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares rallied more than two percent on Thursday as investors returned from a midweek break to extend their recent rally into an eighth day, boosted by a surge in tech giants including Meituan and JD.com.
+
+The Hang Seng Index jumped 2.5 percent, or 444 points, to 18,207.
+
+Mainland markets were closed for a holiday. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 16:24:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HKMA again leaves key interest rate unchanged
@@ -595,37 +616,6 @@ Biden's signing sets a January 19 deadline for a sale – one day before his ter
    </description>
    <pubDate>
     Fri, 26 Apr 2024 15:44:24 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Home prices rebound after 10-month fall
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750650-20240426.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750650-20240426.htm
-   </link>
-   <description>
-    <![CDATA[Home prices rebounded in March, rising one percent month-on-month and ending a 10-month falling streak.
-
-Data released by the Rating and Valuation Department showed that the official private flat price index edged up to 305.7, from 302.5 in February.
-
-However, prices were still more than 13 percent lower on a yearly basis and 23 percent lower than the all-time high recorded in 2021.
-
-Rents also edged up in March, rising 0.5 percent on a monthly basis, or 5.6 percent on an annual basis, following a two-month falling streak.
-
-The increases came after the government lifted all remaining property cooling measures in the budget in late February.
-
-“The city’s property market has seen a revenge-style rebound after the lifting of the cooling measures, as the buyers’ sentiment noticeably improved,” said Martin Wong, director and head of research & consultancy, Greater China, at Knight Frank Hong Kong.
-
-“However, prices of lived-in homes may continue to weaken due to the impact of sales of new homes. And as the interest rate cut by the US Federal Reserve may also come later than the markets anticipated, meaning the city may start cutting rates from late third quarter, the high rates may continue weighing on the market.”
-
-Hannah Jeong, head of valuation and advisory services at Colliers Hong Kong, struck a cautious note on the property price outlook due to surging supplies and an uncertain path for interest rate cuts, saying she expects a five to 10 percent fall over the year.]]>
-   </description>
-   <pubDate>
-    Fri, 26 Apr 2024 12:30:29 +0800
    </pubDate>
   </item>
  </channel>
