@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 11:23:05 +0800
+   Thu, 02 May 2024 11:31:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,49 @@
   </image>
   <item>
    <title>
+    Malaysian civil servants to see record pay hike of over 13 per cent from Dec: Anwar
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/malaysia-salary-pay-hike-civil-servants-anwar-ibrahim-4307716
+   </link>
+   <description>
+    <![CDATA[The last time the civil servants' salaries were revised was 12 years ago, which saw a 13 per cent hike.
+ ]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 11:23:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/malaysia-salary-pay-hike-civil-servants-anwar-ibrahim-4307716
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3Q8YuE1P--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/20240502_ANWAR_FB.jpg?itok=hjKIAtqA" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Hong Kong central bank keeps key rate unchanged, tracks Fed move
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-4307791
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 11:21:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/hong-kong-central-bank-keeps-key-rate-unchanged-tracks-fed-move-4307791
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vW4HGhdf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t032121z_1_lynxmpek4102n_rtroptp_3_hongkong-policyaddress.jpg?itok=H1yA5P72" width="1600"/>
+  </item>
+  <item>
+   <title>
     Cordlife clients launch legal action; first letter of demand sent
    </title>
    <link>
@@ -59,7 +102,7 @@
    <category>
     Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BCO0DWNx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/08/20231201_bk_cordlife_1.jpg?itok=Z8OAk57Z" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JeXge6Ct--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/08/IMG_8712.jpg?itok=qawsPQ7A" width="1600"/>
   </item>
   <item>
    <title>
@@ -417,48 +460,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UxA-wCUA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d46d38b7e273eb77b59b026c0d4b9ea754bcf682.jpg?itok=J5IcX7af" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Yen gives up ground vs dollar following surge on suspected intervention
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/yen-gives-ground-vs-dollar-following-surge-suspected-intervention-4307566
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:28:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/yen-gives-ground-vs-dollar-following-surge-suspected-intervention-4307566
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Oil prices pick up on prospect of US replenishing strategic reserve
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-prices-pick-prospect-us-replenishing-strategic-reserve-4307531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:01:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-prices-pick-prospect-us-replenishing-strategic-reserve-4307531
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2yZJZWCA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t010127z_1_lynxmpek4100y_rtroptp_3_global-oil.jpg?itok=RlLrR8YU" width="1600"/>
   </item>
  </channel>
 </rss>
