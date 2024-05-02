@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 02 May 2024 21:10:50 +0800
+   Thu, 02 May 2024 21:20:29 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 20:09:11 +0800
+   Thu, 02 May 2024 21:11:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國上周初領失業金人數少過預期
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751544-20240502.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751544-20240502.htm
+   </link>
+   <description>
+    <![CDATA[美國上周新申領失業援助人數維持20.8萬人，少過市場預期。4周平均新申領失業援助人數跌至21萬人，減少3500人。
+
+數據顯示，持續申領失業援助人數維持177.4萬人，少過市場預期。]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 21:11:06 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     星展香港稱私人消費及投資受高息影響
@@ -431,25 +450,6 @@ OECD表示，各國經濟復蘇分化，歐洲及日本經濟低迷抵銷美國�
    </description>
    <pubDate>
     Thu, 02 May 2024 14:38:16 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股低收近0.9%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751486-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751486-20240502.htm
-   </link>
-   <description>
-    <![CDATA[台灣股市下跌。
-
-加權指數收報20222點，跌174點，跌幅0.85%。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 14:35:25 +0800
    </pubDate>
   </item>
  </channel>

@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 21:11:29 +0800
+   Thu, 02 May 2024 21:25:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -290,7 +290,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7y07toFb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t113137z_2_lynxmpek410h7_rtroptp_3_olympics-2024-water-quality.jpg?itok=nFRmrOf8" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
