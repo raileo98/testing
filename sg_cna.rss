@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 04:34:12 +0800
+   Fri, 03 May 2024 04:50:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Expedia lowers full-year revenue forecast on slow B2C growth
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/expedia-lowers-full-year-revenue-forecast-slow-b2c-growth-4309831
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 04:41:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/expedia-lowers-full-year-revenue-forecast-slow-b2c-growth-4309831
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x0Z6oNdw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t204144z_1_lynxmpek410vy_rtroptp_3_expedia-group-stocks.jpg?itok=yWW9Ja5V" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Chelsea dent Tottenham's Champions League hopes with 2-0 win
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/chelsea-dent-tottenhams-champions-league-hopes-2-0-win-4309821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 04:36:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/chelsea-dent-tottenhams-champions-league-hopes-2-0-win-4309821
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bkS5ydFX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t203611z_1_lynxmpek410vu_rtroptp_3_soccer-england-che-tot-report.jpg?itok=apYPXysq" width="1600"/>
+  </item>
   <item>
    <title>
     US defender O'Hara announces retirement
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jNxmOsMd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/907f3c63d2cb52677faa3a44b2cb8cd6ac3e82f1.jpg?itok=JF5f8Nav" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Apple to extend new core technology fee to iPadOS apps
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/apple-extend-new-core-technology-fee-ipados-apps-4309306
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 23:04:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apple-extend-new-core-technology-fee-ipados-apps-4309306
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Frffv89p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t150400z_1_lynxmpek410p0_rtroptp_3_eu-apple-tech.jpg?itok=8PsT03rB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Newcastle's Tonali gets suspended two-month ban by FA for betting breaches
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/newcastles-tonali-gets-suspended-two-month-ban-fa-betting-breaches-4309256
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 22:56:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/newcastles-tonali-gets-suspended-two-month-ban-fa-betting-breaches-4309256
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QGrNihq6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t145645z_1_lynxmpek410oq_rtroptp_3_soccer-england-new-tonali.jpg?itok=3KU7a-QT" width="1600"/>
   </item>
  </channel>
 </rss>
