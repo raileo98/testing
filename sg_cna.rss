@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 15:54:30 +0800
+   Thu, 02 May 2024 16:12:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Malaysia’s 24-hour eateries urged to cut hours to tackle obesity concerns, but locals lack appetite for change
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/malaysia-mamak-eateries-hours-obesity-4307891
+   </link>
+   <description>
+    <![CDATA[Residents and MPs have pushed back against the Consumers Association of Penang’s (CAO)'s bid, saying the all-night food establishments, such as Muslim-Indian mamaks, are part of Malaysia’s food culture and cater to frontline workers.]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 16:01:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/malaysia-mamak-eateries-hours-obesity-4307891
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hTugwC6Q--/c_crop,h_900,w_1600,x_0,y_38/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/FDZ_7209.jpg?itok=b-ZUt2yY" width="1600"/>
+  </item>
   <item>
    <title>
     India widens spices crackdown with nationwide checks on all manufacturers
@@ -90,7 +111,7 @@
     https://www.channelnewsasia.com/singapore/erp-processing-units-install-drivers-footwell-side-lta-4308136
    </link>
    <description>
-    <![CDATA[There has been feedback that the placement of the processing unit - the front passenger's footwell was initially recommended as the default position - made it difficult for drivers to reach it.]]>
+    <![CDATA[LTA said NETS will provide a free NETS Motoring Card to all motorists who install the ERP 2.0 on-board unit.]]>
    </description>
    <pubDate>
     Thu, 02 May 2024 15:35:00 +0800
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--STXRKv5E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t061612z_1_lynxmpek41065_rtroptp_3_japan-economy-gdp.jpg?itok=juuCWCeR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Shopee unveils platform upgrades to engage Gen Z shoppers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/advertorial/shopee-unveils-platform-upgrades-engage-gen-z-shoppers-4258431
-   </link>
-   <description>
-    <![CDATA[From bolstering service capabilities to offering flexible payment options like SPayLater, the e-commerce giant is committed to continuously adapting to meet audience needs.]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 14:04:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/advertorial/shopee-unveils-platform-upgrades-engage-gen-z-shoppers-4258431
-   </guid>
-   <category>
-    Advertorial
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fH8jRKsu--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/BStudio_Shopee_SPayLater_SG_revised.jpeg?itok=5Si8VY60" width="1600"/>
   </item>
  </channel>
 </rss>
