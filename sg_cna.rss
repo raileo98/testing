@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 02 May 2024 23:07:03 +0800
+   Thu, 02 May 2024 23:20:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Newcastle's Tonali given suspended two-month ban by FA for betting breaches
+    Apple to extend new core technology fee to iPadOS apps
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/newcastles-tonali-given-suspended-two-month-ban-fa-betting-breaches-4309256
+    https://www.channelnewsasia.com/business/apple-extend-new-core-technology-fee-ipados-apps-4309306
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 02 May 2024 23:04:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apple-extend-new-core-technology-fee-ipados-apps-4309306
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Frffv89p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t150400z_1_lynxmpek410p0_rtroptp_3_eu-apple-tech.jpg?itok=8PsT03rB" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Newcastle's Tonali gets suspended two-month ban by FA for betting breaches
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/newcastles-tonali-gets-suspended-two-month-ban-fa-betting-breaches-4309256
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Thu, 02 May 2024 22:56:45 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/newcastles-tonali-given-suspended-two-month-ban-fa-betting-breaches-4309256
+    https://www.channelnewsasia.com/sport/newcastles-tonali-gets-suspended-two-month-ban-fa-betting-breaches-4309256
    </guid>
    <category>
     Sport
@@ -336,7 +357,7 @@
   </item>
   <item>
    <title>
-    California police move in to dismantle pro-Palestinian protest camp at UCLA
+    California police flatten pro-Palestinian camp at UCLA, arrest protesters
    </title>
    <link>
     https://www.channelnewsasia.com/world/united-states-university-california-los-angeles-police-dismantle-encampment-arrests-4308766
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IJkcf5ah--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t112554z_1_lynxmpek410ht_rtroptp_3_soccer-england-mci-ars-report.jpg?itok=5v9oX2ii" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nigeria court adjourns Binance and execs trial to May 17
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/nigeria-court-adjourns-binance-and-execs-trial-may-17-4308721
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 19:17:34 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nigeria-court-adjourns-binance-and-execs-trial-may-17-4308721
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
