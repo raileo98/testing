@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 04:40:49 +0800
+   Fri, 03 May 2024 05:01:23 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 04:35:06 +0800
+   Fri, 03 May 2024 04:41:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    警方在荃灣石圍角邨拘捕1男　涉嫌販運危險藥物
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751575-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751575-20240503.htm
+   </link>
+   <description>
+    <![CDATA[警方昨晚在荃灣石圍角邨一帶展開反毒品行動，在石圍角邨截查一名男子，在他身上檢獲共約46克懷疑可卡因，市值約四萬五千元。
+
+這名男子58歲，涉嫌販運危險藥物被捕，現正被扣留調查。案件交由沙田警區特別職務隊跟進。]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 04:41:06 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     八鄉錦上路花場有貨架起火無人傷　警方將案件列作縱火
@@ -451,25 +470,6 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 18:38:44 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    消委會資料外洩　私隱公署稱因未有啟用多重認證
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751532-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751532-20240502.htm
-   </link>
-   <description>
-    <![CDATA[消委會的電腦系統去年遭黑客攻擊勒索，個人資料私隱專員公署完成調查，認為是消委會的缺失，導致超過450人的個人資料外洩，違反私隱條例規定，已指示消委會糾正及防止類似情況再發生。
-
-私隱專員鍾麗玲表示，消委會未有啟用多重認證功能，是導致事件的重要原因。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 18:36:52 +0800
    </pubDate>
   </item>
  </channel>
