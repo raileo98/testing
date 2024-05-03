@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 07:43:48 +0800
+   Fri, 03 May 2024 08:32:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Yen poised for best week in over a year; dollar waits on US jobs data
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-4310316
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 08:26:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-4310316
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--67u8uxiW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t002608z_1_lynxmpek4200f_rtroptp_3_global-forex.jpg?itok=oxQzdP45" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Maradona's children call for moving body to mausoleum for safety and tribute
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/maradonas-children-call-moving-body-mausoleum-safety-and-tribute-4310276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 07:55:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/maradonas-children-call-moving-body-mausoleum-safety-and-tribute-4310276
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tvTIiYDR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t000559z_2_lynxmpek410yu_rtroptp_3_soccer-argentina-maradona.jpg?itok=o4-KflXq" width="1600"/>
+  </item>
   <item>
    <title>
     Deep Dive Podcast: Why incentives aren’t working for falling fertility rates
@@ -315,27 +357,6 @@
   </item>
   <item>
    <title>
-    Commentary: Japan's 'no first-time customers' reservation policy may help some restaurants
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/food-restaurants-japan-new-york-reservations-okotowari-exclusive-4308251
-   </link>
-   <description>
-    <![CDATA[The Japanese practice of “no first-time customers” might be a promising business model for some restaurants, says Bloomberg Opinion's Howard Chua-Eoan.]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/food-restaurants-japan-new-york-reservations-okotowari-exclusive-4308251
-   </guid>
-   <category>
-    Commentary ,Business ,Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LAdKk-jQ--/c_crop,h_782,w_1390,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/istock-2044770380.jpg?itok=VXJaUEVa" width="1600"/>
-  </item>
-  <item>
-   <title>
     Raffles' Banded Langur, Sunda pangolin: 5 critically endangered animals in Singapore
    </title>
    <link>
@@ -438,27 +459,6 @@
     Commentary ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zrAroYXZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/000_34qp48y.jpg?itok=Xfv397pU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Japan's 'no first-time customers' reservation policy may help some restaurants
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/food-restaurants-japan-new-york-reservations-okotowari-exclusive-4308251
-   </link>
-   <description>
-    <![CDATA[The Japanese practice of “no first-time customers” might be a promising business model for some restaurants, says Bloomberg Opinion's Howard Chua-Eoan.]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/food-restaurants-japan-new-york-reservations-okotowari-exclusive-4308251
-   </guid>
-   <category>
-    Commentary ,Business ,Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LAdKk-jQ--/c_crop,h_782,w_1390,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/02/istock-2044770380.jpg?itok=VXJaUEVa" width="1600"/>
   </item>
  </channel>
 </rss>
