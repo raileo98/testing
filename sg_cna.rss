@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 02:28:33 +0800
+   Sat, 04 May 2024 02:47:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Former Trump adviser Hope Hicks testifies at his trial
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/former-trump-adviser-hope-hicks-testifies-his-trial-4311766
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 02:40:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/former-trump-adviser-hope-hicks-testifies-his-trial-4311766
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Stocks jump, yields fall on hopes US labor tightness ebbing
@@ -434,27 +455,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    High Court rules latest UK targets on climate unlawfully 'vague'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/high-court-rules-latest-uk-targets-climate-unlawfully-vague-4311611
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 21:24:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/high-court-rules-latest-uk-targets-climate-unlawfully-vague-4311611
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HCJr0rFc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/4b0ae8193c2ff47a3fa8173125607745340ec620.jpg?itok=d3zld9oY" width="1600"/>
   </item>
  </channel>
 </rss>
