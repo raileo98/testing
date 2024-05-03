@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 11:36:22 +0800
+   Fri, 03 May 2024 11:40:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    T20 bowlers must adapt or get left behind, New Zealand's Southee says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/t20-bowlers-must-adapt-or-get-left-behind-new-zealands-southee-says-4310546
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 11:37:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/t20-bowlers-must-adapt-or-get-left-behind-new-zealands-southee-says-4310546
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--s-iHbfAA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t033706z_1_lynxmpek4201s_rtroptp_3_cricket-worldcup-ind-nzl.jpg?itok=TwAElgHu" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Thai April headline CPI rises 0.19% year-on-year
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/thai-april-headline-cpi-rises-019-year-year-4310551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 11:35:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/thai-april-headline-cpi-rises-019-year-year-4310551
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tC_Lil3P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t033545z_1_lynxmpek4201r_rtroptp_3_britain-retail-monkey-labour-thailand.jpg?itok=F-0cuM6C" width="1600"/>
+  </item>
   <item>
    <title>
     US election disinformation targets non-citizen voting
@@ -417,48 +459,6 @@
     Commentary ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DZVj4qWI--/c_crop,h_900,w_1600,x_0,y_136/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/01/ray_0180.jpg?itok=sdwiBC6T" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil steadies, heads for weekly drop on US economy worries
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-steadies-heads-weekly-drop-us-economy-worries-4310336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 08:51:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-steadies-heads-weekly-drop-us-economy-worries-4310336
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y3hKQIwI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t005149z_1_lynxmpek4200j_rtroptp_3_global-oil.jpg?itok=-RS6s7q-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    War of words erupts between security workers' union and industry association over SGAG video, progressive wage model
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/security-workers-union-sgag-video-industry-association-4310296
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 08:43:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/security-workers-union-sgag-video-industry-association-4310296
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HG_JkWqV--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/20240502_instagram_sgag_security.png?itok=msWQ4R3l" width="1600"/>
   </item>
  </channel>
 </rss>

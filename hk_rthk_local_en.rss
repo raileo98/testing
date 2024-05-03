@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 11:10:20 +0800
+   Fri, 03 May 2024 11:40:07 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 02 May 2024 21:56:26 +0800
+   Fri, 03 May 2024 11:25:17 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Data of 17,000 public housing tenants leaked
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751612-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751612-20240503.htm
+   </link>
+   <description>
+    <![CDATA[The data of around 17,000 people who were required to undergo Covid tests at the peak of the pandemic has been exposed online, the Electrical and Mechanical Services Department (EMSD) has warned. 
+
+In a statement issued late on Thursday, the department said names, phone numbers, identity card numbers and addresses of residents were collected during lockdown operations between March and July in 2022.  
+
+The information was stored on an online server accessible to authorised staff using a password. 
+
+But on April 30 this year, EMSD was told by the city's privacy watchdog that some information was accessible without the need for a password.
+
+Residents of 14 public housing blocks are affected including those living in Yan Ching House of Kai Ching Estate in Kai Tak, Oi Ming House of Yau Oi Estate in Tuen Mun and Fu Leung House of Fu Cheong Estate in Sham Shui Po. 
+
+The Office of the Privacy Commissioner for Personal Data said it will launch an investigation but has not received any complaints so far. 
+
+"We think the situation is serious. We will initiate an investigation according to our normal procedures. We also suggest that the relevant department inform the affected individuals as soon as possible, given the relatively large number of people impacted," Privacy Commissioner Ada Chung told an RTHK programme. 
+
+EMSD apologised for the incident, adding that it will notify the households affected by mail and "there is no evidence that relevant data has been published so far".
+ 
+The matter has been reported to the police, the Office of the Government Chief Information Officer and the Security Bureau.]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 11:25:17 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Lantau suspect fell from height before death: police
@@ -659,35 +692,6 @@ Hong Kong's minimum wage is currently set at HK$40 per hour. The Minimum Wage Co
    </description>
    <pubDate>
     Tue, 30 Apr 2024 17:05:51 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    CHP expects more flu outbreaks and serious cases
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751223-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751223-20240430.htm
-   </link>
-   <description>
-    <![CDATA[Health officials on Tuesday warned that an extended flu season would continue for some time, with more outbreaks and serious cases. 
-
-The Centre for Health Protection urged the public to remain vigilant as Hong Kong has seen a rise in flu infections, with more than 500 adults suffering serious complications or dying since January. Most of them are over 65 or have chronic illnesses.
-
-There have been 22 severe flu cases among children, including three deaths. 
-
-Dr Chuang Shuk-kwan, from the Centre for Health Protection, said health authorities were closely monitoring the situation. 
-
-"The predominant flu strain has shifted from H3 to H1, resulting in another wave of infections. We expect this wave to continue for a few weeks, but it's difficult to say exactly how long," she said. 
-
-"We are closely monitoring other regions of the world, as Hong Kong residents travel a lot. Influenza B is still circulating in some parts outside Hong Kong, so we cannot rule out the possibility of a further change in the flu strain."
-
-Health authorities urged the public to seek medical attention if they experience flu-like symptoms.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 17:04:54 +0800
    </pubDate>
   </item>
  </channel>
