@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 21:26:03 +0800
+   Fri, 03 May 2024 21:46:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arsenal better prepared for title tussle this season, says Arteta
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arsenal-better-prepared-title-tussle-season-says-arteta-4311676
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 21:43:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arsenal-better-prepared-title-tussle-season-says-arteta-4311676
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     High Court rules latest UK targets on climate unlawfully 'vague'
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VDjE8pQV--/c_crop,h_899,w_1599,x_1,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/1000031876.jpg?itok=7rfleW3h" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bank Indonesia confident rupiah will strengthen into year-end, governor says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/bank-indonesia-confident-rupiah-will-strengthen-year-end-governor-says-4311286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 18:29:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bank-indonesia-confident-rupiah-will-strengthen-year-end-governor-says-4311286
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
