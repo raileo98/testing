@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 22:35:58 +0800
+   Fri, 03 May 2024 22:42:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan may need to smooth excessive yen moves, says Finance Minister Suzuki
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-may-need-smooth-excessive-yen-moves-says-finance-minister-suzuki-4311811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 22:35:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-may-need-smooth-excessive-yen-moves-says-finance-minister-suzuki-4311811
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SpSdfwYD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t143510z_1_lynxmpek420fr_rtroptp_3_imf-worldbank-japan.jpg?itok=6SWSpKla" width="1600"/>
+  </item>
   <item>
    <title>
     Clattenburg resigns as Forest referee analyst
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uO-87c4e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t114141z_1_lynxmpek420bq_rtroptp_3_russia-ioc-zakharova.jpg?itok=JF2oeN1A" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Klopp hopes for improvement with pressure off and Champions League spot safe
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/klopp-hopes-improvement-pressure-and-champions-league-spot-safe-4311436
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 19:27:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/klopp-hopes-improvement-pressure-and-champions-league-spot-safe-4311436
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0-5iTinn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t112751z_1_lynxmpek420b5_rtroptp_3_soccer-england-whu-liv-report.jpg?itok=QZvOZq7b" width="1600"/>
   </item>
  </channel>
 </rss>
