@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 23:48:05 +0800
+   Fri, 03 May 2024 23:55:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pochettino hits out at rumours on Chelsea future
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pochettino-hits-out-rumours-chelsea-future-4311976
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 23:48:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pochettino-hits-out-rumours-chelsea-future-4311976
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fYQG272H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t154833z_1_lynxmpek420hx_rtroptp_3_soccer-england-che-whu-preview.jpg?itok=4bNo3ntd" width="1600"/>
+  </item>
   <item>
    <title>
     Man arrested after clinging to rear of auxiliary police vehicle for 850m while drunk
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xnJY0jlb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/778a55b427ae948cdb7c138e0822ecbbc195bd9c.jpg?itok=FDnnOn-6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man who raped, sexually abused daughter gets 16 years’ jail and 18 strokes of the cane
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/father-raped-daughter-sexual-assault-jail-caning-4311451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:17:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/father-raped-daughter-sexual-assault-jail-caning-4311451
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PB4q6iZ_--/c_crop,h_841,w_1496,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/sya_7295.jpg?itok=96txH9GL" width="1600"/>
   </item>
  </channel>
 </rss>
