@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 22:14:57 +0800
+   Fri, 03 May 2024 22:27:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Clattenburg resigns as Forest referee analyst
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/clattenburg-resigns-forest-referee-analyst-4311761
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 22:23:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/clattenburg-resigns-forest-referee-analyst-4311761
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RYV40VOV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t142313z_1_lynxmpek420fh_rtroptp_3_soccer-england-wba-lei.jpg?itok=HD5TEMoO" width="1600"/>
+  </item>
+  <item>
+   <title>
     Girona want 'historic' home win over Barcelona
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 03 May 2024 22:06:45 +0800
+    Fri, 03 May 2024 22:06:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/girona-want-historic-home-win-over-barcelona-4311716
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 03 May 2024 22:00:35 +0800
+    Fri, 03 May 2024 22:00:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/dortmund-can-rest-players-against-augsburg-after-psg-win-says-terzic-4311711
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0-5iTinn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t112751z_1_lynxmpek420b5_rtroptp_3_soccer-england-whu-liv-report.jpg?itok=QZvOZq7b" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Expedia shares sink as vacation rental weakness fuels revenue forecast trim
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/expedia-shares-sink-vacation-rental-weakness-fuels-revenue-forecast-trim-4311431
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 19:25:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/expedia-shares-sink-vacation-rental-weakness-fuels-revenue-forecast-trim-4311431
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>

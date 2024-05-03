@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 22:10:32 +0800
+   Fri, 03 May 2024 22:20:30 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 21:07:24 +0800
+   Fri, 03 May 2024 22:14:29 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,33 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Data of 110,000 people leaked on Company Registry site
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751695-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751695-20240503.htm
+   </link>
+   <description>
+    <![CDATA[The Company Registry on Friday said the personal information of around 110,000 people had been leaked due to a fault in its digital platform.
+
+The registry said if people conduct searches on its e-Services Portal and pressed the F12 key, they might see additional personal details.
+
+Information being exposed included names, addresses, telephone numbers, email addresses, as well as full identity and passport numbers.
+
+The body said urgent maintenance has been carried out to prevent further leaks, and that it is getting in touch with and apologising to those affected.
+
+It added that it is consulting the Office of the Privacy Commissioner for Personal Data and the Office of the Government Chief Information Officer with a view to conducting a comprehensive review of the incident and taking further enhancement measures to safeguard personal data.
+
+Earlier, the Electrical and Mechanical Services Department apologised after information of around 17,000 public housing tenants required to undergo Covid tests in 2022 was exposed online.]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 22:14:29 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Strive and Rise helps teens grow: survey
@@ -661,41 +688,6 @@ Last updated: 2024-05-01 HKT 18:36]]>
    </description>
    <pubDate>
     Wed, 01 May 2024 13:38:25 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong Observatory verifying reports of hail
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751351-20240501.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751351-20240501.htm
-   </link>
-   <description>
-    <![CDATA[The Observatory is verifying social media posts which apparently showed hail falling in Hong Kong as the city was hit with storms overnight.
-
-During an amber warning issued at about 9.30pm on Tuesday, posts from several social media platforms reported that hail was falling in Yuen Long. One video on Instagram showed residents there running for cover.
-
-The Observatory said it is verifying the social media posts, and noted that there were reports of hail fall from Macau and Zhuhai.
-
-“Last year, there were also hail reports in March and April,” Betty Mak, a scientific officer at the Observatory, told RTHK, noting that there is nothing unusual for it to hail this time of year.
-
-“We’ll consider all the data and observations including the stability of the atmosphere and analysis of radar images and hail reports from nearby areas or locally to assess."
-
-“Members of the public should consider bringing rain gear when going out,” Mak added.
-
-The forecaster also said lightning struck the east of the territory more than 6,400 times between 10pm and 10am. “Violent gusts” of over 100km per hour were also recorded in Cheung Chau early on Wednesday morning.
-
-Meanwhile, a concert that was being held in Central was forced to stop midway when the amber signal came into effect on Tuesday night.
-
-And several flights were affected by the weather, with some being delayed or rerouted to land in other airports in the Pearl River Delta area.
-_____________________________
-Last updated: 2024-05-01 HKT 15:30]]>
-   </description>
-   <pubDate>
-    Wed, 01 May 2024 12:58:13 +0800
    </pubDate>
   </item>
  </channel>
