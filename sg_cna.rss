@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 21:46:28 +0800
+   Fri, 03 May 2024 21:56:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Top-four chasing Atletico need to improve, says Simeone
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/top-four-chasing-atletico-need-improve-says-simeone-4311686
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 21:47:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/top-four-chasing-atletico-need-improve-says-simeone-4311686
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--G76PIkwc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t134703z_1_lynxmpek420e9_rtroptp_3_soccer-spain-atm-atb-report.jpg?itok=g6Bkcky4" width="1600"/>
+  </item>
+  <item>
+   <title>
     Arsenal better prepared for title tussle this season, says Arteta
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 03 May 2024 21:43:28 +0800
+    Fri, 03 May 2024 21:43:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/arsenal-better-prepared-title-tussle-season-says-arteta-4311676
@@ -294,6 +315,27 @@
   </item>
   <item>
    <title>
+    ADB agrees $5 billion funds replenishment with donors
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/adb-agrees-5-billion-funds-replenishment-donors-4311501
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 20:15:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/adb-agrees-5-billion-funds-replenishment-donors-4311501
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     IOC hints at lack of solidarity in athletics prize money decision
    </title>
    <link>
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    UN agencies prepare for Rafah incursion, warn of 'slaughter'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-hamas-war-gaza-rafah-civilians-aid-operations-4311326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 18:43:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-hamas-war-gaza-rafah-civilians-aid-operations-4311326
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_SBsLZ4e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/95886cdf25a9e542f96a56967c652efde08ba3f0.jpg?itok=zzoKSHOY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former lawyer gets 52 months' jail for misappropriating more than S$527,000 from client
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/former-lawyer-soraya-hafsa-ibrahim-gets-52-months-jail-misappropriating-more-s527000-4311076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 18:35:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/former-lawyer-soraya-hafsa-ibrahim-gets-52-months-jail-misappropriating-more-s527000-4311076
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VDjE8pQV--/c_crop,h_899,w_1599,x_1,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/1000031876.jpg?itok=7rfleW3h" width="1600"/>
   </item>
  </channel>
 </rss>
