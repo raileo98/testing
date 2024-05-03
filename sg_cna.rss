@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 01:56:14 +0800
+   Sat, 04 May 2024 02:28:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,23 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Stocks jump, yields fall on hopes US labor tightness ebbing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate/>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Nepal court orders limit on Everest climbing permits
@@ -438,27 +455,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HCJr0rFc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/4b0ae8193c2ff47a3fa8173125607745340ec620.jpg?itok=d3zld9oY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Dortmund veteran Reus to leave club at end of season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/dortmund-veteran-reus-leave-club-end-season-4311626
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 21:23:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/dortmund-veteran-reus-leave-club-end-season-4311626
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XPFJIynR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t132329z_1_lynxmpek420dq_rtroptp_3_soccer-germany-dor-reus.jpg?itok=5CRAj2pz" width="1600"/>
   </item>
  </channel>
 </rss>
