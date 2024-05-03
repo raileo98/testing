@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 12:43:22 +0800
+   Fri, 03 May 2024 12:51:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    CNA Explains: Fed rates on hold – how will this affect Singapore savers and borrowers?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/fomc-fed-interest-rates-banks-loans-savings-fd-cna-explains-4309016
+   </link>
+   <description>
+    <![CDATA[Experts explain what to consider for home loans, and why interest rates for savings accounts fell ahead of the Fed cutting rates.]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 12:47:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/fomc-fed-interest-rates-banks-loans-savings-fd-cna-explains-4309016
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IaVJymIn--/c_crop,h_843,w_1500,x_0,y_282/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/01/12/img_5910_1.jpg?itok=EKKdd2jA" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Xi heads to Europe to defend Russia ties
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/china-xi-jinping-heads-europe-russia-france-ties-4310521
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 12:43:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/china-xi-jinping-heads-europe-russia-france-ties-4310521
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8ziqf9Wo--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-20t061836z_1_lynxnpek2j04z_rtroptp_3_france-china-xi.jpg?itok=rloTSkE1" width="1600"/>
+  </item>
   <item>
    <title>
     Pacers thrash Bucks to clinch NBA playoff series
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BqGcDKtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c15d63a8c7ed73ddd01373bcc1d2229de95ce7eb.jpg?itok=FC4orkA1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore drama All That Glitters to stream on Netflix along with 4 CNA documentaries
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/all-glitters-four-cna-documentaries-netflix-4310401
-   </link>
-   <description>
-    <![CDATA[All That Glitters will make its Netflix debut on Jun 1 while the four CNA documentaries start streaming this month.]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 10:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/all-glitters-four-cna-documentaries-netflix-4310401
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Wg2_Cnna--/c_crop,h_665,w_1183,x_231,y_110/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/ep30_1.763.1.jpg?itok=kEEKtfHG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore drama All That Glitters to stream on Netflix along with 4 CNA documentaries
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/all-glitters-four-cna-documentaries-netflix-4310401
-   </link>
-   <description>
-    <![CDATA[All That Glitters will make its Netflix debut on Jun 1 while the four CNA documentaries start streaming this month.]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 10:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/all-glitters-four-cna-documentaries-netflix-4310401
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Wg2_Cnna--/c_crop,h_665,w_1183,x_231,y_110/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/ep30_1.763.1.jpg?itok=kEEKtfHG" width="1600"/>
   </item>
  </channel>
 </rss>
