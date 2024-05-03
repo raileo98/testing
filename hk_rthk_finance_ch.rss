@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 22:50:40 +0800
+   Fri, 03 May 2024 23:01:41 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 21:39:04 +0800
+   Fri, 03 May 2024 22:51:44 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -48,7 +48,28 @@
   </image>
   <item>
    <title>
-    美股開市後升逾1%　市場紓緩加息憂慮
+    ISM：美國4月服務業陷入收縮　2022年12月以來最低水平
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751699-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751699-20240503.htm
+   </link>
+   <description>
+    <![CDATA[美國供應管理協會（ISM）4月非製造業採購經理指數跌至49.4，與市場預期上升至52相反，指數低於50，反映美國服務業陷入收縮，創2022年12月以來最低水平。
+
+4月新訂單指數跌至52.2，創去年9月以來最低，企業活動指數跌至50.9，創2020年5月新冠疫情剛爆發時水平。
+
+報告指出，需求放緩但服務業通脹有再次抬頭趨勢，企業投入價格指數升至59.2。服務業就業指數就跌至45.9。]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 22:51:44 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    美股開市後升逾1%　市場加息憂慮紓緩
    </title>
    <guid>
     https://news.rthk.hk/rthk/ch/component/k2/1751693-20240503.htm
@@ -459,31 +480,6 @@
    </description>
    <pubDate>
     Fri, 03 May 2024 13:08:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股半日升206點　科指未能企穩4000點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751621-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751621-20240503.htm
-   </link>
-   <description>
-    <![CDATA[港股連升第9日，是2018年初以來最長升浪。恒生指數今早最多升近400點，曾升穿18600點水平，創近8個月新高，其後升幅收窄。恒指中午報18413點，升206點，升幅1.1%，半日主板成交額約690億元。
-
-科技指數一度突破4000點關口但未能企穩，高見4023點，創逾5個月高位，半日報3945點，升約2.1%。ATMXJ都升，表現最好的京東升逾4%。
-
-騰訊、小米、滙控曾創52周新高。金融、汽車股普遍造好，博彩股亦升。
-
-快狗打車曾急升逾77%，半日升52%。
-
-醫藥股受壓，藥明系下跌，藥明生物、藥明康德跌近6%，是半日表現最差兩隻藍籌股。多隻內需股偏軟。]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 12:16:47 +0800
    </pubDate>
   </item>
  </channel>
