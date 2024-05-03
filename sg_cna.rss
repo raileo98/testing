@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 00:32:50 +0800
+   Sat, 04 May 2024 00:41:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    India's markets regulator puts seven Adani companies on notice for violations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indias-markets-regulator-puts-seven-adani-companies-notice-violations-4312076
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 00:38:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indias-markets-regulator-puts-seven-adani-companies-notice-violations-4312076
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8ER5w_R0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t163837z_3_lynxmpek4205i_rtroptp_3_adani-enterprises-results.jpg?itok=sT88gqOD" width="1600"/>
+  </item>
   <item>
    <title>
     Rublev eases past Fritz to reach Madrid Open final
@@ -147,10 +168,10 @@
   </item>
   <item>
    <title>
-    Clattenburg resigns as Forest referee analyst
+    Clattenburg resigns as Forest analyst, Nuno charged with misconduct
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/clattenburg-resigns-forest-referee-analyst-4311761
+    https://www.channelnewsasia.com/sport/clattenburg-resigns-forest-analyst-nuno-charged-misconduct-4311761
    </link>
    <description>
     <![CDATA[]]>
@@ -159,7 +180,7 @@
     Fri, 03 May 2024 22:23:13 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/clattenburg-resigns-forest-referee-analyst-4311761
+    https://www.channelnewsasia.com/sport/clattenburg-resigns-forest-analyst-nuno-charged-misconduct-4311761
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X-z1W24W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t123147z_1_lynxmpek420co_rtroptp_3_soccer-spain-soc-mad-preview.jpg?itok=VurH8LXp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Villa manager Carla Ward to step down at end of season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/villa-manager-carla-ward-step-down-end-season-4311536
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:31:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/villa-manager-carla-ward-step-down-end-season-4311536
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FVGzbCoK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t123103z_1_lynxmpek420cn_rtroptp_3_soccer-england-ava.jpg?itok=eE8E_s9Y" width="1600"/>
   </item>
  </channel>
 </rss>
