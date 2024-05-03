@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 00:41:08 +0800
+   Sat, 04 May 2024 00:46:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tech platforms make pitch for ad deals as TikTok is roiled by politics
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tech-platforms-make-pitch-ad-deals-tiktok-roiled-politics-4312091
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 00:43:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tech-platforms-make-pitch-ad-deals-tiktok-roiled-politics-4312091
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Kwc0n0m1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t164317z_1_lynxmpek420j7_rtroptp_3_social-media-advertising.jpg?itok=MggzU7JI" width="1600"/>
+  </item>
   <item>
    <title>
     India's markets regulator puts seven Adani companies on notice for violations
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--udiUfq2O--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t120048z_1_lynxmpek420c1_rtroptp_3_thailand-politics-cenbank.jpg?itok=rjnJp54I" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Courtois to make first start for Real after ACL tear
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/courtois-make-first-start-real-after-acl-tear-4311531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:31:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/courtois-make-first-start-real-after-acl-tear-4311531
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X-z1W24W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t123147z_1_lynxmpek420co_rtroptp_3_soccer-spain-soc-mad-preview.jpg?itok=VurH8LXp" width="1600"/>
   </item>
  </channel>
 </rss>
