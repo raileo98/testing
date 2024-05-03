@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 11:04:02 +0800
+   Fri, 03 May 2024 11:27:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US election disinformation targets non-citizen voting
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-election-disinformation-targets-non-citizen-voting-4310376
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 11:22:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-election-disinformation-targets-non-citizen-voting-4310376
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pvZlafIx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/ce972a5a5585721b07e40c568a1e1109560d0960.jpg?itok=WTFMpuYw" width="1600"/>
+  </item>
   <item>
    <title>
     Israel builds 'cyber dome' against Iran's hackers
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 03 May 2024 10:55:22 +0800
+    Fri, 03 May 2024 10:55:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/cambodia-heatwave-ammo-blast-20-soldiers-killed-4307976
@@ -336,19 +357,19 @@
   </item>
   <item>
    <title>
-    South Korea's Naver is undecided about future of LY Corp stake
+    South Korea's Naver says undecided about future of Japanese LY Corp stake
    </title>
    <link>
-    https://www.channelnewsasia.com/business/south-koreas-naver-undecided-about-future-ly-corp-stake-4310371
+    https://www.channelnewsasia.com/business/south-koreas-naver-says-undecided-about-future-japanese-ly-corp-stake-4310371
    </link>
    <description>
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 03 May 2024 09:10:49 +0800
+    Fri, 03 May 2024 09:10:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/south-koreas-naver-undecided-about-future-ly-corp-stake-4310371
+    https://www.channelnewsasia.com/business/south-koreas-naver-says-undecided-about-future-japanese-ly-corp-stake-4310371
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HG_JkWqV--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/20240502_instagram_sgag_security.png?itok=msWQ4R3l" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Online pharmacies: A new frontier in digital healthcare
-   </title>
-   <link>
-    https://www.channelnewsasia.com/advertorial/online-pharmacies-new-frontier-digital-healthcare-4294186
-   </link>
-   <description>
-    <![CDATA[Glovida-Rx, Singapore’s first consumer-centric e-pharmacy, aims to make healthcare more accessible with free consultation on WhatsApp, affordably priced medication and dedicated care from qualified pharmacists. ]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 08:36:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/advertorial/online-pharmacies-new-frontier-digital-healthcare-4294186
-   </guid>
-   <category>
-    Advertorial ,Wellness
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i5_gNxYS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/bstudio_glovida_rx_co_founders.jpg?itok=dvqIWs92" width="1600"/>
   </item>
  </channel>
 </rss>
