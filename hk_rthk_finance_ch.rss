@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 13:01:48 +0800
+   Fri, 03 May 2024 13:20:31 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 12:16:47 +0800
+   Fri, 03 May 2024 13:08:02 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股下午初段升逾200點　科指升逾2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751626-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751626-20240503.htm
+   </link>
+   <description>
+    <![CDATA[港股下午初段升逾200點，恒生指數較早時報18411點，升204點，升幅1.12%。
+
+科技指數報3946點，升81點，升幅2.1%。]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 13:08:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股半日升206點　科指未能企穩4000點
@@ -459,27 +478,6 @@
    </description>
    <pubDate>
     Fri, 03 May 2024 06:11:07 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    英美期油收市個別發展　紐約期油創逾7星期新低
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751584-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751584-20240503.htm
-   </link>
-   <description>
-    <![CDATA[英美期油收市個別發展。
-
-倫敦布蘭特期油下試每桶83美元，低見83.05美元，創逾7星期以來最低，其後自日內低位反彈，收報83.67美元，升23美仙，升幅約0.3%。
-
-紐約期油收市創逾7星期新低，收報每桶78.95美元，跌5美仙，跌幅約0.1%。]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 06:10:47 +0800
    </pubDate>
   </item>
  </channel>
