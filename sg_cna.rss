@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 01:11:00 +0800
+   Sat, 04 May 2024 01:24:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US health officials warn dairy workers are at risk from bird flu
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-health-officials-warn-dairy-workers-are-risk-bird-flu-4311926
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 01:11:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-health-officials-warn-dairy-workers-are-risk-bird-flu-4311926
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MwvBqUrU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t165011z_3_lynxmpek420gq_rtroptp_3_health-bird-flu-containment.jpg?itok=d7RGriyJ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Exclusive-Stanford AI leader Fei-Fei Li building 'spatial intelligence' startup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-stanford-ai-leader-fei-fei-li-building-spatial-intelligence-startup-4312161
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 01:04:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-stanford-ai-leader-fei-fei-li-building-spatial-intelligence-startup-4312161
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d53GCU5b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t172222z_2_lynxmpek420jz_rtroptp_3_ai-startup.jpg?itok=KxKmeaXh" width="1600"/>
+  </item>
   <item>
    <title>
     UEFA agree to increase squad size for Euro 2024
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IK-Wmh2w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t114925z_2_lynxmpek420bl_rtroptp_3_israel-palestinians-france-students.jpg?itok=pqrR5GB_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Barca out for revenge against Girona, says Xavi
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/barca-out-revenge-against-girona-says-xavi-4311586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:50:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/barca-out-revenge-against-girona-says-xavi-4311586
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kLyx289O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t125027z_1_lynxmpek420d1_rtroptp_3_soccer-spain-gir-fcb-preview.jpg?itok=vI8qpJrX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Everyone wants to beat Leverkusen, says Alonso
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/everyone-wants-beat-leverkusen-says-alonso-4311571
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:45:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/everyone-wants-beat-leverkusen-says-alonso-4311571
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nlha0J8z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t124559z_1_lynxmpek420cy_rtroptp_3_soccer-europa-rom-b04-report.jpg?itok=zo9DHzqB" width="1600"/>
   </item>
  </channel>
 </rss>

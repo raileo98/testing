@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 04 May 2024 01:10:30 +0800
+   Sat, 04 May 2024 01:20:23 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 23:27:29 +0800
+   Sat, 04 May 2024 01:10:34 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US job growth slows, boosting rate cut hopes
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751704-20240504.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751704-20240504.htm
+   </link>
+   <description>
+    <![CDATA[US job growth slowed more than expected in April and the increase in annual wages fell below 4.0 percent for the first time in nearly three years, but it is probably too early to expect that the Federal Reserve will start cutting interest rates before September as the labour market remains fairly tight.
+
+The Labour Department's closely watched employment report on Friday also showed the unemployment rate rising to 3.9 percent from 3.8 percent in March amid increasing labour supply.
+
+Nonetheless, the jobless rate remained below 4 percent for the 27th straight month. Data this week showed job openings declining in March.
+
+Signs of labour market cooling raised optimism that the US central bank could after all engineer a "soft-landing" for the economy and doused chatter of stagflation, which had been fanned by news of a sharp moderation in economic growth and a surge in inflation in the first quarter.
+
+Financial markets boosted the odds of a September rate cut and saw the Fed reducing borrowing costs twice this year instead of only once before the data.
+
+"A cooler pace of hiring to a more sustainable pace should be interpreted as beneficial with respect to the inflation outlook going forward and remove any lingering concerns of a wage price spiral and put to bed loose and undisciplined talk from the corners of the trading community about stagflation," said Joe Brusuelas, chief economist at RSM.
+
+Nonfarm payrolls increased by 175,000 jobs last month, the fewest in six months, the Labour Department's Bureau of Labour Statistics said. Revisions showed 22,000 fewer jobs created in February and March than previously reported.  (Reuters)]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 01:10:34 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HSBC not planning more asset sales: chairman
@@ -605,29 +634,6 @@ Investors expect Beijing to launch more stimulus to support the economy and were
    </description>
    <pubDate>
     Tue, 30 Apr 2024 10:38:06 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks open up; crypto ETFs gain on debut
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751142-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751142-20240430.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks rose at the open Tuesday, extending gains into a seventh straight trading day, following a healthy lead from Wall Street as investors gear up for the latest Federal Reserve policy decision.
-
-Meanwhile six spot bitcoin and ether exchange traded funds (ETFs) gained in their Hong Kong debut, with the three bitcoin ETFs climbing more than 3 percent in early trade.
-
-The Hang Seng Index advanced 0.54 percent to 17,843.
-
-The Shanghai Composite Index dipped 0.09 percent to 3,110, while the Shenzhen Composite Index on the mainland's second exchange also lost 0.09 percent to 1,767. (AFP/Reuters)]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 09:49:38 +0800
    </pubDate>
   </item>
  </channel>
