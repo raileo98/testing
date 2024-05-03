@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 13:41:16 +0800
+   Fri, 03 May 2024 13:50:04 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    State Property Fine Jewellery melds captivating narratives with brilliant artistry
+   </title>
+   <link>
+    https://www.channelnewsasia.com/advertorial/state-property-fine-jewellery-melds-captivating-narratives-brilliant-artistry-4302066
+   </link>
+   <description>
+    <![CDATA[Cherished by style icons, its jewellery pieces are timeless symbols of luxury.]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 13:49:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/advertorial/state-property-fine-jewellery-melds-captivating-narratives-brilliant-artistry-4302066
+   </guid>
+   <category>
+    Advertorial
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FzOLy8L---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/bstudio_state_property_lead.jpg?itok=UMdrXmGi" width="1600"/>
+  </item>
   <item>
    <title>
     Medvedev joins growing injury list ahead of French Open
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tC_Lil3P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t033545z_1_lynxmpek4201r_rtroptp_3_britain-retail-monkey-labour-thailand.jpg?itok=F-0cuM6C" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US election disinformation targets non-citizen voting
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-election-disinformation-targets-non-citizen-voting-4310376
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 11:22:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-election-disinformation-targets-non-citizen-voting-4310376
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pvZlafIx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/ce972a5a5585721b07e40c568a1e1109560d0960.jpg?itok=WTFMpuYw" width="1600"/>
   </item>
  </channel>
 </rss>
