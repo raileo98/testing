@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 04 May 2024 04:30:43 +0800
+   Sat, 04 May 2024 05:20:33 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 04 May 2024 01:10:34 +0800
+   Sat, 04 May 2024 04:46:43 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Jobs and Apple send Wall Street surging
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751718-20240504.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751718-20240504.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street surged to a higher close on Friday as a softer-than-expected employment report bolstered the case for rate cuts from the Federal Reserve while also providing evidence of US economic resilience.
+
+All three major US stock posted robust gains. The tech-heavy Nasdaq led the pack, rising 2 percent with an assist from Apple shares following the iPhone maker's record share buyback announcement.
+
+All three indexes notched their second straight Friday-to-Friday gains, capping a week in which markets were encouraged by Fed Chair Jerome Powell's more dovish-than-expected statements following Wednesday's rate decision.
+
+The Labour Department's employment report showed the US economy added fewer jobs than expected, while the unemployment rate ticked higher and wage growth unexpectedly cooled.
+
+The report likely hit the sweet spot for the Fed, offering signs the labor market is softening, which Powell has deemed necessary to put inflation on a sustainable downward path. The report also provided assurances on US economic health.
+
+The report prompted investors to raise bets the Fed would implement its first rate reduction in September.
+
+"The investor narrative remains the Fed and interest rates and today’s weak jobs report puts rate cuts firmly on the Fed’s 2024 agenda," said Greg Bassuk, CEO at AXS Investments in New York.
+
+Fed officials weighed in on the data. Fed Governor Michelle Bowman reiterated her willingness to hike rates if inflation progress reverses, and Chicago Fed President Austan Goolsbee said the employment report boosted confidence the economy is not overheating.
+
+Apple surged 6.0 percent, after the company unveiled a record US$110 billion share buyback program and beat quarterly expectations.
+
+Travel platform Expedia cut its full-year revenue growth forecast, sending its shares sliding 15.3 percent.
+
+The Dow Jones Industrial Average rose 1.18 percent, to 38,676, the S&P 500 gained 1.26 percent, to 5,128 and the Nasdaq Composite added 1.99 percent, to 16,156. (Reuters)]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 04:46:43 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US job growth slows, boosting rate cut hopes
@@ -607,33 +644,6 @@ Last updated: 2024-04-30 HKT 16:00]]>
    </description>
    <pubDate>
     Tue, 30 Apr 2024 12:22:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    China factory activity slows in April
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751150-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751150-20240430.htm
-   </link>
-   <description>
-    <![CDATA[China's manufacturing activity expanded at a slower pace in April, an official factory survey showed on Tuesday, suggesting some loss of momentum for the sector at the start of the second quarter.
-
-The National Bureau of Statistics (NBS) manufacturing purchasing managers' index (PMI) dropped to 50.4 in April from 50.8 in March, above the 50-mark separating growth from contraction and just ahead of a median forecast of 50.3 in a Reuters poll.
-
-The data underlines the challenges facing policymakers even though solid first quarter GDP growth had reduced some of the urgency to ramp up stimulus measures.
-
-New export orders grew at a much slower rate, while employment continued to shrink, the NBS's PMI data showed.
-
-Still, a private Caixin factory survey, which was also released on Tuesday, showed manufacturing activity grew more quickly as new export orders rose, providing a more optimistic outlook than the official data.
-
-Investors expect Beijing to launch more stimulus to support the economy and were waiting for the outcome of a politburo meeting, which is expected to focus on economic affairs this month. (Reuters)]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 10:38:06 +0800
    </pubDate>
   </item>
  </channel>
