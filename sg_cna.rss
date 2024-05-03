@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 10:46:26 +0800
+   Fri, 03 May 2024 11:04:02 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel builds 'cyber dome' against Iran's hackers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-builds-cyber-dome-against-irans-hackers-4310411
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 11:03:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-builds-cyber-dome-against-irans-hackers-4310411
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IWMhcpQ9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/3be0eb43c16365b12a30a784a1e3d3f70329c95c.jpg?itok=f3rhxMt_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Cambodia says heatwave a factor in ammo blast that killed 20 soldiers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/cambodia-heatwave-ammo-blast-20-soldiers-killed-4307976
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 10:55:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/cambodia-heatwave-ammo-blast-20-soldiers-killed-4307976
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BqGcDKtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c15d63a8c7ed73ddd01373bcc1d2229de95ce7eb.jpg?itok=FC4orkA1" width="1600"/>
+  </item>
   <item>
    <title>
     Singapore drama All That Glitters to stream on Netflix along with 4 CNA documentaries
@@ -417,48 +459,6 @@
     Advertorial ,Wellness
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i5_gNxYS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/bstudio_glovida_rx_co_founders.jpg?itok=dvqIWs92" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Online pharmacies: A new frontier in digital healthcare
-   </title>
-   <link>
-    https://www.channelnewsasia.com/advertorial/online-pharmacies-new-frontier-digital-healthcare-4294186
-   </link>
-   <description>
-    <![CDATA[Glovida-Rx, Singapore’s first consumer-centric e-pharmacy, aims to make healthcare more accessible with free consultation on WhatsApp, affordably priced medication and dedicated care from qualified pharmacists. ]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 08:36:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/advertorial/online-pharmacies-new-frontier-digital-healthcare-4294186
-   </guid>
-   <category>
-    Advertorial ,Wellness
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i5_gNxYS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/bstudio_glovida_rx_co_founders.jpg?itok=dvqIWs92" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Yen poised for best week in over a year; dollar waits on US jobs data
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-4310316
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 08:26:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/yen-poised-best-week-over-year-dollar-waits-us-jobs-data-4310316
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--67u8uxiW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t002608z_1_lynxmpek4200f_rtroptp_3_global-forex.jpg?itok=oxQzdP45" width="1600"/>
   </item>
  </channel>
 </rss>
