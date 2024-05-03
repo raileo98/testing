@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 02:47:39 +0800
+   Sat, 04 May 2024 03:23:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Amid protests and police raids, US schools try to keep the peace at graduation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/amid-protests-and-police-raids-us-schools-try-keep-peace-graduation-4312141
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 03:18:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/amid-protests-and-police-raids-us-schools-try-keep-peace-graduation-4312141
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WEhH7VrU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t140731z_2_lynxmpek410me_rtroptp_3_israel-palestinians-usa-protests.jpg?itok=R2gQEt0s" width="1600"/>
+  </item>
   <item>
    <title>
     Former Trump adviser Hope Hicks testifies at his trial
@@ -434,27 +455,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--G76PIkwc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t134703z_1_lynxmpek420e9_rtroptp_3_soccer-spain-atm-atb-report.jpg?itok=g6Bkcky4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Arsenal better prepared for title tussle this season, says Arteta
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/arsenal-better-prepared-title-tussle-season-says-arteta-4311676
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 21:43:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/arsenal-better-prepared-title-tussle-season-says-arteta-4311676
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
