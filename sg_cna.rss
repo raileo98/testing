@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 14:48:16 +0800
+   Fri, 03 May 2024 14:57:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Seoul spy agency warns N. Korea plotting attacks on embassies
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/seoul-spy-agency-warns-north-korea-plotting-attacks-embassies-4310766
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 14:54:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/seoul-spy-agency-warns-north-korea-plotting-attacks-embassies-4310766
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dYyeqM4J--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-22t221450z_1_lynxnpek3l0si_rtroptp_3_northkorea-malaysia-kim.jpg?itok=ZiF6p8l7" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Bowlers bite back as Hyderabad clinch IPL thriller
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/bowlers-bite-back-hyderabad-clinch-ipl-thriller-4310786
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 14:50:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/bowlers-bite-back-hyderabad-clinch-ipl-thriller-4310786
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P7c5iaoZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t064935z_1_lynxmpek4204n_rtroptp_3_cricket-worldcup-ind-aus.jpg?itok=x11dSxPr" width="1600"/>
+  </item>
   <item>
    <title>
     'Show solidarity': Pro-Palestinian protesters camp across Australian universities
@@ -417,48 +459,6 @@
     Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nrkflUrr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d1f9dc2f6238c0f6e6ab99333a1bcaa8633b6369.jpg?itok=8HYownjn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    SportSG to launch new booking platform to combat bots, multiple accounts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/sport-singapore-new-booking-platform-facilities-balloting-system-activesg-credits-active-wallet-4309026
-   </link>
-   <description>
-    <![CDATA[MyActiveSG+ will include a balloting feature for booking sports facilities for peak hour time slots. ]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 12:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/sport-singapore-new-booking-platform-facilities-balloting-system-activesg-credits-active-wallet-4309026
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JKNsaYyQ--/c_fill,h_900,w_1600/f_auto,q_auto/indoor-badminton-court-our-tampines-hub_0.jpg?itok=8vUEjmtj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea to slap fines on food suppliers for 'shrinkflation'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/south-korea-slap-fines-food-suppliers-shrinkflation-4310541
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 12:06:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/south-korea-slap-fines-food-suppliers-shrinkflation-4310541
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xBrcXIt0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t033402z_1_lynxmpek4201q_rtroptp_3_southkorea-economy-food.jpg?itok=2LyXmKwR" width="1600"/>
   </item>
  </channel>
 </rss>
