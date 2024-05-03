@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 14:50:15 +0800
+   Fri, 03 May 2024 20:30:28 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 10:58:03 +0800
+   Fri, 03 May 2024 18:19:23 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Chang'e-6 blasts off to far side of the moon
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751672-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751672-20240503.htm
+   </link>
+   <description>
+    <![CDATA[A Long March-5 rocket, carrying the Chang'e-6 spacecraft, blasted off from its launchpad at the Wenchang Space Launch Site in Hainan on Friday afternoon. 
+
+The Chang'e-6 mission is tasked with collecting and returning samples from the moon's mysterious far side, the first endeavor of its kind in the history of human lunar exploration.
+
+"Collecting and returning samples from the far side of the moon is an unprecedented feat. Now we know very little about the moon's far side. If the Chang'e-6 mission can achieve its goal, it will provide scientists with the first direct evidence to understand the environment and material composition of the far side of the moon, which is of great significance," said Wu Weiren, an academician of the Chinese Academy of Engineering and chief designer of China's lunar exploration program.
+
+The Chang'e-6 spacecraft, like its predecessor Chang'e-5, comprises an orbiter, a lander, an ascender and a returner. 
+
+After it reaches the moon, it will make a soft landing on the far side. Within 48 hours after landing, a robotic arm will be extended to scoop rocks and soil from the lunar surface, and a drill will bore into the ground. Scientific detection work will be carried out simultaneously.
+
+After the samples are sealed in a container, the ascender will take off from the moon and dock with the orbiter in lunar orbit. 
+
+The returner will then carry the samples back to Earth, landing in north China's Inner Mongolia Autonomous Region. The entire flight is expected to last about 53 days, the China National Space Administration said. (Xinhua)]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 18:19:23 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     China to launch Chang'e-6 probe on Friday afternoon
@@ -643,33 +672,6 @@ He said issues like climate change and increased cooperation seem to have "slipp
    </description>
    <pubDate>
     Thu, 25 Apr 2024 09:24:56 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Blinken in China for key three-day visit
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750368-20240424.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750368-20240424.htm
-   </link>
-   <description>
-    <![CDATA[US Secretary of State Antony Blinken has arrived in China for a three-day visit as the two countries try to keep relations on an even keel amid differences.
-
-Blinken landed in Shanghai on Wednesday afternoon where he will meet students and business leaders. He'll later head to Beijing and hold talks with top Chinese officials there.
-
-The two sides are expected to discuss issues such as Ukraine, regional peace and stability, and fentanyl.
-
-This is Blinken's second visit to China in less than a year, following up on recent phone talks between President Xi Jinping and his US counterpart Joe Biden.
-
-Xinhua News Agency noted that bilateral ties have begun to stabilise since the two leaders met in San Francisco last November, with significant exchanges in various fields.
-
-"China remains committed to open dialogue and communication with the United States. However, Washington must recognise that dialogue must be based on equality and respect, and actions must align with words," Xinhua said. (Agencies)]]>
-   </description>
-   <pubDate>
-    Wed, 24 Apr 2024 17:31:34 +0800
    </pubDate>
   </item>
  </channel>
