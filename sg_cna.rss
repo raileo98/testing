@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 22:42:41 +0800
+   Fri, 03 May 2024 22:49:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Intesa targets new digital-only clients after antritrust blow
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/intesa-targets-new-digital-only-clients-after-antritrust-blow-4311826
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 22:43:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/intesa-targets-new-digital-only-clients-after-antritrust-blow-4311826
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tupadOuE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t144319z_1_lynxmpek420g1_rtroptp_3_intesa-technology.jpg?itok=Uj4j-gGv" width="1600"/>
+  </item>
   <item>
    <title>
     Japan may need to smooth excessive yen moves, says Finance Minister Suzuki
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    IOC hints at lack of solidarity in athletics prize money decision
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/ioc-hints-lack-solidarity-athletics-prize-money-decision-4311456
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 19:41:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/ioc-hints-lack-solidarity-athletics-prize-money-decision-4311456
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uO-87c4e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t114141z_1_lynxmpek420bq_rtroptp_3_russia-ioc-zakharova.jpg?itok=JF2oeN1A" width="1600"/>
   </item>
  </channel>
 </rss>
