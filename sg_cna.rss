@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 20:54:37 +0800
+   Fri, 03 May 2024 21:10:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Barca out for revenge against Girona, says Xavi
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/barca-out-revenge-against-girona-says-xavi-4311586
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 20:50:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/barca-out-revenge-against-girona-says-xavi-4311586
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kLyx289O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t125027z_1_lynxmpek420d1_rtroptp_3_soccer-spain-gir-fcb-preview.jpg?itok=vI8qpJrX" width="1600"/>
+  </item>
   <item>
    <title>
     Everyone wants to beat Leverkusen, says Alonso
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4XIyt1pO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t095924z_1_lynxmpek42089_rtroptp_3_cyber-attack.jpg?itok=nrYf8KDG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan town begins blocking Mount Fuji view from 'bad-mannered' tourists
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/mt-fuji-japan-build-barrier-block-lawson-view-tourists-photo-bad-behaviour-4311046
-   </link>
-   <description>
-    <![CDATA[The view of Mount Fuji appearing behind a Lawson convenience store in Fujikawaguchiko is a must-see for many tourists. ]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 17:59:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/mt-fuji-japan-build-barrier-block-lawson-view-tourists-photo-bad-behaviour-4311046
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5-ZHctLG--/c_crop,h_450,w_800,x_0,y_30/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t123632z_1_lynxmpek410k2_rtroptp_3_japan-mountfuji-tourists.jpg?itok=oieaapgr" width="1600"/>
   </item>
  </channel>
 </rss>
