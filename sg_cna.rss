@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 13:50:04 +0800
+   Fri, 03 May 2024 13:54:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Labour claim early win in UK vote as closely watched results trickle in
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/labour-claim-early-win-uk-vote-closely-watched-results-trickle-4310566
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 13:53:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/labour-claim-early-win-uk-vote-closely-watched-results-trickle-4310566
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uVL3VpBX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t035240z_1_lynxmpek42023_rtroptp_3_britain-politics.jpg?itok=s53Hw82p" width="1600"/>
+  </item>
   <item>
    <title>
     State Property Fine Jewellery melds captivating narratives with brilliant artistry
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--s-iHbfAA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t033706z_1_lynxmpek4201s_rtroptp_3_cricket-worldcup-ind-nzl.jpg?itok=TwAElgHu" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thailand April inflation rises slightly, first time in 7 months
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/thailand-april-inflation-rises-slightly-first-time-7-months-4310551
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 11:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thailand-april-inflation-rises-slightly-first-time-7-months-4310551
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tC_Lil3P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t033545z_1_lynxmpek4201r_rtroptp_3_britain-retail-monkey-labour-thailand.jpg?itok=F-0cuM6C" width="1600"/>
   </item>
  </channel>
 </rss>
