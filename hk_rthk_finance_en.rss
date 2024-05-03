@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 03 May 2024 09:30:47 +0800
+   Fri, 03 May 2024 10:10:13 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 03 May 2024 05:10:20 +0800
+   Fri, 03 May 2024 09:42:41 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK shares open sharply higher, lifted by Wall Street
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751603-20240503.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751603-20240503.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares rallied at the open on Friday, building on an eight-day surge, following a strong Wall Street performance ahead of key US jobs data later in the day.
+
+The Hang Seng Index climbed 1.85 percent to 18,543.
+
+Mainland Chinese markets are closed for the Golden Week holiday. (AFP)]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 09:42:41 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Apple beats Q1 expectations, announces share buyback
@@ -599,39 +620,6 @@ The Shanghai Composite Index dipped 0.06 percent, or 1.95 points, to 3,086.68, w
    </description>
    <pubDate>
     Mon, 29 Apr 2024 10:09:07 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Q1 GDP growth within forecast range: FS
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1750893-20240428.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1750893-20240428.htm
-   </link>
-   <description>
-    <![CDATA[Financial Secretary Paul Chan said on Sunday Hong Kong's GDP growth in the first quarter is expected to be in line with the government's forecast of between 2.5 percent and 3.5 percent. 
-
-He said the advance estimates for the January-March period, which will be announced on Thursday, would reflect moderate growth for the economy for five straight quarters, dating back to the start of 2023.
-
-"Besides opening up new points for economic growth, we also need to continue to consolidate the traditional elements," Chan wrote on his weekly blog.
-
-He noted the upcoming Labour Day Golden Week holidays would attract an estimated 800,000 visitors to Hong Kong, highlighted by a maiden pyrotechnic display at Victoria Harbour on May 1.
-
-The financial secretary said a series of mega events will follow, including the Cheung Chau Bun Festival, the World Cultures Festival and the Vinexpo Asia for a showcase of wine and spirits late next month.
-
-On stocks, Chan said the Hang Seng Index rose by 8.8 percent in the past week, its best weekly performance in 13 years. 
-
-He attributed the surge to tech shares buoyed by AI and IT developments, as well as stimulus measures by mainland authorities.
-
-Chan added that an updated scheme allowing some mainland residents to buy wealth management products in Hong Kong made tremendous strides last month.
-
-The Cross-boundary Wealth Management Connect Scheme recorded more than 13.1 billion yuan in transactions in March, which the finance chief said was close to half of the total amount since the scheme's launch in late 2021.]]>
-   </description>
-   <pubDate>
-    Sun, 28 Apr 2024 13:04:39 +0800
    </pubDate>
   </item>
  </channel>
