@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 01:26:55 +0800
+   Sat, 04 May 2024 01:41:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Biden vetoes bid to repeal US labor board rule on contract, franchise workers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/biden-vetoes-bid-repeal-us-labor-board-rule-contract-franchise-workers-4312191
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 01:24:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/biden-vetoes-bid-repeal-us-labor-board-rule-contract-franchise-workers-4312191
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FkKcYO96--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t172447z_1_lynxmpek420kb_rtroptp_3_usa-biden.jpg?itok=2AIfC5Fr" width="1600"/>
+  </item>
   <item>
    <title>
     US health officials warn dairy workers are at risk from bird flu
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0OC2-Xkd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t132217z_1_lynxmpek420dp_rtroptp_3_soccer-england-ntg-mci-report.jpg?itok=dFQocvra" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Police clear pro-Gaza sit-in at top Paris university
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/police-clear-pro-gaza-sit-top-paris-university-4311621
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 21:21:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/police-clear-pro-gaza-sit-top-paris-university-4311621
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IK-Wmh2w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t114925z_2_lynxmpek420bl_rtroptp_3_israel-palestinians-france-students.jpg?itok=pqrR5GB_" width="1600"/>
   </item>
  </channel>
 </rss>
