@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 23:55:35 +0800
+   Sat, 04 May 2024 00:15:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rublev eases past Fritz to reach Madrid Open final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/rublev-eases-past-fritz-reach-madrid-open-final-4312026
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 00:06:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/rublev-eases-past-fritz-reach-madrid-open-final-4312026
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Pochettino hits out at rumours on Chelsea future
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FVGzbCoK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t123103z_1_lynxmpek420cn_rtroptp_3_soccer-england-ava.jpg?itok=eE8E_s9Y" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Heatwave swells Asia's appetite for air-conditioning
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/heatwave-asia-air-conditioning-climate-change-electricity-power-demand-4310886
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:25:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/heatwave-asia-air-conditioning-climate-change-electricity-power-demand-4310886
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xnJY0jlb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/778a55b427ae948cdb7c138e0822ecbbc195bd9c.jpg?itok=FDnnOn-6" width="1600"/>
   </item>
  </channel>
 </rss>
