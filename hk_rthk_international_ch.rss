@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 04 May 2024 01:20:10 +0800
+   Sat, 04 May 2024 01:30:51 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 04 May 2024 00:48:00 +0800
+   Sat, 04 May 2024 01:29:33 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,33 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    紐約警方繼續在大學清場　有警員日前意外開槍無人受傷
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751707-20240504.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751707-20240504.htm
+   </link>
+   <description>
+    <![CDATA[美國紐約警方進入紐約大學，要求親巴勒斯坦的示威者離開。
+
+大學發言人表示，警方是應校方要求到場，大約30名示威者自願離開，亦有10多人因拒絕警方命令被捕，學校星期五的課堂如常進行。
+
+警方又在紐約新學院採取清場行動，拘捕43人。
+
+紐約警方證實，星期二進入哥倫比亞大學清場期間，一名警員嘗試使用配槍上的手電筒時，意外開了一槍，擊中牆上的框架，事件中沒有人受傷。
+
+而在俄勒岡州的波特蘭州立大學，示威者將自己鎖在圖書館內，至少30人被帶走。
+
+美聯社統計，自4月18日以來，全美至少44間大學或高等院校爆發校園示威，超過2300人被捕。]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 01:29:33 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     卡梅倫：烏克蘭有權決定如何用英國武器　有權打擊俄羅斯境內目標
@@ -461,27 +488,6 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 10:20:17 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    《環看天下》：日本首張近距離太空垃圾圖像　為日後清理提供數據
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751448-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751448-20240502.htm
-   </link>
-   <description>
-    <![CDATA[日本一個人造衛星日前成功拍攝到一件太空垃圾的照片，是早年發射日本火箭的殘骸，相距衛星鏡頭只有幾百米。這張照片被視為全球第一張近距離拍攝到的太空垃圾影像。
-
-公布照片的日本航天企業，是一間開發清理太空垃圾技術的公司，形容照片為研發工作踏出重要一步。
-
-人類航天發展不斷推進，太空垃圾數量亦不斷增加。全球多國近年都積極研究方法清理它們，避免影響甚至威脅到太空活動。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:40:34 +0800
    </pubDate>
   </item>
  </channel>
