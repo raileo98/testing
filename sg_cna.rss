@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 03 May 2024 23:05:54 +0800
+   Fri, 03 May 2024 23:25:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man arrested after clinging to rear of auxiliary police vehicle for 850m while drunk
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/drunk-man-arrested-clinging-auxiliary-police-vehicle-victoria-street-stamford-road-4311796
+   </link>
+   <description>
+    <![CDATA[The man immediately stepped off the vehicle when the officers alighted and walked away, said the Singapore Police Force.]]>
+   </description>
+   <pubDate>
+    Fri, 03 May 2024 23:20:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/drunk-man-arrested-clinging-auxiliary-police-vehicle-victoria-street-stamford-road-4311796
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--O9O69iUE--/c_fill,h_900,w_1600/f_auto,q_auto/file-photo-of-handcuffs-03.jpg?itok=0o2fMlHR" width="1600"/>
+  </item>
   <item>
    <title>
     Intesa targets new digital-only clients after antritrust blow
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PB4q6iZ_--/c_crop,h_841,w_1496,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/sya_7295.jpg?itok=96txH9GL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    ADB agrees $5 billion funds replenishment with donors
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/adb-agrees-5-billion-funds-replenishment-donors-4311501
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:15:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/adb-agrees-5-billion-funds-replenishment-donors-4311501
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
