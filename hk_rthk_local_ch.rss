@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 04 May 2024 08:40:29 +0800
+   Sat, 04 May 2024 08:50:28 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 04 May 2024 08:36:48 +0800
+   Sat, 04 May 2024 08:46:53 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    多區有活動紀念中華人民共和國成立75周年及五四運動105周年
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751740-20240504.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751740-20240504.htm
+   </link>
+   <description>
+    <![CDATA[今年是中華人民共和國成立75周年以及五四運動105周年，多區舉辦紀念活動。
+
+大埔林村許願廣場有大匯演活動，105名大埔優秀青年學生會發表宣言，105位書法家即席揮毫，亦會有樂隊表演和圖片展覽。
+
+香港故宮文化博物館將舉行講座，館長吳志華向本地中學生分享五四精神的流傳及傳統文化的傳承，以宏揚中華文化。]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 08:46:53 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     新一輪足病診療師海外培訓資助推出　醫管局稱已考慮未來服務需求
@@ -425,29 +446,6 @@
    </description>
    <pubDate>
     Fri, 03 May 2024 20:45:54 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    公司註冊處早前資料外洩事件影響約11萬人　已完成緊急維修
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751688-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751688-20240503.htm
-   </link>
-   <description>
-    <![CDATA[公司註冊處的「電子服務網站」早前發生個人資料外洩，處方表示受影響當事人約為11萬人，已開始分批通知、解釋及致歉，亦已完成緊急維修，封堵資料進一步外洩的風險。
-
-公司註冊處表示，受影響人士的個人資料外洩情況包括姓名、完整護照號碼、完整身份證號碼、通常住址、電話號碼及電郵。
-
-處方說，已完成調查，結果顯示，承辦商在設計系統時，除了提供查冊相關資料，還將額外個人資料傳輸到客戶端電腦。雖然這些額外資料並不會顯示在查冊結果頁面上，但如果查冊者在查冊結果頁面上，利用開發者工具，便會取得額外的個人資料。如查冊者透過編寫程式查閱資料，也會取得部分額外的個人資料。公司註冊處又發現以電子方式提交持牌放債人委任第三方的通知書時，也曾出現同樣情況。
-
-公司註冊處表示，十分關注個人資料外洩的風險，正徵詢個人資料私隱專員公署和政府資訊科技總監辦公室的意見，全面檢視事件及進一步加強保障個人資料的措施，以防止同類事件發生。]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 20:36:58 +0800
    </pubDate>
   </item>
  </channel>
