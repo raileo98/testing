@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 21:35:57 +0800
+   Sat, 04 May 2024 21:46:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Arsenal keep pressure on Man City with win over Bournemouth
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/arsenal-keep-pressure-man-city-win-over-bournemouth-4313296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 21:36:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/arsenal-keep-pressure-man-city-win-over-bournemouth-4313296
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Ipswich secure Premier League return to end 22-year wait
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ipswich-secure-premier-league-return-end-22-year-wait-4313286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 21:32:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ipswich-secure-premier-league-return-end-22-year-wait-4313286
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Vietnam police arrest former head of government office amid anti-graft crackdown
@@ -417,48 +459,6 @@
     World ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sinxXCAq--/c_crop,h_576,w_1024,x_0,y_29/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/04/000_34qt8nn.jpg?itok=AF9KQw0P" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Biden honours Michelle Yeoh with Medal of Freedom, the top US civilian award
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/michelle-yeoh-biden-presidential-medal-freedom-top-civilian-honour-4311021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 16:27:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/michelle-yeoh-biden-presidential-medal-freedom-top-civilian-honour-4311021
-   </guid>
-   <category>
-    World ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sinxXCAq--/c_crop,h_576,w_1024,x_0,y_29/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/04/000_34qt8nn.jpg?itok=AF9KQw0P" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thomas relishing underdog status at Giro d'Italia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/thomas-relishing-underdog-status-giro-ditalia-4313021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 15:42:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/thomas-relishing-underdog-status-giro-ditalia-4313021
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fkr8XXWK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-04t074223z_1_lynxmpek4301i_rtroptp_3_cycling-world.jpg?itok=W8iK4f7k" width="1600"/>
   </item>
  </channel>
 </rss>
