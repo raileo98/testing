@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Fri, 03 May 2024 17:00:02 GMT
+   Sat, 04 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    陳佳琦／我只有拍下來的動作，沒有其他──《臺北道》林國彰的攝影道
+   </title>
+   <description>
+    <![CDATA[入行40幾年，《臺北道》是攝影師林國彰第一本攝影集，是他對城市的凝望。對於攝影隱喻的歷史感，他說：「我只是拍下那個當下，然後放著過了10年、20年，讓另外一張照片來取代它。我只有拍下來的動作，沒有其他了。」]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-taipei-dao-2014-2023-lin-guo-chang-interview
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-taipei-dao-2014-2023-lin-guo-chang-interview
+   </guid>
+   <pubDate>
+    Sat, 04 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430090634-58a0b2ffa679ea9388cd57d7c3f65969-mobile.jpg"/>
+  </item>
   <item>
    <title>
     陳子軒／左派球會挺進德甲──聖保利的反叛革命
@@ -51,24 +69,6 @@
     Fri, 03 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240503150058-7fd46f8fd0d7844bc3583571eb35cc51-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    和平衛士或反戰暴民？哥倫比亞大學「加薩團結營地」如何點燃美國學運論戰、衝擊大選？
-   </title>
-   <description>
-    <![CDATA[為阻止加薩戰爭擴大，4月中旬美國哥倫比亞大學學生發起占領校園示威活動，30日卻遭鎮暴警察入校清場。過往幾乎不曾衝擊美國國內政情的以巴衝突，為何前所未見地撕裂校園政治與社會輿論？]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/hello-world-2024-05-03
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/hello-world-2024-05-03
-   </guid>
-   <pubDate>
-    Thu, 02 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240503134408-69763bf8aefbdbc0ccf0376e11f8701c-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -90,21 +90,21 @@
   </item>
   <item>
    <title>
-    李雪莉／《巴奈回家》：為族群主流化的平等理想一起努力
+    和平衛士或反戰暴民？哥倫比亞大學「加薩團結營地」如何點燃美國學運論戰、衝擊大選？
    </title>
    <description>
-    <![CDATA[「柯美黛」這位「城市小姐」，是怎麼一路找回自己的阿美族名字巴奈（Panai）？一個又一個的個體，如何被捲入不義制度的夾縫中，又如何在逆境中確實抵抗？]]>
+    <![CDATA[為阻止加薩戰爭擴大，4月中旬美國哥倫比亞大學學生發起占領校園示威活動，30日卻遭鎮暴警察入校清場。過往幾乎不曾衝擊美國國內政情的以巴衝突，為何前所未見地撕裂校園政治與社會輿論？]]>
    </description>
    <link>
-    https://www.twreporter.org/a/bookreview-return-to-the-motherland
+    https://www.twreporter.org/a/hello-world-2024-05-03
    </link>
    <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-return-to-the-motherland
+    https://www.twreporter.org/a/hello-world-2024-05-03
    </guid>
    <pubDate>
-    Wed, 01 May 2024 16:00:00 GMT
+    Thu, 02 May 2024 16:00:00 GMT
    </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430100347-d1b2d9df4318e2e12c2827bce774010d-mobile.jpg"/>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240503134408-69763bf8aefbdbc0ccf0376e11f8701c-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -123,6 +123,24 @@
     Wed, 01 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://storage.googleapis.com/twreporter-multimedia/images/20160818160533-03bdfbd15d5570905a6ed6983ebb938b-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    李雪莉／《巴奈回家》：為族群主流化的平等理想一起努力
+   </title>
+   <description>
+    <![CDATA[「柯美黛」這位「城市小姐」，是怎麼一路找回自己的阿美族名字巴奈（Panai）？一個又一個的個體，如何被捲入不義制度的夾縫中，又如何在逆境中確實抵抗？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-return-to-the-motherland
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-return-to-the-motherland
+   </guid>
+   <pubDate>
+    Wed, 01 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430100347-d1b2d9df4318e2e12c2827bce774010d-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -195,24 +213,6 @@
     Sat, 27 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240426031440-a1c48424eea80d189b94d7501aac5dfa-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    小月亮不一樣：在文化與身分衝突中成長，越南移民兒童陽陽的故事
-   </title>
-   <description>
-    <![CDATA[新二代的學童在學校並不少，光是陽陽班上就有3名。但陽陽不同，他過去接受的是台灣以外的教育、從未學習過中文，他無法融入、與人對話，甚至聽不懂窗外家長們在討論的是自己⋯⋯]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-vietnamese-immigrants-in-ankang-community
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-vietnamese-immigrants-in-ankang-community
-   </guid>
-   <pubDate>
-    Fri, 26 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240412160504-77ebcb9b1c124ba8f8b3bc97e3c3185f-mobile.jpg"/>
   </item>
  </channel>
 </rss>
