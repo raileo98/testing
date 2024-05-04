@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 18:22:20 +0800
+   Sat, 04 May 2024 18:33:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Liverpool questions becoming a drag for Slot
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/liverpool-questions-becoming-drag-slot-4313161
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 18:28:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/liverpool-questions-becoming-drag-slot-4313161
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NWLrQX3b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-04t102826z_1_lynxmpek43034_rtroptp_3_soccer-champions-fey-atm-report.jpg?itok=o3FrR9vF" width="1600"/>
+  </item>
   <item>
    <title>
     Pakistan records 'wettest April' in more than 60 years: Weather agency
@@ -438,27 +459,6 @@
     Business ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nV8PwUI9--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-07t213929z_1_lynxmpek160xq_rtroptp_3_murdoch-fox.jpg?itok=ajrCZ5R-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hugh Jackman hints at 'different' Wolverine in Deadpool &amp; Wolverine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/hugh-jackman-hints-different-wolverine-4312686
-   </link>
-   <description>
-    <![CDATA[Hugh Jackman has suggested that fans will get to see "different sides" to his superhero Wolverine in the upcoming blockbuster Deadpool & Wolverine.]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 08:47:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/hugh-jackman-hints-different-wolverine-4312686
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ke_xc-ah--/c_crop,h_675,w_1200,x_0,y_100/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/04/1714722285cropped4128x5504.jpg?itok=AnSv19gu" width="1600"/>
   </item>
  </channel>
 </rss>
