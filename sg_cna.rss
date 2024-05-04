@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 21:25:28 +0800
+   Sat, 04 May 2024 21:35:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Vietnam police arrest former head of government office amid anti-graft crackdown
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/vietnam-corruption-mai-tien-dung-arrested-former-head-government-office-4313216
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 21:26:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/vietnam-corruption-mai-tien-dung-arrested-former-head-government-office-4313216
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oiaZYqvu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/04/000_cl89q.jpg?itok=oqfWO28o" width="1600"/>
+  </item>
   <item>
    <title>
     Gaza ceasefire talks intensify in Egypt
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fkr8XXWK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-04t074223z_1_lynxmpek4301i_rtroptp_3_cycling-world.jpg?itok=W8iK4f7k" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Martial arts legend Sammo Hung discusses his career and the differences between acting in the US and Hong Kong
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/sammo-hung-singapore-4312966
-   </link>
-   <description>
-    <![CDATA[Hung is currently in Singapore for the Asian Film Awards Academy’s masterclass series, where he will share his experiences during a two-hour-long session held at LASALLE College of the Arts.]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 14:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/sammo-hung-singapore-4312966
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SgWnGliV--/c_crop,h_731,w_1299,x_1,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/04/sammo-hung_3.jpg?itok=GA_qbzYo" width="1600"/>
   </item>
  </channel>
 </rss>
