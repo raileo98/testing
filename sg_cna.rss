@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 17:41:24 +0800
+   Sat, 04 May 2024 17:46:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    England's Kirby to leave Chelsea at end of season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/englands-kirby-leave-chelsea-end-season-4313106
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 17:39:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/englands-kirby-leave-chelsea-end-season-4313106
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aK-FOdpO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-04t093943z_1_lynxmpek43026_rtroptp_3_soccer-champions-che-hac-report.jpg?itok=t6fq8E4P" width="1600"/>
+  </item>
   <item>
    <title>
     Beterbiev injury forces postponement of title bout with Bivol
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zGpGtCAQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/election_2022_texas_house_38704.jpg?itok=-LcTzczn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    The misadventures of a daughter teaching her senior parents about texting and social media
-   </title>
-   <link>
-    https://www.channelnewsasia.com/living/elderly-senior-parents-using-technology-phones-4294961
-   </link>
-   <description>
-    <![CDATA[“Do I have to be an influencer before my parents will listen to me?” ponders CNA Lifestyle’s Khoo Bee Khim, who is trying to figure out, amongst other things, why her folks can recall 4D numbers but not their passwords.]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 08:32:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/living/elderly-senior-parents-using-technology-phones-4294961
-   </guid>
-   <category>
-    Living ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f1WtzZJD--/c_crop,h_900,w_1600,x_0,y_130/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/iStock-1296690201.jpg?itok=jEmRCL1t" width="1600"/>
   </item>
  </channel>
 </rss>
