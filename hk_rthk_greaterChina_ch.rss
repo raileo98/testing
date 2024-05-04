@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 04 May 2024 11:20:16 +0800
+   Sat, 04 May 2024 12:01:42 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 04 May 2024 09:54:53 +0800
+   Sat, 04 May 2024 11:23:15 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    中央氣象台料廣東廣西等地有大到暴雨　需防範對五一返程不利影響
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751758-20240504.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751758-20240504.htm
+   </link>
+   <description>
+    <![CDATA[中央氣象台早上繼續發布暴雨黃色預警及強對流天氣藍色預警，預計今日日間至夜間，是本輪強降雨的最強時段，廣東大部、廣西中東部、福建西部和東南部等地部分地區有大到暴雨，其中廣東北部部分地區有大暴雨。廣東中部和西部部分地區將有雷暴大風或冰雹天氣。明天起，江南及華南一帶的雨勢將明顯減弱，但廣東、廣西及福建等地仍有小到中雨。
+
+中央氣象台在網站提醒，今明兩天是五一假期返程高峰，呼籲民眾關注預報預警信息，做好暴雨次生災害防禦。受持續降雨影響，部分地區土壤含水量高，發生山洪及地質災害風險較高，民眾應避免靠近河谷及山間等危險地帶，提防雷電、冰雹等強對流天氣的危害。]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 11:23:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     黃坤明稱廣東省上下要認清汛期交通風險挑戰　全面排查隱患
@@ -447,27 +466,6 @@
    </description>
    <pubDate>
     Thu, 02 May 2024 17:52:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    梅大高速公路塌方致48死　應急官員稱救援工作有難度
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751502-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751502-20240502.htm
-   </link>
-   <description>
-    <![CDATA[廣東梅大高速公路日前塌方已致48人死亡。當局舉行救援記者會，出席的梅州市委書記馬正勇先與在場人員，一同向死難者表示哀悼。
-
-梅州市長王暉表示，會把握72小時黃金救人時間，又會確保五一期間道路安全工作，保障人民民眾生命安全。
-
-梅州負責應急的官員表示，救援困難在於部分車輛陷入泥土後被淹埋，部分車輛燃燒，加上泥土鬆軟，大型救援裝備難以進入，只在周邊搶救，當局已打通三條救援通道，進行搶救，將不停輪班進行救援，確保不遺留任何車輛，確保不發生次生災害。]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:01:00 +0800
    </pubDate>
   </item>
  </channel>
