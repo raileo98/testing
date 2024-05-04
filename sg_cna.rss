@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 04 May 2024 19:52:33 +0800
+   Sat, 04 May 2024 20:10:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Gaia Series 37: Magazine "Halmek" Amazing Ability
+   </title>
+   <link>
+    https://www.channelnewsasia.com/japan-hour/gaia-series-37-magazine-halmek-amazing-ability-4311071
+   </link>
+   <description>
+    <![CDATA[Halmek, Japan's leading magazine for women over fifty, combines engaging content with reader-driven product development, defying digital trends and fostering deep connections with its audience.]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 20:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/japan-hour/gaia-series-37-magazine-halmek-amazing-ability-4311071
+   </guid>
+   <category>
+    Japan Hour
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KOKKdgv_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/ep_17_pix_1.png?itok=VgrtGFd0" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Top four win, Reds break hoodoo as Tonga welcomes Super Rugby
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/top-four-win-reds-break-hoodoo-tonga-welcomes-super-rugby-4313221
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 04 May 2024 19:56:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/top-four-win-reds-break-hoodoo-tonga-welcomes-super-rugby-4313221
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Roma will be hungry after Leverkusen loss, says Juve's Allegri
@@ -363,7 +405,7 @@
     https://www.channelnewsasia.com/singapore/heavy-rain-changi-airport-flight-delay-flash-flood-singapore-4312831
    </link>
    <description>
-    <![CDATA[]]>
+    <![CDATA[The amount of rainfall recorded in western Singapore over six hours was equivalent to 65 per cent of the average monthly rainfall in May, says national water agency PUB.]]>
    </description>
    <pubDate>
     Sat, 04 May 2024 12:06:00 +0800
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GAV7_uan--/c_crop,h_575,w_1023,x_1,y_85/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/22/ap24081583973064.jpg?itok=a0AwpQNp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chris Hemsworth on his antagonistic role in Furiosa: A Mad Max Saga
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/chris-hemsworth-furiosa-role-4312701
-   </link>
-   <description>
-    <![CDATA[Chris Hemsworth embraced the opportunity to be a villain in Furiosa: A Mad Max Saga after so many years as the heroic Thor in the Marvel blockbusters.]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 08:59:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/chris-hemsworth-furiosa-role-4312701
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GAV7_uan--/c_crop,h_575,w_1023,x_1,y_85/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/22/ap24081583973064.jpg?itok=a0AwpQNp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Wall Street Journal moves Asia HQ from Hong Kong to Singapore, resulting in layoffs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/wall-street-journal-moves-asia-hq-hong-kong-singapore-resulting-layoffs-4312706
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 08:57:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/wall-street-journal-moves-asia-hq-hong-kong-singapore-resulting-layoffs-4312706
-   </guid>
-   <category>
-    Business ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nV8PwUI9--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-07t213929z_1_lynxmpek160xq_rtroptp_3_murdoch-fox.jpg?itok=ajrCZ5R-" width="1600"/>
   </item>
  </channel>
 </rss>
