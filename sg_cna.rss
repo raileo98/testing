@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 14:50:51 +0800
+   Sun, 05 May 2024 15:05:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rescuers brave Indonesia volcano eruptions to save pets
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-volcano-pets-4314176
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 14:53:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-volcano-pets-4314176
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EjJnhk-n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/8cd06a09e85a498636abffa7cdcc8afed745e414.jpg?itok=nXcEbCZB" width="1600"/>
+  </item>
   <item>
    <title>
     Alvarez retains titles with unanimous victory over Munguia
@@ -438,27 +459,6 @@
     Commentary ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v-mspzfC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_arp2590385.jpg?itok=UPYaZcLn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Inside Malaysia’s express buses: From Singapore to KL, with caution
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cna-insider/how-safe-express-buses-malaysia-kuala-lumpur-accidents-overnight-4310876
-   </link>
-   <description>
-    <![CDATA[Between 2022 and this March, there were at least 32 reports of express bus accidents in Malaysia. The programme Talking Point digs into the safety issues and finds out what travellers should do if they meet with an accident.]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cna-insider/how-safe-express-buses-malaysia-kuala-lumpur-accidents-overnight-4310876
-   </guid>
-   <category>
-    CNA Insider ,Singapore ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rONaOnTN--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/picture1.jpg?itok=P_m0tJPB" width="1600"/>
   </item>
  </channel>
 </rss>
