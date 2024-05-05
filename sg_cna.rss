@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 18:58:49 +0800
+   Sun, 05 May 2024 19:16:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Death toll from Kenya floods rises to 228
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/death-toll-kenya-floods-rises-228-4314296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 19:10:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/death-toll-kenya-floods-rises-228-4314296
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_cFrP__0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t102403z_2_lynxmpek4402h_rtroptp_3_kenya-floods.jpg?itok=IR4SmiFc" width="1600"/>
+  </item>
   <item>
    <title>
     Bayern's Guerreiro to miss Real Madrid clash due to ankle injury
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FbuELnh5--/c_crop,h_449,w_799,x_1,y_20/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2023-10-17t223020z_1_lynxmpej9g14g_rtroptp_3_people-britney-spears.jpg?itok=AqsfrR6P" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Can a sound bath wash away your worries? Are there health benefits to listening to gongs?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/wellness/sound-bath-meditate-health-benefits-4301296
-   </link>
-   <description>
-    <![CDATA[We asked experts about the health benefits of listening to gongs, chimes and crystal bowls.]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 08:34:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/wellness/sound-bath-meditate-health-benefits-4301296
-   </guid>
-   <category>
-    Wellness ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MGsxv2dn--/c_crop,h_2173,w_3864,x_0,y_348/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/istock-1480755101.jpg?itok=6eneWOF9" width="1600"/>
   </item>
  </channel>
 </rss>
