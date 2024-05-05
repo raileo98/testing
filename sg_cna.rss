@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 21:09:52 +0800
+   Sun, 05 May 2024 21:24:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Race against time to rescue Brazil flood victims after dozens killed
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/race-against-time-rescue-brazil-flood-victims-after-dozens-killed-4314276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 21:16:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/race-against-time-rescue-brazil-flood-victims-after-dozens-killed-4314276
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wmcwL5sS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/584df3e7f6df98f50b954a121cf42002a2b6d793.jpg?itok=io4Xrt5x" width="1600"/>
+  </item>
+  <item>
+   <title>
     IMF says its mission will visit Pakistan this month to discuss new loan
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Sun, 05 May 2024 21:00:28 +0800
+    Sun, 05 May 2024 21:00:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/imf-says-its-mission-will-visit-pakistan-month-discuss-new-loan-4314431
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WDBPyeZ2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130028z_1_lynxmpek4403x_rtroptp_3_imf-ecuador.jpg?itok=vYVzJk3O" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SPBuVWpb--/c_crop,h_450,w_800,x_0,y_35/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130028z_1_lynxmpek4403x_rtroptp_3_imf-ecuador.jpg?itok=vYVzJk3O" width="1600"/>
   </item>
   <item>
    <title>
@@ -156,7 +177,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Sun, 05 May 2024 20:17:57 +0800
+    Sun, 05 May 2024 20:17:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/psv-eindhoven-secure-first-dutch-league-title-six-years-4314391
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EjJnhk-n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/8cd06a09e85a498636abffa7cdcc8afed745e414.jpg?itok=nXcEbCZB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Alvarez retains titles with unanimous victory over Munguia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/alvarez-retains-titles-unanimous-victory-over-munguia-4314186
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 13:37:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/alvarez-retains-titles-unanimous-victory-over-munguia-4314186
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pSyZCnQB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t053723z_1_lynxmpek4400z_rtroptp_3_boxing-supermiddleweight-alvarez-ryder.jpg?itok=zzS5DYLX" width="1600"/>
   </item>
  </channel>
 </rss>
