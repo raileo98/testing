@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 01:19:32 +0800
+   Mon, 06 May 2024 01:24:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    West Ham's Moyes says players must take responsibility after 5-0 thrashing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/west-hams-moyes-says-players-must-take-responsibility-after-5-0-thrashing-4314641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 01:22:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/west-hams-moyes-says-players-must-take-responsibility-after-5-0-thrashing-4314641
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h-NSOVz9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t172246z_1_lynxmpek4406g_rtroptp_3_soccer-england-che-whu-report.jpg?itok=D1nUkEMz" width="1600"/>
+  </item>
   <item>
    <title>
     Man Utd's Maguire expected to miss three weeks with muscle injury
@@ -438,27 +459,6 @@
     Sport ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AOc3Fg3o--/c_crop,h_432,w_768,x_0,y_23/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d2b3f7f3e2c8914d3d0603a085bcc56c30066f82.jpg?itok=bGck-0o7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New Zealand send Olympics warning after twin wins at Singapore Rugby Sevens
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/rugby-singapore-sevens-new-zealand-double-4314336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 20:19:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/rugby-singapore-sevens-new-zealand-double-4314336
-   </guid>
-   <category>
-    Sport ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a3gFoWkr--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/1456a6d49e2e126454200d02ac22f69b9a41bd60.jpg?itok=kxMwA5S1" width="1600"/>
   </item>
  </channel>
 </rss>
