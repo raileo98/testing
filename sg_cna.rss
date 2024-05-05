@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 19:45:43 +0800
+   Sun, 05 May 2024 19:54:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israeli cabinet moves to close Al Jazeera's local operations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israeli-cabinet-moves-close-al-jazeeras-local-operations-4314286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 19:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israeli-cabinet-moves-close-al-jazeeras-local-operations-4314286
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--utkcMPAY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t111409z_2_lynxmpek4402g_rtroptp_3_palestinians-israel-qatar-aljazeera.jpg?itok=aiygVXcF" width="1600"/>
+  </item>
   <item>
    <title>
     China wins Uber Cup for 16th time, beats Indonesia 3-0 in final
@@ -417,27 +438,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RsmN0qis--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/05/ap24126211805310.jpg?itok=AZNqtpPl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    North Korea's UN ambassador says new sanctions monitoring groups will fail
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/north-korea-un-ambassador-nuclear-sanctions-4313951
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 09:41:43 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/north-korea-un-ambassador-nuclear-sanctions-4313951
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IfpJqZvV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t005535z_1_lynxmpek44008_rtroptp_3_northkorea-un.jpg?itok=Wwaa4SVY" width="1600"/>
   </item>
   <item>
    <title>
