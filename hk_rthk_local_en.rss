@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 05 May 2024 15:20:28 +0800
+   Sun, 05 May 2024 15:30:34 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 05 May 2024 13:27:22 +0800
+   Sun, 05 May 2024 15:22:33 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Govt depts told to review data security measures
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751873-20240505.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751873-20240505.htm
+   </link>
+   <description>
+    <![CDATA[The government's top IT office on Sunday said it was asking all bureaus and departments to comprehensively review their data security measures, and reply within a week.
+
+This came after reports of two data leaks in the past few days, involving the Companies Registry and the Electrical and Mechanical Services Department (EMSD).
+
+The registry said on Friday the data of some 110,000 people had been exposed due to a fault in its digital platform.
+
+The day before, the EMSD apologised over the data leak of some 17,000 public housing residents who had to undergo mandatory Covid tests in 2022.
+
+Addressing the issue on social media, the Office of the Government Chief Information Officer said it's highly concerned about the incidents.
+
+It said it had again sent clear directives to the heads of bureaus and departments about the reviews.
+
+"We also reminded all users and systems under the departments that they must stringently comply with the government's rules, policies and guidelines on data security in handling sensitive and personal information," it said in the post.
+
+The office added this includes never storing data on publicly-owned cloud platforms.]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 15:22:33 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Pledge to lessen impact of transport subsidy changes
@@ -636,31 +667,6 @@ But Lee Wai-hung, a senior Chinese history teacher at Fukien Secondary School (S
    </description>
    <pubDate>
     Fri, 03 May 2024 16:07:35 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong experienced hottest April on record
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751642-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751642-20240503.htm
-   </link>
-   <description>
-    <![CDATA[The Hong Kong Observatory on Friday said Hong Kong has just experienced the warmest April on record, with the hottest day reaching almost 32 degrees Celsius.  
-
-The monthly mean temperature was 26.4 degrees – 3.4 degrees higher than usual.
-
-The observatory said the hot weather was down to a warmer than normal sea surface temperature and unusually strong southerly air flows over the northern part of the South China Sea.
-
-“Affected by an anticyclone aloft and the subsequent southerly airstream, it was generally fine and hot during the day from April 11 to 17. With plenty of sunshine, the temperatures at the observatory rose to a maximum of 31.9 degrees on the afternoon of April 13, the highest of the month,” it said. 
-
-The forecaster added that the SAR was also a lot wetter than usual last month, with total rainfall of 257.1 millimetres – almost 70 percent more than usual.]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 15:58:40 +0800
    </pubDate>
   </item>
  </channel>
