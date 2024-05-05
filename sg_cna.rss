@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 22:05:31 +0800
+   Sun, 05 May 2024 22:23:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bangladesh reopens schools as searing temperatures drop
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/bangladesh-reopens-schools-searing-temperatures-drop-4314436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 22:11:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/bangladesh-reopens-schools-searing-temperatures-drop-4314436
+   </guid>
+   <category>
+    Asia ,Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X6TQxCcJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130257z_1_lynxmpek4403z_rtroptp_3_asia-weather-bangladesh.jpg?itok=HudlLzmT" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Bangladesh reopens schools as searing temperatures drop
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/bangladesh-reopens-schools-searing-temperatures-drop-4314436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 22:11:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/bangladesh-reopens-schools-searing-temperatures-drop-4314436
+   </guid>
+   <category>
+    Asia ,Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X6TQxCcJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130257z_1_lynxmpek4403z_rtroptp_3_asia-weather-bangladesh.jpg?itok=HudlLzmT" width="1600"/>
+  </item>
   <item>
    <title>
     Race against time to rescue Brazil flood victims after dozens killed
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--G76ew-c9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t084036z_1_lynxmpek4401o_rtroptp_3_soccer-europa-att-liv-preview.jpg?itok=bn0OJrMm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Foxconn reiterates Q2 revenue to grow, posts record April sales
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-4314236
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 16:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-4314236
-   </guid>
-   <category>
-    Business ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XnOCGWVi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t080922z_1_lynxmpek4401g_rtroptp_3_taiwan-foxconn.jpg?itok=PBGWVrs3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Foxconn reiterates Q2 revenue to grow, posts record April sales
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-4314236
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 16:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/foxconn-reiterates-q2-revenue-grow-posts-record-april-sales-4314236
-   </guid>
-   <category>
-    Business ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XnOCGWVi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t080922z_1_lynxmpek4401g_rtroptp_3_taiwan-foxconn.jpg?itok=PBGWVrs3" width="1600"/>
   </item>
  </channel>
 </rss>
