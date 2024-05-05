@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 02:20:39 +0800
+   Mon, 06 May 2024 02:30:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Milan held to thrilling 3-3 draw by Genoa
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/milan-held-thrilling-3-3-draw-genoa-4314716
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 02:21:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/milan-held-thrilling-3-3-draw-genoa-4314716
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Emery urges Villa to recover energy in battle for Champions League spot
@@ -353,7 +374,7 @@
    <category>
     World ,Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KB9ezrcQ--/c_crop,h_450,w_800,x_0,y_16/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t145724z_1_lynxmpek4404v_rtroptp_3_eu-china-arrival.jpg?itok=LDBJwFpz" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Pk9ii4sD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t145724z_1_lynxmpek4404w_rtroptp_3_eu-china-arrival.jpg?itok=KX8YdG8g" width="1600"/>
   </item>
   <item>
    <title>
@@ -374,7 +395,7 @@
    <category>
     World ,Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KB9ezrcQ--/c_crop,h_450,w_800,x_0,y_16/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t145724z_1_lynxmpek4404v_rtroptp_3_eu-china-arrival.jpg?itok=LDBJwFpz" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Pk9ii4sD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t145724z_1_lynxmpek4404w_rtroptp_3_eu-china-arrival.jpg?itok=KX8YdG8g" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wmcwL5sS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/584df3e7f6df98f50b954a121cf42002a2b6d793.jpg?itok=io4Xrt5x" width="1600"/>
-  </item>
-  <item>
-   <title>
-    IMF says its mission will visit Pakistan this month to discuss new loan
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/imf-says-its-mission-will-visit-pakistan-month-discuss-new-loan-4314431
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 21:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/imf-says-its-mission-will-visit-pakistan-month-discuss-new-loan-4314431
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SPBuVWpb--/c_crop,h_450,w_800,x_0,y_35/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130028z_1_lynxmpek4403x_rtroptp_3_imf-ecuador.jpg?itok=vYVzJk3O" width="1600"/>
   </item>
  </channel>
 </rss>
