@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 05:20:12 +0800
+   Mon, 06 May 2024 05:30:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pioli respects silent protest from Milan fans
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pioli-respects-silent-protest-milan-fans-4314901
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 05:25:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pioli-respects-silent-protest-milan-fans-4314901
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_nWzLEKo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t212526z_1_lynxmpek44093_rtroptp_3_soccer-italy-mil-gen-report.jpg?itok=k1F1MwnF" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Rejuvenated Liverpool dent Tottenham's Champions League dreams
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/rejuvenated-liverpool-dent-tottenhams-champions-league-dreams-4314666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 05:23:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/rejuvenated-liverpool-dent-tottenhams-champions-league-dreams-4314666
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fGyM6fUW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/89c01a6416f536d76967ece0531105b3f0bd9072.jpg?itok=SKcdbO6F" width="1600"/>
+  </item>
   <item>
    <title>
     Juve miss chance to close gap to second after draw with Roma
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QvrnyK_1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t161840z_1_lynxmpek44061_rtroptp_3_rugby-union-champions-len-tou.jpg?itok=RS_gjjqm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pogacar powers into Maglia Rosa with Giro stage win
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pogacar-powers-maglia-rosa-giro-stage-win-4314561
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 23:37:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pogacar-powers-maglia-rosa-giro-stage-win-4314561
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Brighton edge Villa 1-0 to snap winless run
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/brighton-edge-villa-1-0-snap-winless-run-4314531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 23:21:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/brighton-edge-villa-1-0-snap-winless-run-4314531
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
