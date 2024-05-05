@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 00:20:43 +0800
+   Mon, 06 May 2024 00:30:50 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 05 May 2024 22:26:41 +0800
+   Mon, 06 May 2024 00:26:09 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    湯優盃決賽：中國隊時隔12年再次包攬湯姆斯盃和優霸盃雙冠
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751912-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751912-20240506.htm
+   </link>
+   <description>
+    <![CDATA[在四川成都舉行的世界羽聯男女團體錦標賽，中國隊時隔12年再次同時包攬湯姆斯盃和優霸盃雙冠軍。
+
+在晚上進行的湯姆斯盃決賽中，中國隊以3比1戰勝印尼隊，時隔六年重奪冠軍，亦是國羽男隊第11次獲得湯姆斯盃冠軍。
+
+而在上午進行的優霸盃決賽，國羽女隊以3比0擊敗印尼隊奪得冠軍，第16次奪得優霸盃冠軍。]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 00:26:09 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     習近平：希望創造中法關係更加美好未來
@@ -465,27 +486,6 @@
    </description>
    <pubDate>
     Fri, 03 May 2024 20:13:12 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    新華社報道嫦娥六號　發射成功
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751681-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751681-20240503.htm
-   </link>
-   <description>
-    <![CDATA[嫦娥六號探測器由長征五號遙八運載火箭搭載發射，之後準確進入地月轉移軌道，國家航天局宣布，發射取得圓滿成功。
-
-嫦娥六號探測器下午5時27分在文昌航天發射場升空。發射前，發射場一帶有雨，但並無影響發射。發射後約一小時內，嫦娥六號成功與長征五號遙八運載火箭分離，嫦娥六號並順利伸展太陽帆板，現時正飛向月球。
-
-嫦娥六號探測器開啟世界首次月球背面採樣返回之旅，預選著陸和採樣區為月球背面南極艾特肯盆地。]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 19:09:54 +0800
    </pubDate>
   </item>
  </channel>

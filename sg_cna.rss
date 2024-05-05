@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 00:26:05 +0800
+   Mon, 06 May 2024 00:31:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blackstenius bags brace as Arsenal stun Man City 2-1 in WSL
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/blackstenius-bags-brace-arsenal-stun-man-city-2-1-wsl-4314601
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 00:25:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/blackstenius-bags-brace-arsenal-stun-man-city-2-1-wsl-4314601
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9TTszHih--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t162555z_1_lynxmpek44063_rtroptp_3_soccer-euro-eng-swe-report.jpg?itok=SRpNVZr6" width="1600"/>
+  </item>
   <item>
    <title>
     Toulouse hold off Harlequins to win 38-26 in Champions Cup semi-final
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7kEZXvuT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t121757z_1_lynxmpek4403g_rtroptp_3_soccer-europa-psv-soc-report.jpg?itok=6Uz47EE8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israeli Cabinet moves to close Al Jazeera's local operations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israeli-cabinet-moves-close-al-jazeeras-local-operations-4314286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 19:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israeli-cabinet-moves-close-al-jazeeras-local-operations-4314286
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9KvijUaD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t151556z_4_lynxmpek4402g_rtroptp_3_palestinians-israel-qatar-aljazeera.jpg?itok=W9Cuxd_V" width="1600"/>
   </item>
  </channel>
 </rss>
