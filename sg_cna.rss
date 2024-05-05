@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 21:24:45 +0800
+   Sun, 05 May 2024 21:26:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -78,7 +78,28 @@
     https://www.channelnewsasia.com/business/imf-says-its-mission-will-visit-pakistan-month-discuss-new-loan-4314431
    </guid>
    <category>
-    Business
+    Business ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SPBuVWpb--/c_crop,h_450,w_800,x_0,y_35/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130028z_1_lynxmpek4403x_rtroptp_3_imf-ecuador.jpg?itok=vYVzJk3O" width="1600"/>
+  </item>
+  <item>
+   <title>
+    IMF says its mission will visit Pakistan this month to discuss new loan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/imf-says-its-mission-will-visit-pakistan-month-discuss-new-loan-4314431
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 21:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/imf-says-its-mission-will-visit-pakistan-month-discuss-new-loan-4314431
+   </guid>
+   <category>
+    Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SPBuVWpb--/c_crop,h_450,w_800,x_0,y_35/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130028z_1_lynxmpek4403x_rtroptp_3_imf-ecuador.jpg?itok=vYVzJk3O" width="1600"/>
   </item>
@@ -438,27 +459,6 @@
     Business ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XnOCGWVi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t080922z_1_lynxmpek4401g_rtroptp_3_taiwan-foxconn.jpg?itok=PBGWVrs3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rescuers brave Indonesia volcano eruptions to save pets
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-volcano-pets-4314176
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 14:53:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-mount-ruang-volcano-pets-4314176
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EjJnhk-n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/8cd06a09e85a498636abffa7cdcc8afed745e414.jpg?itok=nXcEbCZB" width="1600"/>
   </item>
  </channel>
 </rss>
