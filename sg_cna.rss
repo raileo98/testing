@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 03:52:51 +0800
+   Mon, 06 May 2024 04:16:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rublev downs Auger-Aliassime to win Madrid Open title
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/rublev-downs-auger-aliassime-win-madrid-open-title-4314811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 04:01:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/rublev-downs-auger-aliassime-win-madrid-open-title-4314811
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     UN accuses Israel of denying Gaza aid access as famine takes hold
@@ -294,10 +315,10 @@
   </item>
   <item>
    <title>
-    Blackstenius bags brace as Arsenal stun Man City 2-1 in WSL
+    Arsenal stun Man City 2-1 in WSL, Chelsea back in title hunt
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/blackstenius-bags-brace-arsenal-stun-man-city-2-1-wsl-4314601
+    https://www.channelnewsasia.com/sport/arsenal-stun-man-city-2-1-wsl-chelsea-back-title-hunt-4314601
    </link>
    <description>
     <![CDATA[]]>
@@ -306,7 +327,7 @@
     Mon, 06 May 2024 00:25:55 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/blackstenius-bags-brace-arsenal-stun-man-city-2-1-wsl-4314601
+    https://www.channelnewsasia.com/sport/arsenal-stun-man-city-2-1-wsl-chelsea-back-title-hunt-4314601
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Living ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Z_w-tNEV--/c_crop,h_900,w_1600,x_0,y_112/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/05/Sam%20Thambi%20Magazine%20closing%20day%20hero%20pic.jpg?itok=3ltnDHD-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chelsea lift European chances with 5-0 drubbing of West Ham
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/chelsea-boost-european-chances-5-0-drubbing-west-ham-4314521
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 23:09:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/chelsea-boost-european-chances-5-0-drubbing-west-ham-4314521
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
