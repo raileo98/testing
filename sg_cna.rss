@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 02:47:33 +0800
+   Mon, 06 May 2024 03:02:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hamas, Israel entrench Gaza truce positions as latest Cairo talks end
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/hamas-israel-entrench-gaza-truce-positions-latest-cairo-talks-end-4314081
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 03:01:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/hamas-israel-entrench-gaza-truce-positions-latest-cairo-talks-end-4314081
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HqqMlpqJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0724e1470d35ffd3fa79cb6597730d9462630572.jpg?itok=HpaCk5If" width="1600"/>
+  </item>
   <item>
    <title>
     Milan held to thrilling 3-3 draw by Genoa
@@ -438,27 +459,6 @@
     Asia ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X6TQxCcJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t130257z_1_lynxmpek4403z_rtroptp_3_asia-weather-bangladesh.jpg?itok=HudlLzmT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Race against time to rescue Brazil flood victims after dozens killed
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/race-against-time-rescue-brazil-flood-victims-after-dozens-killed-4314276
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 21:16:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/race-against-time-rescue-brazil-flood-victims-after-dozens-killed-4314276
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wmcwL5sS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/584df3e7f6df98f50b954a121cf42002a2b6d793.jpg?itok=io4Xrt5x" width="1600"/>
   </item>
  </channel>
 </rss>
