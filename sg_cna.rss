@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 16:47:02 +0800
+   Sun, 05 May 2024 16:56:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -123,6 +123,27 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pSyZCnQB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t053723z_1_lynxmpek4400z_rtroptp_3_boxing-supermiddleweight-alvarez-ryder.jpg?itok=zzS5DYLX" width="1600"/>
+  </item>
+  <item>
+   <title>
+    India's Siraj regains rhythm ahead of T20 World Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/indias-siraj-regains-rhythm-ahead-t20-world-cup-4314191
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 13:34:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/indias-siraj-regains-rhythm-ahead-t20-world-cup-4314191
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o6J16-rv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t084413z_1_lynxmpek4401p_rtroptp_3_cricket-test-ind-eng.jpg?itok=TXx2uwF0" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Commentary ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v-mspzfC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_arp2590385.jpg?itok=UPYaZcLn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Inside Malaysia’s express buses: From Singapore to KL, with caution
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cna-insider/how-safe-express-buses-malaysia-kuala-lumpur-accidents-overnight-4310876
-   </link>
-   <description>
-    <![CDATA[Between 2022 and this March, there were at least 32 reports of express bus accidents in Malaysia. The programme Talking Point digs into the safety issues and finds out what travellers should do if they meet with an accident.]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cna-insider/how-safe-express-buses-malaysia-kuala-lumpur-accidents-overnight-4310876
-   </guid>
-   <category>
-    CNA Insider ,Singapore ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rONaOnTN--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/picture1.jpg?itok=P_m0tJPB" width="1600"/>
   </item>
  </channel>
 </rss>
