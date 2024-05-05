@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 00:45:57 +0800
+   Mon, 06 May 2024 01:05:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pochettino's Chelsea take 'massive step' after stop-start season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pochettinos-chelsea-take-massive-step-after-stop-start-season-4314621
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 01:02:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pochettinos-chelsea-take-massive-step-after-stop-start-season-4314621
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Blackstenius bags brace as Arsenal stun Man City 2-1 in WSL
@@ -438,27 +459,6 @@
     Sport ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a3gFoWkr--/c_crop,h_432,w_768,x_0,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/1456a6d49e2e126454200d02ac22f69b9a41bd60.jpg?itok=kxMwA5S1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PSV Eindhoven secure first Dutch league title in six years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/psv-eindhoven-secure-first-dutch-league-title-six-years-4314391
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 20:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/psv-eindhoven-secure-first-dutch-league-title-six-years-4314391
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7kEZXvuT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t121757z_1_lynxmpek4403g_rtroptp_3_soccer-europa-psv-soc-report.jpg?itok=6Uz47EE8" width="1600"/>
   </item>
  </channel>
 </rss>
