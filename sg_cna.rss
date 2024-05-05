@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 17:46:16 +0800
+   Sun, 05 May 2024 18:06:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Woman in Wake Up Singapore KKH miscarriage article to be charged with defamation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/wake-singapore-kkh-miscarriage-article-woman-be-charged-defamation-4314241
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 17:57:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/wake-singapore-kkh-miscarriage-article-woman-be-charged-defamation-4314241
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wkLpJir9--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/23/IMG_8081.jpg?itok=MrOss6YY" width="1600"/>
+  </item>
   <item>
    <title>
     Klopp confident successor can hit the ground running with 'Liverpool 2.0'
@@ -438,27 +459,6 @@
     Women ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E3-36oTi--/c_crop,h_720,w_1280,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/30/angie_tan-dbs_legal_counsel.jpeg?itok=SZEw59SJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Inter's Inzaghi aims to keep title-winning squad intact for next season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/inters-inzaghi-aims-keep-title-winning-squad-intact-next-season-4313851
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 06:47:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/inters-inzaghi-aims-keep-title-winning-squad-intact-next-season-4313851
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PMuduF6t--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-04t224756z_1_lynxmpek430b2_rtroptp_3_soccer-italy-sas-int-report.jpg?itok=UX0B-vO1" width="1600"/>
   </item>
  </channel>
 </rss>
