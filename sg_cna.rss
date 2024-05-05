@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 05 May 2024 15:05:39 +0800
+   Sun, 05 May 2024 15:10:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -357,27 +357,6 @@
   </item>
   <item>
    <title>
-    Commentary: What TikTok and Tesla tell us about pragmatism in the US and China
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/us-tiktok-ban-data-security-china-tesla-invest-ev-4311041
-   </link>
-   <description>
-    <![CDATA[Both Washington and Beijing juggle security fears with commercial interests and political influence in their policy positions, says John Thornhill for the Financial Times.]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/us-tiktok-ban-data-security-china-tesla-invest-ev-4311041
-   </guid>
-   <category>
-    Commentary ,Business ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2ytP79tK--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/tiktok_tesla_logos.jpg?itok=EB9Nzcci" width="1600"/>
-  </item>
-  <item>
-   <title>
     New master plan to save Indonesia’s Jakarta from urban woes, with Jokowi’s son Gibran touted to helm efforts
    </title>
    <link>
@@ -459,6 +438,27 @@
     Commentary ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v-mspzfC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_arp2590385.jpg?itok=UPYaZcLn" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Inside Malaysia’s express buses: From Singapore to KL, with caution
+   </title>
+   <link>
+    https://www.channelnewsasia.com/cna-insider/how-safe-express-buses-malaysia-kuala-lumpur-accidents-overnight-4310876
+   </link>
+   <description>
+    <![CDATA[Between 2022 and this March, there were at least 32 reports of express bus accidents in Malaysia. The programme Talking Point digs into the safety issues and finds out what travellers should do if they meet with an accident.]]>
+   </description>
+   <pubDate>
+    Sun, 05 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/cna-insider/how-safe-express-buses-malaysia-kuala-lumpur-accidents-overnight-4310876
+   </guid>
+   <category>
+    CNA Insider ,Singapore ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rONaOnTN--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/picture1.jpg?itok=P_m0tJPB" width="1600"/>
   </item>
  </channel>
 </rss>
