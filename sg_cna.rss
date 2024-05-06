@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 12:06:27 +0800
+   Mon, 06 May 2024 12:25:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Indonesia posts quicker-than-expected Q1 GDP growth yr/yr
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indonesias-q1-gdp-growth-beats-forecasts-highest-3-qtrs-4315341
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 12:16:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indonesias-q1-gdp-growth-beats-forecasts-highest-3-qtrs-4315341
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PhoNIyGd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t042121z_2_lynxmpek4502f_rtroptp_3_indonesia-economy-gdp.jpg?itok=TSgREf_l" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Sinner to play in French Open only if 100% fit
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/sinner-play-french-open-only-if-100-fit-4315336
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 12:16:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/sinner-play-french-open-only-if-100-fit-4315336
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8gfgNE7q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t041612z_1_lynxmpek4502e_rtroptp_3_tennis-madrid.jpg?itok=cMdSE08j" width="1600"/>
+  </item>
   <item>
    <title>
     Woman charged with defaming KKH by sending false account of miscarriage to Wake Up Singapore
@@ -420,48 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    From Trump to Verstappen everyone celebrates Norris win
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/trump-verstappen-everyone-celebrates-norris-win-4315171
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 10:08:33 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/trump-verstappen-everyone-celebrates-norris-win-4315171
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Actor Bernard Hill, of Titanic and Lord Of The Rings, has died at 79
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/bernard-hill-died-actor-titanic-captain-lord-rings-theoden-4314696
-   </link>
-   <description>
-    <![CDATA[In Titanic, Hill played Captain Edward Smith, one of the only characters based on a real person, and in the Lord Of The Rings franchise, he was Théoden, King of Rohan.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 10:04:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/bernard-hill-died-actor-titanic-captain-lord-rings-theoden-4314696
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--at6IZLiH--/c_crop,h_448,w_797,x_1,y_182/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/ap24126522265721_0.jpg?itok=lOftqfQP" width="1600"/>
   </item>
  </channel>
 </rss>
