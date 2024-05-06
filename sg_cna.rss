@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 17:51:21 +0800
+   Mon, 06 May 2024 18:06:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pop-punk band All Time Low ends Singapore concert early; lead singer sent to hospital after show
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/all-time-low-concert-ends-early-singer-sent-hospital-4315691
+   </link>
+   <description>
+    <![CDATA[The band's lead singer, Alex Gaskarth, spent the night in hospital after falling ill with food poisoning.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 18:04:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/all-time-low-concert-ends-early-singer-sent-hospital-4315691
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qnBgcN2S--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/IMG_0612.JPG?itok=hGmEJiTs" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Exclusive-Shell in talks to sell Malaysia fuel stations to Saudi Aramco, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-shell-talks-sell-malaysia-fuel-stations-saudi-aramco-sources-say-4315811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 17:57:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-shell-talks-sell-malaysia-fuel-stations-saudi-aramco-sources-say-4315811
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Luxury home sales fall 50% on-year in Q1, with just one foreign buyer
@@ -387,7 +429,7 @@
     <![CDATA[Half of the Asian-Americans living in New York City experienced hate crime because of their race or ethnicity in 2023, according to research.]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 15:32:42 +0800
+    Mon, 06 May 2024 15:32:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/asian-americans-another-rise-hate-crimes-attack-trump-presidency-4315561
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NWl0E5aT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t072826z_1_lynxmpek45063_rtroptp_3_cricket-england.jpg?itok=KCNveOXp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former Wallabies captain Hooper tries for sevens berth in Paris
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/former-wallabies-captain-hooper-tries-sevens-berth-paris-4315566
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 15:02:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/former-wallabies-captain-hooper-tries-sevens-berth-paris-4315566
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xaed-L6Y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t070210z_1_lynxmpek4505f_rtroptp_3_olympics-2024-rugby-sevens-hooper.jpg?itok=PdVw_7Zz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Parliament to discuss road safety, flexible work arrangements
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tampines-accident-road-safety-flexible-work-arrangements-parliament-4315496
-   </link>
-   <description>
-    <![CDATA[The parliamentary questions on road safety follow public concern in light of several recent multi-vehicle accidents, including the incident in Tampines that killed two people.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 14:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tampines-accident-road-safety-flexible-work-arrangements-parliament-4315496
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x5DrLnFw--/c_crop,h_840,w_1494,x_5,y_139/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/sya_7027.jpg?itok=oviKD6XX" width="1600"/>
   </item>
  </channel>
 </rss>
