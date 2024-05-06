@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 00:23:19 +0800
+   Tue, 07 May 2024 00:28:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Over S$5,500 worth of clothes stolen from shops along Bayfront Avenue, Harbourfront Walk; woman arrested
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/shoplifting-clothes-shop-theft-vivo-marina-bay-sands-mbs-woman-arrested-4316536
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 00:27:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/shoplifting-clothes-shop-theft-vivo-marina-bay-sands-mbs-woman-arrested-4316536
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UBu1B_8B--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/picture16.png?itok=uEhnswCx" width="1600"/>
+  </item>
   <item>
    <title>
     Merlier sprints to Giro stage three win, Pogacar still in pink
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F4vCL5s4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t115632z_1_lynxmpek450cj_rtroptp_3_israel-palestinians-iran-nuclear.jpg?itok=qgbFI6cT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel strikes Gazan city of Rafah after evacuation order, say residents
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-strikes-gazan-city-rafah-after-evacuation-order-say-residents-4315591
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 20:38:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-strikes-gazan-city-rafah-after-evacuation-order-say-residents-4315591
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D_fv-6Ye--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t080350z_1_lynxmpek4506q_rtroptp_3_israel-palestinians-gaza-rafah.jpg?itok=qQf2JnmX" width="1600"/>
   </item>
  </channel>
 </rss>
