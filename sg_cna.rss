@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 19:00:19 +0800
+   Mon, 06 May 2024 19:15:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Boeing's new Starliner capsule set for first crewed flight to space station
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-4315956
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 19:12:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/boeings-new-starliner-capsule-set-first-crewed-flight-space-station-4315956
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Myanmar ethnic armed group says it captured hundreds of junta personnel
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SoDuIERu--/c_crop,h_607,w_1080,x_0,y_314/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/nicole_scherzinger_gardens_by_the_bay.jpg?itok=8SqagVmh" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mitchell rallies Cavs for series-clinching game seven win over Magic
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/mitchell-rallies-cavs-series-clinching-game-seven-win-over-magic-4314836
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 16:11:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/mitchell-rallies-cavs-series-clinching-game-seven-win-over-magic-4314836
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r5tnfl6x--/c_crop,h_432,w_768,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/04a4b03c818fe0dbd6c4066b2207b372a1b5d2a2.jpg?itok=neB9_Gsh" width="1600"/>
   </item>
  </channel>
 </rss>
