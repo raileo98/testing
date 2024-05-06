@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 14:44:09 +0800
+   Mon, 06 May 2024 14:53:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Parliament to discuss road safety, flexible work arrangements
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/tampines-accident-road-safety-flexible-work-arrangements-parliament-4315496
+   </link>
+   <description>
+    <![CDATA[The parliamentary questions on road safety follow public concern in light of several recent multi-vehicle accidents, including the incident in Tampines that killed two people.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 14:51:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/tampines-accident-road-safety-flexible-work-arrangements-parliament-4315496
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x5DrLnFw--/c_crop,h_840,w_1494,x_5,y_139/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/sya_7027.jpg?itok=oviKD6XX" width="1600"/>
+  </item>
   <item>
    <title>
     Waterbomb Singapore 2024 details announced: First wave of artistes include Sandara Park, Eunbi and Bambam
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QINzVsD5--/c_crop,h_314,w_559,x_148,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/01/kk.jpg?itok=8_z0WSu5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    One dead in Whampoa flat fire, about 200 residents evacuated
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/fire-whampoa-hdb-flat-dead-injured-lorong-limau-residents-evacuated-4315251
-   </link>
-   <description>
-    <![CDATA[Two women, aged 60 and 77, were rescued from the utility room in the kitchen area.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 11:44:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/fire-whampoa-hdb-flat-dead-injured-lorong-limau-residents-evacuated-4315251
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QSh1G9rX--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/flat_fire.png?itok=lB61m5Dl" width="1600"/>
   </item>
  </channel>
 </rss>

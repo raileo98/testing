@@ -21,7 +21,7 @@
    en
   </language>
   <lastBuildDate>
-   Mon, 06 May 2024 06:45:54 GMT
+   Mon, 06 May 2024 06:54:31 GMT
   </lastBuildDate>
   <ttl>
    5
@@ -51,6 +51,30 @@
    <category>
     獨立特派員
    </category>
+   <category>
+    寵物
+   </category>
+   <category>
+    獸醫師
+   </category>
+   <category>
+    飼主
+   </category>
+   <category>
+    毛孩
+   </category>
+   <category>
+    動物
+   </category>
+   <category>
+    活動
+   </category>
+   <category>
+    列車
+   </category>
+   <category>
+    主辦單位
+   </category>
   </item>
   <item>
    <title>
@@ -77,6 +101,24 @@
    <category>
     獨立特派員
    </category>
+   <category>
+    草莓
+   </category>
+   <category>
+    農藥
+   </category>
+   <category>
+    農民
+   </category>
+   <category>
+    有機
+   </category>
+   <category>
+    獨立
+   </category>
+   <category>
+    產量
+   </category>
   </item>
   <item>
    <title>
@@ -102,6 +144,27 @@
    </author>
    <category>
     獨立特派員
+   </category>
+   <category>
+    阿里山
+   </category>
+   <category>
+    文化資產
+   </category>
+   <category>
+    管理
+   </category>
+   <category>
+    鐵路
+   </category>
+   <category>
+    修復
+   </category>
+   <category>
+    火車
+   </category>
+   <category>
+    挑戰
    </category>
   </item>
   <item>
