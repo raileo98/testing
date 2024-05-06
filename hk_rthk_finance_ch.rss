@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 22:40:35 +0800
+   Mon, 06 May 2024 22:50:37 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 06 May 2024 19:59:26 +0800
+   Mon, 06 May 2024 22:41:02 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股上升　市場仍憧憬美國今年較大機會減息
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752055-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752055-20240506.htm
+   </link>
+   <description>
+    <![CDATA[紐約股市上升。美國上周五公布非農就業數據偏軟，市場預期今年仍較大機會減息。
+
+道瓊斯指數較早時報38782點，升107點，升幅0.28%。
+
+納斯達克指數報16262點，升106點，升幅0.66%。
+
+標準普爾500指數報5158點，升31點，升幅0.6%。]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 22:41:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     深圳再優化住房限購政策
@@ -469,25 +492,6 @@
    </description>
    <pubDate>
     Mon, 06 May 2024 13:22:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股下午初段偏軟
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751979-20240506.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751979-20240506.htm
-   </link>
-   <description>
-    <![CDATA[港股下午初段偏軟。恒生指數較早時報18453點，跌22點，跌幅0.12%。
-
-科技指數報3965點，跌5點，跌幅0.14%。]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 13:07:33 +0800
    </pubDate>
   </item>
  </channel>
