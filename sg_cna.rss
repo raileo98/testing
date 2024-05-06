@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 14:53:50 +0800
+   Mon, 06 May 2024 15:09:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Former Wallabies captain Hooper tries for sevens berth in Paris
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/former-wallabies-captain-hooper-tries-sevens-berth-paris-4315566
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 15:02:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/former-wallabies-captain-hooper-tries-sevens-berth-paris-4315566
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xaed-L6Y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t070210z_1_lynxmpek4505f_rtroptp_3_olympics-2024-rugby-sevens-hooper.jpg?itok=PdVw_7Zz" width="1600"/>
+  </item>
+  <item>
+   <title>
     Parliament to discuss road safety, flexible work arrangements
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[The parliamentary questions on road safety follow public concern in light of several recent multi-vehicle accidents, including the incident in Tampines that killed two people.]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 14:51:38 +0800
+    Mon, 06 May 2024 14:51:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/tampines-accident-road-safety-flexible-work-arrangements-parliament-4315496
@@ -231,7 +252,7 @@
   </item>
   <item>
    <title>
-    Israel army says 'encourages' eastern Rafah residents to leave for 'humanitarian area'
+    Israel military calls on 100,000 Palestinian civilians to evacuate east Rafah
    </title>
    <link>
     https://www.channelnewsasia.com/world/israel-hamas-war-gaza-rafah-operation-civilians-leave-humanitarian-area-4315486
@@ -240,7 +261,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 14:03:25 +0800
+    Mon, 06 May 2024 14:03:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/israel-hamas-war-gaza-rafah-operation-civilians-leave-humanitarian-area-4315486
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8gfgNE7q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t041612z_1_lynxmpek4502e_rtroptp_3_tennis-madrid.jpg?itok=cMdSE08j" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Woman charged with defaming KKH by sending false account of miscarriage to Wake Up Singapore
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/kkh-hospital-miscarriage-wake-singapore-woman-defamation-charged-4315241
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 11:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/kkh-hospital-miscarriage-wake-singapore-woman-defamation-charged-4315241
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QINzVsD5--/c_crop,h_314,w_559,x_148,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/01/kk.jpg?itok=8_z0WSu5" width="1600"/>
   </item>
  </channel>
 </rss>
