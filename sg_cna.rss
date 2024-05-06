@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 06:12:48 +0800
+   Tue, 07 May 2024 06:24:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,48 +40,6 @@
     mediacorp feed news
    </description>
   </image>
-  <item>
-   <title>
-    Commentary: A global plastic treaty will only work if it caps production
-   </title>
-   <link>
-    https://www.channelnewsasia.com/un-plastic-treaty-production-pollution-recycling-waste-sustainability-4315641
-   </link>
-   <description>
-    <![CDATA[Restricting how much plastic the world makes each year will be necessary to curb its harmful presence in the environment, says a University of Leeds academic.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/un-plastic-treaty-production-pollution-recycling-waste-sustainability-4315641
-   </guid>
-   <category>
-    Commentary ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x-idghlL--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/20/iStock-1149674776.jpg?itok=b2p5eqMS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Amid hygiene concerns, pet-friendly eateries at One Holland Village mall clean up '10 times more' often
-   </title>
-   <link>
-    https://www.channelnewsasia.com/one-holland-village-pet-friendly-cafe-surrey-hills-grocer-plain-meredith-4315796
-   </link>
-   <description>
-    <![CDATA[Others say they have installed special air purifiers to try and prevent scenarios such as animal fur getting into food.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/one-holland-village-pet-friendly-cafe-surrey-hills-grocer-plain-meredith-4315796
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K36cLlPo--/c_crop,h_1124,w_1999,x_1,y_190/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/14/one_holland_village_guide_singapore_image6.jpg?itok=YkhVKB7s" width="1600"/>
-  </item>
   <item>
    <title>
     Commentary: What recourse do home owners have with persistent water leaks?
@@ -147,6 +105,69 @@
   </item>
   <item>
    <title>
+    Commentary: Are young voters poised to upend Japanese politics?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/japan-young-voters-fumio-kishida-ldp-election-4315711
+   </link>
+   <description>
+    <![CDATA[Japanese Prime Minister Fumio Kishida's support among young voters is decreasing, putting his tenure at risk despite efforts to appeal to this demographic with promises of unprecedented efforts to tackle Japan's declining birthrate, says political scientist Yasuo Takao.  ]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/japan-young-voters-fumio-kishida-ldp-election-4315711
+   </guid>
+   <category>
+    Commentary ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LzJMFhJS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/000_34mx3pr.jpg?itok=6eCfA-db" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Amid hygiene concerns, pet-friendly eateries at One Holland Village mall clean up '10 times more' often
+   </title>
+   <link>
+    https://www.channelnewsasia.com/one-holland-village-pet-friendly-cafe-surrey-hills-grocer-plain-meredith-4315796
+   </link>
+   <description>
+    <![CDATA[Others say they have installed special air purifiers to try and prevent scenarios such as animal fur getting into food.]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/one-holland-village-pet-friendly-cafe-surrey-hills-grocer-plain-meredith-4315796
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K36cLlPo--/c_crop,h_1124,w_1999,x_1,y_190/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/14/one_holland_village_guide_singapore_image6.jpg?itok=YkhVKB7s" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: A global plastic treaty will only work if it caps production
+   </title>
+   <link>
+    https://www.channelnewsasia.com/un-plastic-treaty-production-pollution-recycling-waste-sustainability-4315641
+   </link>
+   <description>
+    <![CDATA[Restricting how much plastic the world makes each year will be necessary to curb its harmful presence in the environment, says a University of Leeds academic.]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/un-plastic-treaty-production-pollution-recycling-waste-sustainability-4315641
+   </guid>
+   <category>
+    Commentary ,Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--x-idghlL--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/20/iStock-1149674776.jpg?itok=b2p5eqMS" width="1600"/>
+  </item>
+  <item>
+   <title>
     Commentary: What recourse do home owners have with persistent water leaks?
    </title>
    <link>
@@ -165,6 +186,27 @@
     Commentary ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YI-A6RcK--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/istock-1478442773.jpg?itok=t7ZacngF" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: Are young voters poised to upend Japanese politics?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/japan-young-voters-fumio-kishida-ldp-election-4315711
+   </link>
+   <description>
+    <![CDATA[Japanese Prime Minister Fumio Kishida's support among young voters is decreasing, putting his tenure at risk despite efforts to appeal to this demographic with promises of unprecedented efforts to tackle Japan's declining birthrate, says political scientist Yasuo Takao.  ]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/japan-young-voters-fumio-kishida-ldp-election-4315711
+   </guid>
+   <category>
+    Commentary ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LzJMFhJS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/000_34mx3pr.jpg?itok=6eCfA-db" width="1600"/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Dollar weaker on renewed Fed rate cut hopes; yen wobbles
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/dollar-weaker-renewed-fed-rate-cut-hopes-yen-wobbles-4315086
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 23:43:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/dollar-weaker-renewed-fed-rate-cut-hopes-yen-wobbles-4315086
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tPQvasuD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t010945z_1_lynxmpek45008_rtroptp_3_usa-courts-fake-claims.jpg?itok=iptDQHuv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Russia warns it can strike British military targets after Cameron remarks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/russia-warns-it-can-strike-british-military-targets-after-cameron-remarks-4316346
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 22:58:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/russia-warns-it-can-strike-british-military-targets-after-cameron-remarks-4316346
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ie4TLSPI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t135226z_1_lynxmpek450f1_rtroptp_3_ukraine-crisis-britain.jpg?itok=XGsmoCKa" width="1600"/>
   </item>
  </channel>
 </rss>
