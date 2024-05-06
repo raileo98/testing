@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 21:18:17 +0800
+   Mon, 06 May 2024 21:31:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Robinhood Crypto gets Wells notice from US SEC
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/robinhood-crypto-gets-wells-notice-us-sec-4316276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 21:21:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/robinhood-crypto-gets-wells-notice-us-sec-4316276
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ugdM0-n1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t132159z_1_lynxmpek450ec_rtroptp_3_robinhood-eu.jpg?itok=vnAh7y1J" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Trump Media dismisses auditor BF Borgers amid SEC fraud charges
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/trump-media-dismisses-auditor-bf-borgers-amid-sec-fraud-charges-4316261
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 21:17:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/trump-media-dismisses-auditor-bf-borgers-amid-sec-fraud-charges-4316261
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7nMDlpmM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t132024z_2_lynxmpek450ea_rtroptp_3_motor-f1-miami.jpg?itok=0RquCdIH" width="1600"/>
+  </item>
   <item>
    <title>
     PSG not obsessed with scoring twice against Dortmund, says Luis Enrique
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KwdQIzPf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/china_australia_24899.jpg?itok=qJOLwFdW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pop-punk band All Time Low ends Singapore concert early; lead singer sent to hospital after show
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/all-time-low-concert-ends-early-singer-sent-hospital-4315691
-   </link>
-   <description>
-    <![CDATA[The band's lead singer, Alex Gaskarth, spent the night in hospital after falling ill with food poisoning.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 18:04:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/all-time-low-concert-ends-early-singer-sent-hospital-4315691
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qnBgcN2S--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/IMG_0612.JPG?itok=hGmEJiTs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Shell in talks to sell Malaysia fuel stations to Saudi Aramco: Report
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/shell-talks-sell-malaysia-fuel-stations-saudi-aramco-report-4315811
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 17:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/shell-talks-sell-malaysia-fuel-stations-saudi-aramco-report-4315811
-   </guid>
-   <category>
-    Business ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PAQZQWdp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t095757z_1_lynxmpek4508t_rtroptp_3_shell-malaysia-fuelstations.jpg?itok=hWci-2XV" width="1600"/>
   </item>
  </channel>
 </rss>
