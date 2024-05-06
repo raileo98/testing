@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 22:27:57 +0800
+   Mon, 06 May 2024 22:38:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    US crypto super PACs have raised more than $100 million, report says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-crypto-super-pacs-have-raised-more-100-million-report-says-4316401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 22:28:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-crypto-super-pacs-have-raised-more-100-million-report-says-4316401
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Judge fines Trump again in criminal trial, warns of jail time
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 22:18:38 +0800
+    Mon, 06 May 2024 22:18:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/judge-fines-trump-again-criminal-trial-warns-jail-time-4316321
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X5SGG596--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t115320z_1_lynxmpek450cf_rtroptp_3_motor-motogp-spain.jpg?itok=wQhW2c2E" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'I am older and wiser,' says woman who reported Ken Lim 11 years after his alleged sexual insults
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/ken-lim-sexual-offence-trial-molest-singer-songwriter-4315891
-   </link>
-   <description>
-    <![CDATA[The singer-songwriter was 26 when she met the music producer for career advice, and he allegedly asked her about sex.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 19:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/ken-lim-sexual-offence-trial-molest-singer-songwriter-4315891
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rt-LEwtH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/20240506_bk_state_courts_ken_lim_1.jpg?itok=3rLKcopB" width="1600"/>
   </item>
  </channel>
 </rss>
