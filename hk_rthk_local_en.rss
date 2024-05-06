@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 21:30:54 +0800
+   Mon, 06 May 2024 21:50:45 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 06 May 2024 17:09:18 +0800
+   Mon, 06 May 2024 21:35:32 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Fire services body reports potential data leak
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752042-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752042-20240506.htm
+   </link>
+   <description>
+    <![CDATA[The Fire Services Department (FSD) on Monday said the personal information of thousands of people, including its staff and individuals who filed tree collapse reports during a super typhoon, could have been leaked after the right to access the data was altered without permission. 
+
+But it reassured the public there was no evidence that any such data had actually been released. 
+
+The department said it discovered personal data potentially being exposed on one of its IT systems last Friday, which involved the surnames and telephone numbers of some 480 people who had reported tree collapses when Super Typhoon Saola hit Hong Kong in September last year. 
+
+About 5,000 fire services staff were also affected and had their names, phone numbers, ranks and numbers, and postings subject to the potential leak, with some even having their incomplete identity card numbers possibly exposed. 
+
+"The FSD believes that the incident happened when the outsourced contractor handled the data migration procedure. During the process, the access right of the data was found altered without authorisation, posing a potential risk of data leakage," a spokesperson said. 
+
+The department has demanded the outsourced contractor to immediately suspend the system and all of its contract jobs, while withdrawing its access right to the system to prevent data being exposed. 
+
+It also apologised and notified those affected through text messages or phone calls. 
+
+The latest incident came after a string of data breaches at major public bodies, such as the Electrical and Mechanical Services Department and the Companies Registry, with a lawmaker calling for the heads of government departments responsible for such leaks to be held accountable for the blunders.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 21:35:32 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Ovoids to light up Tamar Park for an extra six days
@@ -629,35 +660,6 @@ At 10.30 am, the forecaster also issued a Landslip Warning, reminding people to 
    </description>
    <pubDate>
     Sat, 04 May 2024 15:08:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Dozens of cars damaged as TKO car park floods
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751771-20240504.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751771-20240504.htm
-   </link>
-   <description>
-    <![CDATA[Dozens of cars were damaged by flood water at a car park in Tseung Kwan O on Saturday, as heavy rain continued to fall over Hong Kong, leading the Observatory to consider issuing a Black Rainstorm Warning.
-
-“For that particular outdoor car park area, there are around 450 cars. I think half of the cars were seriously [flooded]," said district councillor Christine Fong in an interview with RTHK. "Some of them, the water was up over the tyres, even up to the engine."
-
-Fong also said the car park, on Wan Po Road in Lohas Park, didn't have a reputation for flooding so many drivers had been caught out. 
-
-The Observatory said the east of the SAR had borne the brunt of the rainfall with over 200 millimetres of rain falling in Sai Kung and Tseung Kwan O.
-
-Road flooding in those two areas also meant that only limited services could be provided at two out-patient clinics there.
-
-Meanwhile, the Home Affairs Department says it has opened temporary shelters for people in need of temporary accommodation.
-
-Earlier, the Observatory had issued the Red Rainstorm Signal just before 9 am following a night of rain, leading to the suspension of classes at all schools.]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 14:04:54 +0800
    </pubDate>
   </item>
  </channel>
