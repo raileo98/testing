@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 22:52:18 +0800
+   Mon, 06 May 2024 23:09:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Russia warns it can strike British military targets after Cameron remarks
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-warns-it-can-strike-british-military-targets-after-cameron-remarks-4316346
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 22:58:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-warns-it-can-strike-british-military-targets-after-cameron-remarks-4316346
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ie4TLSPI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t135226z_1_lynxmpek450f1_rtroptp_3_ukraine-crisis-britain.jpg?itok=XGsmoCKa" width="1600"/>
+  </item>
+  <item>
+   <title>
     SIA and Scoot first airlines to get Neste's Singapore-made sustainable fuel at Changi Airport
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 22:50:05 +0800
+    Mon, 06 May 2024 22:50:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/sia-scoot-neste-sustainable-aviation-fuel-changi-supply-4316121
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 22:50:05 +0800
+    Mon, 06 May 2024 22:50:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/sia-scoot-neste-sustainable-aviation-fuel-changi-supply-4316121
@@ -93,7 +114,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 22:50:05 +0800
+    Mon, 06 May 2024 22:50:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/sia-scoot-neste-sustainable-aviation-fuel-changi-supply-4316121
@@ -311,7 +332,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ugdM0-n1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t132159z_1_lynxmpek450ec_rtroptp_3_robinhood-eu.jpg?itok=vnAh7y1J" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qtJXqi25--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t150238z_2_lynxmpek450ec_rtroptp_3_robinhood-eu.jpg?itok=ef_Iw50u" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Singapore ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CRik3IwQ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/tharman_malaysia_king_sultan_ibrahim.jpg?itok=ETmYigOs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    EU clears Nippon Steel's US$14.9 billion purchase of US Steel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/eu-clears-nippon-steels-us149-billion-purchase-us-steel-4316111
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 20:23:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/eu-clears-nippon-steels-us149-billion-purchase-us-steel-4316111
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--twN6ft0W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t144036z_3_lynxmpek450da_rtroptp_3_u-s-steel-m-a-nippon-steel-eu.jpg?itok=AOENlqZ3" width="1600"/>
   </item>
  </channel>
 </rss>
