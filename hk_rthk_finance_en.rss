@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 09:30:17 +0800
+   Mon, 06 May 2024 10:10:26 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 05 May 2024 04:16:23 +0800
+   Mon, 06 May 2024 09:57:39 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks continue gains at opening
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751935-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751935-20240506.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks edged up at the opening on Monday, pushing gains into a tenth successive day, while mainland markets rallied as they returned from a long break to play catch-up with recent regional advances.
+
+The Hang Seng Index added 0.07 percent, or 12.63 points, to 18,488.55.
+
+The Shanghai Composite Index gained 0.89 percent, or 27.69 points, to 3,132.51, while the Shenzhen Composite Index rose 1.36 percent, or 23.91 points, to 1,779.99.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 09:57:39 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Tax hike by US government 'likely': Buffett
@@ -591,43 +612,6 @@ The Shanghai Composite Index slipped 0.3 percent, or 8 points, to 3,104, while t
    </description>
    <pubDate>
     Tue, 30 Apr 2024 16:17:29 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Asia's first crypto ETFs gain in HK debut
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751209-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751209-20240430.htm
-   </link>
-   <description>
-    <![CDATA[Six spot bitcoin and ether exchange traded funds (ETFs) gained in their Hong Kong debut on Tuesday.
-
-The launch of Asia's first cryptocurrency-based ETFs comes three months after a similar move in the United States.
-
-Unlike in the US, however, crypto enthusiasts in Hong Kong can also invest by swapping their own tokens, as well as buying with cash.
-
-After listing on the Hong Kong stock exchange, bitcoin ETFs launched by China AMC, Harvest and Bosera climbed more than 2 percent by midday, while three funds linked to ether were also up. 
-
-Speaking at a launch event, the executive director of the Securities and Futures Commission, Christina Choi, said the ETFs mark a milestone for Hong Kong.
-
-Choi warned would-be investors, however, that virtual assets aren't for everyone.
-
-"Virtual assets themselves are highly speculative and their prices are extremely volatile. bitcoin and ether have in the past experienced a 40 percent drop in a single day and over 60 percent drop within a year," she said.
-
-"Therefore, I would like to remind everyone that virtual assets are not suitable for all investors. Only those who have a thorough understanding of them and can withstand the risks should consider these products."
-
-Meanwhile, the CEO of Hong Kong Exchanges and Clearing, Bonnie Chan, said the ETFs will boost the local market. 
-
-"The listing of six virtual asset ETFs today will further enrich Hong Kong's ETF product offerings. It will attract more investors to participate in the Hong Kong ETF market, enhance market liquidity, promote Hong Kong's development as an attractive ETF market in Asia, and strengthen its competitiveness as an international asset management hub," Chan said.
-
-Acting Secretary for Financial Services and the Treasury Joseph Chan told the same event that the listings demonstrate Hong Kong's status as a leading virtual assets market in Asia.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 16:01:43 +0800
    </pubDate>
   </item>
  </channel>
