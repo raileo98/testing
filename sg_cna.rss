@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 01:06:40 +0800
+   Tue, 07 May 2024 01:24:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ukraine restores power to hundreds of thousands after Russian strikes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/ukraine-restores-power-hundreds-thousands-after-russian-strikes-4316611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 01:14:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/ukraine-restores-power-hundreds-thousands-after-russian-strikes-4316611
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2AnH-prO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-02t144319z_1_lynxmpek410nw_rtroptp_3_ukraine-crisis-power.jpg?itok=ciZqrrRJ" width="1600"/>
+  </item>
   <item>
    <title>
     Over S$5,500 worth of clothes stolen from shops along Bayfront Avenue, Harbourfront Walk; woman arrested
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    IAEA chief seeks tougher nuclear checks in Iran, with limited leverage
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/iaea-chief-seeks-tougher-nuclear-checks-iran-un-rafael-grossi-4316051
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 20:50:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/iaea-chief-seeks-tougher-nuclear-checks-iran-un-rafael-grossi-4316051
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F4vCL5s4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t115632z_1_lynxmpek450cj_rtroptp_3_israel-palestinians-iran-nuclear.jpg?itok=qgbFI6cT" width="1600"/>
   </item>
  </channel>
 </rss>

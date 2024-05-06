@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Sun, 05 May 2024 17:00:02 GMT
+   Mon, 06 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,42 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    當上學念書成為「一場遊戲」，我們是促進學習、還是開啟了威權監控？
+   </title>
+   <description>
+    <![CDATA[若某些人自願接受遊戲化，將他們的生活交給手上的智慧型手機控制，那是一回事。但是政府和當權者在未經同意下將數百萬人的生活化為數據點操作，像是遊戲中與非玩家角色互動一樣，那又是另一回事了。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-you-have-been-played
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-you-have-been-played
+   </guid>
+   <pubDate>
+    Mon, 06 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417173716-455928cb03717d1dd35b0f63ac2b4fa3-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    留住那些親愛的《老查某》──蔡晏珊讓時間成為遺憾的剪接師
+   </title>
+   <description>
+    <![CDATA[「老查某」是貓也是人。時隔18年，已是剪接師的蔡晏珊回頭處理青春時代的影像素材，從DV帶裡打撈記憶，重新敘說白蘭和她的公娼姊妹，一群女人們的抗爭和生活記事。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/tidf-2024-tsai-yann-shan-lauchabo
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/tidf-2024-tsai-yann-shan-lauchabo
+   </guid>
+   <pubDate>
+    Sun, 05 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240502234522-8ea4cc96f0a082c9ed85bd25f65b0082-mobile.jpg"/>
+  </item>
   <item>
    <title>
     陳佳琦／我只有拍下來的動作，沒有其他──《臺北道》林國彰的攝影道
@@ -108,24 +144,6 @@
   </item>
   <item>
    <title>
-    搶救受虐兒、追蹤喪子家庭、引進藝術治療，台大第一個兒童加護病房主治醫師，呂立25年的心路告白
-   </title>
-   <description>
-    <![CDATA[這集，聽台大兒童醫院兒少保護醫療中心呂立說在醫療前線的酸甜苦辣，以及對台灣兒童友善醫療的期待；記者涵文則從與嘉源的互動分享，生病的孩子對心理照顧的需求與重要性。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/podcast-2024-05-02
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/podcast-2024-05-02
-   </guid>
-   <pubDate>
-    Wed, 01 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://storage.googleapis.com/twreporter-multimedia/images/20160818160533-03bdfbd15d5570905a6ed6983ebb938b-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     李雪莉／《巴奈回家》：為族群主流化的平等理想一起努力
    </title>
    <description>
@@ -141,6 +159,24 @@
     Wed, 01 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430100347-d1b2d9df4318e2e12c2827bce774010d-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    搶救受虐兒、追蹤喪子家庭、引進藝術治療，台大第一個兒童加護病房主治醫師，呂立25年的心路告白
+   </title>
+   <description>
+    <![CDATA[這集，聽台大兒童醫院兒少保護醫療中心呂立說在醫療前線的酸甜苦辣，以及對台灣兒童友善醫療的期待；記者涵文則從與嘉源的互動分享，生病的孩子對心理照顧的需求與重要性。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/podcast-2024-05-02
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/podcast-2024-05-02
+   </guid>
+   <pubDate>
+    Wed, 01 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://storage.googleapis.com/twreporter-multimedia/images/20160818160533-03bdfbd15d5570905a6ed6983ebb938b-mobile.jpg"/>
   </item>
   <item>
    <title>
@@ -177,42 +213,6 @@
     Mon, 29 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240429200822-f013c53e8098dbffdfcd269af0c19729-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    熊貓如何滲透大象之國：拆解中對泰政治作戰的多路攻勢
-   </title>
-   <description>
-    <![CDATA[中國在泰國的主要滲透對象包括官員、與北京關係密切的王室成員、高階軍官、樞密院及華裔泰人菁英；二級受眾包括有影響力的記者、社群媒體使用者及學者；三級受眾則為一般公民。有趣的是，中國似乎不太重視泰國宗教領袖⋯⋯]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-political-warfare-strategies-for-combating-chinas-plan-to-win-without-fighting
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-political-warfare-strategies-for-combating-chinas-plan-to-win-without-fighting
-   </guid>
-   <pubDate>
-    Sun, 28 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240427163444-c634768f5f4c843a12a5865184cf086c-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    飛吧！青春運動物語──在汗與淚中開啟人生的初夏
-   </title>
-   <description>
-    <![CDATA[《報導者》精選全中運賽事中的精彩畫面，邀請讀者們看見年輕運動員們在賽場上揮灑的汗水、為競賽勝負或自我突破而流下的淚水，一起體會熱血動漫般的中學運動競技。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/photo-national-middle-school-athletic-games-2024
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/photo-national-middle-school-athletic-games-2024
-   </guid>
-   <pubDate>
-    Sat, 27 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240426031440-a1c48424eea80d189b94d7501aac5dfa-mobile.jpg"/>
   </item>
  </channel>
 </rss>
