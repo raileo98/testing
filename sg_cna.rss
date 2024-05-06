@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 05:42:11 +0800
+   Tue, 07 May 2024 05:54:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Macron thanks China's Xi for not imposing duties on French cognac
+   </title>
+   <link>
+    https://www.channelnewsasia.com/macron-thanks-chinas-xi-not-imposing-duties-french-cognac-4316626
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 05:42:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/macron-thanks-chinas-xi-not-imposing-duties-french-cognac-4316626
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iUD2u1pW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t145948z_1_lynxmpek450g9_rtroptp_3_eu-china-france.jpg?itok=JrLeNH2P" width="1600"/>
+  </item>
   <item>
    <title>
     Champagne, punches and sake-infused cocktails: New bars in Singapore
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Judge fines Trump again in criminal trial, warns of jail time
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/judge-fines-trump-again-criminal-trial-warns-jail-time-4316321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 22:18:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/judge-fines-trump-again-criminal-trial-warns-jail-time-4316321
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OJorrSFa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t135125z_3_lynxmpek450ev_rtroptp_3_usa-trump-new-york.jpg?itok=-uaIzcNl" width="1600"/>
   </item>
  </channel>
 </rss>
