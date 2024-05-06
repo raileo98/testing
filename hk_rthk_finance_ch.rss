@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 15:20:35 +0800
+   Mon, 06 May 2024 15:30:44 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 06 May 2024 15:15:25 +0800
+   Mon, 06 May 2024 15:20:47 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬股高收約1.2%　創近8個月新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751991-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751991-20240506.htm
+   </link>
+   <description>
+    <![CDATA[內地股市長假期後復市，3大指數高收逾1%至2%。合成生物概念、化學製品相關股份造好，教育、旅遊股偏軟。
+
+上證指數收報3140點，升35點，升幅1.16%，創近8個月新高。
+
+深證成份指數收報9779點，升192點，升幅2%，創逾5個月收市高位。
+
+創業板指數曾升穿1900點但未能企穩，收報1895點，升36點，升幅1.98%，是1個半月新高。]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 15:20:47 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     余偉文：本港銀行特定分類貸款比率不算特別高水平
@@ -469,33 +492,6 @@
    </description>
    <pubDate>
     Mon, 06 May 2024 10:09:53 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    外匯基金首季錄得投資收益543億元
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751947-20240506.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751947-20240506.htm
-   </link>
-   <description>
-    <![CDATA[金管局公布，外匯基金首季投資收益543億元，未計及其他投資，連續兩個季度錄得投資收益。
-
-首季投資收益主要來自其他股票，達到363億元，按年及按季升逾42%及近10%。不過，港股投資虧損23億元，按年由盈轉虧，按季虧損收窄54%，連續4個季度虧損。上季債券投資收益251億元，按年及按季分別跌近43%及近65%，但連續6個季度錄得投資收益。
-
-非港元資產外匯估值下調48億元，按年及按季都由上調轉為下調。
-
-首季支付政府財政儲備款項39億元，支付政府基金及法定組織的款項43億元。
-
-副總裁李達志表示，首季不同主要經濟體債券收益率上升，加上近年債息處於高位，利息收入多，抵銷債價下跌影響，以致債券投資錄得收益。
-
-李達志又說，首季歐美股票上升，港股下跌，但他強調金融市場變化萬千，自4月起，標普500指數掉頭；港股開始表現不錯，第2季至今已升逾10%。他強調，大市表現反覆，不能因為首季投資收益，而推算第2季表現。]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 10:04:39 +0800
    </pubDate>
   </item>
  </channel>
