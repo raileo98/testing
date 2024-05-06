@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 04:44:31 +0800
+   Tue, 07 May 2024 04:51:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel starts Rafah operation after Hamas agrees to truce deal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/israel-starts-rafah-operation-after-hamas-agrees-truce-deal-4316621
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 04:46:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/israel-starts-rafah-operation-after-hamas-agrees-truce-deal-4316621
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bNtslDaL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t130855z_1_lynxmpek450e1_rtroptp_3_israel-palestinians-gaza-rafah.jpg?itok=_JLDsF6n" width="1600"/>
+  </item>
   <item>
    <title>
     Five people killed in Italian sewage plant accident
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SCFCet9b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t134812z_1_lynxmpek450ex_rtroptp_3_soccer-england-brh-mci-report.jpg?itok=zf7t8ICD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Holocaust survivors march in Auschwitz in shadow of Oct 7 attacks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/holocaust-survivors-march-auschwitz-shadow-oct-7-attacks-4316306
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 21:47:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/holocaust-survivors-march-auschwitz-shadow-oct-7-attacks-4316306
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MI26m5z2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t133735z_1_lynxmpek450en_rtroptp_3_holocaust-memorial-poland-march.jpg?itok=KWaWWqnu" width="1600"/>
   </item>
  </channel>
 </rss>
