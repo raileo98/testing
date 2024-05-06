@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 19:52:41 +0800
+   Mon, 06 May 2024 19:59:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    New MotoGP rules applicable from 2027 seek to make races safer
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/new-motogp-rules-applicable-2027-seek-make-races-safer-4316046
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 19:53:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/new-motogp-rules-applicable-2027-seek-make-races-safer-4316046
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X5SGG596--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t115320z_1_lynxmpek450cf_rtroptp_3_motor-motogp-spain.jpg?itok=wQhW2c2E" width="1600"/>
+  </item>
   <item>
    <title>
     Alleged victim who spoke up against Ken Lim after 11 years said she 'owes it to all the other girls'
@@ -438,27 +459,6 @@
     Business ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m4tSkp6---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t082656z_2_lynxmpek4506z_rtroptp_3_may-day-hongkong-fireworks.jpg?itok=NLckuOgQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China's health body probes hospital after surrogacy claims
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/chinas-health-body-probes-hospital-after-surrogacy-claims-4315631
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 16:21:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/chinas-health-body-probes-hospital-after-surrogacy-claims-4315631
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1KoWi776--/c_crop,h_450,w_800,x_0,y_41/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t075102z_2_lynxmpek4506d_rtroptp_3_asia-population-china.jpg?itok=tLcK7wfj" width="1600"/>
   </item>
  </channel>
 </rss>
