@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 01:42:30 +0800
+   Tue, 07 May 2024 01:51:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Brazil ex-president Bolsonaro hospitalized again with skin infection
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/brazil-ex-president-bolsonaro-hospitalized-again-skin-infection-4314861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 01:50:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/brazil-ex-president-bolsonaro-hospitalized-again-skin-infection-4314861
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2QmWssuV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t204335z_1_lynxmpek4408j_rtroptp_3_brazil-politics-bolsonaro.jpg?itok=5Nx-LlLQ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Brazil ex-president Bolsonaro hospitalized again with skin infection
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/brazil-ex-president-bolsonaro-hospitalized-again-skin-infection-4314861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 01:50:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/brazil-ex-president-bolsonaro-hospitalized-again-skin-infection-4314861
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2QmWssuV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t204335z_1_lynxmpek4408j_rtroptp_3_brazil-politics-bolsonaro.jpg?itok=5Nx-LlLQ" width="1600"/>
+  </item>
   <item>
    <title>
     Ukraine restores power to hundreds of thousands after Russian strikes
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qtJXqi25--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t150238z_2_lynxmpek450ec_rtroptp_3_robinhood-eu.jpg?itok=ef_Iw50u" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Trump Media dismisses auditor BF Borgers amid SEC fraud charges
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/trump-media-dismisses-auditor-bf-borgers-amid-sec-fraud-charges-4316261
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 21:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/trump-media-dismisses-auditor-bf-borgers-amid-sec-fraud-charges-4316261
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7nMDlpmM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t132024z_2_lynxmpek450ea_rtroptp_3_motor-f1-miami.jpg?itok=0RquCdIH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PSG not obsessed with scoring twice against Dortmund, says Luis Enrique
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/psg-not-obsessed-scoring-twice-against-dortmund-says-luis-enrique-4316216
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 21:00:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/psg-not-obsessed-scoring-twice-against-dortmund-says-luis-enrique-4316216
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
