@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 07:40:31 +0800
+   Mon, 06 May 2024 08:20:28 +0800
   </pubDate>
   <lastBuildDate>
-   Sun, 05 May 2024 18:03:52 +0800
+   Mon, 06 May 2024 07:48:01 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    'Shortened nursing programme won't affect teaching'
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751860-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751860-20240506.htm
+   </link>
+   <description>
+    <![CDATA[((Embargo until 7:00am Monday May 6))
+
+The Hospital Authority has announced plans to shorten the duration of its nursing programme starting from the new academic year in September, allowing students to complete the entire course in 3.5 years instead of the current four years. 
+
+The HA launched the Professional Diploma in Nursing three years ago, offering classes in its three nursing schools at Caritas Medical Centre, Tuen Mun and Queen Elizabeth hospitals. 
+
+Upon graduation, students can choose to become registered general nurses and pursue a bachelor’s degree in other institutions.
+
+Bonnie Au, principal at Queen Elizabeth Hospital’s nursing school, explained the decision to shorten the duration of the programme was made “in view of the arrangement of placement and learning for the students”.
+
+“Actually there is no change in the contents we teach to the students, like the theories and the skills, there is no change, just the period has been shortened,” she said.  
+
+She said students will still be entitled to at least 1,400 hours of internship in public hospitals and their learning outcome won't be affected. 
+
+From their very first placement, students will assist registered nurses to carry out various tasks, including measuring blood pressure, feeding dependent patients and distributing medications, Au said. 
+
+When asked about the high attrition rate among nurses in recent years, with over 1,800 full-time nurses at public hospitals having left their positions last year, Au stressed the three nursing schools had already reached their maximum capacity with 300 places offered each year. 
+
+She said a lot would need to be considered if authorities wanted to increase quotas at the schools, including finding extra teaching space and staff, as well as liaising with the Nursing Council of Hong Kong. 
+
+The tuition fee for the 3.5-year programme is HK$132,700. Applications close on July 19.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 07:48:01 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Clear Water Bay Road reopens after repair work
@@ -624,35 +661,6 @@ The thunderstorm warning was also in effect.]]>
    </description>
    <pubDate>
     Sat, 04 May 2024 05:58:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Companies Registry fault exposes data of 110,000 users
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751695-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751695-20240503.htm
-   </link>
-   <description>
-    <![CDATA[The Companies Registry on Friday said the personal information of around 110,000 people had been leaked due to a fault in its digital platform.
-
-The registry said if people conduct searches on its e-Services Portal and pressed the F12 key, they might see additional personal details.
-
-Information being exposed included names, addresses, telephone numbers, email addresses, as well as full identity and passport numbers.
-
-The body said urgent maintenance has been carried out to prevent further leaks, and that it is getting in touch with and apologising to those affected.
-
-It added that it is consulting the Office of the Privacy Commissioner for Personal Data and the Office of the Government Chief Information Officer with a view to conducting a comprehensive review of the incident and taking further enhancement measures to safeguard personal data.
-
-The privacy watchdog, for its part, said it is launching a probe given the number of people affected in the incident.
-
-Earlier, the Electrical and Mechanical Services Department apologised after information of around 17,000 public housing tenants required to undergo Covid tests in 2022 was exposed online.]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 22:14:29 +0800
    </pubDate>
   </item>
  </channel>
