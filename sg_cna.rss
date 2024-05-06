@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 22:16:04 +0800
+   Mon, 06 May 2024 22:27:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Judge fines Trump again in criminal trial, warns of jail time
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/judge-fines-trump-again-criminal-trial-warns-jail-time-4316321
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 22:18:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/judge-fines-trump-again-criminal-trial-warns-jail-time-4316321
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OJorrSFa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t135125z_3_lynxmpek450ev_rtroptp_3_usa-trump-new-york.jpg?itok=-uaIzcNl" width="1600"/>
+  </item>
   <item>
    <title>
     For US farmers, watching and waiting is a spring planting ritual. Climate change is adding to anxiety
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rt-LEwtH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/20240506_bk_state_courts_ken_lim_1.jpg?itok=3rLKcopB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    ICC say 'robust security plan' for T20 World Cup amid threat reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/icc-say-robust-security-plan-t20-world-cup-amid-threat-reports-4315971
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 19:17:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/icc-say-robust-security-plan-t20-world-cup-amid-threat-reports-4315971
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--upIJV2jO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t111752z_1_lynxmpek450b6_rtroptp_3_un-assembly.jpg?itok=_Oj8GPce" width="1600"/>
   </item>
  </channel>
 </rss>
