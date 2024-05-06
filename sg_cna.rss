@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 18:24:07 +0800
+   Mon, 06 May 2024 18:36:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Myanmar ethnic armed group says it captured hundreds of junta personnel
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/myanmar-ethnic-group-armed-group-captured-hundreds-junta-personnel-4315816
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 18:34:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/myanmar-ethnic-group-armed-group-captured-hundreds-junta-personnel-4315816
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SrT8Cj__--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t110750z_1_lynxnpek3o0ie_rtroptp_3_thailand-myanmar-border.jpg?itok=RDn8jH4o" width="1600"/>
+  </item>
   <item>
    <title>
     Australian winemakers navigate impact of thawing trade ties with China
@@ -72,7 +93,7 @@
     <![CDATA[The band's lead singer, Alex Gaskarth, spent the night in hospital after falling ill with food poisoning.]]>
    </description>
    <pubDate>
-    Mon, 06 May 2024 18:04:31 +0800
+    Mon, 06 May 2024 18:04:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/all-time-low-concert-ends-early-singer-sent-hospital-4315691
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--r5tnfl6x--/c_crop,h_432,w_768,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/04a4b03c818fe0dbd6c4066b2207b372a1b5d2a2.jpg?itok=neB9_Gsh" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Philippines won't use water cannon on Chinese ships: President Marcos
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/philippines-wont-use-water-cannon-chinese-ships-china-4315546
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 15:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/philippines-wont-use-water-cannon-chinese-ships-china-4315546
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--siDeuQji--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/45d29ca3f0a4b5f4cab5f40429762cf41f16da1b.jpg?itok=GoUk02Bd" width="1600"/>
   </item>
  </channel>
 </rss>
