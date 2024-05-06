@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 19:27:09 +0800
+   Mon, 06 May 2024 19:42:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Alleged victim who spoke up against Ken Lim after 11 years said she 'owes it to all the other girls'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/ken-lim-sexual-offence-trial-molest-singer-songwriter-4315891
+   </link>
+   <description>
+    <![CDATA[The singer-songwriter was 26 when she met the music producer for career advice, and he allegedly asked her about sex.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 19:35:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/ken-lim-sexual-offence-trial-molest-singer-songwriter-4315891
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rt-LEwtH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/20240506_bk_state_courts_ken_lim_1.jpg?itok=3rLKcopB" width="1600"/>
+  </item>
   <item>
    <title>
     ICC say 'robust security plan' for T20 World Cup amid threat reports
@@ -438,27 +459,6 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1KoWi776--/c_crop,h_450,w_800,x_0,y_41/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t075102z_2_lynxmpek4506d_rtroptp_3_asia-population-china.jpg?itok=tLcK7wfj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    American singer Nicole Scherzinger visits Gardens by the Bay and Haw Par Villa in series of Instagram videos
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/nicole-scherzinger-visits-singapore-gardens-bay-haw-par-villa-4315621
-   </link>
-   <description>
-    <![CDATA[The former member of The Pussycat Dolls is believed to have collaborated with the Singapore Tourism Board for the videos.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 16:11:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/nicole-scherzinger-visits-singapore-gardens-bay-haw-par-villa-4315621
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SoDuIERu--/c_crop,h_607,w_1080,x_0,y_314/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/nicole_scherzinger_gardens_by_the_bay.jpg?itok=8SqagVmh" width="1600"/>
   </item>
  </channel>
 </rss>
