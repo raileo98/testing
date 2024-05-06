@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 13:50:50 +0800
+   Mon, 06 May 2024 14:20:09 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 06 May 2024 13:35:07 +0800
+   Mon, 06 May 2024 14:05:15 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    台股高收近1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1751987-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1751987-20240506.htm
+   </link>
+   <description>
+    <![CDATA[台股高收，加權指數收報20523點，升192點，升幅0.95%。]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 14:05:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     余偉文：今年國際金融領袖投資峰會已收到50至60個確認回覆
@@ -479,25 +496,6 @@
    </description>
    <pubDate>
     Mon, 06 May 2024 10:00:34 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人行逆回購20億元人民幣
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1751944-20240506.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1751944-20240506.htm
-   </link>
-   <description>
-    <![CDATA[人民銀行公開市場進行20億元人民幣逆回購操作，期限7日，中標利率維持在1.8厘，對沖到期量後，單日淨回籠80億元。
-
-外電統計，本周有4500億元逆回購到期，當中包括五一假期期間順延到期在內。]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 09:46:41 +0800
    </pubDate>
   </item>
  </channel>
