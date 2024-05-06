@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 03:07:00 +0800
+   Tue, 07 May 2024 03:28:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    John Swinney due to run Scotland as next SNP leader in turbulent times
+   </title>
+   <link>
+    https://www.channelnewsasia.com/john-swinney-due-run-scotland-next-snp-leader-turbulent-times-4316156
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 03:24:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/john-swinney-due-run-scotland-next-snp-leader-turbulent-times-4316156
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GX2Rrws2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/534f8478eaaef535e987c03a3ff3b2218ca94523.jpg?itok=LrOMK8HZ" width="1600"/>
+  </item>
   <item>
    <title>
     Brazil ex-president Bolsonaro hospitalized again with skin infection
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yh3WmdSK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t143550z_2_lynxmpek450f9_rtroptp_3_synopsys-sig-clearlake-francisco.jpg?itok=Mbvx4vjL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Robinhood Crypto gets Wells notice from US SEC
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/robinhood-crypto-gets-wells-notice-us-sec-4316276
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 21:21:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/robinhood-crypto-gets-wells-notice-us-sec-4316276
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qtJXqi25--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t150238z_2_lynxmpek450ec_rtroptp_3_robinhood-eu.jpg?itok=ef_Iw50u" width="1600"/>
   </item>
  </channel>
 </rss>
