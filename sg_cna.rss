@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 12:50:25 +0800
+   Mon, 06 May 2024 13:06:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Maris Stella High School, Woodlands Ring Secondary School to be rebuilt
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/maris-stella-high-school-secondary-primary-move-woodlands-ring-4315311
+   </link>
+   <description>
+    <![CDATA[Maris Stella High School (Primary) will become co-educational and plans to increase its intake in 2027.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 13:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/maris-stella-high-school-secondary-primary-move-woodlands-ring-4315311
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--y3Ev-J1q--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/maris_stella_high_school_woodlands_ring_secondary_school_0.jpg?itok=qm8NtUbv" width="1600"/>
+  </item>
   <item>
    <title>
     Indonesia's Q1 GDP growth beats forecasts, highest in three quarters
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bcdcv1f---/c_crop,h_900,w_1600,x_0,y_300/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/06/sandara_park_singapore_0.jpg?itok=-tXHwYNt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hong Kong Exchange Fund posts 2nd quarter of investment income gains in Q1
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/hong-kong-exchange-fund-posts-2nd-quarter-investment-income-gains-q1-4315221
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 10:35:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/hong-kong-exchange-fund-posts-2nd-quarter-investment-income-gains-q1-4315221
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
