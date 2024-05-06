@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 06 May 2024 13:40:14 +0800
+   Mon, 06 May 2024 13:50:18 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 06 May 2024 12:58:33 +0800
+   Mon, 06 May 2024 13:43:21 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,33 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Banks told to be ready to operate in severe weather
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1751984-20240506.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1751984-20240506.htm
+   </link>
+   <description>
+    <![CDATA[The chief executive of the Hong Kong Monetary Authority (HKMA), Eddie Yue, on Monday urged banks to be prepared to operate during severe weather conditions. 
+
+Yue told reporters that Hong Kong Exchanges and Clearing (HKEX) is making progress towards ensuring local stock and derivatives markets can still function during adverse weather.
+
+“Hong Kong Exchanges is now finalising the arrangement and we have asked the banks to make sure that they get prepared, so that whatever the final arrangement is they will be able to support it and we have asked them to make early preparations for example on if there should be any system change,” he said.
+
+Yue's remarks follow the completion of a public consultation exercise by HKEX in January on ending stock market closures during severe weather events. 
+
+Separately, Yue said the HKMA will host the third Global Financial Leaders' Investment Summit from November 18 to 20, adding that around 50 to 60 people have confirmed their attendance.
+
+The HKMA chief said he hopes the summit will attract prominent business figures to Hong Kong and will strengthen the city’s position as an international financial hub.]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 13:43:21 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Exchange Fund posts HK$54.3bn first quarter gain
@@ -597,29 +624,6 @@ The broad-based S&P 500 dropped 1.6 percent to 5,035, while the tech-rich Nasdaq
    </description>
    <pubDate>
     Wed, 01 May 2024 04:52:22 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Negative equity cases at their highest in two decades
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751249-20240430.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751249-20240430.htm
-   </link>
-   <description>
-    <![CDATA[The number of negative equity cases reached a 20-year high in the first quarter, figures released by Hong Kong Monetary Authority (HKMA) showed.
-
-According to the HKMA, there were 32,073 cases at the end of March, up 27 percent from the fourth quarter of 2023 and the most since the first quarter of 2004.
-
-The HKMA noted that the loans had mainly been taken out by bank staff or linked to mortgage insurance, which generally have a higher loan-to-value ratio.
-
-Government figures out last week showed home prices rebounded in March, snapping a 10-month losing streak. That's after Financial Secretary Paul Chan announced the scrapping of all property-cooling measures in his budget speech on February 28.]]>
-   </description>
-   <pubDate>
-    Tue, 30 Apr 2024 21:33:23 +0800
    </pubDate>
   </item>
  </channel>

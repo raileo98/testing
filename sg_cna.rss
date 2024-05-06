@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 13:45:43 +0800
+   Mon, 06 May 2024 13:58:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Chennai's Jadeja proves all-round value ahead of World Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/chennais-jadeja-proves-all-round-value-ahead-world-cup-4315481
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 13:52:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/chennais-jadeja-proves-all-round-value-ahead-world-cup-4315481
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PaQ4uFK2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t055220z_1_lynxmpek4503s_rtroptp_3_cricket-test-ind-eng.jpg?itok=G169A-MO" width="1600"/>
+  </item>
+  <item>
+   <title>
     No final decision on Malaysia’s fuel subsidies cut, says PM Anwar, slamming media outlets over reports
    </title>
    <link>
@@ -60,6 +81,27 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Owv23UqZ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-08-30t090438z_1_lynxmpej7t0be_rtroptp_3_petronas-results.jpg?itok=XsLNz1oS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Ten Hag expects Fernandes to stay at Man Utd next season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ten-hag-expects-fernandes-stay-man-utd-next-season-4315466
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 13:38:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ten-hag-expects-fernandes-stay-man-utd-next-season-4315466
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nRuaGDyx--/c_crop,h_450,w_800,x_0,y_32/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-27t102939z_1_lynxmpek3q032_rtroptp_3_soccer-england-mun-shu-report.jpg?itok=aE3hBRlj" width="1600"/>
   </item>
   <item>
    <title>
@@ -420,48 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BxAIvDSL--/c_crop,h_843,w_1500,x_0,y_115/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/2.jpg?itok=TDH7jSc7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea finds illegal stock short sales by seven more banks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-korea-short-selling-stocks-foreign-investment-banks-violations-investigation-4315281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 11:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-korea-short-selling-stocks-foreign-investment-banks-violations-investigation-4315281
-   </guid>
-   <category>
-    Asia ,East Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4gA1l9ML--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-28t010124z_1_lynxnpek2r012_rtroptp_3_southkorea-economy-rates.jpg?itok=tsaiqfTL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea finds illegal stock short sales by seven more banks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-korea-short-selling-stocks-foreign-investment-banks-violations-investigation-4315281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 11:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-korea-short-selling-stocks-foreign-investment-banks-violations-investigation-4315281
-   </guid>
-   <category>
-    Asia ,East Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4gA1l9ML--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-28t010124z_1_lynxnpek2r012_rtroptp_3_southkorea-economy-rates.jpg?itok=tsaiqfTL" width="1600"/>
   </item>
  </channel>
 </rss>
