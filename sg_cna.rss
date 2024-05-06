@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 06 May 2024 15:46:34 +0800
+   Mon, 06 May 2024 15:51:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Philippines won't use water cannon on Chinese ships: President Ferdinand Marcos
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/philippines-use-water-cannon-chinese-ships-china-4315546
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 06 May 2024 15:51:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/philippines-use-water-cannon-chinese-ships-china-4315546
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--siDeuQji--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/45d29ca3f0a4b5f4cab5f40429762cf41f16da1b.jpg?itok=GoUk02Bd" width="1600"/>
+  </item>
   <item>
    <title>
     As Trump seeks US presidency again, Asian-Americans fear another rise in hate crimes
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RbR_Hc_4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-06t050429z_1_lynxmpek45030_rtroptp_3_soccer-eurou21-eng-srb-report.jpg?itok=_lyizjWO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Maris Stella High School to be rebuilt; primary school to become coed in 2027
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/maris-stella-high-school-secondary-primary-move-woodlands-ring-4315311
-   </link>
-   <description>
-    <![CDATA[Maris Stella High School (Primary) will also look to increase its intake in 2027.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 13:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/maris-stella-high-school-secondary-primary-move-woodlands-ring-4315311
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Z0aCnMuC--/c_fill,h_900,w_1600/f_auto,q_auto/v1/cna-migration/maris-stella-data.jpg?itok=ZT8LSmzM" width="1600"/>
   </item>
  </channel>
 </rss>
