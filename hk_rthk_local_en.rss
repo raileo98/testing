@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 16:10:10 +0800
+   Tue, 07 May 2024 16:20:51 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 15:19:52 +0800
+   Tue, 07 May 2024 16:15:15 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Officers foil jewellery store robbery attempt: police
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752156-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752156-20240507.htm
+   </link>
+   <description>
+    <![CDATA[Police on Tuesday arrested five men over an alleged armed robbery attempt at a jewellery store in Tsim Sha Tsui. 
+
+At around noon, five people entered the store at the intersection of Hankow Road and Harbour Road carrying knives and hammers, officers said.
+
+Police said they had been tipped-off about a planned robbery and were waiting nearby. 
+
+"During the operation to make the arrests, officers had drawn their guns as a warning because the robbers were holding knives and hammers. After the warning, we still used our bare hands to control them," said Superintendent Gar Kam-lam.
+
+"One of those arrested suffered a minor injury on his face," Gar added.]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 16:15:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Career expo to attract mainland and foreign talent
@@ -645,37 +670,6 @@ Officers added that no suicide note was found, and an autopsy would be conducted
    </description>
    <pubDate>
     Sun, 05 May 2024 16:30:30 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Govt depts told to review data security measures
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751873-20240505.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751873-20240505.htm
-   </link>
-   <description>
-    <![CDATA[The government's top IT office on Sunday said it was asking all bureaus and departments to comprehensively review their data security measures, and reply within a week.
-
-This came after reports of two data leaks in the past few days, involving the Companies Registry and the Electrical and Mechanical Services Department (EMSD).
-
-The registry said on Friday the data of some 110,000 people had been exposed due to a fault in its digital platform.
-
-The day before, the EMSD apologised over the data leak of some 17,000 public housing residents who had to undergo mandatory Covid tests in 2022.
-
-Addressing the issue on social media, the Office of the Government Chief Information Officer said it's highly concerned about the incidents.
-
-It said it had again sent clear directives to the heads of bureaus and departments about the reviews.
-
-"We also reminded all users and systems under the departments that they must stringently comply with the government's rules, policies and guidelines on data security in handling sensitive and personal information," it said in the post.
-
-The office added this includes never storing data on publicly-owned cloud platforms.]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 15:22:33 +0800
    </pubDate>
   </item>
  </channel>
