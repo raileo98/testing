@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 01:55:09 +0800
+   Wed, 08 May 2024 02:13:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israeli forces seize Rafah border crossing, choking off vital aid
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israeli-forces-seize-rafah-border-crossing-choking-vital-aid-4319556
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 02:01:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israeli-forces-seize-rafah-border-crossing-choking-vital-aid-4319556
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tPju8LSN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t164505z_1_lynxmpek460qp_rtroptp_3_israel-palestinians-gaza-rafah.jpg?itok=ef2CFk_o" width="1600"/>
+  </item>
   <item>
    <title>
     Microsoft's Xbox shuts multiple studios, consolidates teams in cost-cutting move
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Geely, Foretellix partner to jump-start self driving car development
-   </title>
-   <link>
-    https://www.channelnewsasia.com/geely-foretellix-partner-jump-start-self-driving-car-development-4318976
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 22:03:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/geely-foretellix-partner-jump-start-self-driving-car-development-4318976
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TxlF0y7p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t140308z_1_lynxmpek460lf_rtroptp_3_russia-china-autos.jpg?itok=hjY7FPVP" width="1600"/>
   </item>
  </channel>
 </rss>
