@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 12:10:05 +0800
+   Tue, 07 May 2024 12:20:20 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 11:58:01 +0800
+   Tue, 07 May 2024 12:13:19 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股半日跌157點　科指失守4000點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752124-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752124-20240507.htm
+   </link>
+   <description>
+    <![CDATA[港股連升10個交易日後回吐，恒指中午以貼近半日低位收市，報18420點，跌157點，跌幅0.85%，主板成交額逾629億元。
+
+科技指數跌穿4000點，半日報3918點，跌近2%。大部分成份股都下跌，ATMXJ跌近1%至近4%，美團表現最差。
+
+金融股個別發展，港交所、友邦跌近2%至近3%。平保及招行靠穩。
+
+另外，資源股、中資電訊股逆市上升。]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 12:13:19 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     分析料內地4月CPI按年升0.1%　不擔心再現通縮
@@ -431,29 +454,6 @@
    </description>
    <pubDate>
     Tue, 07 May 2024 08:12:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    聯儲局官員指經濟正趨向更好平衡
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752081-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752081-20240507.htm
-   </link>
-   <description>
-    <![CDATA[美國里奇蒙聯邦儲備銀行總裁巴爾金表示，聯儲局目前的指標利率水平，應該能夠為經濟降溫，從而推動通脹回到2%的目標，而強勁的就業市場將讓官員們可以耐心等待。
-
-在聯邦公開市場委員會中有投票權的巴爾金，在一個活動的準備發言稿中提到，雖然今年以來的通脹數據令人失望，但並不認為經濟過熱，指出經濟正趨於更好的平衡，而數據反覆表明要耐心等待，以確定通脹是否將重拾穩步下降的趨勢。
-
-紐約聯邦儲備銀行總裁威廉姆斯表示，聯儲局將在某個未確定的時間點減息，他指出在經濟增長速度轉向放緩情況下，經濟總體趨向更好的平衡，又表示縮減資產負債表規模的進展順利，並未引發市場恐慌。
-
-威廉姆斯預計，今年美國經濟增長介乎2%-2.5%。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 07:21:45 +0800
    </pubDate>
   </item>
  </channel>
