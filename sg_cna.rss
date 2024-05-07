@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 02:53:27 +0800
+   Wed, 08 May 2024 03:06:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Macron hosts Xi in French mountains to talk Ukraine, trade
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/macron-hosts-xi-french-mountains-talk-ukraine-trade-4317361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 02:59:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/macron-hosts-xi-french-mountains-talk-ukraine-trade-4317361
+   </guid>
+   <category>
+    World ,Asia
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Macron hosts Xi in French mountains to talk Ukraine, trade
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/macron-hosts-xi-french-mountains-talk-ukraine-trade-4317361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 02:59:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/macron-hosts-xi-french-mountains-talk-ukraine-trade-4317361
+   </guid>
+   <category>
+    World ,Asia
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Hamas official warns of no ceasefire deal if Israeli aggression on Gaza continues
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U4kFfTUo--/c_crop,h_576,w_1024,x_0,y_34/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_34QE97F.jpg?itok=lb4nB178" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Al Jazeera to pursue legal action 'until the end' over Israel ban
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/al-jazeera-pursue-legal-action-israel-ban-over-gaza-4319066
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 23:14:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/al-jazeera-pursue-legal-action-israel-ban-over-gaza-4319066
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--t0JO90lo--/c_crop,h_450,w_800,x_0,y_84/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t151556z_1_lynxmpek44056_rtroptp_3_israel-netanyahu-aljazeera.jpg?itok=1Z40bZnE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US consumer watchdog fines Chime $3.25 million for delaying refunds
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-consumer-watchdog-fines-chime-325-million-delaying-refunds-4319131
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 22:57:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-consumer-watchdog-fines-chime-325-million-delaying-refunds-4319131
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QpZax840--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t145748z_1_lynxmpek460n6_rtroptp_3_chime-ipo.jpg?itok=QMSO6zaA" width="1600"/>
   </item>
  </channel>
 </rss>
