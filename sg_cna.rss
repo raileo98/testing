@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 00:51:33 +0800
+   Wed, 08 May 2024 01:05:59 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,24 +42,24 @@
   </image>
   <item>
    <title>
-    TikTok, ByteDance sue to block US law seeking sale or ban of app
+    Miami GP sets F1 record for a live US television audience
    </title>
    <link>
-    https://www.channelnewsasia.com/business/tiktok-bytedance-sue-block-us-law-seeking-sale-or-ban-app-4319301
+    https://www.channelnewsasia.com/sport/miami-gp-sets-f1-record-live-us-television-audience-4319446
    </link>
    <description>
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 00:47:00 +0800
+    Wed, 08 May 2024 01:03:21 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tiktok-bytedance-sue-block-us-law-seeking-sale-or-ban-app-4319301
+    https://www.channelnewsasia.com/sport/miami-gp-sets-f1-record-live-us-television-audience-4319446
    </guid>
    <category>
-    Business ,World
+    Sport
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dqVS07_B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t170321z_1_lynxmpek460r7_rtroptp_3_motor-f1-miami.jpg?itok=UOdmVnkz" width="1600"/>
   </item>
   <item>
    <title>
@@ -80,7 +80,28 @@
    <category>
     Business ,World
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sRFjHYAo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t164415z_3_lynxmpek460p5_rtroptp_3_usa-tiktok-legislation.jpg?itok=Bi8ok9Ic" width="1600"/>
+  </item>
+  <item>
+   <title>
+    TikTok, ByteDance sue to block US law seeking sale or ban of app
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tiktok-bytedance-sue-block-us-law-seeking-sale-or-ban-app-4319301
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 00:47:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tiktok-bytedance-sue-block-us-law-seeking-sale-or-ban-app-4319301
+   </guid>
+   <category>
+    Business ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sRFjHYAo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t164415z_3_lynxmpek460p5_rtroptp_3_usa-tiktok-legislation.jpg?itok=Bi8ok9Ic" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wR7v8C5k--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t133654z_1_lynxmpek460kj_rtroptp_3_tech-ai-white-house.jpg?itok=SzDYHf1E" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Investopedia-owner Dotdash Meredith signs content license deal with OpenAI
-   </title>
-   <link>
-    https://www.channelnewsasia.com/investopedia-owner-dotdash-meredith-signs-content-license-deal-openai-4318856
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 21:05:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/investopedia-owner-dotdash-meredith-signs-content-license-deal-openai-4318856
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1b9_Oq0a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t130525z_1_lynxmpek460ji_rtroptp_3_tech-ai.jpg?itok=Xk752WCV" width="1600"/>
   </item>
  </channel>
 </rss>
