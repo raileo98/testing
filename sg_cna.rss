@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 21:09:18 +0800
+   Tue, 07 May 2024 21:18:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Investopedia-owner Dotdash Meridith signs content license deal with OpenAI
+   </title>
+   <link>
+    https://www.channelnewsasia.com/investopedia-owner-dotdash-meridith-signs-content-license-deal-openai-4318856
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 21:05:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/investopedia-owner-dotdash-meridith-signs-content-license-deal-openai-4318856
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1b9_Oq0a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t130525z_1_lynxmpek460ji_rtroptp_3_tech-ai.jpg?itok=Xk752WCV" width="1600"/>
+  </item>
   <item>
    <title>
     Private-hire car driver on unregulated platform molested woman, obtained sexual services from teen girl
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A-VvE2Zu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t073038z_3_lynxmpek46006_rtroptp_3_japan-yen-banknotes.jpg?itok=o7abIsN1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Need to monitor, manage FX volatility 'carefully' - Indonesia Finance Minister
-   </title>
-   <link>
-    https://www.channelnewsasia.com/need-monitor-manage-fx-volatility-carefully-indonesia-finance-minister-4318306
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 17:32:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/need-monitor-manage-fx-volatility-carefully-indonesia-finance-minister-4318306
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--79tBGiab--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t093225z_1_lynxmpek460bx_rtroptp_3_asean-finance.jpg?itok=fv0HfmnC" width="1600"/>
   </item>
  </channel>
 </rss>
