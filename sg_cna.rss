@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 22:37:58 +0800
+   Tue, 07 May 2024 22:57:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Eyeing more buyouts, cyber startup Wiz raises $1 billion in private funds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/eyeing-more-buyouts-cyber-startup-wiz-raises-1-billion-private-funds-4318986
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 22:04:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/eyeing-more-buyouts-cyber-startup-wiz-raises-1-billion-private-funds-4318986
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Geely, Foretellix partner to jump-start self driving car development
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hdtdlymy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t074550z_2_lynxmpek46029_rtroptp_3_india-election.jpg?itok=m63Kw1U0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'In that zone, I’m unstoppable': Meet teen Kabir Anurag, first Singaporean F1 development driver
-   </title>
-   <link>
-    https://www.channelnewsasia.com/kabir-anurag-first-singaporean-formula-one-f1-development-driver-alpine-4318346
-   </link>
-   <description>
-    <![CDATA[Singaporean Formula 4 driver Kabir Anurag's F1 dreams are now one step closer after being recruited into the Alpine F1 team’s driver development programme.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:15:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/kabir-anurag-first-singaporean-formula-one-f1-development-driver-alpine-4318346
-   </guid>
-   <category>
-    Singapore ,Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jkn05Qck--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/kabir_anurag_f1_f4_singapore_alpine_5.jpeg?itok=m-zr08q0" width="1600"/>
   </item>
  </channel>
 </rss>
