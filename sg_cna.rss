@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 22:57:43 +0800
+   Tue, 07 May 2024 23:09:59 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US consumer watchdog fines Chime $3.25 million for delaying refunds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-consumer-watchdog-fines-chime-325-million-delaying-refunds-4319131
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 22:57:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-consumer-watchdog-fines-chime-325-million-delaying-refunds-4319131
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QpZax840--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t145748z_1_lynxmpek460n6_rtroptp_3_chime-ipo.jpg?itok=QMSO6zaA" width="1600"/>
+  </item>
   <item>
    <title>
     Eyeing more buyouts, cyber startup Wiz raises $1 billion in private funds
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fjhq-HSk--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/istock-1468693046.jpg?itok=lWuGdrOj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Will the impact of rural-urban divide show as India enters its third phase of elections?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/india-elections-narendra-modi-maharashtra-third-phase-rural-urban-divide-4318291
-   </link>
-   <description>
-    <![CDATA[India's poverty level remains a projected 11 per cent, with some economists noting that the income gap has widened in recent years.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:27:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/india-elections-narendra-modi-maharashtra-third-phase-rural-urban-divide-4318291
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hdtdlymy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t074550z_2_lynxmpek46029_rtroptp_3_india-election.jpg?itok=m63Kw1U0" width="1600"/>
   </item>
  </channel>
 </rss>
