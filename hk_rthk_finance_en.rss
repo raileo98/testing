@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 03:30:37 +0800
+   Wed, 08 May 2024 05:10:04 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 20:17:42 +0800
+   Wed, 08 May 2024 04:48:24 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,41 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Sideways day for US stocks as Disney tumbles
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752219-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752219-20240508.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks finished a choppy session essentially flat on Tuesday, a sideways performance that could persist until investors digest significant economic releases later in the month.
+
+"The market might just be due for some pause, consolidation," said LBBW's Karl Haeling.
+
+Analysts pointed to light trading volume in a comparatively quiet period of news after last week saw major earnings reports, economic releases and a Federal Reserve decision.
+
+Upcoming potential catalysts include US consumer price data and Walmart results, both of which are scheduled for next week.
+
+The Dow Jones edged up 0.1 percent to 38,884.
+
+The S&P 500 gained 0.2 percent to 5,187, while the Nasdaq dipped 0.1 percent to 16,332.
+
+Among individual companies, Disney dropped 9.5 percent as it reported a small quarterly loss and pointed to a moderation in travel spending expected to weigh on results at its parks division.
+
+Apple advanced 0.4 percent after unveiling new versions of its iPad tablets.
+
+Spirit AeroSystems, a major contractor to Boeing and Airbus, fell 0.3 percent as it reported a US$616.7 million quarterly loss, reflecting a drag from lower output amid Boeing's quality control problems.
+
+The company has also so far not reached a pricing agreement with Airbus, further weighing on financial performance. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 04:48:24 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK market should boost cooperation with mainland: CE
@@ -589,27 +624,6 @@ Exports of services rose by a notable 8.1 percent year on year in the quarter, a
    </description>
    <pubDate>
     Thu, 02 May 2024 19:05:14 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks rally for an eighth day
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751506-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751506-20240502.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares rallied more than two percent on Thursday as investors returned from a midweek break to extend their recent rally into an eighth day, boosted by a surge in tech giants including Meituan and JD.com.
-
-The Hang Seng Index jumped 2.5 percent, or 444 points, to 18,207.
-
-Mainland markets were closed for a holiday. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 16:24:14 +0800
    </pubDate>
   </item>
  </channel>
