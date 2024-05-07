@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Mon, 06 May 2024 17:00:03 GMT
+   Tue, 07 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    阿潑／協助和抵抗非法移民，都有利可圖？讀人類學家眼中的《非法公司》
+   </title>
+   <description>
+    <![CDATA[那張庫德族孩童俯臥土耳其沙灘的照片，讓某移民援助團體1天內收到超過平日15倍的捐款。這呼應了安德森的分析：一切包圍著移民危機與管制的人員組織，都由歐洲以對抗非法移民之名資助，從而形成對付非法移民的產業，且「有利可圖」。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/bookreview-illegality-inc-clandestine-migration-and-the-business-of-bordering-europe
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/bookreview-illegality-inc-clandestine-migration-and-the-business-of-bordering-europe
+   </guid>
+   <pubDate>
+    Tue, 07 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240427145343-8a186d9cbeba963d8f0267edfc7dd4a7-mobile.jpg"/>
+  </item>
   <item>
    <title>
     當上學念書成為「一場遊戲」，我們是促進學習、還是開啟了威權監控？
@@ -195,24 +213,6 @@
     Tue, 30 Apr 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240427010603-2599aedb553336e559938d88debc5c24-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    【投書】電價調漲後，解決能源貧窮、加速節電措施不能等
-   </title>
-   <description>
-    <![CDATA[在能源成本高漲之下，平均調漲11%的新電價方案已於4月1日上路。政府除了必須正視相應而來經濟弱勢面臨的能源貧窮問題之外，許多待調整的節電配套策略也值得討論。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/opinion-after-raising-electricity-prices
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/opinion-after-raising-electricity-prices
-   </guid>
-   <pubDate>
-    Mon, 29 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240429200822-f013c53e8098dbffdfcd269af0c19729-mobile.jpg"/>
   </item>
  </channel>
 </rss>

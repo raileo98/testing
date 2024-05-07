@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 01:21:33 +0800
+   Wed, 08 May 2024 01:27:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pakistani conglomerate Engro looks to go global, its main investor says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/pakistani-conglomerate-engro-looks-go-global-its-main-investor-says-4319496
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 01:20:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/pakistani-conglomerate-engro-looks-go-global-its-main-investor-says-4319496
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7-TsIqDj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t172011z_1_lynxmpek460rv_rtroptp_3_pakistan-economy-engro.jpg?itok=fN0BeaR2" width="1600"/>
+  </item>
   <item>
    <title>
     Miami GP sets F1 record for a live US television audience
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9WNXDTzb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t134423z_1_lynxmpek460kr_rtroptp_3_soccer-champions-mad-bay-preview.jpg?itok=Pi2nr7Mc" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'Significant number' of Cordlife clients accept refund offer
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cordlife-clients-accept-refund-annual-fees-measures-prevent-future-disruptions-4318631
-   </link>
-   <description>
-    <![CDATA[The affected clients have cord blood units stored in Tank A, one of seven storage tanks that were exposed to sub-optimal temperatures.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 21:43:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cordlife-clients-accept-refund-annual-fees-measures-prevent-future-disruptions-4318631
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o4JrHr2j--/c_crop,h_483,w_860,x_0,y_51/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/08/409292917_892886205526787_914715.jpg?itok=es0MzPlp" width="1600"/>
   </item>
  </channel>
 </rss>
