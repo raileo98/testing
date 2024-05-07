@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 02:13:43 +0800
+   Wed, 08 May 2024 02:29:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hamas official warns of no ceasefire deal if Israeli aggression on Gaza continues
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/hamas-official-warns-no-ceasefire-deal-if-israeli-aggression-gaza-continues-4319561
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 02:19:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/hamas-official-warns-no-ceasefire-deal-if-israeli-aggression-gaza-continues-4319561
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7iBM5d9e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t064624z_1_lynxmpek4606j_rtroptp_3_israel-palestinians-gaza-rafah.jpg?itok=J9B4kyJZ" width="1600"/>
+  </item>
   <item>
    <title>
     Israeli forces seize Rafah border crossing, choking off vital aid
@@ -290,7 +311,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cfTJg4wD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t143815z_3_lynxmpek460f7_rtroptp_3_usa-legal.jpg?itok=nryZkLze" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QpZax840--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t145748z_1_lynxmpek460n6_rtroptp_3_chime-ipo.jpg?itok=QMSO6zaA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Eyeing more buyouts, cyber startup Wiz raises $1 billion in private funds
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/eyeing-more-buyouts-cyber-startup-wiz-raises-1-billion-private-funds-4318986
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 22:04:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/eyeing-more-buyouts-cyber-startup-wiz-raises-1-billion-private-funds-4318986
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
