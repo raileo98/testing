@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 16:20:48 +0800
+   Tue, 07 May 2024 16:31:09 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 09:40:36 +0800
+   Tue, 07 May 2024 16:25:09 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks finally drop after 10-day rally
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752163-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752163-20240507.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks ended with losses on Tuesday, bringing an end to a 10-day winning streak, even after another strong performance on Wall Street.
+
+The Hang Seng Index fell 0.5 percent, or 98 points, to 18,479.
+
+But the Shanghai Composite Index rose 0.2 percent, or 7 points, to 3,147, while the Shenzhen Composite Index gained 0.2 percent, or 4 points, to 1,796. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 16:25:09 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks open flat after 10 days of gains
@@ -591,27 +612,6 @@ The HKMA and the Fed have kept their key lending rates unchanged since last July
    </description>
    <pubDate>
     Thu, 02 May 2024 11:14:20 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK market treads water at open of trade
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751451-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751451-20240502.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares barely moved at the open on Thursday as investors returned from a midweek break to a warning from the Federal Reserve that interest rates would likely stay higher for longer.
-
-The Hang Seng Index inched down just over 2 points to 17,760.
-
-Mainland Chinese markets are closed for the Golden Week holiday. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 09:51:38 +0800
    </pubDate>
   </item>
  </channel>
