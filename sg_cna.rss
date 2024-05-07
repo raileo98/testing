@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 03:25:13 +0800
+   Wed, 08 May 2024 03:30:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ukraine says thwarted Russian-led plot to kill Zelensyy
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/ukraine-says-thwarted-russian-led-plot-kill-zelensyy-4319476
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 03:26:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/ukraine-says-thwarted-russian-led-plot-kill-zelensyy-4319476
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mHbnFK12--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/c3a5b21a17f32ffaca28a417012fb792e574cbc2.jpg?itok=Z3cXHFa-" width="1600"/>
+  </item>
   <item>
    <title>
     Macron hosts Xi in French mountains to talk Ukraine, trade
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MEH_nkZV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t153035z_1_lynxmpek460nz_rtroptp_3_cycling-giro.jpg?itok=VsAJCB0K" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore government briefings for international banks not 'unusual' as asserted in FT article: Indranee
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/indranee-financial-times-article-government-briefings-not-unusual-4319081
-   </link>
-   <description>
-    <![CDATA[In an Apr 20 article, the Financial Times reported that Singapore had given international banks an "unusual series of top-level briefings on geopolitics".]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 23:25:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/indranee-financial-times-article-government-briefings-not-unusual-4319081
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U4kFfTUo--/c_crop,h_576,w_1024,x_0,y_34/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_34QE97F.jpg?itok=lb4nB178" width="1600"/>
   </item>
  </channel>
 </rss>
