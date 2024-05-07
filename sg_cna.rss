@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 21:36:16 +0800
+   Tue, 07 May 2024 21:42:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    OpenAI to launch tool to detect images created by DALL-E 3
+   </title>
+   <link>
+    https://www.channelnewsasia.com/openai-launch-tool-detect-images-created-dall-e-3-4318936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 21:36:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/openai-launch-tool-detect-images-created-dall-e-3-4318936
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wR7v8C5k--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t133654z_1_lynxmpek460kj_rtroptp_3_tech-ai-white-house.jpg?itok=SzDYHf1E" width="1600"/>
+  </item>
   <item>
    <title>
     Investopedia-owner Dotdash Meredith signs content license deal with OpenAI
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Japan warns of action over rapid currency moves
-   </title>
-   <link>
-    https://www.channelnewsasia.com/japan-warns-action-over-rapid-currency-moves-4317161
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:01:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/japan-warns-action-over-rapid-currency-moves-4317161
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A-VvE2Zu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t073038z_3_lynxmpek46006_rtroptp_3_japan-yen-banknotes.jpg?itok=o7abIsN1" width="1600"/>
   </item>
  </channel>
 </rss>
