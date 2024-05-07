@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 00:17:14 +0800
+   Wed, 08 May 2024 00:35:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blues remove interim tag from coach Drew Bannister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/blues-remove-interim-tag-coach-drew-bannister-4319366
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 00:28:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/blues-remove-interim-tag-coach-drew-bannister-4319366
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QdB9MSrY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t162828z_1_lynxmpek460py_rtroptp_3_hockey-nhl.jpg?itok=vKModZdZ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Red Bull have taken 220 staff from Mercedes, says Horner
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/red-bull-have-taken-220-staff-mercedes-says-horner-4319326
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 00:14:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/red-bull-have-taken-220-staff-mercedes-says-horner-4319326
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IPRaz64T--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t161453z_1_lynxmpek460pm_rtroptp_3_motor-f1.jpg?itok=H-ytm5Jz" width="1600"/>
+  </item>
   <item>
    <title>
     Connor McDavid chasing fourth Hart Trophy
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eqvNGOW9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t123218z_1_lynxmpek460ij_rtroptp_3_shell-malaysia-fuelstations.jpg?itok=ijvqWn3P" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Father sues daughter over co-owned properties worth more than S$11 million, wins suit that 'split the family'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/lawsuit-jointly-owned-properties-joint-tenant-father-sue-daughter-4318236
-   </link>
-   <description>
-    <![CDATA[The man filed the lawsuit after his daughter tried to stop him from selling four properties, saying they belonged to her.  ]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 20:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/lawsuit-jointly-owned-properties-joint-tenant-father-sue-daughter-4318236
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mdtPx5lB--/c_fill,h_900,w_1600/f_auto,q_auto/high-court-supreme-court-03-data.jpg?itok=2UQsOdVY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China's COMAC to expand Shanghai C919 plane factory as orders grow
-   </title>
-   <link>
-    https://www.channelnewsasia.com/china-comac-expand-shanghai-c919-plane-factory-orders-grow-4318521
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 19:57:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/china-comac-expand-shanghai-c919-plane-factory-orders-grow-4318521
-   </guid>
-   <category>
-    Business ,Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h-0EvIva--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t102641z_1_lynxmpek460e0_rtroptp_3_china-aviation-c919.jpg?itok=J8AO2NKy" width="1600"/>
   </item>
  </channel>
 </rss>
