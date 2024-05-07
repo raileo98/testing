@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 09:30:48 +0800
+   Tue, 07 May 2024 10:10:19 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 04:47:04 +0800
+   Tue, 07 May 2024 09:40:36 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks open flat after 10 days of gains
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752099-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752099-20240507.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks were barely moved at the open of business on Tuesday morning as traders struggled to maintain momentum after 10 straight days of gains, even after another strong performance on Wall Street.
+
+The Hang Seng Index inched down 0.75 points to 18,577.55.
+
+The Shanghai Composite Index was also barely moved, dipping 1.06 points to 3,139.66, while the Shenzhen Composite Index was also flat, easing 0.45 points to 1,791.96. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 09:40:36 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks rise again, extending rally
@@ -591,29 +612,6 @@ Mainland Chinese markets are closed for the Golden Week holiday. (AFP)]]>
    </description>
    <pubDate>
     Thu, 02 May 2024 09:51:38 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    US stocks end mostly lower in volatile reaction to Fed
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751427-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751427-20240502.htm
-   </link>
-   <description>
-    <![CDATA[Wall Street stocks finished mostly lower on Wednesday, concluding a volatile session after the Federal Reserve kept interest rates flat and signaled rate hikes were not probable.
-
-Major equities had shot higher after Fed Chair Jerome Powell called further rate hikes unlikely, but those gains largely faded in the final moments of the session.
-
-The Dow Jones Industrial Average ended at 37,903, up 0.2 percent from Tuesday, but down almost 450 points from its session peak.
-
-The broad-based S&P 500 declined 0.3 percent to 5,018, while the tech-rich Nasdaq Composite Index lost 0.3 percent at 15,605. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 05:31:18 +0800
    </pubDate>
   </item>
  </channel>
