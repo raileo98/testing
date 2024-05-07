@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 01:05:59 +0800
+   Wed, 08 May 2024 01:21:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -273,6 +273,27 @@
   </item>
   <item>
    <title>
+    Motional to pause robotaxi deployments with Uber, Lyft
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/motional-pause-robotaxi-deployments-uber-lyft-4319236
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 23:33:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/motional-pause-robotaxi-deployments-uber-lyft-4319236
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Milan outsprints Groves to win Giro stage four, Pogacar leads
    </title>
    <link>
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o4JrHr2j--/c_crop,h_483,w_860,x_0,y_51/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/08/409292917_892886205526787_914715.jpg?itok=es0MzPlp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    OpenAI to launch tool to detect images created by DALL-E 3
-   </title>
-   <link>
-    https://www.channelnewsasia.com/openai-launch-tool-detect-images-created-dall-e-3-4318936
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 21:36:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/openai-launch-tool-detect-images-created-dall-e-3-4318936
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wR7v8C5k--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t133654z_1_lynxmpek460kj_rtroptp_3_tech-ai-white-house.jpg?itok=SzDYHf1E" width="1600"/>
   </item>
  </channel>
 </rss>
