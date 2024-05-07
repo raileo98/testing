@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 14:20:34 +0800
+   Tue, 07 May 2024 14:40:14 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 13:09:46 +0800
+   Tue, 07 May 2024 14:33:09 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    台股高收逾0.6%　連升3日
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752138-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752138-20240507.htm
+   </link>
+   <description>
+    <![CDATA[台股連升3個交易日，創逾3星期以來收市高位。
+
+加權指數收報20653點，升130點，升幅0.63%。]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 14:33:09 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     吳天海：市道需時調整　首季零售銷售表現可接受
@@ -449,27 +468,6 @@
    </description>
    <pubDate>
     Tue, 07 May 2024 09:19:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日本4月服務業活動以8個月最快速度增長
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752093-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752093-20240507.htm
-   </link>
-   <description>
-    <![CDATA[一項調查顯示，由於企業和消費者支出強勁，日本4月服務業活動以8個月最快速度增長，或令日本央行今年仍有望再次加息。
-
-日本4月服務業採購經理人指數(PMI)終值升至54.3，是2023年8月以來最高，略高於3月的54.1，但略低於初值的54.6。
-
-指數自2022年9月以來一直保持在50以上。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 09:15:13 +0800
    </pubDate>
   </item>
  </channel>
