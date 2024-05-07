@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 13:24:23 +0800
+   Tue, 07 May 2024 13:35:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -84,6 +84,27 @@
   </item>
   <item>
    <title>
+    PetroVietnam announces new oil discoveries with initial reserves of 100.5 million barrels
+   </title>
+   <link>
+    https://www.channelnewsasia.com/petrovietnam-announces-new-oil-discoveries-initial-reserves-1005-million-barrels-4317671
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 13:22:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/petrovietnam-announces-new-oil-discoveries-initial-reserves-1005-million-barrels-4317671
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ACbdj73O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t052201z_1_lynxmpek4604d_rtroptp_3_russia-rosneft-vietnam.jpg?itok=-JWboRKL" width="1600"/>
+  </item>
+  <item>
+   <title>
     British diver Daley to compete at record fifth Games
    </title>
    <link>
@@ -101,7 +122,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XluwjFXC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t051533z_2_lynxmpek4604b_rtroptp_3_olympics-2024-diving-daley.jpg?itok=9CyTTenY" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4yScs4VJ--/c_crop,h_450,w_800,x_0,y_25/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t051533z_2_lynxmpek4604b_rtroptp_3_olympics-2024-diving-daley.jpg?itok=9CyTTenY" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ziXxgehx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/nea_community_auditors_private_estate.png?itok=gBA7Vty1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PM Modi to vote as India's marathon election heats up
-   </title>
-   <link>
-    https://www.channelnewsasia.com/india-election-modi-votes-third-term-heat-4316736
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 11:03:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/india-election-modi-votes-third-term-heat-4316736
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HJBv6iqf--/c_crop,h_432,w_768,x_0,y_28/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/e085c70ebc554af2648af5c2374895b0aac3bb08.jpg?itok=nMvP1n4N" width="1600"/>
   </item>
  </channel>
 </rss>
