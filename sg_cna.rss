@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 17:30:32 +0800
+   Tue, 07 May 2024 17:42:01 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Need to monitor, manage FX volatility 'carefully' - Indonesia Finance Minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/need-monitor-manage-fx-volatility-carefully-indonesia-finance-minister-4318306
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 17:32:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/need-monitor-manage-fx-volatility-carefully-indonesia-finance-minister-4318306
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--79tBGiab--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t093225z_1_lynxmpek460bx_rtroptp_3_asean-finance.jpg?itok=fv0HfmnC" width="1600"/>
+  </item>
   <item>
    <title>
     Online retailer Zalando returns to growth thanks to premium brands
@@ -434,27 +455,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w4y50jyA--/c_crop,h_843,w_1500,x_0,y_172/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2022/03/18/istock-1172143424.jpg?itok=6AAsJ11q" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israeli military takes control of vital Rafah crossing from Gaza into Egypt
-   </title>
-   <link>
-    https://www.channelnewsasia.com/israel-hamas-war-control-rafah-crossing-4317861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 14:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/israel-hamas-war-control-rafah-crossing-4317861
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Njw4hbPm--/c_crop,h_576,w_1024,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/000_34qx9ta.jpg?itok=VUeqn5N9" width="1600"/>
   </item>
  </channel>
 </rss>
