@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 20:47:33 +0800
+   Tue, 07 May 2024 20:54:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Private-hire car driver on unregulated platform molested woman, obtained sexual services from teen girl
+   </title>
+   <link>
+    https://www.channelnewsasia.com/private-hire-car-driver-unregulated-platform-molested-woman-obtained-sexual-services-teen-girl-4318456
+   </link>
+   <description>
+    <![CDATA[For his offences, Muhammad Shaharudin Abdul Wahid was sentenced to one year and four months in prison and two strokes of the cane.]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 20:48:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/private-hire-car-driver-unregulated-platform-molested-woman-obtained-sexual-services-teen-girl-4318456
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wLyctHtX--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/istock-1044224036.jpg?itok=K20kvmSV" width="1600"/>
+  </item>
   <item>
    <title>
     Vingegaard back on bike outside, hopeful for Tour defence
@@ -105,7 +126,7 @@
   </item>
   <item>
    <title>
-    Father wins right to sell properties co-owned by daughter worth over S$11 million
+    Father sues daughter over co-owned properties worth more than S$11 million, wins suit that 'split the family'
    </title>
    <link>
     https://www.channelnewsasia.com/lawsuit-jointly-owned-properties-joint-tenant-father-sue-daughter-4318236
@@ -114,7 +135,7 @@
     <![CDATA[The man filed the lawsuit after his daughter tried to stop him from selling four properties, saying they belonged to her.  ]]>
    </description>
    <pubDate>
-    Tue, 07 May 2024 20:27:19 +0800
+    Tue, 07 May 2024 20:27:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/lawsuit-jointly-owned-properties-joint-tenant-father-sue-daughter-4318236
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--79tBGiab--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t093225z_1_lynxmpek460bx_rtroptp_3_asean-finance.jpg?itok=fv0HfmnC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Online retailer Zalando returns to growth thanks to premium brands
-   </title>
-   <link>
-    https://www.channelnewsasia.com/online-retailer-zalando-returns-growth-thanks-premium-brands-4318146
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 16:28:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/online-retailer-zalando-returns-growth-thanks-premium-brands-4318146
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MgQuiHaJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t082804z_2_lynxmpek46045_rtroptp_3_zalando-results.jpg?itok=ortnNn2Q" width="1600"/>
   </item>
  </channel>
 </rss>
