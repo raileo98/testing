@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 23:09:59 +0800
+   Tue, 07 May 2024 23:26:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Singapore government briefings for international banks not 'unusual' as asserted in FT article: Indranee
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/indranee-financial-times-article-government-briefings-not-unusual-4319081
+   </link>
+   <description>
+    <![CDATA[In an Apr 20 article, the Financial Times reported that Singapore had given international banks an "unusual series of top-level briefings on geopolitics".]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 23:25:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/indranee-financial-times-article-government-briefings-not-unusual-4319081
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U4kFfTUo--/c_crop,h_576,w_1024,x_0,y_34/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_34QE97F.jpg?itok=lb4nB178" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Al Jazeera to pursue legal action 'until the end' over Israel ban
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/al-jazeera-pursue-legal-action-israel-ban-over-gaza-4319066
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 23:14:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/al-jazeera-pursue-legal-action-israel-ban-over-gaza-4319066
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--t0JO90lo--/c_crop,h_450,w_800,x_0,y_84/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-05t151556z_1_lynxmpek44056_rtroptp_3_israel-netanyahu-aljazeera.jpg?itok=1Z40bZnE" width="1600"/>
+  </item>
   <item>
    <title>
     US consumer watchdog fines Chime $3.25 million for delaying refunds
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Rv_eXDvF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/malaysia_thailand_aff_soccer_87267.jpg?itok=---Hp2VR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Malaysia unveils financial incentives for anti-graft whistleblowers amid country’s RM277b loss to corruption
-   </title>
-   <link>
-    https://www.channelnewsasia.com/malaysia-corruption-incentive-whistleblower-macc-4318526
-   </link>
-   <description>
-    <![CDATA[The government implemented 85 out of 111 initiatives in its previous national anti-corruption plan, which covered similar risk areas, such as political governance and public procurement, to a new anti-graft initiative announced on May 7.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:45:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/malaysia-corruption-incentive-whistleblower-macc-4318526
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---PC85-yB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/FDZ_7570.jpg?itok=N82jxFl9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New law will require owners of critical services to report wider range of cybersecurity incidents
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cybersecurity-critical-services-csa-mci-parliament-4318321
-   </link>
-   <description>
-    <![CDATA[ As tactics of malicious actors evolve to target systems peripheral to owners of critical services, Singapore must also place "alarms" at these places, says Senior Minister of State for Communications and Information Janil Puthucheary. ]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:29:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cybersecurity-critical-services-csa-mci-parliament-4318321
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fjhq-HSk--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/istock-1468693046.jpg?itok=lWuGdrOj" width="1600"/>
   </item>
  </channel>
 </rss>
