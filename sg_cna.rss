@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 01:27:19 +0800
+   Wed, 08 May 2024 01:36:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Microsoft's Xbox shuts multiple studios, consolidates teams in cost-cutting move
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/microsofts-xbox-shuts-multiple-studios-consolidates-teams-cost-cutting-move-4319506
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 01:31:30 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/microsofts-xbox-shuts-multiple-studios-consolidates-teams-cost-cutting-move-4319506
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qQfAr66E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t173130z_1_lynxmpek460s2_rtroptp_3_e3-microsoft.jpg?itok=hO_h0Tm8" width="1600"/>
+  </item>
   <item>
    <title>
     Pakistani conglomerate Engro looks to go global, its main investor says
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TxlF0y7p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t140308z_1_lynxmpek460lf_rtroptp_3_russia-china-autos.jpg?itok=hjY7FPVP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ancelotti demands pace and intensity from Real Madrid against Bayern
-   </title>
-   <link>
-    https://www.channelnewsasia.com/ancelotti-demands-pace-and-intensity-real-madrid-against-bayern-4318956
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 21:44:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/ancelotti-demands-pace-and-intensity-real-madrid-against-bayern-4318956
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9WNXDTzb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t134423z_1_lynxmpek460kr_rtroptp_3_soccer-champions-mad-bay-preview.jpg?itok=Pi2nr7Mc" width="1600"/>
   </item>
  </channel>
 </rss>
