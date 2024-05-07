@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 21:42:54 +0800
+   Tue, 07 May 2024 21:54:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ancelotti demands pace and intensity from Real Madrid against Bayern
+   </title>
+   <link>
+    https://www.channelnewsasia.com/ancelotti-demands-pace-and-intensity-real-madrid-against-bayern-4318956
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 21:44:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/ancelotti-demands-pace-and-intensity-real-madrid-against-bayern-4318956
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9WNXDTzb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t134423z_1_lynxmpek460kr_rtroptp_3_soccer-champions-mad-bay-preview.jpg?itok=Pi2nr7Mc" width="1600"/>
+  </item>
+  <item>
+   <title>
+    'Significant number' of Cordlife clients accept refund offer
+   </title>
+   <link>
+    https://www.channelnewsasia.com/cordlife-clients-accept-refund-annual-fees-measures-prevent-future-disruptions-4318631
+   </link>
+   <description>
+    <![CDATA[The affected clients have cord blood units stored in Tank A, one of seven storage tanks that were exposed to sub-optimal temperatures.]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 21:43:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/cordlife-clients-accept-refund-annual-fees-measures-prevent-future-disruptions-4318631
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o4JrHr2j--/c_crop,h_483,w_860,x_0,y_51/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/08/409292917_892886205526787_914715.jpg?itok=es0MzPlp" width="1600"/>
+  </item>
   <item>
    <title>
     OpenAI to launch tool to detect images created by DALL-E 3
@@ -417,48 +459,6 @@
     Singapore ,Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jkn05Qck--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/kabir_anurag_f1_f4_singapore_alpine_5.jpeg?itok=m-zr08q0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    JPMorgan cuts at least six investment banking jobs in Hong Kong, sources say
-   </title>
-   <link>
-    https://www.channelnewsasia.com/jpmorgan-cuts-least-six-investment-banking-jobs-hong-kong-sources-say-4318496
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:09:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/jpmorgan-cuts-least-six-investment-banking-jobs-hong-kong-sources-say-4318496
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UExTi8iC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t100914z_1_lynxmpek460df_rtroptp_3_vtb-jpmorgan.jpg?itok=uyJkSsxa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Archegos boss Bill Hwang's trial to test unusual manipulation theory
-   </title>
-   <link>
-    https://www.channelnewsasia.com/archegos-boss-bill-hwangs-trial-test-unusual-manipulation-theory-4318476
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 18:05:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/archegos-boss-bill-hwangs-trial-test-unusual-manipulation-theory-4318476
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>

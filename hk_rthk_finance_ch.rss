@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 21:40:35 +0800
+   Tue, 07 May 2024 21:50:05 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 21:17:23 +0800
+   Tue, 07 May 2024 21:44:47 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股開市後變動不大
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752202-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752202-20240507.htm
+   </link>
+   <description>
+    <![CDATA[紐約股市初段變動不大。
+
+道瓊斯指數較早時報38891點，升39點。
+
+納斯達克指數報16365點，升16點。
+
+標準普爾500指數報5189點，升9點。]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 21:44:47 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美聯物業：過去兩月新申請預售樓花較撤辣前大升逾42倍
@@ -455,25 +478,6 @@ UK Power Networks由長江基建、電能實業及長江實業持有，長建及
    </description>
    <pubDate>
     Tue, 07 May 2024 14:42:15 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股高收逾0.6%　連升3日
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752138-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752138-20240507.htm
-   </link>
-   <description>
-    <![CDATA[台股連升3個交易日，創逾3星期以來收市高位。
-
-加權指數收報20653點，升130點，升幅0.63%。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 14:33:09 +0800
    </pubDate>
   </item>
  </channel>
