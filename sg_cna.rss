@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 00:35:51 +0800
+   Wed, 08 May 2024 00:44:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Robinhood set to report highest quarterly revenue since meme stock frenzy
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/robinhood-set-report-highest-quarterly-revenue-meme-stock-frenzy-4319396
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 00:38:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/robinhood-set-report-highest-quarterly-revenue-meme-stock-frenzy-4319396
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7zYz5nmC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t163855z_1_lynxmpek460ql_rtroptp_3_fintech-crypto-robinhood-sec.jpg?itok=1n9IzpAK" width="1600"/>
+  </item>
+  <item>
+   <title>
+    IRAS to claw back S$60 million from private property buyers who used '99-to-1' scheme to reduce ABSD
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/99-1-property-tax-avoidance-absd-audit-iras-agents-lawyers-4319086
+   </link>
+   <description>
+    <![CDATA["The '99-to-1' arrangement is a tax avoidance arrangement used by some property buyers to reduce the rightful Additional Buyer’s Stamp Duty payable on the purchase of a residential property," says Deputy Prime Minister Lawrence Wong.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 00:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/99-1-property-tax-avoidance-absd-audit-iras-agents-lawyers-4319086
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--paG8cI1I--/c_fill,h_900,w_1600/f_auto,q_auto/singapore-private-homes-condo-apartments.jpg?itok=OPwTfnPk" width="1600"/>
+  </item>
   <item>
    <title>
     Blues remove interim tag from coach Drew Bannister
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1XUPBTSx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t124015z_1_lynxmpek460is_rtroptp_3_cycling-vingegaard.jpg?itok=6F8VtQSb" width="1600"/>
-  </item>
-  <item>
-   <title>
-    GlobalFoundries forecasts Q2 revenue, profit above estimates on chip market recovery
-   </title>
-   <link>
-    https://www.channelnewsasia.com/globalfoundries-forecasts-q2-revenue-profit-above-estimates-chip-market-recovery-4318801
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 20:35:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/globalfoundries-forecasts-q2-revenue-profit-above-estimates-chip-market-recovery-4318801
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kgPVOguh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t123527z_1_lynxmpek460ip_rtroptp_3_globalfoundries-singapore.jpg?itok=8ovC9wKq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Shell says it remains committed to mobility business in Malaysia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/shell-says-it-remains-committed-mobility-business-malaysia-4318786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 20:32:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/shell-says-it-remains-committed-mobility-business-malaysia-4318786
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eqvNGOW9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t123218z_1_lynxmpek460ij_rtroptp_3_shell-malaysia-fuelstations.jpg?itok=ijvqWn3P" width="1600"/>
   </item>
  </channel>
 </rss>
