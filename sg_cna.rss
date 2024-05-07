@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 13:35:39 +0800
+   Tue, 07 May 2024 13:45:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Infineon lowers revenue outlook on difficult market environment
+   </title>
+   <link>
+    https://www.channelnewsasia.com/infineon-lowers-revenue-outlook-difficult-market-environment-4317686
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 13:43:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/infineon-lowers-revenue-outlook-difficult-market-environment-4317686
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jNXJEPAD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t054328z_1_lynxmpek4604r_rtroptp_3_infineon-technol-results.jpg?itok=LUSoGBe9" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Shastri expects big-hitting Dube to play a key role for India at T20 World Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/shastri-expects-big-hitting-dube-play-key-role-india-t20-world-cup-4317681
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 13:36:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/shastri-expects-big-hitting-dube-play-key-role-india-t20-world-cup-4317681
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f0F7Nn9p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t053646z_1_lynxmpek4604k_rtroptp_3_cricket-worldcup-ind-pak-preview.jpg?itok=m-m4f4KR" width="1600"/>
+  </item>
   <item>
    <title>
     Swiss-Asia Financial Services fined S$2.5 million for breaches of anti-money laundering requirements
@@ -417,48 +459,6 @@
     Asia ,East Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--L-KgdA9O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t005726z_1_lynxmpek4600u_rtroptp_3_australia-asean.jpg?itok=nUrfT8vS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thai Finance Minister says ready to talk to central bank chief on policy
-   </title>
-   <link>
-    https://www.channelnewsasia.com/thai-finance-minister-says-ready-talk-central-bank-chief-policy-4317416
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 11:23:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/thai-finance-minister-says-ready-talk-central-bank-chief-policy-4317416
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ah3WEDHE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t032302z_1_lynxmpek4602t_rtroptp_3_thailand-economy-cenbank.jpg?itok=0RyCNR8p" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cleaning up lapses: Private estate residents look out for issues as part of NEA programme
-   </title>
-   <link>
-    https://www.channelnewsasia.com/nea-community-auditors-private-estates-landed-property-keep-clean-drains-pavements-4317351
-   </link>
-   <description>
-    <![CDATA[Together, these residents save NEA over 3,000 man-hours a year.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 11:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/nea-community-auditors-private-estates-landed-property-keep-clean-drains-pavements-4317351
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ziXxgehx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/nea_community_auditors_private_estate.png?itok=gBA7Vty1" width="1600"/>
   </item>
  </channel>
 </rss>
