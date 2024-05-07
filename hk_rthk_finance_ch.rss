@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 14:40:14 +0800
+   Tue, 07 May 2024 14:50:20 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 14:33:09 +0800
+   Tue, 07 May 2024 14:44:32 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,44 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股急升約2.2%　2700點以上收市
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752141-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752141-20240507.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市在2700點關口以上收市，是近1個月以來首次。
+
+首爾綜合指數收報2734點，升57點，升幅2.16%。]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 14:44:32 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股升近600點收市　創逾3星期新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752137-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752137-20240507.htm
+   </link>
+   <description>
+    <![CDATA[日股假期後造好，創逾3星期收市新高。
+
+日經指數收報38835點，升599點，升幅1.57%。]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 14:42:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     台股高收逾0.6%　連升3日
@@ -432,42 +470,6 @@
    </description>
    <pubDate>
     Tue, 07 May 2024 09:43:07 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股競價時段跌不足1點　科指跌5點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752098-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752098-20240507.htm
-   </link>
-   <description>
-    <![CDATA[港股開市變動不大，恒生指數競價時段報18577點，跌不足1點。
-
-科技指數報4002點，跌5點，跌幅0.13%。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 09:23:51 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人民幣兌美元中間價回落至7.1水平
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752096-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752096-20240507.htm
-   </link>
-   <description>
-    <![CDATA[人民幣中間價再度回落至7.1水平，報7.1002兌1美元，比昨日中間價跌8點子。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 09:19:02 +0800
    </pubDate>
   </item>
  </channel>
