@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 07 May 2024 11:01:27 +0800
+   Tue, 07 May 2024 11:20:46 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 07 May 2024 10:58:22 +0800
+   Tue, 07 May 2024 11:02:25 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日本財務官：外匯波動致市場無法運作　可能不得不採取適當行動
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752111-20240507.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752111-20240507.htm
+   </link>
+   <description>
+    <![CDATA[日本財務省財務官神田真人表示，當外匯過度波動或投機導致無序波動時，市場就無法運作，政府可能不得不採取適當行動。
+
+神田真人表示，匯率最好能按基本面保持穩定，若市場穩健運行，政府無必要進行干預。
+
+被問到當局是否有入市干預，神田真人指，通常不會作出披露。]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 11:02:25 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     港股回吐逾百點　科指表現較差
@@ -433,31 +454,6 @@
    </description>
    <pubDate>
     Tue, 07 May 2024 06:15:54 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美元偏軟　連跌4個交易日
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752077-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752077-20240507.htm
-   </link>
-   <description>
-    <![CDATA[美元指數偏軟，較早時報105.09，跌近0.1%，連續第4個交易日下跌。最近美國勞動力市場數據和聯儲局官員的發言，增加減息希望。
-
-利率期貨顯示，交易員認為，聯儲局今年將減息近50個基點，其中9月減息至少25個基點的機會近70%。
-
-英鎊兌美元上升0.16%，報1.2564美元，英國央行本周議息，市場預計利率將維持在5.25厘不變。
-
-歐元兌美元變動不大，報1.077美元。
-
-美元兌日圓升0.61%，報153.92日圓。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 06:15:32 +0800
    </pubDate>
   </item>
  </channel>

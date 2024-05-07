@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 11:18:49 +0800
+   Tue, 07 May 2024 11:27:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thai Finance Minister says ready to talk to central bank chief on policy
+   </title>
+   <link>
+    https://www.channelnewsasia.com/thai-finance-minister-says-ready-talk-central-bank-chief-policy-4317416
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 11:23:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/thai-finance-minister-says-ready-talk-central-bank-chief-policy-4317416
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ah3WEDHE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t032302z_1_lynxmpek4602t_rtroptp_3_thailand-economy-cenbank.jpg?itok=0RyCNR8p" width="1600"/>
+  </item>
   <item>
    <title>
     Private estate residents help NEA keep areas clean as community auditors
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7R7eLkXn--/c_crop,h_576,w_1024,x_0,y_1/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/000_34r249b.jpg?itok=aTrs1aHz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Philippine inflation quickens for 3rd month, keeping central bank wary
-   </title>
-   <link>
-    https://www.channelnewsasia.com/philippine-inflation-quickens-3rd-month-keeping-central-bank-wary-4317171
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 09:14:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/philippine-inflation-quickens-3rd-month-keeping-central-bank-wary-4317171
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
