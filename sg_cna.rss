@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 07 May 2024 12:25:28 +0800
+   Tue, 07 May 2024 12:36:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Apple working on AI chips for data centers, WSJ reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/apple-working-ai-chips-data-centers-wsj-reports-4317511
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 07 May 2024 12:28:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/apple-working-ai-chips-data-centers-wsj-reports-4317511
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E-XgsAzD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t042824z_2_lynxmpek4603d_rtroptp_3_apple-chips-ai.jpg?itok=DJKx_QBV" width="1600"/>
+  </item>
   <item>
    <title>
     Jack Neo's I Not Stupid 3 will be out in cinemas on Jun 6
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--C0AOB7RJ--/c_fill,h_900,w_1600/f_auto,q_auto/andy-lau-at-cannes---683084.jpg?itok=4dlNcmRw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Met Gala in full bloom with Zendaya, Jennifer Lopez, Mindy Kaling among the standout stars
-   </title>
-   <link>
-    https://www.channelnewsasia.com/met-gala-2024-zendaya-jennifer-lopez-4317306
-   </link>
-   <description>
-    <![CDATA[Both are co-chairs of the annual fundraiser at The Metropolitan Museum of Art, and both received cheers from the crowd of fashion enthusiasts packed behind barriers outside.]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 10:43:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/met-gala-2024-zendaya-jennifer-lopez-4317306
-   </guid>
-   <category>
-    Style &amp; Beauty ,CNA Lifestyle ,Entertainment
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aMhdNka9--/c_crop,h_576,w_1024,x_0,y_101/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/07/ap24128047430440.jpg?itok=n2uHJofR" width="1600"/>
   </item>
  </channel>
 </rss>
