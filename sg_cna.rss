@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 06:29:48 +0800
+   Thu, 09 May 2024 06:42:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Journeyman Joselu takes long and winding road to Champions League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/journeyman-joselu-takes-long-and-winding-road-champions-league-final-4322941
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 06:28:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/journeyman-joselu-takes-long-and-winding-road-champions-league-final-4322941
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Disney, Warner Bros to offer streaming bundle of Disney+, Hulu and Max
@@ -439,27 +460,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    France fashions slender Paris 2024 torch from raw steel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/france-fashions-slender-paris-2024-torch-raw-steel-4322721
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 04:59:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/france-fashions-slender-paris-2024-torch-raw-steel-4322721
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wXABsWo5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t094705z_1_lynxmpek470c6_rtroptp_3_olympics-2024-torch-collector.jpg?itok=5LsOC-Wd" width="1600"/>
   </item>
  </channel>
 </rss>
