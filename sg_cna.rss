@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 23:36:32 +0800
+   Wed, 08 May 2024 23:45:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Benjamin Thomas wins Giro stage five after breakaway holds off peloton
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/benjamin-thomas-wins-giro-stage-five-after-breakaway-holds-peloton-4322126
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 23:37:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/benjamin-thomas-wins-giro-stage-five-after-breakaway-holds-peloton-4322126
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     US official says Chinese seizure of TSMC in Taiwan would be 'absolutely devastating'
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9KFG3To7--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/09/image_96.png?itok=MMsJyfoW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    MOH revokes licence of suspended Marine Parade GP who inappropriately prescribed sedatives
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/senior-gp-prescribed-sedatives-licence-revoked-under-new-law-moh-4321456
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 20:24:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/senior-gp-prescribed-sedatives-licence-revoked-under-new-law-moh-4321456
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_NekPUwt--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/istock-1026367516.jpg?itok=01b3sdrE" width="1600"/>
   </item>
  </channel>
 </rss>
