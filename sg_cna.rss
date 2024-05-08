@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 03:50:59 +0800
+   Thu, 09 May 2024 03:55:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Korda keeping it simple ahead of LPGA record attempt
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/korda-keeping-it-simple-ahead-lpga-record-attempt-4322586
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 03:52:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/korda-keeping-it-simple-ahead-lpga-record-attempt-4322586
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jkPd4u-_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t195236z_1_lynxmpek470tx_rtroptp_3_golf-lpga-korda.jpg?itok=jDl4Q9lR" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Music streaming firms urge European Commission to reject Apple's proposal in App Store case
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/music-streaming-firms-urge-european-commission-reject-apples-proposal-app-store-case-4322581
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 03:51:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/music-streaming-firms-urge-european-commission-reject-apples-proposal-app-store-case-4322581
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Microsoft to shut Africa development centre in Nigeria
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hTGpqxXG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t151702z_1_lynxmpek470m1_rtroptp_3_usa-china-huawei-chip.jpg?itok=QtG46GsW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tripadvisor stock sinks as panel rules out sale for now
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tripadvisor-stock-sinks-panel-rules-out-sale-now-4322076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 23:14:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tripadvisor-stock-sinks-panel-rules-out-sale-now-4322076
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eDbObLjo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t151412z_1_lynxmpek470lr_rtroptp_3_tripadvisor-deal-special-committee.jpg?itok=o9caIdI-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Google fights $17 billion UK lawsuit over adtech practices
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/google-fights-17-billion-uk-lawsuit-over-adtech-practices-4322016
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 23:08:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-fights-17-billion-uk-lawsuit-over-adtech-practices-4322016
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RRyEdid2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t150804z_4_lynxmpek470lh_rtroptp_3_britain-tech-google-adtech.jpg?itok=FgHunOXx" width="1600"/>
   </item>
  </channel>
 </rss>
