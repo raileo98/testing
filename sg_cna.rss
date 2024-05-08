@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 17:46:22 +0800
+   Wed, 08 May 2024 17:56:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Korean Air sells five jets to US aerospace firm Sierra Nevada
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/korean-air-sells-five-jets-us-aerospace-firm-sierra-nevada-4321311
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 17:46:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/korean-air-sells-five-jets-us-aerospace-firm-sierra-nevada-4321311
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0zEECLIz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t094621z_1_lynxmpek470c5_rtroptp_3_asiana-airlines-m-a-korean-air-management.jpg?itok=hdar2qJQ" width="1600"/>
+  </item>
   <item>
    <title>
     Biden to unveil $3.3 billion Microsoft AI investment in battleground Wisconsin
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fn3sg-7s--/c_crop,h_450,w_800,x_0,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t065137z_1_lynxmpek4606t_rtroptp_3_global-oil-futures-rally.jpg?itok=YWIYx3ky" width="1600"/>
-  </item>
-  <item>
-   <title>
-    One-piece ERP 2.0 unit for motorbikes cannot be used in cars due to 'greenhouse effect': Chee Hong Tat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/erp-2-motorcycle-land-transport-authority-4320806
-   </link>
-   <description>
-    <![CDATA[On a hot day, temperatures on a car dashboard can hit 50 to 52 degrees Celsius, said the Minister for Transport.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 15:32:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/erp-2-motorcycle-land-transport-authority-4320806
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UZ_ZQhXU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/23/dsc_6828.jpg?itok=BgEWt7aN" width="1600"/>
   </item>
  </channel>
 </rss>

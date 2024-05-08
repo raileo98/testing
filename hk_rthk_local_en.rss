@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 17:40:33 +0800
+   Wed, 08 May 2024 17:50:07 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 15:50:06 +0800
+   Wed, 08 May 2024 17:44:44 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Court grants injunction over 'Glory to Hong Kong'
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752327-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752327-20240508.htm
+   </link>
+   <description>
+    <![CDATA[The Court of Appeal on Wednesday granted a temporary injunction order banning the 2019 protest song "Glory to Hong Kong".
+
+In their decision, judges Jeremy Poon, Carlye Chu and Anthea Pang said they agreed with the administration that there was a compelling need to grant an injunction on national security grounds.
+
+The injunction bans anyone "with seditious intent" from playing or performing the song.
+
+The judges said criminal law alone could not achieve the purpose of safeguarding national security regarding the matter, since it is not practicable to bring proceedings against "unidentifiable" people online who commit offences in relation to the song. 
+
+They noted that there had been "widespread and persistent" flouting of the law before and especially after the national security law came into force in 2020.
+
+"Such is the seriousness of the criminal problems that the court must intervene immediately to prevent the continuation of the prevailing unlawful state of affairs; otherwise any further damage to national security would likely to be irreparable," the judgement read.
+
+The judges also said the injunction was necessary to persuade internet platforms to remove "problematic" content.
+
+They agreed with a lower court ruling earlier that the injunction may have “chilling effects”, but said it has addressed concerns about the right to free expression by allowing exceptions for lawful action connected to the song, such as academic and reporting activities.
+
+A lower court had last year rejected the government's bid for an injunction, saying it would be "of no real utility". The Department of Justice appealed against that ruling.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 17:44:44 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     'Imported talent injects HK$34bn into economy'
@@ -619,37 +652,6 @@ Officials earlier estimated about 800,000 mainland visitor arrivals for the holi
    </description>
    <pubDate>
     Mon, 06 May 2024 22:04:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Fire services body reports potential data leak
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752042-20240506.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752042-20240506.htm
-   </link>
-   <description>
-    <![CDATA[The Fire Services Department (FSD) on Monday said the personal information of thousands of people, including its staff and individuals who filed tree collapse reports during a super typhoon, could have been leaked after the right to access the data was altered without permission. 
-
-But it reassured the public there was no evidence that any such data had actually been released. 
-
-The department said it discovered personal data potentially being exposed on one of its IT systems last Friday, which involved the surnames and telephone numbers of some 480 people who had reported tree collapses when Super Typhoon Saola hit Hong Kong in September last year. 
-
-About 5,000 fire services staff were also affected and had their names, phone numbers, ranks and numbers, and postings subject to the potential leak, with some even having their incomplete identity card numbers possibly exposed. 
-
-"The FSD believes that the incident happened when the outsourced contractor handled the data migration procedure. During the process, the access right of the data was found altered without authorisation, posing a potential risk of data leakage," a spokesperson said. 
-
-The department has demanded the outsourced contractor to immediately suspend the system and all of its contract jobs, while withdrawing its access right to the system to prevent data being exposed. 
-
-It also apologised and notified those affected through text messages or phone calls. 
-
-The latest incident came after a string of data breaches at major public bodies, such as the Electrical and Mechanical Services Department and the Companies Registry, with a lawmaker calling for the heads of government departments responsible for such leaks to be held accountable for the blunders.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 21:35:32 +0800
    </pubDate>
   </item>
  </channel>
