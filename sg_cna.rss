@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 21:00:34 +0800
+   Wed, 08 May 2024 21:22:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Woman to be charged with murder after man found dead in Beach Road residence
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/beach-road-murder-woman-be-charged-man-died-4321731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 21:15:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/beach-road-murder-woman-be-charged-man-died-4321731
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0GWMyAGg--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/05/hand_holding_knfe.jpg?itok=oLpUWE8X" width="1600"/>
+  </item>
+  <item>
+   <title>
     FAQ: What do we know about F-16 fighter jets, their many years of service in the RSAF and frontline role
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[What type of fighter jet is the F-16 and what is its safety record? CNA looks at these questions and more.]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 20:50:57 +0800
+    Wed, 08 May 2024 20:50:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/rsaf-f16-fighter-jet-crash-pilot-capabilities-service-history-mindef-4320951
@@ -126,10 +147,10 @@
   </item>
   <item>
    <title>
-    Uber shares tumble as second-quarter forecast disappoints
+    Uber shares tumble on surprise net loss, weak second-quarter forecast
    </title>
    <link>
-    https://www.channelnewsasia.com/business/uber-shares-tumble-second-quarter-forecast-disappoints-4321471
+    https://www.channelnewsasia.com/business/uber-shares-tumble-surprise-net-loss-weak-second-quarter-forecast-4321471
    </link>
    <description>
     <![CDATA[]]>
@@ -138,7 +159,7 @@
     Wed, 08 May 2024 18:58:45 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uber-shares-tumble-second-quarter-forecast-disappoints-4321471
+    https://www.channelnewsasia.com/business/uber-shares-tumble-surprise-net-loss-weak-second-quarter-forecast-4321471
    </guid>
    <category>
     Business
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Indonesia’s Prabowo mulls bigger Cabinet under his presidency, including one ministry overseeing a free lunch initiative
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-gibran-rakabuming-raka-cabinet-ministers-free-lunch-4321116
-   </link>
-   <description>
-    <![CDATA[Some observers believe that a bigger Cabinet may be part of President-elect Prabowo Subianto’s attempt to facilitate his incoming government’s ability to fulfil its election promises.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 16:44:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-gibran-rakabuming-raka-cabinet-ministers-free-lunch-4321116
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K_r9qyQo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/DSC_0790-Enhanced-NR%20copy.jpg?itok=P2km52F_" width="1600"/>
   </item>
  </channel>
 </rss>
