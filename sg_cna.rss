@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 01:15:11 +0800
+   Thu, 09 May 2024 01:24:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Moss hailed as true racer at memorial service
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/moss-hailed-true-racer-memorial-service-4322341
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 01:19:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/moss-hailed-true-racer-memorial-service-4322341
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YN-CKZs3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t171958z_1_lynxmpek470pr_rtroptp_3_motor-racing-moss.jpg?itok=yeMiQvIe" width="1600"/>
+  </item>
   <item>
    <title>
     Nigeria rejects Binance CEO's bribery claim as 'diversionary tactic'
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i1WaVF-A--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t143332z_1_lynxmpek470kr_rtroptp_3_usa-stocks.jpg?itok=8EGm2CZ8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PM-to-be Lawrence Wong willing to make 'hard decisions' but will listen to all views: Economist interview
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lawrence-wong-economist-interview-leadership-foreigners-us-china-relations-4321701
-   </link>
-   <description>
-    <![CDATA[In a wide-ranging interview with The Economist, Mr Wong - who will become Singapore's Prime Minister on May 15 - spoke about his leadership style, the Singaporean-foreigner divide and hot-button issues in the geopolitical sphere. ]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 22:23:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lawrence-wong-economist-interview-leadership-foreigners-us-china-relations-4321701
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--594ovz3f--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/MCI_01.jpg?itok=9yVRQDaT" width="1600"/>
   </item>
  </channel>
 </rss>

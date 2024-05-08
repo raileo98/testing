@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 01:10:17 +0800
+   Thu, 09 May 2024 01:20:21 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 16:22:13 +0800
+   Thu, 09 May 2024 01:19:01 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,41 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    FTX says customers will be repaid for losses
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752369-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752369-20240509.htm
+   </link>
+   <description>
+    <![CDATA[Customers of failed cryptocurrency platform FTX will be made whole on the assets they lost when the company collapsed in 2022, it announced on Wednesday.
+
+The plan "contemplates the centralised distribution to customers and other creditors around the world of virtually all of the assets associated with FTX at the time of its collapse in November 2022," said a statement released by FTX Trading LTD.
+
+Total distributions to customers will be between US$14.5-US$16.3 billion. FTX said the plan still must be approved by a Delaware bankruptcy court.
+
+"We are pleased to be in a position to propose a chapter 11 plan that contemplates the return of 100 percent of bankruptcy claim amounts plus interest for non-governmental creditors," said John Ray III, chief executive and chief restructurings officer of FTX.
+
+FTX said it garnered the funds "by monetising an extraordinarily diverse collection of assets," mostly investments held by the company and affiliates and litigation claims.
+
+Another factor was the resolution of claims against the firm, including some US$24 billion that had been sought by the Internal Revenue Service for the period prior to the Chapter 11 filing.
+
+To resolve the IRS cases, FTX will instead pay US$200 million in cash and US$685 million to be paid out after other claims.
+
+The plan also will pay out interest of up to nine percent, FTX said. What won't be included will be the appreciation in value that bitcoin and other cryptocurrencies have enjoyed since November 2022.
+
+FTX collapsed suddenly following a deluge of customer withdrawals.
+
+The company's chief architect, Sam Bankman-Fried was sentenced in March to 25 years in prison following a conviction of fraud and other financial crimes. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 01:19:01 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks finish with losses
@@ -557,39 +592,6 @@ Mainland Chinese markets are closed for the Golden Week holiday. (AFP)]]>
    </description>
    <pubDate>
     Fri, 03 May 2024 09:42:41 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Apple beats Q1 expectations, announces share buyback
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751578-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751578-20240503.htm
-   </link>
-   <description>
-    <![CDATA[Apple on Thursday reported a smaller than expected decline in quarterly revenue, and Chief Executive Tim Cook said the company expects a return to sales growth in the current quarter as it invests in AI features to be unveiled in the coming months.
-
-Apple increased its cash dividend by 4 percent and authorised an additional programme to buy back US$110 billion of its stock. The buyback is the largest in the company's history, according to Investing.com analyst Thomas Monteiro.
-
-Shares of Apple surged roughly 7 percent in extended trade after the report.
-
-Apple said fiscal second-quarter revenue fell 4 percent to US$90.8 billion, beating the average analyst estimate of US$90.01 billion, according to LSEG data.
-
-For Apple's current quarter, which ends in June, Cook said the iPhone maker expects "to grow low-single digits" in overall revenue. Wall Street expects 1.33 percent revenue growth to US$82.89 billion, according to LSEG data.
-
-Apple faces a raft of challenges across its business. Smartphone rivals such as Samsung Electronics have introduced competing devices aimed at hosting artificial-intelligence chatbots.
-
-On the regulatory front, Apple's services business, which contains its lucrative App Store and was one of the few areas of growth in the fiscal second quarter, is under pressure from a new law in Europe. In the United States, the Department of Justice in March accused Apple of monopolising the smartphone market and driving up prices.
-
-For the fiscal second quarter, IPhone sales fell 10.5 percent to US$45.96 billion, compared with analyst expectations of US$46 billion. Apple executives said in February that the year-ago fiscal second quarter had benefited from a US$5 billion surge in iPhone sales as the company caught up from supply-chain snarls during pandemic lockdowns.
-
-Long considered a must-own stock on Wall Street, Apple shares have underperformed other Big Tech companies in recent months, falling 10 percent this year. (Reuters)]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 05:10:20 +0800
    </pubDate>
   </item>
  </channel>
