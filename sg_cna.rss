@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 14:35:12 +0800
+   Wed, 08 May 2024 14:41:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    HSA reviewing penalties to strengthen deterrence against vaping in Singapore
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/vaping-singapore-hsa-health-moh-social-media-parliament-4320556
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 14:36:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/vaping-singapore-hsa-health-moh-social-media-parliament-4320556
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6LZ9Gn7r--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7141e36d83469a8743b8d9ca3e4d56fe36afdeb3.jpg?itok=9sIwsDV0" width="1600"/>
+  </item>
   <item>
    <title>
     Strong, growing support for death penalty reflected in surveys of Singapore, neighbouring countries: Shanmugam
@@ -438,27 +459,6 @@
     Asia ,Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0JhNHIIJ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/malaysian%20footballer%20car.jpg?itok=kcsWAPqw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel's ambassador apologised for Facebook post on Palestine; officer responsible will be 'sent back': Shanmugam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/israel-embassy-palestine-facebook-post-diplomat-immunity-shanmugam-4320466
-   </link>
-   <description>
-    <![CDATA[Israel's embassy is covered by sovereign immunity in its actions relating to its Facebook post about Palestine.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 12:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/israel-embassy-palestine-facebook-post-diplomat-immunity-shanmugam-4320466
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YlxGCQGb--/c_crop,h_648,w_1152,x_60,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/k_shanmugam_parliament.png?itok=Xf9X29Tn" width="1600"/>
   </item>
  </channel>
 </rss>

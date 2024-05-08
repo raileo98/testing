@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 14:30:54 +0800
+   Wed, 08 May 2024 14:40:29 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 14:07:22 +0800
+   Wed, 08 May 2024 14:36:48 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    台股高收0.23%　創近1個月收市新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752301-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752301-20240508.htm
+   </link>
+   <description>
+    <![CDATA[台股連升4日，創近1個月收市新高。
+
+加權指數收報20700點，屬全日高位，升46點，升幅0.23%。]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 14:36:48 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     大酒店：本港業務仍缺歐美長途客　商務旅客未算太缺乏
@@ -467,29 +486,6 @@
    </description>
    <pubDate>
     Wed, 08 May 2024 09:36:42 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    內地股市初段回吐
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752250-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752250-20240508.htm
-   </link>
-   <description>
-    <![CDATA[滬深股市回吐。
-
-上證指數較早時報3137點，跌9點，跌幅0.31%。
-
-深證成份指數報9716點，跌54點，跌幅0.56%。
-
-創業板指數報1883點，跌8點，跌幅0.46%。]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 09:36:15 +0800
    </pubDate>
   </item>
  </channel>
