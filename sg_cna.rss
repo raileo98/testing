@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 01:24:52 +0800
+   Thu, 09 May 2024 01:35:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -59,7 +59,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YN-CKZs3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t171958z_1_lynxmpek470pr_rtroptp_3_motor-racing-moss.jpg?itok=yeMiQvIe" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -80,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kJv_9CpI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t170704z_2_lynxmpek470p5_rtroptp_3_fintech-crypto-binance-nigeria.jpg?itok=RdIvP2Yb" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zF0LQ5sC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t172842z_3_lynxmpek470p5_rtroptp_3_fintech-crypto-binance-nigeria.jpg?itok=SyoHAEQC" width="1600"/>
   </item>
   <item>
    <title>
