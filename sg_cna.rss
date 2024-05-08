@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 02:54:19 +0800
+   Thu, 09 May 2024 03:06:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Fiorentina book Conference League final place with Brugge draw
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fiorentina-book-conference-league-final-place-brugge-draw-4322491
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 02:57:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fiorentina-book-conference-league-final-place-brugge-draw-4322491
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Main maternity hospital in Rafah stops admitting patients
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EWQ_F9Ib--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t150341z_1_lynxmpek470le_rtroptp_3_space-exploration-planet.jpg?itok=0oNinaCK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Google DeepMind unveils next generation of drug discovery AI model
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/google-deepmind-unveils-next-generation-drug-discovery-ai-model-4322031
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 23:03:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-deepmind-unveils-next-generation-drug-discovery-ai-model-4322031
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pT1p_NiO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t151817z_1_lynxmpek470m2_rtroptp_3_tech-ai-deepmind-pharmaceuticals.jpg?itok=BvSAtv4i" width="1600"/>
   </item>
  </channel>
 </rss>
