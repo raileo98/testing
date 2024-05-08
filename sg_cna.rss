@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 22:06:42 +0800
+   Wed, 08 May 2024 22:24:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    PM-to-be Lawrence Wong willing to make 'hard decisions' but will listen to all views: Economist interview
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lawrence-wong-economist-interview-leadership-foreigners-us-china-relations-4321701
+   </link>
+   <description>
+    <![CDATA[In a wide-ranging interview with The Economist, Mr Wong - who will become Singapore's Prime Minister on May 15 - spoke about his leadership style, the Singaporean-foreigner divide and hot-button issues in the geopolitical sphere. ]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 22:23:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lawrence-wong-economist-interview-leadership-foreigners-us-china-relations-4321701
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--594ovz3f--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/MCI_01.jpg?itok=9yVRQDaT" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Turkey's competition board to fine Meta $37.2 million in data-sharing probe
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/turkeys-competition-board-fine-meta-372-million-data-sharing-probe-4321876
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 22:18:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/turkeys-competition-board-fine-meta-372-million-data-sharing-probe-4321876
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QpmZM6yR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t141824z_2_lynxmpek470k4_rtroptp_3_turkey-meta-antitrust.jpg?itok=TBs3hPqt" width="1600"/>
+  </item>
   <item>
    <title>
     Hyundai Motor plans to add hybrids to US plant within current investment -exec
@@ -417,50 +459,6 @@
     Podcasts ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V7Qhm9t2--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/14/deep%20dive.jpg?itok=4GCwXB7F" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Essential work buys: 7 useful everyday carry items to refresh your work bag
-   </title>
-   <link>
-    https://www.channelnewsasia.com/buyers-guide/essential-work-buys-4321071
-   </link>
-   <description>
-    <![CDATA[From Owala water bottles to Logitech keyboards and Targus backpacks, here are some work accessories you may want for the office. 
-This article contains affiliate links. If you buy through these links, we may earn a small commission.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 17:08:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/buyers-guide/essential-work-buys-4321071
-   </guid>
-   <category>
-    Buyers' Guide ,Living ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a_7uhdXi--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/Logitech%20Bluetooth%20Keyboard%202.jpg?itok=_vkPhVRq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Essential work buys: 7 useful everyday carry items to refresh your work bag
-   </title>
-   <link>
-    https://www.channelnewsasia.com/buyers-guide/essential-work-buys-4321071
-   </link>
-   <description>
-    <![CDATA[From Owala water bottles to Logitech keyboards and Targus backpacks, here are some work accessories you may want for the office. 
-This article contains affiliate links. If you buy through these links, we may earn a small commission.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 17:08:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/buyers-guide/essential-work-buys-4321071
-   </guid>
-   <category>
-    Buyers' Guide ,Living ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a_7uhdXi--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/Logitech%20Bluetooth%20Keyboard%202.jpg?itok=_vkPhVRq" width="1600"/>
   </item>
  </channel>
 </rss>
