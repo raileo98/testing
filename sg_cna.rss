@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 14:41:43 +0800
+   Wed, 08 May 2024 14:48:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    What would a second Trump presidency look like?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/united-states-presidential-election-white-house-president-biden-trump-administration-democrat-republican-4320766
+   </link>
+   <description>
+    <![CDATA[Observers told CNA that if Donald Trump becomes US president again, it could bring about major global changes from security to immigration.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 14:44:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/united-states-presidential-election-white-house-president-biden-trump-administration-democrat-republican-4320766
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7xCNMX0v--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/817848539c9bae16771078257a604aef1abdd461.jpg?itok=_VEv642a" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Gauff puts Paris Olympics in same bracket as Grand Slams
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/gauff-puts-paris-olympics-same-bracket-grand-slams-4320871
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 14:38:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/gauff-puts-paris-olympics-same-bracket-grand-slams-4320871
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QAZ3RsmF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t063851z_1_lynxmpek4707i_rtroptp_3_tennis-madrid.jpg?itok=1XOgQU0g" width="1600"/>
+  </item>
   <item>
    <title>
     HSA reviewing penalties to strengthen deterrence against vaping in Singapore
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--at5Inyot--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t051117z_1_lynxmpek4704m_rtroptp_3_toyota-results.jpg?itok=yiK1JIie" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Third Malaysian footballer attacked; JDT player has car hammered in Johor Bahru
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/malaysian-footballer-attacked-third-player-johor-jdt-hammer-acid-attack-4320521
-   </link>
-   <description>
-    <![CDATA[The incident comes within a week of two other attacks on footballers in Malaysia, with one hospitalised with fourth-degree burns after he was splashed with acid. ]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 13:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/malaysian-footballer-attacked-third-player-johor-jdt-hammer-acid-attack-4320521
-   </guid>
-   <category>
-    Asia ,Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0JhNHIIJ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/malaysian%20footballer%20car.jpg?itok=kcsWAPqw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Third Malaysian footballer attacked; JDT player has car hammered in Johor Bahru
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/malaysian-footballer-attacked-third-player-johor-jdt-hammer-acid-attack-4320521
-   </link>
-   <description>
-    <![CDATA[The incident comes within a week of two other attacks on footballers in Malaysia, with one hospitalised with fourth-degree burns after he was splashed with acid. ]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 13:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/malaysian-footballer-attacked-third-player-johor-jdt-hammer-acid-attack-4320521
-   </guid>
-   <category>
-    Asia ,Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0JhNHIIJ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/malaysian%20footballer%20car.jpg?itok=kcsWAPqw" width="1600"/>
   </item>
  </channel>
 </rss>
