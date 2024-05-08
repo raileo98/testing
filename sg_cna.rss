@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 23:54:34 +0800
+   Thu, 09 May 2024 00:09:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Prudential shutters Hong Kong wealth unit Pulse
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/prudential-shutters-hong-kong-wealth-unit-pulse-4322146
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 23:50:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/prudential-shutters-hong-kong-wealth-unit-pulse-4322146
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     More red-amber-green arrows to be installed, reducing discretionary right-turn junctions to under 15%
@@ -438,27 +459,6 @@
     Asia ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JjtFYA0t--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d44648b8825a7393c6d85cd82f86247f3f97c774.jpg?itok=m1LwXmew" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Woman to be charged with murder after man found dead in Beach Road residence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/beach-road-murder-woman-be-charged-man-died-4321731
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 21:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/beach-road-murder-woman-be-charged-man-died-4321731
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0GWMyAGg--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/05/hand_holding_knfe.jpg?itok=oLpUWE8X" width="1600"/>
   </item>
  </channel>
 </rss>
