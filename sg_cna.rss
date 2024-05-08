@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 18:41:27 +0800
+   Wed, 08 May 2024 18:54:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    EU asks X for details on reducing content moderation resources
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/eu-asks-x-details-reducing-content-moderation-resources-4321446
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 18:42:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/eu-asks-x-details-reducing-content-moderation-resources-4321446
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--giY_wRKl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t104252z_1_lynxmpek470eb_rtroptp_3_twitter-musk-x-sign.jpg?itok=LS7oQvFh" width="1600"/>
+  </item>
   <item>
    <title>
     Law passed to protect critical transport firms from ‘malicious actors’, other disruptions
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DYGTB0Id--/c_crop,h_465,w_827,x_1,y_46/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/04/20/drugs.png?itok=8II4-xzO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Malaysia to assess response to unilateral sanctions amid concern over Iran oil shipments
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/malaysia-assess-response-unilateral-sanctions-amid-concern-over-iran-oil-shipments-4320946
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 15:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/malaysia-assess-response-unilateral-sanctions-amid-concern-over-iran-oil-shipments-4320946
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fn3sg-7s--/c_crop,h_450,w_800,x_0,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t065137z_1_lynxmpek4606t_rtroptp_3_global-oil-futures-rally.jpg?itok=YWIYx3ky" width="1600"/>
   </item>
  </channel>
 </rss>
