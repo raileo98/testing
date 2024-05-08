@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 18:30:19 +0800
+   Wed, 08 May 2024 18:40:42 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 16:59:48 +0800
+   Wed, 08 May 2024 18:31:32 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    習近平與武契奇共同宣布深化和提升中塞全面戰略夥伴關係
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752338-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752338-20240508.htm
+   </link>
+   <description>
+    <![CDATA[國家主席習近平展開對塞爾維亞的國事訪問，在首都貝爾格萊德出席總統武契奇舉行的歡迎儀式，兩人其後舉行會談。
+
+習近平說，今次訪問彰顯中塞高水平關係，相信必將開啟中塞關係嶄新的歷史篇章。
+
+兩人共同宣布，深化和提升中塞全面戰略夥伴關係，構建新時代中塞命運共同體。]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 18:31:32 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     習近平：相信這次訪問必將開啟中塞關係嶄新的歷史篇章
@@ -437,23 +458,6 @@
    </description>
    <pubDate>
     Tue, 07 May 2024 20:48:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    央視：習近平乘車抵達圖爾馬萊山口
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752195-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752195-20240507.htm
-   </link>
-   <description>
-    <![CDATA[央視報道，國家主席習近平和夫人彭麗媛乘車抵達圖爾馬萊山口，法國馬克龍總統夫婦在下車處迎接。]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 20:09:53 +0800
    </pubDate>
   </item>
  </channel>
