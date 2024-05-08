@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 06:50:04 +0800
+   Thu, 09 May 2024 07:10:14 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 06:20:16 +0800
+   Thu, 09 May 2024 06:51:02 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股ADR較本港昨日收市價走勢不一
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752386-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752386-20240509.htm
+   </link>
+   <description>
+    <![CDATA[港股美國預託證券(ADR)個別發展。
+
+滙控ADR較本港昨日收市價升近1%，折合報71港元。友邦ADR升0.7%，港交所ADR靠穩。
+
+美團、阿里巴巴及騰訊ADR都上升。
+
+中行、工行及建行ADR偏軟。]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 06:51:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美元上升　兌日圓連升3日
@@ -82,7 +105,7 @@
 
 現貨金較早時報每盎司2308.6美元，下跌0.22%。
 
-紐約期金收報每盎司2322.3美元，下跌0.2%。]]>
+紐約期金收報每盎司2322.3美元，下跌0.1%。]]>
    </description>
    <pubDate>
     Thu, 09 May 2024 06:19:42 +0800
@@ -463,25 +486,6 @@
    </description>
    <pubDate>
     Wed, 08 May 2024 14:45:20 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股高收0.23%　創近1個月收市新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752301-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752301-20240508.htm
-   </link>
-   <description>
-    <![CDATA[台股連升4日，創近1個月收市新高。
-
-加權指數收報20700點，屬全日高位，升46點，升幅0.23%。]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:36:48 +0800
    </pubDate>
   </item>
  </channel>
