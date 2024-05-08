@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 19:36:00 +0800
+   Wed, 08 May 2024 19:42:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Emerson Electric boosts 2024 profit view on measurement tools demand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/emerson-electric-boosts-2024-profit-view-measurement-tools-demand-4321546
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 19:38:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/emerson-electric-boosts-2024-profit-view-measurement-tools-demand-4321546
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8dpRHZjy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t113834z_1_lynxmpek470fz_rtroptp_3_national-instruments-m-a-emerson-electric.jpg?itok=gC_UHSqv" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Reddit shares soar as earnings show advertising, AI licensing revenue potential
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/reddit-shares-soar-earnings-show-advertising-ai-licensing-revenue-potential-4321551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 19:37:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/reddit-shares-soar-earnings-show-advertising-ai-licensing-revenue-potential-4321551
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LvcW0-gK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t113742z_1_lynxmpek470fy_rtroptp_3_reddit-stocks.jpg?itok=Q9yESZYb" width="1600"/>
+  </item>
   <item>
    <title>
     Uber forecasts gross bookings for second quarter below expectations
@@ -420,48 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tX_Ho-uT--/c_crop,h_899,w_1598,x_0,y_84/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/24/jem_0315.jpg?itok=81uk2K2b" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UK tells tech firms to 'tame algorithms' to protect children
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/uk-tells-tech-firms-tame-algorithms-protect-children-4321106
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 16:26:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uk-tells-tech-firms-tame-algorithms-protect-children-4321106
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fokbtmoq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t091953z_2_lynxmpek470aa_rtroptp_3_tech-facebook-tiktok.jpg?itok=REzVqW7D" width="1600"/>
-  </item>
-  <item>
-   <title>
-    SoftBank in talks to buy AI chipmaker Graphcore, Bloomberg reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/softbank-talks-buy-ai-chipmaker-graphcore-bloomberg-reports-4321081
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 16:11:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/softbank-talks-buy-ai-chipmaker-graphcore-bloomberg-reports-4321081
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EjOD18zl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t081110z_1_lynxmpek4709v_rtroptp_3_graphcore-m-a-softbank-group.jpg?itok=ZbJs6nBt" width="1600"/>
   </item>
  </channel>
 </rss>
