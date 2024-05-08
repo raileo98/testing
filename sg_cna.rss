@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 01:39:29 +0800
+   Thu, 09 May 2024 01:51:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bidding opens for Messi napkin that defined soccer great's career
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/bidding-opens-messi-napkin-defined-soccer-greats-career-4322361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 01:32:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/bidding-opens-messi-napkin-defined-soccer-greats-career-4322361
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Moss hailed as true racer at memorial service
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--56ANbsrD--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/picture17.png?itok=vnF4PmNt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bain Capital in talks to buy education-software provider PowerSchool, source says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/bain-capital-talks-buy-education-software-provider-powerschool-source-says-4321906
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 22:33:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bain-capital-talks-buy-education-software-provider-powerschool-source-says-4321906
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i1WaVF-A--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t143332z_1_lynxmpek470kr_rtroptp_3_usa-stocks.jpg?itok=8EGm2CZ8" width="1600"/>
   </item>
  </channel>
 </rss>
