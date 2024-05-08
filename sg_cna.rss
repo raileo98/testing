@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 15:57:43 +0800
+   Wed, 08 May 2024 16:17:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    SoftBank in talks to buy AI chipmaker Graphcore, Bloomberg reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/softbank-talks-buy-ai-chipmaker-graphcore-bloomberg-reports-4321081
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 16:11:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/softbank-talks-buy-ai-chipmaker-graphcore-bloomberg-reports-4321081
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EjOD18zl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t081110z_1_lynxmpek4709v_rtroptp_3_graphcore-m-a-softbank-group.jpg?itok=ZbJs6nBt" width="1600"/>
+  </item>
+  <item>
+   <title>
     Singapore 'fighting a war' against drug scourge given scale of lives lost, Victims Remembrance Day to be held: Shanmugam
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 15:55:30 +0800
+    Wed, 08 May 2024 15:55:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/shanmugam-singapore-fighting-war-against-drug-scourge-victim-remembrance-day-be-held-4320976
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pWNafz44--/c_crop,h_473,w_841,x_1,y_72/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/screenshot_2024-05-08_134038.png?itok=cRyyBzJT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan faces slow progress in creating inclusive workplaces, despite push to hire more workers with disabilities
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/japan-workers-disabilities-workforce-employment-hiring-inclusive-workplaces-4320706
-   </link>
-   <description>
-    <![CDATA[Concerns include uncertainty over what people with disabilities can do, unsuitable facilities for their needs, and hesitancy among other employees in welcoming them. ]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:28:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/japan-workers-disabilities-workforce-employment-hiring-inclusive-workplaces-4320706
-   </guid>
-   <category>
-    East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2pMbqUW5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/screenshot_1020.png?itok=pEWVwNic" width="1600"/>
   </item>
  </channel>
 </rss>

@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 15:40:42 +0800
+   Wed, 08 May 2024 16:10:40 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 15:24:13 +0800
+   Wed, 08 May 2024 15:46:58 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    瑞典央行減息0.25厘　若通脹前景不變下半年或再減息兩次
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752314-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752314-20240508.htm
+   </link>
+   <description>
+    <![CDATA[瑞典央行一如預期減息0.25厘，指標利率減至3.75厘。
+
+央行表示，如果通脹前景不變，預計下半年再減息兩次，並強調應謹慎調整貨幣政策，逐步減息。]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 15:46:58 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     滬股低收0.6%　深證成指及創業板跌逾1%
@@ -463,29 +482,6 @@
    </description>
    <pubDate>
     Wed, 08 May 2024 12:19:45 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    滬深股市半日下跌　深證成指及創業板跌逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752274-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752274-20240508.htm
-   </link>
-   <description>
-    <![CDATA[內地股市下跌，深證成指及創業板跌逾1%。AI概念、房地產服務、短劇遊戲板塊等下跌。
-
-上證指數半日收報3134點，跌12點，跌幅0.41%。
-
-深證成份指數報9656點，跌114點，跌幅1.17%。
-
-創業板指數報1869點，跌23點，跌幅1.23%。]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 11:43:56 +0800
    </pubDate>
   </item>
  </channel>
