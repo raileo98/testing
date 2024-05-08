@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 02:25:56 +0800
+   Thu, 09 May 2024 02:35:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Main maternity hospital in Rafah stops admitting patients
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/main-maternity-hospital-rafah-stops-admitting-patients-4322061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 02:29:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/main-maternity-hospital-rafah-stops-admitting-patients-4322061
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pOcRezuI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t165421z_1_lynxmpek470ov_rtroptp_3_israel-palestinians.jpg?itok=AZY5dZNH" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Main maternity hospital in Rafah stops admitting patients
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/main-maternity-hospital-rafah-stops-admitting-patients-4322061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 02:29:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/main-maternity-hospital-rafah-stops-admitting-patients-4322061
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pOcRezuI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t165421z_1_lynxmpek470ov_rtroptp_3_israel-palestinians.jpg?itok=AZY5dZNH" width="1600"/>
+  </item>
   <item>
    <title>
     Boeing cargo plane lands in Istanbul without front landing gear
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pT1p_NiO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t151817z_1_lynxmpek470m2_rtroptp_3_tech-ai-deepmind-pharmaceuticals.jpg?itok=BvSAtv4i" width="1600"/>
-  </item>
-  <item>
-   <title>
-    RSAF F-16 training temporarily suspended in wake of Tengah Air Base crash
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/f-16-crash-rsaf-tengah-air-base-suspend-training-4321321
-   </link>
-   <description>
-    <![CDATA[Training has been halted until investigations show that it is safe to resume, says MINDEF.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 23:03:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/f-16-crash-rsaf-tengah-air-base-suspend-training-4321321
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WpKjm3sO--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/F-16%20and%20Tengah%20Air%20Base%20comp%20(2).jpg?itok=N6cGnae-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    McIlroy says he is not rejoining PGA Tour policy board
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/mcilroy-says-he-not-rejoining-pga-tour-policy-board-4321986
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 22:58:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/mcilroy-says-he-not-rejoining-pga-tour-policy-board-4321986
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7QnCUbwy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t145832z_1_lynxmpek470l9_rtroptp_3_golf.jpg?itok=dyAwgsSO" width="1600"/>
   </item>
  </channel>
 </rss>
