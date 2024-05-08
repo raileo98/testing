@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 22:33:10 +0800
+   Wed, 08 May 2024 22:43:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Authorities investigating 'misleading' S$2 million Sengkang 'jumbo flat' listing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/sengkang-2-million-jumbo-flat-authorities-investigate-listing-4321346
+   </link>
+   <description>
+    <![CDATA[The "jumbo flat" listed on PropertyGuru is actually two adjacent 5-room flats that cannot be sold as a single unit, said the authorities.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 22:42:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/sengkang-2-million-jumbo-flat-authorities-investigate-listing-4321346
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SWfE5D0j--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/zhangdl_-_singapore_hdb_residential_buildings.jpg?itok=Nv8XF9TY" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Bain Capital in talks to buy education-software provider PowerSchool, source says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/bain-capital-talks-buy-education-software-provider-powerschool-source-says-4321906
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 22:33:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/bain-capital-talks-buy-education-software-provider-powerschool-source-says-4321906
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--i1WaVF-A--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t143332z_1_lynxmpek470kr_rtroptp_3_usa-stocks.jpg?itok=8EGm2CZ8" width="1600"/>
+  </item>
   <item>
    <title>
     PM-to-be Lawrence Wong willing to make 'hard decisions' but will listen to all views: Economist interview
@@ -261,7 +303,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 19:37:42 +0800
+    Wed, 08 May 2024 19:37:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/reddit-shares-soar-earnings-show-advertising-ai-licensing-revenue-potential-4321551
@@ -417,48 +459,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GVcvly1E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/hong_kong_global_summit.png?itok=6kGyiFc6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Deep Dive Podcast: Government is determined to work on Singapore's low fertility rate, says Indranee Rajah
-   </title>
-   <link>
-    https://www.channelnewsasia.com/podcasts/low-fertility-rate-singapore-deep-dive-podcast-4315211
-   </link>
-   <description>
-    <![CDATA[Despite record low total fertility rates, Minister Indranee Rajah and her team want to make Singapore the best place to have and raise children.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 17:13:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/podcasts/low-fertility-rate-singapore-deep-dive-podcast-4315211
-   </guid>
-   <category>
-    Podcasts ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V7Qhm9t2--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/14/deep%20dive.jpg?itok=4GCwXB7F" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Deep Dive Podcast: Government is determined to work on Singapore's low fertility rate, says Indranee Rajah
-   </title>
-   <link>
-    https://www.channelnewsasia.com/podcasts/low-fertility-rate-singapore-deep-dive-podcast-4315211
-   </link>
-   <description>
-    <![CDATA[Despite record low total fertility rates, Minister Indranee Rajah and her team want to make Singapore the best place to have and raise children.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 17:13:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/podcasts/low-fertility-rate-singapore-deep-dive-podcast-4315211
-   </guid>
-   <category>
-    Podcasts ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V7Qhm9t2--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/14/deep%20dive.jpg?itok=4GCwXB7F" width="1600"/>
   </item>
  </channel>
 </rss>
