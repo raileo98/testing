@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 18:54:15 +0800
+   Wed, 08 May 2024 19:09:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Uber forecasts gross bookings for second quarter below expectations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/uber-forecasts-gross-bookings-second-quarter-below-expectations-4321471
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 18:58:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/uber-forecasts-gross-bookings-second-quarter-below-expectations-4321471
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xOUdDIhE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t105804z_2_lynxmpek470dq_rtroptp_3_uber-politician.jpg?itok=ef5m1r3P" width="1600"/>
+  </item>
   <item>
    <title>
     EU asks X for details on reducing content moderation resources
@@ -72,7 +93,7 @@
     <![CDATA[The new law aims to enhance the resilience of essential transport services in Singapore, and protect it against possible future disruptions, says Transport Minister Chee Hong Tat.]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 18:09:13 +0800
+    Wed, 08 May 2024 18:09:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/transport-sector-critical-firm-bill-passed-chee-hong-tat-4321171
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EjOD18zl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t081110z_1_lynxmpek4709v_rtroptp_3_graphcore-m-a-softbank-group.jpg?itok=ZbJs6nBt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore 'fighting a war' against drug scourge given scale of lives lost, Victims Remembrance Day to be held: Shanmugam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/shanmugam-singapore-fighting-war-against-drug-scourge-victim-remembrance-day-be-held-4320976
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 15:55:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/shanmugam-singapore-fighting-war-against-drug-scourge-victim-remembrance-day-be-held-4320976
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DYGTB0Id--/c_crop,h_465,w_827,x_1,y_46/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/04/20/drugs.png?itok=8II4-xzO" width="1600"/>
   </item>
  </channel>
 </rss>
