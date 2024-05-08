@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 16:21:22 +0800
+   Wed, 08 May 2024 16:36:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    COE premiums for larger cars rise in latest bidding exercise
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/coe-premium-bidding-exercise-may-8-4320921
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 16:27:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/coe-premium-bidding-exercise-may-8-4320921
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tX_Ho-uT--/c_crop,h_899,w_1598,x_0,y_84/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/24/jem_0315.jpg?itok=81uk2K2b" width="1600"/>
+  </item>
+  <item>
+   <title>
+    UK tells tech firms to 'tame algorithms' to protect children
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/uk-tells-tech-firms-tame-algorithms-protect-children-4321106
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 16:26:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/uk-tells-tech-firms-tame-algorithms-protect-children-4321106
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jwnZrW09--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t082656z_1_lynxmpek470aa_rtroptp_3_tech-facebook-tiktok.jpg?itok=O88bHZVk" width="1600"/>
+  </item>
   <item>
    <title>
     SoftBank in talks to buy AI chipmaker Graphcore, Bloomberg reports
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QAZ3RsmF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t063851z_1_lynxmpek4707i_rtroptp_3_tennis-madrid.jpg?itok=1XOgQU0g" width="1600"/>
-  </item>
-  <item>
-   <title>
-    HSA reviewing penalties to strengthen deterrence against vaping in Singapore
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/vaping-singapore-hsa-health-moh-social-media-parliament-4320556
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:36:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/vaping-singapore-hsa-health-moh-social-media-parliament-4320556
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6LZ9Gn7r--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7141e36d83469a8743b8d9ca3e4d56fe36afdeb3.jpg?itok=9sIwsDV0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Strong, growing support for death penalty reflected in surveys of Singapore, neighbouring countries: Shanmugam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/strong-growing-support-death-penalty-singapore-neighbouring-countries-agree-effectiveness-shanmugam-4316501
-   </link>
-   <description>
-    <![CDATA[Polls show that in Singapore, backing for the death penalty as appropriate punishment for drug trafficking has risen; while the majority of residents in the region see it as an effective deterrent.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:29:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/strong-growing-support-death-penalty-singapore-neighbouring-countries-agree-effectiveness-shanmugam-4316501
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pWNafz44--/c_crop,h_473,w_841,x_1,y_72/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/screenshot_2024-05-08_134038.png?itok=cRyyBzJT" width="1600"/>
   </item>
  </channel>
 </rss>
