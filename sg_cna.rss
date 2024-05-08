@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 20:14:48 +0800
+   Wed, 08 May 2024 20:47:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Emerson Electric boosts 2024 profit view on measurement tools demand
+    MOH revokes licence of suspended Marine Parade GP who inappropriately prescribed sedatives
    </title>
    <link>
-    https://www.channelnewsasia.com/business/emerson-electric-boosts-2024-profit-view-measurement-tools-demand-4321546
+    https://www.channelnewsasia.com/singapore/senior-gp-prescribed-sedatives-licence-revoked-under-new-law-moh-4321456
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 20:24:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/senior-gp-prescribed-sedatives-licence-revoked-under-new-law-moh-4321456
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_NekPUwt--/c_crop,h_1193,w_2121,x_1,y_111/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/22/istock-1026367516.jpg?itok=01b3sdrE" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Emerson boosts 2024 profit view on measurement tools demand
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/emerson-boosts-2024-profit-view-measurement-tools-demand-4321546
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Wed, 08 May 2024 19:38:34 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/emerson-electric-boosts-2024-profit-view-measurement-tools-demand-4321546
+    https://www.channelnewsasia.com/business/emerson-boosts-2024-profit-view-measurement-tools-demand-4321546
    </guid>
    <category>
     Business
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gpw5PiRY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t065337z_1_lynxmpek47084_rtroptp_3_shell-singapore.jpg?itok=0_-iIWqB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    COE premiums for larger cars rise in latest bidding exercise
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/coe-premium-bidding-exercise-may-8-4320921
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 16:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/coe-premium-bidding-exercise-may-8-4320921
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tX_Ho-uT--/c_crop,h_899,w_1598,x_0,y_84/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/24/jem_0315.jpg?itok=81uk2K2b" width="1600"/>
   </item>
  </channel>
 </rss>
