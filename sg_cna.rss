@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 05:09:16 +0800
+   Thu, 09 May 2024 05:18:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ascension warns of suspected cyberattack; clinical operations disrupted
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ascension-warns-suspected-cyberattack-clinical-operations-disrupted-4322731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 05:08:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ascension-warns-suspected-cyberattack-clinical-operations-disrupted-4322731
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--liwWJ1q5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t210819z_1_lynxmpek470vf_rtroptp_3_cyber-security.jpg?itok=OWNEjeR6" width="1600"/>
+  </item>
   <item>
    <title>
     France fashions slender Paris 2024 torch from raw steel
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    US revokes some licenses for exports to China's Huawei
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-revokes-some-licenses-exports-chinas-huawei-4321846
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 00:58:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-revokes-some-licenses-exports-chinas-huawei-4321846
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BMmskTIc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t161429z_2_lynxmpek460tj_rtroptp_3_china-huawei-tech.jpg?itok=PDKjsBtf" width="1600"/>
   </item>
  </channel>
 </rss>
