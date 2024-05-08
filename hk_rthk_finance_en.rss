@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 09:40:30 +0800
+   Wed, 08 May 2024 11:10:22 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 04:48:24 +0800
+   Wed, 08 May 2024 09:51:24 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks resume gains in early trading
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752254-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752254-20240508.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong edged back up at the open Wednesday, the day after a small drop that broke a 10-day winning streak, while investors assess the outlook for US interest rates after last week's US jobs data.
+
+The Hang Seng Index added 0.17 percent to 18,511.
+
+The Shanghai Composite Index dipped 0.20 percent to 3,141, while the Shenzhen Composite Index on the mainland's second exchange fell 0.32 percent to 1,791. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 09:51:24 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Sideways day for US stocks as Disney tumbles
@@ -583,47 +604,6 @@ Last updated: 2024-05-02 HKT 23:34]]>
    </description>
    <pubDate>
     Thu, 02 May 2024 21:21:48 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK logs 'better-than-expected' growth in Q1
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751525-20240502.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751525-20240502.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong’s economy grew at a better-than-expected rate of 2.7 percent in the first quarter, partially boosted by the steady rise in exports of goods and services.
-
-However, that growth was lower compared with the 4.3 percent figure seen in the last quarter of 2023, according to official data released by the Census and Statistics Department.
-
-Earlier, the city’s finance chief indicated that first quarter growth would be in line with the projected full-year growth range at between 2.5 and 3.5 percent for 2024.
-
-Commenting on the latest figures, Simon Lee, honorary fellow at Chinese University's Asia-Pacific Institute of Business, said the number was better than expected, but noted the momentum might not be sustainable in the coming quarters.
-
-“My original estimate [for the first quarter] was about one to two percent growth. But the 2.7 percent growth also came on a relatively low base in the first quarter last year when the borders just opened and economic activities were just reactivated,” Lee told RTHK.
-
-“We see that it’s quite remarkable in terms of exports and imports of goods and services [in the first quarter]… but if you look at local consumption… quite a number of local people went elsewhere for spending and this will have a significant effect on the GDP growth.”
-
-“[Although] exports tend to do well at the end of the year, there are also variable factors, such as the economic situation on the mainland and geopolitical issues, so I am still quite cautious on the full-year growth,” he added.
-
-Lee warned Hong Kong could see growth slow to about one or two percent in the coming quarters.
-
-Analysing the major economic components, the growth of private consumption, capital formation, as well as the imports of goods and services all slowed during the three-month period. 
-
-However, exports of goods increased by 6.7 percent year on year, significantly higher compared with the 2.8 percent growth seen in the final quarter of 2023. 
-
-Exports of services rose by a notable 8.1 percent year on year in the quarter, although the pace was much slower compared with the 21.2 percent growth seen in Q4 2023.
-
-“Looking ahead, exports of services should be supported by further revival of inbound tourism alongside the continued recovery of handling capacity and the government's efforts to promote a mega event economy,” a government spokesperson commented.
-
-“Domestically, rising household income and the government's initiatives to boost sentiment should help private consumption, but the changing consumption pattern of residents may pose challenges. [And] a longer period of tight financial conditions may have some dampening effects on economic confidence and activities,” the spokesperson added.]]>
-   </description>
-   <pubDate>
-    Thu, 02 May 2024 19:05:14 +0800
    </pubDate>
   </item>
  </channel>

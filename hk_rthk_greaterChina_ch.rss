@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 09:40:36 +0800
+   Wed, 08 May 2024 11:20:17 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 05:22:32 +0800
+   Wed, 08 May 2024 10:58:37 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    嫦娥六號探測器順利進入環月軌道飛行
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752265-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752265-20240508.htm
+   </link>
+   <description>
+    <![CDATA[國家航天局表示，在北京航天飛行控制中心的精確控制下，嫦娥六號探測器成功實施近月制動，順利進入環月軌道飛行。
+
+近月制動是嫦娥六號探測器在飛行過程中的一次關鍵軌道控制。嫦娥六號探測器飛臨月球附近時，實施「煞車」制動，使其相對速度低於月球逃逸速度，從而被月球引力捕獲，實現繞月飛行。
+
+嫦娥六號將在鵲橋二號中繼星的支持下，調整環月軌道高度和傾角，擇機實施軌道器返回器組合體與著陸器上升器組合體分離，之後，著陸器上升器組合體實施月球背面南極-艾特肯盆地軟著陸，按計劃開展月球背面採樣返回任務。]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 10:58:37 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     習近平冀中塞規劃兩國關係發展新藍圖並相信此訪會取得豐碩成果
@@ -435,27 +456,6 @@
    </description>
    <pubDate>
     Tue, 07 May 2024 10:42:01 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    中法元首互贈奧運火炬　習近平祝願巴黎奧運會取得成功
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752097-20240507.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752097-20240507.htm
-   </link>
-   <description>
-    <![CDATA[國家主席習近平在巴黎愛麗舍宮同法國總統馬克龍舉行會談。會談前，兩國元首夫婦互贈禮品，包括三支奧運火炬。
-
-習近平向馬克龍贈送北京雙奧火炬，馬克龍就以巴黎奧運火炬回贈。習近平說，法國是一個體育強國，衷心祝願巴黎奧運會取得成功。中方將派出高水平代表團赴法參賽。習近平又指出，作為聯合國安理會常任理事國和負責任大國，中方願同法方一道，以巴黎奧運會為契機，倡議運動會期間全球停火止戰。
-
-北京曾舉辦2008年夏季奧運會和2022年冬季奧運會，巴黎就會在今年7月至8月舉辦第33屆夏季奧運會]]>
-   </description>
-   <pubDate>
-    Tue, 07 May 2024 09:32:26 +0800
    </pubDate>
   </item>
  </channel>
