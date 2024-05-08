@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 03:13:02 +0800
+   Thu, 09 May 2024 03:21:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US sues Hyundai, Kia finance arm for repossessing service members' vehicles
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-sues-hyundai-kia-finance-arm-repossessing-service-members-vehicles-4322536
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 03:14:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-sues-hyundai-kia-finance-arm-repossessing-service-members-vehicles-4322536
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1lKYzYl7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t191414z_3_lynxmpek470rw_rtroptp_3_usa-justice-cyber.jpg?itok=UjeTeTH3" width="1600"/>
+  </item>
   <item>
    <title>
     Fiorentina book Conference League final place with Brugge draw
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oRbQHWYK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t164804z_3_lynxmpek470lk_rtroptp_3_usa-congress-ukraine.jpg?itok=0cMHcxkv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Astronomers finally detect a rocky planet with an atmosphere
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/astronomers-finally-detect-rocky-planet-atmosphere-4322026
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 23:03:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/astronomers-finally-detect-rocky-planet-atmosphere-4322026
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EWQ_F9Ib--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t150341z_1_lynxmpek470le_rtroptp_3_space-exploration-planet.jpg?itok=0oNinaCK" width="1600"/>
   </item>
  </channel>
 </rss>
