@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 21:36:06 +0800
+   Wed, 08 May 2024 21:48:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Leverkusen haven't forgotten last season's Europa League heartbreak against Roma, says Alonso
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leverkusen-havent-forgotten-last-seasons-europa-league-heartbreak-against-roma-says-alonso-4321826
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 21:41:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leverkusen-havent-forgotten-last-seasons-europa-league-heartbreak-against-roma-says-alonso-4321826
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BtA1Rmwy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t134145z_1_lynxmpek470j3_rtroptp_3_soccer-europa-b04-rom-preview.jpg?itok=Y_ykSlJS" width="1600"/>
+  </item>
   <item>
    <title>
     April temperatures in Indonesia hottest for more than four decades
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Buyers' Guide ,Living ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a_7uhdXi--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/Logitech%20Bluetooth%20Keyboard%202.jpg?itok=_vkPhVRq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    BOJ will raise interest rates if inflation meets forecast, Governor Ueda says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/boj-will-raise-interest-rates-if-inflation-meets-forecast-governor-ueda-says-4321196
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 16:59:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/boj-will-raise-interest-rates-if-inflation-meets-forecast-governor-ueda-says-4321196
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--373sijv3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t085953z_1_lynxmpek470b0_rtroptp_3_japan-economy-boj.jpg?itok=Cvu9vs8v" width="1600"/>
   </item>
  </channel>
 </rss>
