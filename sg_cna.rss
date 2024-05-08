@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 22:51:20 +0800
+   Wed, 08 May 2024 23:03:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    McIlroy says he is not rejoining PGA Tour policy board
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/mcilroy-says-he-not-rejoining-pga-tour-policy-board-4321986
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 22:58:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/mcilroy-says-he-not-rejoining-pga-tour-policy-board-4321986
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7QnCUbwy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t145832z_1_lynxmpek470l9_rtroptp_3_golf.jpg?itok=dyAwgsSO" width="1600"/>
+  </item>
   <item>
    <title>
     Thai PM says cannabis to be re-listed as narcotic by end of 2024
@@ -72,7 +93,7 @@
     <![CDATA[The "jumbo flat" listed on PropertyGuru is actually two adjacent 5-room flats that cannot be sold as a single unit, said the authorities.]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 22:42:05 +0800
+    Wed, 08 May 2024 22:42:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/sengkang-2-million-jumbo-flat-authorities-investigate-listing-4321346
@@ -80,7 +101,7 @@
    <category>
     Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SWfE5D0j--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/03/zhangdl_-_singapore_hdb_residential_buildings.jpg?itok=Nv8XF9TY" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--56ANbsrD--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/picture17.png?itok=vnF4PmNt" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Hong Kong continues to woo foreign talent with first-ever global summit
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/hong-kong-foreign-talent-first-global-summit-china-greater-bay-area-4321041
-   </link>
-   <description>
-    <![CDATA[As of end-April, nearly 180,000 applications under the city’s various talent entry schemes had been approved since their launch in late 2022.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 17:32:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/hong-kong-foreign-talent-first-global-summit-china-greater-bay-area-4321041
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GVcvly1E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/hong_kong_global_summit.png?itok=6kGyiFc6" width="1600"/>
   </item>
  </channel>
 </rss>
