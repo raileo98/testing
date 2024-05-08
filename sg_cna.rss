@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 15:30:27 +0800
+   Wed, 08 May 2024 15:38:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    One-piece ERP 2.0 unit for motorbikes cannot be used in cars due to 'greenhouse effect': Chee Hong Tat
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/erp-2-motorcycle-land-transport-authority-4320806
+   </link>
+   <description>
+    <![CDATA[On a hot day, temperatures on a car dashboard can hit 50 to 52 degrees Celsius, said the Minister for Transport.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 15:32:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/erp-2-motorcycle-land-transport-authority-4320806
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UZ_ZQhXU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/23/dsc_6828.jpg?itok=BgEWt7aN" width="1600"/>
+  </item>
   <item>
    <title>
     Top-seeded Celtics, Thunder win playoff openers
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--N2cPgTBW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t061427z_1_lynxmpek4706g_rtroptp_3_soccer-malaysia-matchfixing.jpg?itok=TafG7QIj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    RSAF F-16 jet crashes at Tengah Air Base; pilot receiving medical attention
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/rsaf-f16-crash-tengah-airbase-singapore-air-force-4320751
-   </link>
-   <description>
-    <![CDATA[The pilot ejected after the plane experienced an issue during take-off, says the Defence Ministry.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:12:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/rsaf-f16-crash-tengah-airbase-singapore-air-force-4320751
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0bgSxsmk--/c_crop,h_466,w_830,x_0,y_66/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/25/f-16.png?itok=z2HrQ0Ta" width="1600"/>
   </item>
  </channel>
 </rss>
