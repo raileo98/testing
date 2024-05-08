@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 08 May 2024 16:31:00 +0800
+   Wed, 08 May 2024 16:40:40 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 08 May 2024 15:46:58 +0800
+   Wed, 08 May 2024 16:32:35 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股低收165點　連跌兩日
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752319-20240508.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752319-20240508.htm
+   </link>
+   <description>
+    <![CDATA[港股反覆向下，連跌兩日。恒生指數早段最多升近130點，午後曾失守18300點，收市報18313點，跌165點，跌幅0.9%，主板成交額約1287億元。
+
+科技指數跌穿3900點，收報3872點，跌幅約1.3%。
+
+大多數科指成份股下跌，美團及阿里巴巴跌近2%或以上。商湯急瀉近15%，是表現最差科指成份股。小米逆市急升6.5%，是表現最好恒指及科指成份股。市傳集團第3季將推出兩款摺疊手機。
+
+內房及物管股沽壓大，華潤置地、碧桂園服務、龍湖跌逾5%至逾7%，是表現最差3隻藍籌股。
+
+金融股個別發展，港交所及平保跌3%或以上，滙控升近1%。內地電信股逆市造好。]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 16:32:35 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     瑞典央行減息0.25厘　若通脹前景不變下半年或再減息兩次
@@ -459,29 +484,6 @@
    </description>
    <pubDate>
     Wed, 08 May 2024 12:24:17 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    恒指半日反覆跌69點　小米逆市升逾6%　滙控升穿70元
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752279-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752279-20240508.htm
-   </link>
-   <description>
-    <![CDATA[港股走勢反覆，恒指曾升近130點，升至18606點，其後一度轉跌約90點，中午收市報18410點，跌69點，跌幅0.37%，主板成交額約672億元。
-
-科技指數跌穿3900點，半日報3897點，跌幅0.63%。ATMXJ個別發展，騰訊、美團及阿里巴巴跌近1%或以上；小米急升逾6%，是表現最好的恒指及科指成份股，據報小米兩款摺疊手機將於第3季推出。
-
-金融股走勢不一，滙控升穿70元，創多年新高，半日升1%。港交所跌逾2%。地產及物管股亦向下，龍湖地產跌逾8%，是表現最差恒指成份股。百威亞太績後跌逾4%。
-
-資源股上升，3桶油升逾1%至近2%。]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 12:19:45 +0800
    </pubDate>
   </item>
  </channel>

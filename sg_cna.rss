@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 16:36:40 +0800
+   Wed, 08 May 2024 16:45:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,48 @@
   </image>
   <item>
    <title>
+    Indonesia’s Prabowo mulls bigger Cabinet under his presidency, including one ministry overseeing a free lunch initiative
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-gibran-rakabuming-raka-cabinet-ministers-free-lunch-4321116
+   </link>
+   <description>
+    <![CDATA[Some observers believe that a bigger Cabinet may be part of President-elect Prabowo Subianto’s attempt to facilitate his incoming government’s ability to fulfil its election promises.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 16:44:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-gibran-rakabuming-raka-cabinet-ministers-free-lunch-4321116
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K_r9qyQo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/DSC_0790-Enhanced-NR%20copy.jpg?itok=P2km52F_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Shell to sell Singapore refinery, petchem assets to Chandra Asri and Glencore
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/shell-sell-singapore-refinery-petchem-assets-chandra-asri-and-glencore-4320826
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 16:39:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/shell-sell-singapore-refinery-petchem-assets-chandra-asri-and-glencore-4320826
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gpw5PiRY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t065337z_1_lynxmpek47084_rtroptp_3_shell-singapore.jpg?itok=0_-iIWqB" width="1600"/>
+  </item>
+  <item>
+   <title>
     COE premiums for larger cars rise in latest bidding exercise
    </title>
    <link>
@@ -51,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Wed, 08 May 2024 16:27:43 +0800
+    Wed, 08 May 2024 16:27:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/coe-premium-bidding-exercise-may-8-4320921
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    What would a second Trump presidency look like?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/united-states-presidential-election-white-house-president-biden-trump-administration-democrat-republican-4320766
-   </link>
-   <description>
-    <![CDATA[Observers told CNA that if Donald Trump becomes US president again, it could bring about major global changes from security to immigration.]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:44:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/united-states-presidential-election-white-house-president-biden-trump-administration-democrat-republican-4320766
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7xCNMX0v--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/817848539c9bae16771078257a604aef1abdd461.jpg?itok=_VEv642a" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Gauff puts Paris Olympics in same bracket as Grand Slams
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/gauff-puts-paris-olympics-same-bracket-grand-slams-4320871
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 14:38:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/gauff-puts-paris-olympics-same-bracket-grand-slams-4320871
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QAZ3RsmF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t063851z_1_lynxmpek4707i_rtroptp_3_tennis-madrid.jpg?itok=1XOgQU0g" width="1600"/>
   </item>
  </channel>
 </rss>
