@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 03:21:18 +0800
+   Thu, 09 May 2024 03:33:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Microsoft to shut Africa development centre in Nigeria
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/microsoft-shut-africa-development-centre-nigeria-4322546
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 03:25:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/microsoft-shut-africa-development-centre-nigeria-4322546
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6vfXGzPE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t192557z_2_lynxmpek470tb_rtroptp_3_microsoft-ai.jpg?itok=PwNTVxOB" width="1600"/>
+  </item>
   <item>
    <title>
     US sues Hyundai, Kia finance arm for repossessing service members' vehicles
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RRyEdid2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t150804z_4_lynxmpek470lh_rtroptp_3_britain-tech-google-adtech.jpg?itok=FgHunOXx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Legislative roadmap for AI is coming in weeks, Schumer says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/legislative-roadmap-ai-coming-weeks-schumer-says-4322021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 23:06:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/legislative-roadmap-ai-coming-weeks-schumer-says-4322021
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oRbQHWYK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t164804z_3_lynxmpek470lk_rtroptp_3_usa-congress-ukraine.jpg?itok=0cMHcxkv" width="1600"/>
   </item>
  </channel>
 </rss>
