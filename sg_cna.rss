@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 00:49:37 +0800
+   Thu, 09 May 2024 00:54:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    N.Korean propaganda chief who helped build the Kim dynasty dies
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/nkorean-propaganda-chief-who-helped-build-kim-dynasty-dies-4320386
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 00:50:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/nkorean-propaganda-chief-who-helped-build-kim-dynasty-dies-4320386
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--clcN7c3B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t033730z_1_lynxmpek4703c_rtroptp_3_korea-north.jpg?itok=rW-sNq6L" width="1600"/>
+  </item>
   <item>
    <title>
     FIA's first CEO Robyn to leave after 18 months
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BtA1Rmwy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t134145z_1_lynxmpek470j3_rtroptp_3_soccer-europa-b04-rom-preview.jpg?itok=Y_ykSlJS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    April temperatures in Indonesia hottest for more than four decades
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-hottest-temperature-four-decades-april-4321416
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 21:35:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-hottest-temperature-four-decades-april-4321416
-   </guid>
-   <category>
-    Asia ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JjtFYA0t--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d44648b8825a7393c6d85cd82f86247f3f97c774.jpg?itok=m1LwXmew" width="1600"/>
   </item>
  </channel>
 </rss>
