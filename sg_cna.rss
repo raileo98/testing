@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 08 May 2024 20:47:39 +0800
+   Wed, 08 May 2024 21:00:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    FAQ: What do we know about F-16 fighter jets, their many years of service in the RSAF and frontline role
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/rsaf-f16-fighter-jet-crash-pilot-capabilities-service-history-mindef-4320951
+   </link>
+   <description>
+    <![CDATA[What type of fighter jet is the F-16 and what is its safety record? CNA looks at these questions and more.]]>
+   </description>
+   <pubDate>
+    Wed, 08 May 2024 20:50:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/rsaf-f16-fighter-jet-crash-pilot-capabilities-service-history-mindef-4320951
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9KFG3To7--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/09/image_96.png?itok=MMsJyfoW" width="1600"/>
+  </item>
   <item>
    <title>
     MOH revokes licence of suspended Marine Parade GP who inappropriately prescribed sedatives
@@ -189,10 +210,10 @@
   </item>
   <item>
    <title>
-    Biden to unveil $3.3 billion Microsoft AI investment in battleground Wisconsin
+    Biden to tout new $3.3 billion Microsoft data center at failed Foxconn site Trump backed
    </title>
    <link>
-    https://www.channelnewsasia.com/business/biden-unveil-33-billion-microsoft-ai-investment-battleground-wisconsin-4321281
+    https://www.channelnewsasia.com/business/biden-tout-new-33-billion-microsoft-data-center-failed-foxconn-site-trump-backed-4321281
    </link>
    <description>
     <![CDATA[]]>
@@ -201,7 +222,7 @@
     Wed, 08 May 2024 17:33:15 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/biden-unveil-33-billion-microsoft-ai-investment-battleground-wisconsin-4321281
+    https://www.channelnewsasia.com/business/biden-tout-new-33-billion-microsoft-data-center-failed-foxconn-site-trump-backed-4321281
    </guid>
    <category>
     Business
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K_r9qyQo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/24/DSC_0790-Enhanced-NR%20copy.jpg?itok=P2km52F_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Shell to sell Singapore refinery, petchem assets to Chandra Asri and Glencore
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/shell-sell-singapore-refinery-petchem-assets-chandra-asri-and-glencore-4320826
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 16:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/shell-sell-singapore-refinery-petchem-assets-chandra-asri-and-glencore-4320826
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gpw5PiRY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t065337z_1_lynxmpek47084_rtroptp_3_shell-singapore.jpg?itok=0_-iIWqB" width="1600"/>
   </item>
  </channel>
 </rss>
