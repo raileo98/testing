@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 04:30:28 +0800
+   Thu, 09 May 2024 05:01:51 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 01:19:01 +0800
+   Thu, 09 May 2024 04:30:32 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks mixed as earnings season winds down
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752379-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752379-20240509.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks moved in opposite directions on Wednesday, digesting another round of mixed earnings in a quarter that has seen solid but unspectacular corporate results.
+
+"I think that companies did a nice job of outpacing their Q1 expectations. But I did notice that earnings estimates for the year for 2024 really haven't changed much," said Jack Ablin of Cresset Capital, adding that companies aren't reporting "much earnings growth."
+
+The Dow Jones finished up 0.4 percent at 39,056.
+
+The S&P 500 was flat at 5,187, while the Nasdaq declined 0.2 percent to 16,302.
+
+Stocks finished little changed on Tuesday after three up days in which markets embraced Federal Reserve comments that further interest rate hikes were unlikely.
+
+A handful of prominent earnings reports have commanded focus in a week with few major economic reports following last week's heavy calendar that included April jobs data and a Federal Reserve decision.
+
+Among individual companies, Uber dropped 5.7 percent after reporting a US$654 million loss, while rival ride-hailing company Lyft jumped 7.1 percent after topping estimates, saying it sees solid demand growth.
+
+Also higher was Reddit, which advanced 3.9 percent as it posted a 48 percent jump in revenues to US$243 million. The social media company said higher costs were driven by expenses for its initial public offering. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 04:30:32 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     FTX says customers will be repaid for losses
@@ -571,27 +602,6 @@ Mainland markets were closed for a holiday. (AFP)]]>
    </description>
    <pubDate>
     Fri, 03 May 2024 16:20:42 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK shares open sharply higher, lifted by Wall Street
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751603-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751603-20240503.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares rallied at the open on Friday, building on an eight-day surge, following a strong Wall Street performance ahead of key US jobs data later in the day.
-
-The Hang Seng Index climbed 1.85 percent to 18,543.
-
-Mainland Chinese markets are closed for the Golden Week holiday. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 09:42:41 +0800
    </pubDate>
   </item>
  </channel>
