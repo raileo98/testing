@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 02:18:23 +0800
+   Fri, 10 May 2024 02:28:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Apple to power AI servers with its chips, Bloomberg News reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/apple-power-ai-servers-its-chips-bloomberg-news-reports-4325276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 02:19:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apple-power-ai-servers-its-chips-bloomberg-news-reports-4325276
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Tj5J4-_D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t181926z_1_lynxmpek480rx_rtroptp_3_apple-ai.jpg?itok=jGc_jsmN" width="1600"/>
+  </item>
   <item>
    <title>
     Robinhood makes headway beyond trading
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bCOTFlKc--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/tengah_air_base_f-16_comp.jpg?itok=8jXYJVXY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    No spare parts: Scoot cancels some flights in May as supply chain woes bite
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/scoot-flight-cancellations-spare-plane-parts-shortage-supply-chain-issues-4324301
-   </link>
-   <description>
-    <![CDATA[Scoot has not been spared by the issues impacting the global aviation industry.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 21:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/scoot-flight-cancellations-spare-plane-parts-shortage-supply-chain-issues-4324301
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U-mwdfVN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-11-09t085803z_1_lynxmpeja808x_rtroptp_3_health-coronavirus-airlines.jpg?itok=FwE46E4a" width="1600"/>
   </item>
  </channel>
 </rss>
