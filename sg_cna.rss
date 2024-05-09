@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 00:21:58 +0800
+   Fri, 10 May 2024 00:36:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Boeing 737 skids off runway in Senegal airport, injuring 10 people
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/boeing-737-skids-runway-senegal-airport-injuring-10-people-4324286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 00:28:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/boeing-737-skids-runway-senegal-airport-injuring-10-people-4324286
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eyKXsgvz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t160618z_1_lynxmpek480o9_rtroptp_3_senegal-airplane.jpg?itok=kz1f2SIG" width="1600"/>
+  </item>
   <item>
    <title>
     Former Sri Lanka skipper Mathews named in T20 World Cup squad
@@ -438,27 +459,6 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fn3sg-7s--/c_crop,h_450,w_800,x_0,y_78/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t065137z_1_lynxmpek4606t_rtroptp_3_global-oil-futures-rally.jpg?itok=YWIYx3ky" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Woman who reported Ken Lim for sexual comments had harboured 'some small hope' of being signed by his record label
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/ken-lim-hype-records-trial-molest-insulting-modesty-4324336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 20:02:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/ken-lim-hype-records-trial-molest-insulting-modesty-4324336
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NQU3KnTy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/30/dsc_3225.jpg?itok=LP1P5uh5" width="1600"/>
   </item>
  </channel>
 </rss>
