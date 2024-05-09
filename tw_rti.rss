@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Thu, 09 May 2024 17:35:02 +0800
+   Thu, 09 May 2024 17:39:36 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,32 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [國際] 英外相卡麥隆將發表演說 呼籲歐洲對俄中更強硬
+   </title>
+   <description>
+    <![CDATA[英國外交大臣卡麥隆(David Cameron)今天(9日)將發表兩場指標性演說，呼籲歐洲在日益艱險的國際局勢中，應更強悍、堅定，在當今國際間「意志力之戰」中，證明敵手的錯誤。儘管英國外交部未預告卡麥隆將在演說點名中國，值得一提的是，自首相蘇納克(Rishi Sunak)，英國政府高階官員近來曾數度公開提及由俄羅斯、伊朗、北韓、中國等組成的「威權國家軸心」(an axis of authoritarian states)，並且無視中方抗議。卡麥隆將陸續在國家網路安全中心(NCSC)和倫敦金融城市長官邸(Mansion House)發表演說，這是他去年11...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2205382">...more</a>]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 17:29:47 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2205382
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2205382
+   </guid>
+   <author>
+    中央社
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    中央社
+   </dc:creator>
+  </item>
   <item>
    <title>
     [生活] 氣象署攜手國家太空中心 提升海空觀測預報精度 - 240509-27
@@ -104,13 +130,13 @@
     https://www.rti.org.tw/news/view/id/2205375
    </guid>
    <author>
-    採訪, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2205371
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他
    </dc:creator>
   </item>
   <item>
@@ -260,13 +286,13 @@
     https://www.rti.org.tw/news/view/id/2205369
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
    </dc:creator>
   </item>
   <item>
@@ -312,13 +338,13 @@
     https://www.rti.org.tw/news/view/id/2205365
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -338,13 +364,13 @@
     https://www.rti.org.tw/news/view/id/2205364
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -390,13 +416,13 @@
     https://www.rti.org.tw/news/view/id/2205362
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -468,13 +494,13 @@
     https://www.rti.org.tw/news/view/id/2205359
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音
    </dc:creator>
   </item>
   <item>
@@ -494,13 +520,13 @@
     https://www.rti.org.tw/news/view/id/2205357
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社
    </dc:creator>
   </item>
   <item>
@@ -546,13 +572,13 @@
     https://www.rti.org.tw/news/view/id/2205354
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -598,13 +624,13 @@
     https://www.rti.org.tw/news/view/id/2205355
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他
    </dc:creator>
   </item>
   <item>
@@ -728,13 +754,13 @@
     https://www.rti.org.tw/news/view/id/2205348
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -780,39 +806,13 @@
     https://www.rti.org.tw/news/view/id/2205347
    </guid>
    <author>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 中央社
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 中央社
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 垂秀夫獲頒大綬景星勳章 正副總統感謝其對台日關係貢獻 - 240509-16
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F05%2F09%2F20240509000044M.jpg" width="360" alt="總統蔡英文（右）9日在總統府頒授日本前外務省大臣官房長垂秀夫（左）「大綬景星勳章」，表彰他對台日關係的卓越貢獻。 (圖：中央社)" title="總統蔡英文（右）9日在總統府頒授日本前外務省大臣官房長垂秀夫（左）「大綬景星勳章」，表彰他對台日關係的卓越貢獻。 (圖：中央社)"><br>日本前外務省大臣官房長垂秀夫今天(9日)獲蔡英文總統頒授「大綬景星勳章」，並晉見副總統賴清德。蔡總統及賴副總統均表彰且感謝垂秀夫對台日關係的貢獻。垂秀夫致詞則透露他剛到台灣時，有人說他的中文有「大陸腔」、不夠親切；但當他要離開台灣時，對方已肯定他是台灣人，他也將持續珍惜與台灣的緣分。#記者歐陽夢萍採訪報導#蔡英文總統頒授「大綬景星勳章」給日本前外務省大臣官房長垂秀夫。總統致詞時表示，垂秀夫也曾2度派駐台灣，是台灣多年的好朋友，更是深化台日關係的重要推手，當年便曾推動日本對台灣的免簽待遇，也推廣台、日青少年交流，她要透過贈勳，代表台灣人民感謝垂秀夫的卓越貢...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2205345">...more</a>]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 13:18:55 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2205345
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2205345
-   </guid>
-   <author>
-    歐陽夢萍採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    歐陽夢萍採訪
+    中央社, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 美國之音, 中央社, 採訪, 中央社, 採訪, 美聯社, 其他, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
  </channel>
