@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 22:51:17 +0800
+   Thu, 09 May 2024 23:09:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Canada fines Binance $4.38 million for money laundering violations
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/canada-fines-binance-438-million-money-laundering-violations-4324851
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 22:53:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/canada-fines-binance-438-million-money-laundering-violations-4324851
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoWwzTxg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t145556z_2_lynxmpek480lx_rtroptp_3_fintech-crypto-binance-nigeria.jpg?itok=6DMjrE3Z" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Forest disappointed at appeal loss but time to move on, says Nuno
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/forest-disappointed-appeal-loss-time-move-says-nuno-4324856
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 22:53:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/forest-disappointed-appeal-loss-time-move-says-nuno-4324856
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--q59Q9Luu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t145308z_1_lynxmpek480ly_rtroptp_3_soccer-england-shu-ntg-report.jpg?itok=fqI0pt72" width="1600"/>
+  </item>
   <item>
    <title>
     Girona boss Michel targeting historic second-place LaLiga finish
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HbBOOE8u--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t114000z_1_lynxmpek480h1_rtroptp_3_motor-f1-mclaren.jpg?itok=vMOVZAFY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City have chance to put the squeeze on Arsenal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-city-have-chance-put-squeeze-arsenal-4324391
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 19:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-city-have-chance-put-squeeze-arsenal-4324391
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UqbJqWG_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t113211z_1_lynxmpek480gw_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=YJOWBW6p" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Policeman cheated noodle stall of S$36.50 in orders, paid money to himself instead
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/policeman-cheated-noodle-stall-s3650-paid-money-himself-paynow-instead-4324016
-   </link>
-   <description>
-    <![CDATA[Siew Weng Chuin has since resigned from the Singapore Police Force.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 19:30:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/policeman-cheated-noodle-stall-s3650-paid-money-himself-paynow-instead-4324016
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GkeAJ8Qk--/c_crop,h_1191,w_2119,x_1,y_223/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/29/istock-1006515036.jpg?itok=WvnIPehq" width="1600"/>
   </item>
  </channel>
 </rss>
