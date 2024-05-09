@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 23:09:16 +0800
+   Thu, 09 May 2024 23:21:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man United's Rashford, Martinez back in training ahead of Arsenal clash
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-uniteds-rashford-martinez-back-training-ahead-arsenal-clash-4324911
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 23:18:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-uniteds-rashford-martinez-back-training-ahead-arsenal-clash-4324911
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Sanchez wins Giro stage six, Pogacar retains lead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/sanchez-wins-giro-stage-six-pogacar-retains-lead-4324916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 23:15:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/sanchez-wins-giro-stage-six-pogacar-retains-lead-4324916
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Dkj5Xub2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t151520z_1_lynxmpek480ms_rtroptp_3_cycling-giro.jpg?itok=vviXkjYw" width="1600"/>
+  </item>
   <item>
    <title>
     Canada fines Binance $4.38 million for money laundering violations
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D3SM-133--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t115020z_1_lynxmpek480hd_rtroptp_3_towersemiconductor-results.jpg?itok=0cbI5Y7v" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Putin says nuclear forces 'always' on alert in Victory Day speech
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/putin-says-nuclear-forces-always-alert-victory-day-speech-4323191
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 19:46:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/putin-says-nuclear-forces-always-alert-victory-day-speech-4323191
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hjddIamq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t105749z_1_lynxmpek480ff_rtroptp_3_ww2-anniversary-russia-parade.jpg?itok=iI5PlT0e" width="1600"/>
-  </item>
-  <item>
-   <title>
-    McLaren can mount title challenge in 2025, says Norris
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/mclaren-can-mount-title-challenge-2025-says-norris-4324416
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 19:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/mclaren-can-mount-title-challenge-2025-says-norris-4324416
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HbBOOE8u--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t114000z_1_lynxmpek480h1_rtroptp_3_motor-f1-mclaren.jpg?itok=vMOVZAFY" width="1600"/>
   </item>
  </channel>
 </rss>
