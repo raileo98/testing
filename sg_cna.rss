@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 12:39:36 +0800
+   Thu, 09 May 2024 12:47:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Australian-born gymnast Brown books Paris ticket after NZ switch
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/australian-born-gymnast-brown-books-paris-ticket-after-nz-switch-4323576
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 12:39:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/australian-born-gymnast-brown-books-paris-ticket-after-nz-switch-4323576
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TX9y4-H3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t043900z_1_lynxmpek4805l_rtroptp_3_olympics-2024-gymnastics-newzealand.jpg?itok=UT06sOEX" width="1600"/>
+  </item>
   <item>
    <title>
     Woman, 37, charged with the murder of a man at Beach Road condominium
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rlcrtgjd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t005318z_1_lynxmpek4800s_rtroptp_3_global-oil-sour-shortage.jpg?itok=n2h7N9wk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Daughter of former All Black Joseph to make New Zealand debut
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/daughter-former-all-black-joseph-make-new-zealand-debut-4323091
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 08:44:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/daughter-former-all-black-joseph-make-new-zealand-debut-4323091
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ESlRWPm---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t004419z_1_lynxmpek4800o_rtroptp_3_rugby-union-worldcup-jpn-zaf.jpg?itok=xtFYwsGQ" width="1600"/>
   </item>
  </channel>
 </rss>
