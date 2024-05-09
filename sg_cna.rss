@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 13:42:25 +0800
+   Thu, 09 May 2024 13:54:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Nadal happy to be playing third straight event after injury return
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/nadal-happy-be-playing-third-straight-event-after-injury-return-4323676
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 13:42:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/nadal-happy-be-playing-third-straight-event-after-injury-return-4323676
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Chinese megacity Hangzhou lifts curbs on buying homes as property crisis bites
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    School's out: How climate change threatens education
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sustainability/climate-change-education-impact-schools-closed-heat-flooding-4323206
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 11:25:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sustainability/climate-change-education-impact-schools-closed-heat-flooding-4323206
-   </guid>
-   <category>
-    Sustainability ,Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fLH-mRKN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7aa93a0d7d93134424b60cd8060428f4547b098f.jpg?itok=_wjnlhvN" width="1600"/>
   </item>
  </channel>
 </rss>
