@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 22:21:40 +0800
+   Thu, 09 May 2024 22:36:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Fire breaks out at Toa Payoh Industrial Park
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/toa-payoh-industrial-park-fire-4324736
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 22:24:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/toa-payoh-industrial-park-fire-4324736
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F6MK2Hio--/c_crop,h_900,w_1600,x_0,y_221/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/img_7727.jpg?itok=gYtykTtS" width="1600"/>
+  </item>
   <item>
    <title>
     Israeli defence minister tells 'friends and enemies' Israel will achieve war aims
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dKdxFREn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7e7aa83aef9ceff19abd3a3eb5046f65b3094e6b.jpg?itok=oc5nrQDq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    S Korea president calls for tax incentives for corporate reform
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/s-korea-president-calls-tax-incentives-corporate-reform-4324276
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 18:36:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/s-korea-president-calls-tax-incentives-corporate-reform-4324276
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sgIdmWKb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t103646z_1_lynxmpek480f0_rtroptp_3_southkorea-politics.jpg?itok=GF8E877n" width="1600"/>
   </item>
  </channel>
 </rss>
