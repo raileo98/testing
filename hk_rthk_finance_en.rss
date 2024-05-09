@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 23:20:04 +0800
+   Thu, 09 May 2024 23:40:08 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 17:50:39 +0800
+   Thu, 09 May 2024 23:24:18 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,35 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks go sideways as jobless claims rise
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752527-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752527-20240509.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks moved sideways on Thursday following mixed earnings reports as weekly US jobless claims pushed higher.
+
+The jump in initial jobless claims by 22,000 to 231,000 puts the benchmark at the highest level since last August, according to Briefing.com analyst Patrick O'Hare.
+
+The data "will be construed as a sign of softening in the labour market," O'Hare said. "That view, in turn, will be construed as a possible trigger for a Fed rate cut in coming months."
+
+The data came as the Bank of England kept interest rates at a 16-year high but signalled it could cut rates over the summer.
+
+About 25 minutes into trading, the Dow Jones was up 0.1 percent at 39,098.
+
+The S&P 500 was unchanged at 5,186, while the Nasdaq declined 0.3 percent to 16,262.
+
+Among companies reporting results, Warner Brothers Discovery advanced 2.0 percent, Arm Holdings dropped 6.3 percent and Airbnb fell 7.2 percent. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 23:24:18 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks close higher
@@ -559,29 +588,6 @@ The Shanghai Composite Index gained 0.89 percent, or 27.69 points, to 3,132.51, 
    </description>
    <pubDate>
     Mon, 06 May 2024 09:57:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Tax hike by US government 'likely': Buffett
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751838-20240505.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751838-20240505.htm
-   </link>
-   <description>
-    <![CDATA[Warren Buffett said he expects the US government to increase taxes to tackle widening fiscal deficits rather than reduce spending.
-
-"I think higher taxes are likely," he said on Saturday at Berkshire Hathaway's annual shareholder meeting in Omaha.
-
-"They may decide that some day they don’t want the fiscal deficit to be this large because that has some important consequences. So they may not want to decrease spending and they may decide they’ll take a larger percentage of what we own, and we’ll pay it," he said.
-
-The Congressional Budget Office has estimated in its latest long-term budget projections federal deficits will rise to 8.5 percent of gross domestic product in fiscal 2054 from 5.5 percent in fiscal 2024. US budget deficits are expected to deteriorate if tax cuts introduced in 2017 are renewed next year. (Reuters)]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 04:16:23 +0800
    </pubDate>
   </item>
  </channel>
