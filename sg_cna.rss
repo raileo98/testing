@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 14:09:44 +0800
+   Thu, 09 May 2024 14:27:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan's Nippon Steel full-year profit down 21%, beats estimates
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-nippon-steel-full-year-profit-down-21-beats-estimates-4323721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 14:14:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-nippon-steel-full-year-profit-down-21-beats-estimates-4323721
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pN4eyB5G--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t061456z_2_lynxmpek4807x_rtroptp_3_u-s-steel-m-a-nippon-steel.jpg?itok=lZ5kXU_5" width="1600"/>
+  </item>
   <item>
    <title>
     The last 'ama' fisherwomen of Japan: Free-dive fishing tradition in danger as diver numbers plunge
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xBc0gUTJ--/c_crop,h_843,w_1500,x_0,y_56/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/02/04/iris_koh_raymond_ng_4.jpg?itok=erGWLkkR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Australian-born gymnast Brown books Paris ticket after NZ switch
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/australian-born-gymnast-brown-books-paris-ticket-after-nz-switch-4323576
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 12:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/australian-born-gymnast-brown-books-paris-ticket-after-nz-switch-4323576
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TX9y4-H3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t043900z_1_lynxmpek4805l_rtroptp_3_olympics-2024-gymnastics-newzealand.jpg?itok=UT06sOEX" width="1600"/>
   </item>
  </channel>
 </rss>
