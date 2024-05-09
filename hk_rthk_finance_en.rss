@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 10 May 2024 04:40:18 +0800
+   Fri, 10 May 2024 04:50:22 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 23:24:18 +0800
+   Fri, 10 May 2024 04:46:45 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,41 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks rise on hopes of interest rate cuts
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752541-20240510.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752541-20240510.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks climbed on Thursday as economic data raised hopes that the US central bank is on track for interest rate cuts later this year.
+
+The Dow Jones rose 0.9 percent to 39,387, while the S&P 500 jumped 0.5 percent to 5,214.
+
+The Nasdaq added 0.3 percent to 16,346.
+
+The gains came after initial jobless claims rose to the highest level since last August, to 231,000 for the week ending May 4.
+
+A higher level of claims – if the trend persists – could be seen as a sign of the labour market cooling down, giving the Federal Reserve impetus to lower interest rates.
+
+Peter Cardillo of Spartan Capital said the higher unemployment claims has helped bond markets. US Treasury bond yields, a proxy for interest rates, moved lower.
+
+While rate cuts will depend on subsequent inflation data, he added: "We are seeing some cracks in the labour market and when that happens, that eventually leads to slow economic activity."
+
+Meanwhile, the Bank of England kept interest rates at a 16-year high but signalled it could cut rates over the summer.
+
+Among companies reporting results, Warner Bros. Discovery closed 3.1 percent up while Arm Holdings slumped by 2.3 percent.
+
+Airbnb shares slid by 6.9 percent. (AFP)]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 04:46:45 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks go sideways as jobless claims rise
@@ -567,27 +602,6 @@ Yue also said tensions in the Middle East and the pace of economic recovery in m
    </description>
    <pubDate>
     Mon, 06 May 2024 12:58:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks continue gains at opening
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751935-20240506.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751935-20240506.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks edged up at the opening on Monday, pushing gains into a tenth successive day, while mainland markets rallied as they returned from a long break to play catch-up with recent regional advances.
-
-The Hang Seng Index added 0.07 percent, or 12.63 points, to 18,488.55.
-
-The Shanghai Composite Index gained 0.89 percent, or 27.69 points, to 3,132.51, while the Shenzhen Composite Index rose 1.36 percent, or 23.91 points, to 1,779.99.]]>
-   </description>
-   <pubDate>
-    Mon, 06 May 2024 09:57:39 +0800
    </pubDate>
   </item>
  </channel>
