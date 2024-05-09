@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 19:21:09 +0800
+   Thu, 09 May 2024 19:40:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man City have chance to put the squeeze on Arsenal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-city-have-chance-put-squeeze-arsenal-4324391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 19:32:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-city-have-chance-put-squeeze-arsenal-4324391
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UqbJqWG_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t113211z_1_lynxmpek480gw_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=YJOWBW6p" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Policeman cheated noodle stall of S$36.50 in orders, paid money to himself instead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/policeman-cheated-noodle-stall-s3650-paid-money-himself-paynow-instead-4324016
+   </link>
+   <description>
+    <![CDATA[Siew Weng Chuin has since resigned from the Singapore Police Force.]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 19:30:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/policeman-cheated-noodle-stall-s3650-paid-money-himself-paynow-instead-4324016
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GkeAJ8Qk--/c_crop,h_1191,w_2119,x_1,y_223/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/29/istock-1006515036.jpg?itok=WvnIPehq" width="1600"/>
+  </item>
   <item>
    <title>
     Famed Thai holiday isles suffer water shortages after heatwave
@@ -417,49 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vowH2n7Y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t091034z_2_lynxmpek480cv_rtroptp_3_olympics-2024-athletics-india.jpg?itok=ejubRgtd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    England bowler Bell says new fund will encourage more girls to pick up a cricket ball
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/england-bowler-bell-says-new-fund-will-encourage-more-girls-pick-cricket-ball-4324066
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 17:05:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/england-bowler-bell-says-new-fund-will-encourage-more-girls-pick-cricket-ball-4324066
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cxuqH7kx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t090552z_1_lynxmpek480cu_rtroptp_3_cricket-t20-eng-lka.jpg?itok=sMpd2V9Q" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mother’s Day gifting ideas: 11 thoughtful presents, from fashion accessories to fitness gear, that mum will appreciate
-   </title>
-   <link>
-    https://www.channelnewsasia.com/buyers-guide/mothers-day-gifting-guide-4323946
-   </link>
-   <description>
-    <![CDATA[From spa and beauty products to books and gadgets, these are some gift ideas that speak to mum’s passions.   
-This article contains affiliate links. If you buy through these links, we may earn a small commission.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 17:04:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/buyers-guide/mothers-day-gifting-guide-4323946
-   </guid>
-   <category>
-    Buyers' Guide ,Women ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D3S60O91--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/mothers_day_dakota-corbin-unsplash.jpg?itok=dQHEigNI" width="1600"/>
   </item>
  </channel>
 </rss>
