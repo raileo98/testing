@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 19:40:18 +0800
+   Thu, 09 May 2024 19:45:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    McLaren can mount title challenge in 2025, says Norris
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/mclaren-can-mount-title-challenge-2025-says-norris-4324416
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 19:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/mclaren-can-mount-title-challenge-2025-says-norris-4324416
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HbBOOE8u--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t114000z_1_lynxmpek480h1_rtroptp_3_motor-f1-mclaren.jpg?itok=vMOVZAFY" width="1600"/>
+  </item>
   <item>
    <title>
     Man City have chance to put the squeeze on Arsenal
@@ -438,27 +459,6 @@
     Asia ,Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--layJQTT7--/c_crop,h_900,w_1600,x_0,y_100/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/istock-1722497345.jpg?itok=VsWO9vvi" width="1600"/>
-  </item>
-  <item>
-   <title>
-    India's Chopra says belief key to success in Paris Games
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/indias-chopra-says-belief-key-success-paris-games-4324061
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 17:07:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/indias-chopra-says-belief-key-success-paris-games-4324061
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vowH2n7Y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t091034z_2_lynxmpek480cv_rtroptp_3_olympics-2024-athletics-india.jpg?itok=ejubRgtd" width="1600"/>
   </item>
  </channel>
 </rss>
