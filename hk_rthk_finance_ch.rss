@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 11:31:00 +0800
+   Thu, 09 May 2024 11:40:33 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 11:30:23 +0800
+   Thu, 09 May 2024 11:39:57 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    內地股市半日升近1%至近2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752420-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752420-20240509.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市升近1%至近2%。
+
+上證指數半日收報3156點，升28點，升幅0.91%。
+
+深證成份指數報9795點，升156點，升幅1.63%。
+
+創業板指數報1899點，升34點，升幅1.85%。]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 11:39:57 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     黃偉綸形容香港與沙特攜手合作　二人同心其利斷金
@@ -445,27 +468,6 @@
    </description>
    <pubDate>
     Thu, 09 May 2024 06:20:16 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    金價偏軟　市場等待數據為貨幣政策方向提供線索
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752384-20240509.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752384-20240509.htm
-   </link>
-   <description>
-    <![CDATA[金價微跌。投資者等待美國數據，為聯儲局貨幣政策方向提供線索，而美元上升，亦限制金價向上。
-
-現貨金較早時報每盎司2308.6美元，下跌0.22%。
-
-紐約期金收報每盎司2322.3美元，下跌0.1%。]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 06:19:42 +0800
    </pubDate>
   </item>
  </channel>
