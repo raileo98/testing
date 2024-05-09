@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 11:01:45 +0800
+   Thu, 09 May 2024 11:20:31 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 10:52:36 +0800
+   Thu, 09 May 2024 11:11:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    中國成功發射智慧天網一號01星
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752415-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752415-20240509.htm
+   </link>
+   <description>
+    <![CDATA[中國今早9時43分，在西昌衛星發射中心使用長征三號乙運載火箭，成功將智慧天網一號01星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。
+
+這次任務是長征系列運載火箭的第521次飛行。]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 11:11:06 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     杭州提出全面取消住房限購
@@ -435,27 +454,6 @@
    </description>
    <pubDate>
     Wed, 08 May 2024 11:22:47 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    嫦娥六號探測器順利進入環月軌道飛行
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752265-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752265-20240508.htm
-   </link>
-   <description>
-    <![CDATA[國家航天局表示，在北京航天飛行控制中心的精確控制下，嫦娥六號探測器成功實施近月制動，順利進入環月軌道飛行。
-
-近月制動是嫦娥六號探測器在飛行過程中的一次關鍵軌道控制。嫦娥六號探測器飛臨月球附近時，實施「煞車」制動，使其相對速度低於月球逃逸速度，從而被月球引力捕獲，實現繞月飛行。
-
-嫦娥六號將在鵲橋二號中繼星的支持下，調整環月軌道高度和傾角，擇機實施軌道器返回器組合體與著陸器上升器組合體分離，之後，著陸器上升器組合體實施月球背面南極-艾特肯盆地軟著陸，按計劃開展月球背面採樣返回任務。]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 10:58:37 +0800
    </pubDate>
   </item>
  </channel>
