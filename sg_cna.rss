@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 02:28:41 +0800
+   Fri, 10 May 2024 02:39:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ford mulls offering gas-powered vehicles, hybrids in Europe beyond 2030
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ford-mulls-offering-gas-powered-vehicles-hybrids-europe-beyond-2030-4325316
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 02:27:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ford-mulls-offering-gas-powered-vehicles-hybrids-europe-beyond-2030-4325316
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HL4QrXIL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t182739z_1_lynxmpek480sb_rtroptp_3_ford-motor-results.jpg?itok=miegrAxt" width="1600"/>
+  </item>
   <item>
    <title>
     Apple to power AI servers with its chips, Bloomberg News reports
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hBv49KUx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t131846z_1_lynxmpek480jv_rtroptp_3_israel-palestinians-usa-austin.jpg?itok=2sQMsyDo" width="1600"/>
-  </item>
-  <item>
-   <title>
-    RSAF F-16 training flights to remain suspended after crash; flight data recorder retrieved
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/tengah-air-base-f-16-crash-4323551
-   </link>
-   <description>
-    <![CDATA[The Defence Ministry said the Air Force is working closely with aircraft manufacturer Lockheed Martin to review the recorded data.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 21:08:38 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/tengah-air-base-f-16-crash-4323551
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bCOTFlKc--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/tengah_air_base_f-16_comp.jpg?itok=8jXYJVXY" width="1600"/>
   </item>
  </channel>
 </rss>
