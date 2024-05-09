@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 15:55:08 +0800
+   Thu, 09 May 2024 16:16:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Small businesses not reaping the rewards of PM Modi’s flagship ‘Make in India’ scheme
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/make-india-scheme-narendra-modi-small-businesses-agra-uttar-pradesh-4323876
+   </link>
+   <description>
+    <![CDATA[CNA travelled to Agra in Uttar Pradesh state to find out if Mr Narendra Modi’s marquee project is a hit or miss among voters in the ongoing general election.]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 16:13:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/make-india-scheme-narendra-modi-small-businesses-agra-uttar-pradesh-4323876
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W9d3kscy--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/screenshot_2024-05-09_154905.png?itok=KpYgXzX4" width="1600"/>
+  </item>
   <item>
    <title>
     Vessel carrying aid to US-built pier off Gaza leaves Cyprus
@@ -438,27 +459,6 @@
     Trending ,Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2lASoXLy--/c_crop,h_588,w_1045,x_9,y_156/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/snapinsta.cam-663c2d0de033b-1715220089.jpg?itok=EyygDDN7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ancelotti hails Real's Champions League 'magic' after semi-final win
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/ancelotti-hails-reals-champions-league-magic-after-semi-final-win-4323656
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 13:26:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/ancelotti-hails-reals-champions-league-magic-after-semi-final-win-4323656
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
