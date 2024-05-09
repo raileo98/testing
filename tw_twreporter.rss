@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Wed, 08 May 2024 17:00:02 GMT
+   Thu, 09 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,42 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    【投書】健保又不給付了，為什麼「健保協同商保」恐有反效果？
+   </title>
+   <description>
+    <![CDATA[當全民健保在財務上所能負擔的給付項目，與最新醫療發展落差漸大，衛福部提出以商保補位健保作為解方。學者從制度、倫理、他國經驗，指出此構想的可能與限制，並強調應以調整保費、維持體系品質與效率為主要改革方向。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/opinion-public-and-private-health-insurance
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/opinion-public-and-private-health-insurance
+   </guid>
+   <pubDate>
+    Thu, 09 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240509150654-3a5a76ca819b5289c5422154a731b248-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    專業、時間都不夠！4個月內13職業軍人輕生，部隊文化和預防機制的矛盾失能
+   </title>
+   <description>
+    <![CDATA[國防部自2016年起宣示「零自傷」目標，至今仍累積134人死亡。當國家需要軍隊，軍隊卻和人權衝突時怎麼辦？我們接觸多名基層軍官，重現外界無法窺探的高壓、封閉、過勞現場，看見國軍的心理輔導制度為何失能。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/taiwan-soldiers-suicide-and-mental-health
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/taiwan-soldiers-suicide-and-mental-health
+   </guid>
+   <pubDate>
+    Wed, 08 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240508212446-4257b9da86e0c898b7a2446186e75ee2-mobile.jpg"/>
+  </item>
   <item>
    <title>
     阿潑／協助和抵抗非法移民，都有利可圖？讀人類學家眼中的《非法公司》
@@ -162,24 +198,6 @@
   </item>
   <item>
    <title>
-    李雪莉／《巴奈回家》：為族群主流化的平等理想一起努力
-   </title>
-   <description>
-    <![CDATA[「柯美黛」這位「城市小姐」，是怎麼一路找回自己的阿美族名字巴奈（Panai）？一個又一個的個體，如何被捲入不義制度的夾縫中，又如何在逆境中確實抵抗？]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-return-to-the-motherland
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-return-to-the-motherland
-   </guid>
-   <pubDate>
-    Wed, 01 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430100347-d1b2d9df4318e2e12c2827bce774010d-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     搶救受虐兒、追蹤喪子家庭、引進藝術治療，台大第一個兒童加護病房主治醫師，呂立25年的心路告白
    </title>
    <description>
@@ -195,24 +213,6 @@
     Wed, 01 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://storage.googleapis.com/twreporter-multimedia/images/20160818160533-03bdfbd15d5570905a6ed6983ebb938b-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    張烽益／如何平衡工作與生活的反思，是人類進步的動力──讀《終結職業倦怠》
-   </title>
-   <description>
-    <![CDATA[根據官方調查，台灣勞工對整體工作滿意度超過7成，打算轉換工作只有1成5。台灣整體職業倦怠似乎沒有想像得高？這當中的因素尚待更細緻的分析。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-the-end-of-burnout
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-the-end-of-burnout
-   </guid>
-   <pubDate>
-    Tue, 30 Apr 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240427010603-2599aedb553336e559938d88debc5c24-mobile.jpg"/>
   </item>
  </channel>
 </rss>
