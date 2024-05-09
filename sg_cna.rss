@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 12:03:08 +0800
+   Thu, 09 May 2024 12:26:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Woman, 37, charged with the murder of a man at Beach Road condominium
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/beach-road-murder-woman-charged-li-ye-city-gate-residences-4323196
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 12:03:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/beach-road-murder-woman-charged-li-ye-city-gate-residences-4323196
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XLPPaKF8--/c_crop,h_592,w_1053,x_61,y_64/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/City%20Gate%20residences%20Beach%20Road.png?itok=m_5_Xpv4" width="1600"/>
+  </item>
   <item>
    <title>
     Figure skating-Japan's two-time world champion Uno announces retirement
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ESlRWPm---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t004419z_1_lynxmpek4800o_rtroptp_3_rugby-union-worldcup-jpn-zaf.jpg?itok=xtFYwsGQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Travis Kelce joins cast of new Ryan Murphy TV series Grotesquerie
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/travis-kelce-grotesquerie-tv-series-ryan-murphy-4322206
-   </link>
-   <description>
-    <![CDATA[The series is a horror drama from Ryan Murphy, but is not under the American Horror Story umbrella.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 08:23:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/travis-kelce-grotesquerie-tv-series-ryan-murphy-4322206
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--35f1Y6hj--/c_crop,h_576,w_1024,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/ap24129521561092.jpg?itok=fCtRj7oM" width="1600"/>
   </item>
  </channel>
 </rss>
