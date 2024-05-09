@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 17:42:35 +0800
+   Thu, 09 May 2024 17:51:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    PREVIEW-Bayern start planning for new season with trophyless campaign almost over
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/preview-bayern-start-planning-new-season-trophyless-campaign-almost-over-4324136
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 17:41:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/preview-bayern-start-planning-new-season-trophyless-campaign-almost-over-4324136
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DsvlgAyk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t094137z_1_lynxmpek480dm_rtroptp_3_soccer-champions-mad-bay-report.jpg?itok=E20gpDTA" width="1600"/>
+  </item>
   <item>
    <title>
     From police briefings to CCTV installations, Malaysian football clubs step up security amid assaults on players
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Panasonic expects battery unit's annual profit to rise 23%
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/panasonic-expects-battery-units-annual-profit-rise-23-4323771
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 14:43:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/panasonic-expects-battery-units-annual-profit-rise-23-4323771
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6OVyhoeQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t064319z_1_lynxmpek4808r_rtroptp_3_tech-ces.jpg?itok=8xoZkuNy" width="1600"/>
   </item>
  </channel>
 </rss>
