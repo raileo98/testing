@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 01:35:39 +0800
+   Fri, 10 May 2024 01:42:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China's Xi in Hungary to celebrate 'new era' with Orban
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/chinas-xi-hungary-celebrate-new-era-orban-4323176
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 01:41:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/chinas-xi-hungary-celebrate-new-era-orban-4323176
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--H711HToz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t101151z_1_lynxmpek480eb_rtroptp_3_eu-china-hungary.jpg?itok=OjRlIkx_" width="1600"/>
+  </item>
   <item>
    <title>
     Wimbledon offers up more public land as club seeks to get expansion over the line
@@ -438,27 +459,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U-mwdfVN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-11-09t085803z_1_lynxmpeja808x_rtroptp_3_health-coronavirus-airlines.jpg?itok=FwE46E4a" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Lord's ground to get 61 million pounds upgrade to two stands
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/lords-ground-get-61-million-pounds-upgrade-two-stands-4324521
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 20:32:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/lords-ground-get-61-million-pounds-upgrade-two-stands-4324521
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xvSZBXOE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t123246z_1_lynxmpek480is_rtroptp_3_cricket-lords.jpg?itok=55fzmSYb" width="1600"/>
   </item>
  </channel>
 </rss>
