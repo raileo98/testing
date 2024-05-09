@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 09:30:55 +0800
+   Thu, 09 May 2024 10:10:03 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 04:30:32 +0800
+   Thu, 09 May 2024 09:50:29 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks flat in early trading
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752403-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752403-20240509.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks and mainland markets were barely moved at the open on Thursday, with traders looking for inspiration to extend their latest rally following a soft lead from Wall Street.
+
+The Hang Seng Index inched down eight points to 18,306.
+
+The Shanghai Composite Index was also flat, ticking a third of a point lower to 3,128, while the Shenzhen Composite Index on the mainland's second exchange slid a quarter of a point to 1,773. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 09:50:29 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks mixed as earnings season winds down
@@ -581,27 +602,6 @@ The head of the Hong Kong Retail Management Association, Annie Tse, said the sal
    </description>
    <pubDate>
     Fri, 03 May 2024 17:59:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Tech stocks push Hong Kong to ninth day of gains
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751648-20240503.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751648-20240503.htm
-   </link>
-   <description>
-    <![CDATA[A rally in tech firms helped push Hong Kong stocks to a ninth successive win on Friday, tracking a lead from Wall Street and ahead of key US jobs data later in the day.
-
-The Hang Seng Index advanced 1.5 percent, or 268 points, to 18,475.
-
-Mainland markets were closed for a holiday. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 03 May 2024 16:20:42 +0800
    </pubDate>
   </item>
  </channel>
