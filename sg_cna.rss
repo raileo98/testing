@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 12:47:52 +0800
+   Thu, 09 May 2024 12:55:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Healing the Divide's Iris Koh gets new charges, including telling Telegram users to harass doctors
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/iris-koh-healing-divide-anti-vaccination-covid-19-new-charges-harass-doctors-4323391
+   </link>
+   <description>
+    <![CDATA[The founder of Healing the Divide group, which is known to be against COVID-19 vaccination, allegedly told members of the Telegram groups to obstruct workers at the Ministry of Health and the Ministry of Social and Family Development.]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 12:53:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/iris-koh-healing-divide-anti-vaccination-covid-19-new-charges-harass-doctors-4323391
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xBc0gUTJ--/c_crop,h_843,w_1500,x_0,y_56/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/02/04/iris_koh_raymond_ng_4.jpg?itok=erGWLkkR" width="1600"/>
+  </item>
   <item>
    <title>
     Australian-born gymnast Brown books Paris ticket after NZ switch
@@ -438,27 +459,6 @@
     Advertorial ,Travel
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EqnMfkiZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/bstudio_ihg_hero-image-pool-at-holiday-inn-resort-vana-nava-hua-hin-1500x1125.jpg?itok=JbcqJOsP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil rises on US crude storage draw, Fed rate cut hopes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-rises-us-crude-storage-draw-fed-rate-cut-hopes-4323096
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 08:53:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-rises-us-crude-storage-draw-fed-rate-cut-hopes-4323096
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rlcrtgjd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t005318z_1_lynxmpek4800s_rtroptp_3_global-oil-sour-shortage.jpg?itok=n2h7N9wk" width="1600"/>
   </item>
  </channel>
 </rss>
