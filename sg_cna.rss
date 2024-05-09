@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 22:36:18 +0800
+   Thu, 09 May 2024 22:51:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Girona boss Michel targeting historic second-place LaLiga finish
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/girona-boss-michel-targeting-historic-second-place-laliga-finish-4324811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 22:43:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/girona-boss-michel-targeting-historic-second-place-laliga-finish-4324811
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lQxF8wNO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t144321z_1_lynxmpek480ls_rtroptp_3_soccer-spain-alv-gir-preview.jpg?itok=mLKA_Z5X" width="1600"/>
+  </item>
+  <item>
+   <title>
     Fire breaks out at Toa Payoh Industrial Park
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F6MK2Hio--/c_crop,h_900,w_1600,x_0,y_221/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/img_7727.jpg?itok=gYtykTtS" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--b1a2LX8z--/c_crop,h_899,w_1599,x_1,y_175/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/img_7727.jpg?itok=gYtykTtS" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GkeAJ8Qk--/c_crop,h_1191,w_2119,x_1,y_223/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/29/istock-1006515036.jpg?itok=WvnIPehq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Famed Thai holiday isles suffer water shortages after heatwave
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thailand-holiday-isles-water-shortage-heatwave-tourism-4324021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 19:03:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thailand-holiday-isles-water-shortage-heatwave-tourism-4324021
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dKdxFREn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7e7aa83aef9ceff19abd3a3eb5046f65b3094e6b.jpg?itok=oc5nrQDq" width="1600"/>
   </item>
  </channel>
 </rss>
