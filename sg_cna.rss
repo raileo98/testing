@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 02:39:49 +0800
+   Fri, 10 May 2024 02:45:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US says Rafah offensive would jeopardize Israel-Hamas ceasefire talks
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-says-rafah-offensive-would-jeopardize-israel-hamas-ceasefire-talks-4325211
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 02:44:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-says-rafah-offensive-would-jeopardize-israel-hamas-ceasefire-talks-4325211
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NRWDNR8C--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t171822z_1_lynxmpek460rs_rtroptp_3_usa-biden-antisemitism.jpg?itok=3lIm73os" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Christie's previews Michael Schumacher watches going up for auction
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/christies-previews-michael-schumacher-watches-going-auction-4325331
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 02:36:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/christies-previews-michael-schumacher-watches-going-auction-4325331
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ford mulls offering gas-powered vehicles, hybrids in Europe beyond 2030
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lQxF8wNO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t144321z_1_lynxmpek480ls_rtroptp_3_soccer-spain-alv-gir-preview.jpg?itok=mLKA_Z5X" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Fire breaks out at Toa Payoh Industrial Park
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/toa-payoh-industrial-park-fire-4324736
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 22:24:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/toa-payoh-industrial-park-fire-4324736
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4zkl6UQ---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/fire_at_toa_payoh_industrial_park_lorong_8_composite_2_720.jpg?itok=Ek5tLAFa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israeli defence minister tells 'friends and enemies' Israel will achieve war aims
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israeli-defence-minister-tells-friends-and-enemies-israel-will-achieve-war-aims-4324651
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 21:44:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israeli-defence-minister-tells-friends-and-enemies-israel-will-achieve-war-aims-4324651
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hBv49KUx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t131846z_1_lynxmpek480jv_rtroptp_3_israel-palestinians-usa-austin.jpg?itok=2sQMsyDo" width="1600"/>
   </item>
  </channel>
 </rss>
