@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 15:40:16 +0800
+   Thu, 09 May 2024 15:45:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Vessel carrying aid to US-built pier off Gaza leaves Cyprus
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/vessel-carrying-aid-us-built-pier-gaza-leaves-cyprus-4323871
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 15:42:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/vessel-carrying-aid-us-built-pier-gaza-leaves-cyprus-4323871
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--G5ZqgrDD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t072749z_1_lynxmpek480a8_rtroptp_3_israel-palestinians-cyprus-aid.jpg?itok=cws0m-bJ" width="1600"/>
+  </item>
   <item>
    <title>
     Nissan posts 3% rise in fourth-quarter operating profit
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Taiwanese singer A-Mei performing in Singapore in July, her only stop in Southeast Asia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/mei-singapore-concert-2024-4323566
-   </link>
-   <description>
-    <![CDATA[The Mandopop diva will return to the Singapore Indoor Stadium – a year after her last show in Singapore.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 13:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/mei-singapore-concert-2024-4323566
-   </guid>
-   <category>
-    Entertainment ,East Asia ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IoqXQCev--/c_crop,h_640,w_1138,x_456,y_192/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/amei_asmeir_watermarked-05.png?itok=HDslC1dv" width="1600"/>
   </item>
  </channel>
 </rss>
