@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 02:54:39 +0800
+   Fri, 10 May 2024 03:05:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    UN official says Israel closure of Gaza crossings 'crippling' aid
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/un-official-says-israel-closure-gaza-crossings-crippling-aid-4325151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 02:59:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/un-official-says-israel-closure-gaza-crossings-crippling-aid-4325151
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Hd1uusEC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/2bc971f470e068318f58e3954ed34f1437069961.jpg?itok=o2yJbbBT" width="1600"/>
+  </item>
   <item>
    <title>
     US says Rafah offensive would jeopardize Israel-Hamas ceasefire talks
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--q59Q9Luu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t145308z_1_lynxmpek480ly_rtroptp_3_soccer-england-shu-ntg-report.jpg?itok=fqI0pt72" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Girona boss Michel targeting historic second-place LaLiga finish
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/girona-boss-michel-targeting-historic-second-place-laliga-finish-4324811
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 22:43:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/girona-boss-michel-targeting-historic-second-place-laliga-finish-4324811
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lQxF8wNO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t144321z_1_lynxmpek480ls_rtroptp_3_soccer-spain-alv-gir-preview.jpg?itok=mLKA_Z5X" width="1600"/>
   </item>
  </channel>
 </rss>
