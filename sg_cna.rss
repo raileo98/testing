@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 05:11:14 +0800
+   Fri, 10 May 2024 05:21:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,48 @@
   </image>
   <item>
    <title>
+    Atalanta beat Marseille 3-0 to reach Europa League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/atalanta-beat-marseille-3-0-reach-europa-league-final-4325591
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 05:15:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/atalanta-beat-marseille-3-0-reach-europa-league-final-4325591
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Olympiakos beat Villa to reach Europa Conference League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/olympiakos-beat-villa-reach-europa-conference-league-final-4325576
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 05:10:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/olympiakos-beat-villa-reach-europa-conference-league-final-4325576
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Elon Musk may be compelled to testify again in SEC's Twitter takeover probe
    </title>
    <link>
@@ -59,7 +101,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Tt1U7kAu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t204824z_3_lynxmpek480ut_rtroptp_3_tesla-autopilot-investigation.jpg?itok=QEk_rK5l" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fPPU6IG---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t211145z_4_lynxmpek480ut_rtroptp_3_tesla-autopilot-investigation.jpg?itok=UqIPJMc9" width="1600"/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Sanchez wins Giro stage six, Pogacar retains lead
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/sanchez-wins-giro-stage-six-pogacar-retains-lead-4324916
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 23:15:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/sanchez-wins-giro-stage-six-pogacar-retains-lead-4324916
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Dkj5Xub2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t151520z_1_lynxmpek480ms_rtroptp_3_cycling-giro.jpg?itok=vviXkjYw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Canada fines Binance $4.38 million for money laundering violations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/canada-fines-binance-438-million-money-laundering-violations-4324851
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 22:53:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/canada-fines-binance-438-million-money-laundering-violations-4324851
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoWwzTxg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t145556z_2_lynxmpek480lx_rtroptp_3_fintech-crypto-binance-nigeria.jpg?itok=6DMjrE3Z" width="1600"/>
   </item>
  </channel>
 </rss>
