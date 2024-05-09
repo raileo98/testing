@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 09 May 2024 17:50:24 +0800
+   Thu, 09 May 2024 18:10:27 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 09 May 2024 13:41:26 +0800
+   Thu, 09 May 2024 17:50:39 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks close higher
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1752489-20240509.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1752489-20240509.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares ended with another advance on Thursday as traders welcomed forecast-beating Chinese trade data and on lingering optimism that the Federal Reserve will cut interest rates this year.
+
+The Hang Seng Index rose 1.2 percent, or 223 points, to 18,537.
+
+The Shanghai Composite Index added 0.8 percent, or 25 points, to 3,154, while the Shenzhen Composite Index gained 1.3 percent, or 23 points, to 1,796. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 17:50:39 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Stock market rebound helps more IPO listings: HKEX
@@ -561,43 +582,6 @@ The Congressional Budget Office has estimated in its latest long-term budget pro
    </description>
    <pubDate>
     Sun, 05 May 2024 04:16:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Jobs and Apple send Wall Street surging
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751718-20240504.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751718-20240504.htm
-   </link>
-   <description>
-    <![CDATA[Wall Street surged to a higher close on Friday as a softer-than-expected employment report bolstered the case for rate cuts from the Federal Reserve while also providing evidence of US economic resilience.
-
-All three major US stock posted robust gains. The tech-heavy Nasdaq led the pack, rising 2 percent with an assist from Apple shares following the iPhone maker's record share buyback announcement.
-
-All three indexes notched their second straight Friday-to-Friday gains, capping a week in which markets were encouraged by Fed Chair Jerome Powell's more dovish-than-expected statements following Wednesday's rate decision.
-
-The Labour Department's employment report showed the US economy added fewer jobs than expected, while the unemployment rate ticked higher and wage growth unexpectedly cooled.
-
-The report likely hit the sweet spot for the Fed, offering signs the labor market is softening, which Powell has deemed necessary to put inflation on a sustainable downward path. The report also provided assurances on US economic health.
-
-The report prompted investors to raise bets the Fed would implement its first rate reduction in September.
-
-"The investor narrative remains the Fed and interest rates and today’s weak jobs report puts rate cuts firmly on the Fed’s 2024 agenda," said Greg Bassuk, CEO at AXS Investments in New York.
-
-Fed officials weighed in on the data. Fed Governor Michelle Bowman reiterated her willingness to hike rates if inflation progress reverses, and Chicago Fed President Austan Goolsbee said the employment report boosted confidence the economy is not overheating.
-
-Apple surged 6.0 percent, after the company unveiled a record US$110 billion share buyback program and beat quarterly expectations.
-
-Travel platform Expedia cut its full-year revenue growth forecast, sending its shares sliding 15.3 percent.
-
-The Dow Jones Industrial Average rose 1.18 percent, to 38,676, the S&P 500 gained 1.26 percent, to 5,128 and the Nasdaq Composite added 1.99 percent, to 16,156. (Reuters)]]>
-   </description>
-   <pubDate>
-    Sat, 04 May 2024 04:46:43 +0800
    </pubDate>
   </item>
  </channel>
