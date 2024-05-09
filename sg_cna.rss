@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 09 May 2024 21:42:20 +0800
+   Thu, 09 May 2024 21:48:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israeli defence minister tells 'friends and enemies' Israel will achieve war aims
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israeli-defence-minister-tells-friends-and-enemies-israel-will-achieve-war-aims-4324651
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 09 May 2024 21:44:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israeli-defence-minister-tells-friends-and-enemies-israel-will-achieve-war-aims-4324651
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hBv49KUx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t131846z_1_lynxmpek480jv_rtroptp_3_israel-palestinians-usa-austin.jpg?itok=2sQMsyDo" width="1600"/>
+  </item>
   <item>
    <title>
     RSAF F-16 training flights to remain suspended after crash; flight data recorder retrieved
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sgIdmWKb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t103646z_1_lynxmpek480f0_rtroptp_3_southkorea-politics.jpg?itok=GF8E877n" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Brawl breaks out on EVA Air flight, forcing flight attendants to step in
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/eva-air-fight-passengers-seat-taiwan-san-francisco-flight-attendant-stewardess-4324166
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 18:36:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/eva-air-fight-passengers-seat-taiwan-san-francisco-flight-attendant-stewardess-4324166
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gGhtna-4--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/09/photo1715248710.jpeg?itok=RrLMi3IA" width="1600"/>
   </item>
  </channel>
 </rss>
