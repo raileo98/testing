@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 10 May 2024 12:10:27 +0800
+   Fri, 10 May 2024 12:40:31 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 10 May 2024 11:48:52 +0800
+   Fri, 10 May 2024 12:14:09 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股半日升321點　港交所彈近7%　成交逾900億
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752594-20240510.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752594-20240510.htm
+   </link>
+   <description>
+    <![CDATA[港股在中資金融、內房股帶動下，連升兩日，恒指升逾300點，中午收報18859點，升321點，升幅1.74%，主板成交額約939億元。
+
+港交所急升近7%，是半日表現最好的恒指成份股，據報中證監計劃考慮減免內地散戶購買港股的股息稅。中資金融股造好，4大內銀股升3%至逾6%，平保、中人壽升近5%或以上。
+
+內地再有城市全面取消限購，華潤置地和龍湖升近3%至近半成。世茂集團急升58%，成交額逾4.6億元。
+
+另外，資源股及中資電訊股都上升。
+
+科技指數跑輸大市，半日跌約0.3%，報3936點。]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 12:14:09 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     滬指半日跌7點　地產股逆市上升
@@ -437,29 +462,6 @@
    </description>
    <pubDate>
     Fri, 10 May 2024 06:17:26 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    歐洲股市廷續升勢　德股升1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752543-20240510.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752543-20240510.htm
-   </link>
-   <description>
-    <![CDATA[歐洲股市在工業股推動下延續升勢。
-
-英國富時100指數收報8381點，升27點，升幅0.33%，再創新高。
-
-法國CAC指數收報8187點，升56點，升幅0.69%。
-
-德國DAX指數收報18686點，升188點，升幅1.02%。]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 05:42:46 +0800
    </pubDate>
   </item>
  </channel>
