@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 10 May 2024 13:10:38 +0800
+   Fri, 10 May 2024 13:30:31 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 10 May 2024 12:58:15 +0800
+   Fri, 10 May 2024 13:12:23 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    恒指下午初段升幅擴至2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752600-20240510.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752600-20240510.htm
+   </link>
+   <description>
+    <![CDATA[港股下午初段升幅擴大，恒指重上18900點以上，較早時報18910點，升372點，升幅2%。
+
+科技指數報3952點，升幅0.12%。]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 13:12:23 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     分析員：若經濟持續改善　內地一線城市樓價最快今年見底
@@ -445,27 +464,6 @@
    </description>
    <pubDate>
     Fri, 10 May 2024 06:17:57 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    金價升近1%或以上
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752546-20240510.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752546-20240510.htm
-   </link>
-   <description>
-    <![CDATA[金價升近1%或以上，數據反映美國勞工市場有降溫跡象，加強市場對聯儲局今年減息的預期。
-
-現貨金較早時報每盎司2345.8美元，上升1.6%。
-
-紐約期金收報每盎司2336.8美元，上升0.63%。]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 06:17:40 +0800
    </pubDate>
   </item>
  </channel>
