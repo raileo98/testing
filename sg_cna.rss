@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 11:54:47 +0800
+   Fri, 10 May 2024 12:15:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Australian regulator says Musk's X should not set limits of internet law
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/australian-regulator-says-musks-x-should-not-set-limits-internet-law-4326201
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 11:57:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/australian-regulator-says-musks-x-should-not-set-limits-internet-law-4326201
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZNC7KOsE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-10t035707z_3_lynxmpek4902c_rtroptp_3_milken-conference.jpg?itok=UCsmT7W-" width="1600"/>
+  </item>
+  <item>
+   <title>
     Porsche Experience Centre to open in Singapore by 2027; world-class wellness attraction planned for Marina South
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[Singapore is projected to see 15 million to 16.5 million international visitor arrivals in 2024, with tourism receipts expected to reach a record S$27.5 billion to S$29 billion.]]>
    </description>
    <pubDate>
-    Fri, 10 May 2024 11:46:38 +0800
+    Fri, 10 May 2024 11:46:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/porsche-experience-centre-wellness-attraction-marina-barrage-singapore-tourism-board-4325986
@@ -72,7 +93,7 @@
     <![CDATA[Singapore is projected to see 15 million to 16.5 million international visitor arrivals in 2024, with tourism receipts expected to reach a record S$27.5 billion to S$29 billion.]]>
    </description>
    <pubDate>
-    Fri, 10 May 2024 11:46:38 +0800
+    Fri, 10 May 2024 11:46:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/porsche-experience-centre-wellness-attraction-marina-barrage-singapore-tourism-board-4325986
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f1c13CJ5--/c_crop,h_663,w_1179,x_1,y_526/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/img_1990.jpg?itok=elQEwKLf" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Australia goalkeeper Williams to retire after Paris Olympics
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/australia-goalkeeper-williams-retire-after-paris-olympics-4326011
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 10:04:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/australia-goalkeeper-williams-retire-after-paris-olympics-4326011
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OdZNfTUd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-10t020451z_1_lynxmpek4901c_rtroptp_3_soccer-australia-williams.jpg?itok=RhtyNOjy" width="1600"/>
   </item>
  </channel>
 </rss>
