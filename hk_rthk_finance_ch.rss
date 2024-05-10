@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 10 May 2024 14:40:05 +0800
+   Fri, 10 May 2024 14:50:25 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 10 May 2024 13:12:23 +0800
+   Fri, 10 May 2024 14:48:44 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股高收0.4%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1752607-20240510.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1752607-20240510.htm
+   </link>
+   <description>
+    <![CDATA[日本股市上升，日經平均指數收市報38229點，升155點，升幅0.41%。
+
+日股本星期只有4日市，累計下跌7點。]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 14:48:44 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     恒指下午初段升幅擴至2%
@@ -441,29 +460,6 @@
    </description>
    <pubDate>
     Fri, 10 May 2024 06:18:13 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美元偏軟　英鎊靠穩
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1752548-20240510.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1752548-20240510.htm
-   </link>
-   <description>
-    <![CDATA[美元指數偏軟，較早時報105.24，下跌約0.3%。經濟數據顯示，美國勞動力市場有疲軟現象。
-
-歐元兌美元升0.28%，報1.0775美元。
-
-英鎊走勢反覆，英倫銀行維持利率不變，但指未來需要減息的幅度可能超出預期，拖累英鎊下跌，但美國經濟數據公布後轉升，在紐約交易時段尾市報1.2518美元，上升0.18%。
-
-美元兌日圓變動不大，處於155.52日圓。]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 06:17:57 +0800
    </pubDate>
   </item>
  </channel>
