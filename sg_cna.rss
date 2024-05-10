@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 14:43:15 +0800
+   Fri, 10 May 2024 14:51:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Foxconn's Q1 profit to jump from low base, AI to power growth
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/foxconns-q1-profit-jump-low-base-ai-power-growth-4326476
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 14:44:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/foxconns-q1-profit-jump-low-base-ai-power-growth-4326476
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zDmOcTID--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-10t064435z_1_lynxmpek4905e_rtroptp_3_foxconn-results.jpg?itok=oQUvE2lX" width="1600"/>
+  </item>
   <item>
    <title>
     Heatstroke kills 61 in Thailand so far this year
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PZAdFzIp--/c_crop,h_900,w_1600,x_0,y_300/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/mandai_rainforest_resort_singapore.jpg?itok=EhySuYCz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Australian regulator says Musk's X should not set limits of internet law
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/australian-regulator-says-musks-x-should-not-set-limits-internet-law-4326201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 11:57:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/australian-regulator-says-musks-x-should-not-set-limits-internet-law-4326201
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZNC7KOsE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-10t035707z_3_lynxmpek4902c_rtroptp_3_milken-conference.jpg?itok=UCsmT7W-" width="1600"/>
   </item>
  </channel>
 </rss>
