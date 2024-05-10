@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 11:18:54 +0800
+   Fri, 10 May 2024 11:34:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Back to work: Why South Korea's seniors are rejoining the workforce
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/south-korea-seniors-elderly-jobs-employment-4326156
+   </link>
+   <description>
+    <![CDATA[As life expectancy increases, there are fears the elderly will spend a longer period after retirement without income or purpose. ]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 11:24:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/south-korea-seniors-elderly-jobs-employment-4326156
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XAop0Hhh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/screenshot_408.png?itok=luhoRAhX" width="1600"/>
+  </item>
   <item>
    <title>
     China's push for greener aluminium hit by erratic rains, power cuts
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Japan finance minister says government will take appropriate actions on FX
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japan-finance-minister-says-government-will-take-appropriate-actions-fx-4325871
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 08:32:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japan-finance-minister-says-government-will-take-appropriate-actions-fx-4325871
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E7Ghft_e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-10t003232z_1_lynxmpek4900b_rtroptp_3_imf-worldbank-trilateral.jpg?itok=pOiNnV-S" width="1600"/>
   </item>
  </channel>
 </rss>
