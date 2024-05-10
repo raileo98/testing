@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 10 May 2024 12:30:32 +0800
+   Fri, 10 May 2024 12:39:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Gender pay gap in Singapore narrows, more women in leadership roles: MSF report
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/gender-pay-gap-narrows-women-leadership-roles-msf-report-4326136
+   </link>
+   <description>
+    <![CDATA[In the most recent UN Gender Inequality Index, Singapore ranked eighth worldwide and first in the Asia Pacific for having a low level of gender inequality.]]>
+   </description>
+   <pubDate>
+    Fri, 10 May 2024 12:34:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/gender-pay-gap-narrows-women-leadership-roles-msf-report-4326136
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GijX_kAn--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/women%20in%20the%20workplace%204.jpg?itok=Yhx5K8f4" width="1600"/>
+  </item>
   <item>
    <title>
     Seoul turns to foreign doctors as medical strike drags on
@@ -438,27 +459,6 @@
     Sustainability ,Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---i1g9acr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-10t021638z_3_lynxmpek4901e_rtroptp_3_china-power-aluminum.jpg?itok=KN9Rn5y3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ben Yeo splurges S$80,000 on posh toilets for his new kopitiam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/ben-yeo-new-kopitiam-tan-xiang-chai-chee-posh-toilets-4326001
-   </link>
-   <description>
-    <![CDATA[The loos are so fancy that they’ve attracted a thief who stole a bidet spray.]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 11:00:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/ben-yeo-new-kopitiam-tan-xiang-chai-chee-posh-toilets-4326001
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uAgWtqD_--/c_crop,h_900,w_1600,x_0,y_63/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/ben_yeo.jpg?itok=emw5qth0" width="1600"/>
   </item>
  </channel>
 </rss>
