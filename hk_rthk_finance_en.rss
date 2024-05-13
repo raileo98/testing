@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 04:20:28 +0800
+   Tue, 14 May 2024 04:30:04 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 00:12:59 +0800
+   Tue, 14 May 2024 04:20:58 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US market pauses ahead of key inflation figure
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753037-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753037-20240514.htm
+   </link>
+   <description>
+    <![CDATA[A revival in GameStop and other meme stocks overshadowed a mixed performance in the broader stock market on Monday as a Dow winning streak ended.
+
+Art Hogan, from B. Riley Financial, said the markets are looking ahead to Wednesday's consumer price index report for April.
+
+The market will celebrate signs of moderating inflation, Hogan said, while further signs of intensifying inflation will lead to "the kind of selling pressure that we saw in April."
+
+The Dow Jones Industrial Average declined 0.2 percent to 39,431, ending an eight-day winning streak.
+
+The S&P 500 was flat at 5,221, while the Nasdaq Composite gained 0.3 percent to 16,388.
+
+Monday's light schedule in terms of economic reports continued the sleepy tenor of last week, when stocks climbed on hopes that the Federal Reserve will soon cut interest rates.
+
+The inflation report -- along with this week's retail sales data -- will inform expectations about US monetary policy.
+
+Among individual companies, GameStop rocketed 70.9 percent higher while AMC Entertainment surged 80.9 percent. Both benefited from the return to social media of "Roaring Kitty," whose posts helped ignite a massive rally in a handful of stocks in January 2021.
+
+Apple jumped 1.8 percent following a Bloomberg report that the smartphone giant is close to a deal with OpenAI to add ChatGPT to iPhones. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 04:20:58 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Anglo American rebuffs BHP's revised offer
@@ -585,41 +618,6 @@ The Shanghai Composite Index dipped 0.20 percent to 3,141, while the Shenzhen Co
    </description>
    <pubDate>
     Wed, 08 May 2024 09:51:24 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Sideways day for US stocks as Disney tumbles
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752219-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752219-20240508.htm
-   </link>
-   <description>
-    <![CDATA[Wall Street stocks finished a choppy session essentially flat on Tuesday, a sideways performance that could persist until investors digest significant economic releases later in the month.
-
-"The market might just be due for some pause, consolidation," said LBBW's Karl Haeling.
-
-Analysts pointed to light trading volume in a comparatively quiet period of news after last week saw major earnings reports, economic releases and a Federal Reserve decision.
-
-Upcoming potential catalysts include US consumer price data and Walmart results, both of which are scheduled for next week.
-
-The Dow Jones edged up 0.1 percent to 38,884.
-
-The S&P 500 gained 0.2 percent to 5,187, while the Nasdaq dipped 0.1 percent to 16,332.
-
-Among individual companies, Disney dropped 9.5 percent as it reported a small quarterly loss and pointed to a moderation in travel spending expected to weigh on results at its parks division.
-
-Apple advanced 0.4 percent after unveiling new versions of its iPad tablets.
-
-Spirit AeroSystems, a major contractor to Boeing and Airbus, fell 0.3 percent as it reported a US$616.7 million quarterly loss, reflecting a drag from lower output amid Boeing's quality control problems.
-
-The company has also so far not reached a pricing agreement with Airbus, further weighing on financial performance. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 04:48:24 +0800
    </pubDate>
   </item>
  </channel>
