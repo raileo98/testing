@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 00:53:47 +0800
+   Tue, 14 May 2024 01:09:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Meta exploring AI-assisted earbuds with cameras, The Information reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/meta-exploring-ai-assisted-earbuds-cameras-information-reports-4332756
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 00:54:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/meta-exploring-ai-assisted-earbuds-cameras-information-reports-4332756
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5KTMNwTT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t165424z_1_lynxmpek4c0q0_rtroptp_3_turkey-meta-antitrust.jpg?itok=5PszhibD" width="1600"/>
+  </item>
   <item>
    <title>
     Fury's father bloodied in clash with Usyk's entourage
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6viLo2nx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t132026z_2_lynxmpek4c0hy_rtroptp_3_eu-china-medical.jpg?itok=5KQ87icN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Serbia reaffirms support for Ukraine but holds back on sanctions
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/serbia-reaffirms-support-ukraine-holds-back-sanctions-4332206
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:34:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/serbia-reaffirms-support-ukraine-holds-back-sanctions-4332206
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--StFV52Mz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t131529z_1_lynxmpek4c0hs_rtroptp_3_eu-china-serbia.jpg?itok=e3P0jewW" width="1600"/>
   </item>
  </channel>
 </rss>
