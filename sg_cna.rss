@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 05:42:34 +0800
+   Tue, 14 May 2024 05:51:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israeli protesters block humanitarian aid convoy headed to Gaza
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/israeli-protesters-block-humanitarian-aid-convoy-headed-gaza-4332571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 05:45:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/israeli-protesters-block-humanitarian-aid-convoy-headed-gaza-4332571
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KOlP_vgc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/000_34lx84l.jpg?itok=41gQgZLT" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Israeli protesters block humanitarian aid convoy headed to Gaza
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/israeli-protesters-block-humanitarian-aid-convoy-headed-gaza-4332571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 05:45:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/israeli-protesters-block-humanitarian-aid-convoy-headed-gaza-4332571
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KOlP_vgc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/10/000_34lx84l.jpg?itok=41gQgZLT" width="1600"/>
+  </item>
   <item>
    <title>
     Former fixer Cohen testifies Trump told him to pay hush money
@@ -168,7 +210,7 @@
   </item>
   <item>
    <title>
-    Artificial intelligence hitting labour forces like a "tsunami" - IMF Chief
+    AI hitting labour forces like a "tsunami" - IMF Chief
    </title>
    <link>
     https://www.channelnewsasia.com/business/artificial-intelligence-hitting-labour-forces-tsunami-imf-chief-4332911
@@ -177,7 +219,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 14 May 2024 02:05:31 +0800
+    Tue, 14 May 2024 02:05:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/artificial-intelligence-hitting-labour-forces-tsunami-imf-chief-4332911
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oJr4JbsS--/c_crop,h_450,w_800,x_0,y_27/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t150620z_1_lynxmpek4c0lx_rtroptp_3_usa-yellen-tax.jpg?itok=B83Mumf-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'No plans' to merge cruise centres for now as URA, STB clarify report on consolidation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/no-plans-merge-cruise-centres-ura-stb-clarify-4332391
-   </link>
-   <description>
-    <![CDATA[The Straits Times on Monday (May 13) said that Singapore Cruise Centre and Marina Bay Cruise Centre Singapore would undergo a merger in the coming years, following an interview with Urban Redevelopment Authority chief Lim Eng Hwee. ]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 23:22:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/no-plans-merge-cruise-centres-ura-stb-clarify-4332391
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3VcLJ6F0--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/01/iStock-1411736576.jpg?itok=DZPtN9C9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Scheffler up for major challenge after birth of child
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/scheffler-major-challenge-after-birth-child-4332511
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 23:05:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/scheffler-major-challenge-after-birth-child-4332511
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
