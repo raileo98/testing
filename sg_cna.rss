@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 04:43:08 +0800
+   Tue, 14 May 2024 05:05:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Games Global files to withdraw US IPO plan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/games-global-files-withdraw-us-ipo-plan-4333031
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 03:59:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/games-global-files-withdraw-us-ipo-plan-4333031
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Georgians protest anti-NGO bill with ruling party vowing to adopt
@@ -438,27 +459,6 @@
     East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sOErXBtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/000_34gk8j2.jpg?itok=KqhFrMCs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Real will use LaLiga games to prepare for Champions League final, says coach Ancelotti
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/real-will-use-laliga-games-prepare-champions-league-final-says-coach-ancelotti-4332446
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/real-will-use-laliga-games-prepare-champions-league-final-says-coach-ancelotti-4332446
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WT38rjrM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t143525z_1_lynxmpek4c0kv_rtroptp_3_soccer-spain-mad-alv-preview.jpg?itok=2QWMgUmR" width="1600"/>
   </item>
  </channel>
 </rss>
