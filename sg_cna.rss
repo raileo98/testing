@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 01:09:10 +0800
+   Tue, 14 May 2024 01:25:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Four dead, several trapped under billboard in freak accident in Mumbai
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/four-dead-several-trapped-under-billboard-freak-accident-mumbai-4332641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 01:17:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/four-dead-several-trapped-under-billboard-freak-accident-mumbai-4332641
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qjJ00RAI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t160227z_1_lynxmpek4c0o0_rtroptp_3_india-weather-storm.jpg?itok=AADFxSqL" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Four dead, several trapped under billboard in freak accident in Mumbai
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/four-dead-several-trapped-under-billboard-freak-accident-mumbai-4332641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 01:17:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/four-dead-several-trapped-under-billboard-freak-accident-mumbai-4332641
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qjJ00RAI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t160227z_1_lynxmpek4c0o0_rtroptp_3_india-weather-storm.jpg?itok=AADFxSqL" width="1600"/>
+  </item>
   <item>
    <title>
     Meta exploring AI-assisted earbuds with cameras, The Information reports
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--n1Q5k88i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t135742z_2_lynxmpek4c0j2_rtroptp_3_apple-union.jpg?itok=bAe4uwqp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Africa's Ramaphosa denies pause in power cuts is linked to election
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/south-africas-ramaphosa-denies-pause-power-cuts-linked-election-4332246
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:45:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/south-africas-ramaphosa-denies-pause-power-cuts-linked-election-4332246
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yZAtXcBX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t132809z_1_lynxmpek4c0ie_rtroptp_3_africa-summit.jpg?itok=V79FI97B" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Let in our flag, EU encourages Eurovision after ban 'mistake'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/let-our-flag-eu-encourages-eurovision-after-ban-mistake-4332226
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:42:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/let-our-flag-eu-encourages-eurovision-after-ban-mistake-4332226
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6viLo2nx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t132026z_2_lynxmpek4c0hy_rtroptp_3_eu-china-medical.jpg?itok=5KQ87icN" width="1600"/>
   </item>
  </channel>
 </rss>

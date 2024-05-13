@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Sun, 12 May 2024 17:00:02 GMT
+   Mon, 13 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    8年併網面積僅18%，「不利耕作區」推動難關揭台灣地面型光電困局
+   </title>
+   <description>
+    <![CDATA[在綠能目標壓力下，政府從不利耕作區、低地力農地、漁電共生到綠能發展區，一再開放專區做光電，推動最久的不利耕作區，併網面積至今只有18%。有土地、業者也有意願，為何還是推不動？光電發展還能倚賴地面型態嗎？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/land-unsuitable-for-farming-photovoltaic
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/land-unsuitable-for-farming-photovoltaic
+   </guid>
+   <pubDate>
+    Sun, 12 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240510221642-5ebcdea87a5c99facbe92bdbc5d60b97-mobile.jpg"/>
+  </item>
   <item>
    <title>
     汪正翔／觀看如何觀看──《文明：當代生活啟示錄》中的攝影思辨
@@ -69,6 +87,24 @@
     Fri, 10 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240506113302-e6b23449168f1d551da0549e22b35a8b-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    【尋找報導者】本次徵才已全面結束，歡迎投稿合作
+   </title>
+   <description>
+    <![CDATA[《報導者》是台灣第一個由公益基金會成立的非營利網路媒體，歡迎各界好手跨界加入新聞小革命！]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/hiring-job-description
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/hiring-job-description
+   </guid>
+   <pubDate>
+    Thu, 09 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/png" url="https://www.twreporter.org/images/20220302164545-5ccad6e75463cb525f233dcd9d91bc73-mobile.png"/>
   </item>
   <item>
    <title>
@@ -177,42 +213,6 @@
     Sat, 04 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430090634-58a0b2ffa679ea9388cd57d7c3f65969-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    陳子軒／左派球會挺進德甲──聖保利的反叛革命
-   </title>
-   <description>
-    <![CDATA[當全世界的足球、乃至於所有運動，無不往毫無節制的投資與金錢遊戲靠攏之時，位於德國漢堡的聖保利足球隊卻以鮮明的左派立場聞名。如今他們距離重返德甲僅有一步之遙，證明了堅持理念仍可能在當今運動世界獲得成功。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/saturday-features-long-game-fc-st-pauli
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/saturday-features-long-game-fc-st-pauli
-   </guid>
-   <pubDate>
-    Fri, 03 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240503150058-7fd46f8fd0d7844bc3583571eb35cc51-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    和平衛士或反戰暴民？哥倫比亞大學「加薩團結營地」如何點燃美國學運論戰、衝擊大選？
-   </title>
-   <description>
-    <![CDATA[為阻止加薩戰爭擴大，4月中旬美國哥倫比亞大學學生發起占領校園示威活動，30日卻遭鎮暴警察入校清場。過往幾乎不曾衝擊美國國內政情的以巴衝突，為何前所未見地撕裂校園政治與社會輿論？]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/hello-world-2024-05-03
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/hello-world-2024-05-03
-   </guid>
-   <pubDate>
-    Thu, 02 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240503134408-69763bf8aefbdbc0ccf0376e11f8701c-mobile.jpg"/>
   </item>
  </channel>
 </rss>
