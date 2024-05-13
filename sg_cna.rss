@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 00:23:28 +0800
+   Tue, 14 May 2024 00:42:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Giroud to leave Milan at the end of the season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/giroud-leave-milan-end-season-4332701
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 00:29:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/giroud-leave-milan-end-season-4332701
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gfs9Ve82--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t162938z_1_lynxmpek4c0p5_rtroptp_3_soccer-italy-mil-gen-report.jpg?itok=9wBCeH9s" width="1600"/>
+  </item>
+  <item>
+   <title>
+    New breast cancer genes found in women of African ancestry, may improve risk assessment
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/new-breast-cancer-genes-found-women-african-ancestry-may-improve-risk-assessment-4332676
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 00:18:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/new-breast-cancer-genes-found-women-african-ancestry-may-improve-risk-assessment-4332676
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GLC-35s_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t161843z_1_lynxmpek4c0oo_rtroptp_3_health-breast-cancer.jpg?itok=ye7ZgltD" width="1600"/>
+  </item>
   <item>
    <title>
     Spain manager hopes to tune out noise of RFEF crisis ahead of Euro 2024
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9Yel_EX2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t133215z_1_lynxmpek4c0io_rtroptp_3_soccer-england-tot-bur-report.jpg?itok=jbDAPHSO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UAE releases new AI model to compete with big tech
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/uae-releases-new-ai-model-compete-big-tech-4332211
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uae-releases-new-ai-model-compete-big-tech-4332211
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AcvLch2H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t131744z_1_lynxmpek4c0ht_rtroptp_3_ai-startup.jpg?itok=BszwGd2u" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UAE releases new AI model to compete with big tech
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/uae-releases-new-ai-model-compete-big-tech-4332211
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uae-releases-new-ai-model-compete-big-tech-4332211
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AcvLch2H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t131744z_1_lynxmpek4c0ht_rtroptp_3_ai-startup.jpg?itok=BszwGd2u" width="1600"/>
   </item>
  </channel>
 </rss>
