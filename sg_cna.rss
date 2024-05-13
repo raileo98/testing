@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 05:27:14 +0800
+   Tue, 14 May 2024 05:36:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Barcelona reclaim second spot with 2-0 win over Real Sociedad
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/barcelona-reclaim-second-spot-2-0-win-over-real-sociedad-4333186
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 05:31:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/barcelona-reclaim-second-spot-2-0-win-over-real-sociedad-4333186
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Villa put on a thriller with late goals to draw 3-3 with Liverpool
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/villa-put-thriller-late-goals-draw-3-3-liverpool-4333171
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 05:24:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/villa-put-thriller-late-goals-draw-3-3-liverpool-4333171
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Doping-American downhiller Johnson banned 14 months for whereabouts failures
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jeAgGK0O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t145458z_1_lynxmpek4c0li_rtroptp_3_mcdonald-s-corp-pricing.jpg?itok=VtK77EDA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    2024 French GP breaks own record to become highest attended MotoGP grand prix
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/2024-french-gp-breaks-own-record-become-highest-attended-motogp-grand-prix-4332471
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:50:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/2024-french-gp-breaks-own-record-become-highest-attended-motogp-grand-prix-4332471
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MH4nnkEr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t145025z_1_lynxmpek4c0la_rtroptp_3_motor-motogp-france.jpg?itok=j7lsQXDv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Greek PM slams North Macedonian president in new name row
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/greek-pm-slams-north-macedonian-president-new-name-row-4331901
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:45:53 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/greek-pm-slams-north-macedonian-president-new-name-row-4331901
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EWBBn9Im--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7db86457badefde4c04d780baf4e645e95f429f5.jpg?itok=Rml1lRd6" width="1600"/>
   </item>
  </channel>
 </rss>
