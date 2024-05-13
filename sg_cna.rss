@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 13 May 2024 23:47:51 +0800
+   Tue, 14 May 2024 00:09:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Spain manager hopes to tune out noise of RFEF crisis ahead of Euro 2024
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/spain-manager-hopes-tune-out-noise-rfef-crisis-ahead-euro-2024-4332626
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 13 May 2024 23:57:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/spain-manager-hopes-tune-out-noise-rfef-crisis-ahead-euro-2024-4332626
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Yellen says Chinese response possible on expected US tariff action
@@ -210,10 +231,10 @@
   </item>
   <item>
    <title>
-    Intel appoints industry veteran Kevin O'Buckley to lead foundry unit
+    Intel hires industry veteran Kevin O'Buckley to head Foundry Services
    </title>
    <link>
-    https://www.channelnewsasia.com/business/intel-appoints-industry-veteran-kevin-obuckley-lead-foundry-unit-4332441
+    https://www.channelnewsasia.com/business/intel-hires-industry-veteran-kevin-obuckley-head-foundry-services-4332441
    </link>
    <description>
     <![CDATA[]]>
@@ -222,7 +243,7 @@
     Mon, 13 May 2024 22:28:28 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/intel-appoints-industry-veteran-kevin-obuckley-lead-foundry-unit-4332441
+    https://www.channelnewsasia.com/business/intel-hires-industry-veteran-kevin-obuckley-head-foundry-services-4332441
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AcvLch2H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t131744z_1_lynxmpek4c0ht_rtroptp_3_ai-startup.jpg?itok=BszwGd2u" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ukraine says it thwarted Russian bomb attacks in Kyiv on May 9
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/ukraine-says-it-thwarted-russian-bomb-attacks-kyiv-may-9-4332141
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/ukraine-says-it-thwarted-russian-bomb-attacks-kyiv-may-9-4332141
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9dEgp_SV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t130202z_1_lynxmpek4c0hc_rtroptp_3_ukraine-crisis-kyiv.jpg?itok=Ky3NzR-Q" width="1600"/>
   </item>
  </channel>
 </rss>
