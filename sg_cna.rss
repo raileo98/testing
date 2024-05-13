@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 03:29:48 +0800
+   Tue, 14 May 2024 03:42:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Georgians protest anti-NGO bill with ruling party vowing to adopt
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/georgians-protest-anti-ngo-bill-ruling-party-vowing-adopt-4331666
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 03:34:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/georgians-protest-anti-ngo-bill-ruling-party-vowing-adopt-4331666
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0nwIJzME--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t085723z_1_lynxmpek480cq_rtroptp_3_georgia-politics-protests.jpg?itok=V2OGYuPG" width="1600"/>
+  </item>
   <item>
    <title>
     Artificial intelligence hitting labour forces like a "tsunami" - IMF Chief
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WT38rjrM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t143525z_1_lynxmpek4c0kv_rtroptp_3_soccer-spain-mad-alv-preview.jpg?itok=2QWMgUmR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Intel hires industry veteran Kevin O'Buckley to head Foundry Services
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/intel-hires-industry-veteran-kevin-obuckley-head-foundry-services-4332441
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:28:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/intel-hires-industry-veteran-kevin-obuckley-head-foundry-services-4332441
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7U5Y-wHA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t142828z_1_lynxmpek4c0kj_rtroptp_3_intel-investment.jpg?itok=5hf4CHin" width="1600"/>
   </item>
  </channel>
 </rss>
