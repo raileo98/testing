@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 02:06:03 +0800
+   Tue, 14 May 2024 02:27:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Artificial intelligence hitting labour forces like a "tsunami" - IMF Chief
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/artificial-intelligence-hitting-labour-forces-tsunami-imf-chief-4332911
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 02:05:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/artificial-intelligence-hitting-labour-forces-tsunami-imf-chief-4332911
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dnLPnj_P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t180531z_1_lynxmpek4c0re_rtroptp_3_milken-conference.jpg?itok=6JZBzgCC" width="1600"/>
+  </item>
   <item>
    <title>
     Northern Ireland court blocks UK law sending migrants to Rwanda
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7U5Y-wHA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t142828z_1_lynxmpek4c0kj_rtroptp_3_intel-investment.jpg?itok=5hf4CHin" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Choice of Gan Kim Yong as DPM a 'surprise', shows emphasis on continuity in new Cabinet line-up: Analysts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lawrence-wong-handover-cabinet-gan-kim-yong-heng-swee-keat-continuity-general-election-experts-4332131
-   </link>
-   <description>
-    <![CDATA[In deciding his first Cabinet line-up, incoming Prime Minister Lawrence Wong tapped on a familiar face whom he worked closely with during the COVID-19 pandemic.]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:22:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lawrence-wong-handover-cabinet-gan-kim-yong-heng-swee-keat-continuity-general-election-experts-4332131
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gjak5aCx--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/TRS_9293~3.JPG?itok=OZL3O1rd" width="1600"/>
   </item>
  </channel>
 </rss>
