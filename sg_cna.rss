@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 05:36:23 +0800
+   Tue, 14 May 2024 05:42:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Former fixer Cohen testifies Trump told him to pay hush money
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/former-fixer-cohen-testifies-trump-told-him-pay-hush-money-4332406
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 05:37:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/former-fixer-cohen-testifies-trump-told-him-pay-hush-money-4332406
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xgzmkjNo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/4265c9eb475e57c444dbb9924474759a278f84ef.jpg?itok=YOtuTBi4" width="1600"/>
+  </item>
+  <item>
+   <title>
     Barcelona reclaim second spot with 2-0 win over Real Sociedad
    </title>
    <link>
@@ -63,10 +84,10 @@
   </item>
   <item>
    <title>
-    Villa put on a thriller with late goals to draw 3-3 with Liverpool
+    Duran to the rescue in 3-3 Villa thriller with Liverpool
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/villa-put-thriller-late-goals-draw-3-3-liverpool-4333171
+    https://www.channelnewsasia.com/sport/duran-rescue-3-3-villa-thriller-liverpool-4333171
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +96,7 @@
     Tue, 14 May 2024 05:24:15 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/villa-put-thriller-late-goals-draw-3-3-liverpool-4333171
+    https://www.channelnewsasia.com/sport/duran-rescue-3-3-villa-thriller-liverpool-4333171
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    McDonald's cooperating with Chinese regulator after reported food issues
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/mcdonalds-cooperating-chinese-regulator-after-reported-food-issues-4332491
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:54:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/mcdonalds-cooperating-chinese-regulator-after-reported-food-issues-4332491
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jeAgGK0O--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t145458z_1_lynxmpek4c0li_rtroptp_3_mcdonald-s-corp-pricing.jpg?itok=VtK77EDA" width="1600"/>
   </item>
  </channel>
 </rss>
