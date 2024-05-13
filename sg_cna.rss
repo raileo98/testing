@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 05:15:58 +0800
+   Tue, 14 May 2024 05:27:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Doping-American downhiller Johnson banned 14 months for whereabouts failures
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/doping-american-downhiller-johnson-banned-14-months-whereabouts-failures-4333141
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 05:13:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/doping-american-downhiller-johnson-banned-14-months-whereabouts-failures-4333141
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E-C0KJ4x--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t211353z_1_lynxmpek4c0uz_rtroptp_3_alpine-skiing-women.jpg?itok=O-F74F1k" width="1600"/>
+  </item>
   <item>
    <title>
     Games Global files to withdraw US IPO plan
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EWBBn9Im--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7db86457badefde4c04d780baf4e645e95f429f5.jpg?itok=Rml1lRd6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China and Cambodia to begin annual military exercise to strengthen cooperation, fight terrorism
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/china-cambodia-annual-military-exercise-golden-dragon-4332096
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 22:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/china-cambodia-annual-military-exercise-golden-dragon-4332096
-   </guid>
-   <category>
-    East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sOErXBtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/000_34gk8j2.jpg?itok=KqhFrMCs" width="1600"/>
   </item>
  </channel>
 </rss>
