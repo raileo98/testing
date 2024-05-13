@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 00:42:16 +0800
+   Tue, 14 May 2024 00:53:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Fury's father bloodied in clash with Usyk's entourage
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/furys-father-bloodied-clash-usyks-entourage-4332731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 00:48:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/furys-father-bloodied-clash-usyks-entourage-4332731
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fRjzpoF8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t164805z_1_lynxmpek4c0pr_rtroptp_3_boxing-heavyweight-fury-ngannou.jpg?itok=IifORl7Y" width="1600"/>
+  </item>
   <item>
    <title>
     Giroud to leave Milan at the end of the season
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--StFV52Mz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t131529z_1_lynxmpek4c0hs_rtroptp_3_eu-china-serbia.jpg?itok=e3P0jewW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City are a challenge but Spurs want to win, says Postecoglou
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-city-are-challenge-spurs-want-win-says-postecoglou-4332251
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 21:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-city-are-challenge-spurs-want-win-says-postecoglou-4332251
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9Yel_EX2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t133215z_1_lynxmpek4c0io_rtroptp_3_soccer-england-tot-bur-report.jpg?itok=jbDAPHSO" width="1600"/>
   </item>
  </channel>
 </rss>
