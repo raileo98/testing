@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 16:30:20 +0800
+   Tue, 14 May 2024 16:40:23 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 09:49:58 +0800
+   Tue, 14 May 2024 16:35:00 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks end with losses
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753137-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753137-20240514.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks closed slightly lower on Tuesday, even as tech giants including Alibaba and Tencent rose ahead of their earnings releases, while traders were also awaiting key US inflation data.
+
+The Hang Seng Index dropped 0.2 percent, or 41 points, to 19,073.
+
+The Shanghai Composite Index lost 0.1 percent, or 2 points, to 3,145, while the Shenzhen Composite Index added 0.4 percent, or 6 points, to 1,773. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 16:35:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks press on with gains at open
@@ -585,39 +606,6 @@ The Shanghai Composite Index slipped 0.6 percent, or 19 points, to 3,128, while 
    </description>
    <pubDate>
     Wed, 08 May 2024 16:22:13 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Toyota announces strong annual profits
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752306-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752306-20240508.htm
-   </link>
-   <description>
-    <![CDATA[Auto-giant Toyota doubled its net profit in the fiscal year that ended in March, as strong vehicles sales and a favorable exchange rate lifted results for Japan’s top carmaker.
-
-Toyota on Wednesday said its annual profit totaled 4.9 trillion yen, up from 2.45 trillion yen the year before, while its sales jumped 21 percent to 45 trillion yen. 
-
-The results exceeded Toyota’s own projection for a 4.5 trillion yen profit, as its global sales surged to 9.4 million vehicles from 8.8 million vehicles in the previous fiscal year.
-
-Sales of hybrids performed well, although Toyota stressed it was working hard to offer various kinds of electric vehicles, including battery EVs, plug-ins and fuel cell models.
-
-The company expects to sell 9.5 million vehicles during this fiscal year, with sales projected to grow in the US and the rest of Asia.
-
-Toyota said it will make key investments in areas such as research on technology in coming months to sustain long-term growth.
-
-It expects its net profit for the fiscal year through to March 2025 to decline nearly 28 percent to 3.57 trillion yen, with spending also covering investments in workers at suppliers and dealers it called “human capital.”
-
-“The latest results show that our efforts have borne fruit, but we need keep growing with the vision to become a mobility company,” Chief Executive Koji Sato told reporters. 
-
-The auto industry is undergoing a sweeping transformation away from old-style gasoline engines, especially in markets like China, where EVs dominate and some analysts say automakers like Toyota may have fallen behind. (AP)]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 15:01:07 +0800
    </pubDate>
   </item>
  </channel>
