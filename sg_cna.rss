@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 00:47:42 +0800
+   Wed, 15 May 2024 01:05:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Boeing Starliner's crew debut delayed again over spacecraft issue
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/boeing-starliners-crew-debut-delayed-again-over-spacecraft-issue-4335581
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 00:46:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/boeing-starliners-crew-debut-delayed-again-over-spacecraft-issue-4335581
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7V9JeYLF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t164622z_1_lynxmpek4d0p9_rtroptp_3_space-exploration-boeing-starliner.jpg?itok=GsuPu-y9" width="1600"/>
+  </item>
   <item>
    <title>
     Ex-fixer Cohen to face defense grilling at Trump trial
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--74pC44Fk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/vang_shuiming.png?itok=QH0cF7vA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Martinez to return as Man Utd push for European spot against Newcastle
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/martinez-return-man-utd-push-european-spot-against-newcastle-4334936
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 20:15:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/martinez-return-man-utd-push-european-spot-against-newcastle-4334936
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OVEZCNVD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t121512z_1_lynxmpek4d0gz_rtroptp_3_soccer-champions-mun-bay-preview.jpg?itok=fYZF65CC" width="1600"/>
   </item>
  </channel>
 </rss>
