@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 14:55:21 +0800
+   Tue, 14 May 2024 15:16:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rakuten logs $213 million quarterly loss as mobile losses negate fintech growth
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/rakuten-logs-213-million-quarterly-loss-mobile-losses-negate-fintech-growth-4334131
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 14:58:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/rakuten-logs-213-million-quarterly-loss-mobile-losses-negate-fintech-growth-4334131
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SkUEW82S--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t065803z_1_lynxmpek4d06m_rtroptp_3_rakuten-group-mobile.jpg?itok=GJCVRx8Q" width="1600"/>
+  </item>
   <item>
    <title>
     Right decision and right time, says Key on Anderson's retirement
@@ -290,7 +311,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CYkFMzVH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t060824z_1_lynxmpek4d05d_rtroptp_3_sony-results.jpg?itok=AgsoIKyV" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Jail for man who emailed rape threats to former employer
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/man-send-rape-sexual-threat-email-former-employer-workplace-colleagues-4333736
-   </link>
-   <description>
-    <![CDATA[Tommy Soh Han Xuen told the judge his offences were related to his gambling problem, and that he wanted to "restart (his) life" by continuing his education.]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 13:02:34 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/man-send-rape-sexual-threat-email-former-employer-workplace-colleagues-4333736
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dQlrKTWv--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021-10/freestocks-i_poqp6kcoi-unsplash.jpg?itok=zkEDvbXR" width="1600"/>
   </item>
  </channel>
 </rss>
