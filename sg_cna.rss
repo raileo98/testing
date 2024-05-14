@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 17:31:01 +0800
+   Tue, 14 May 2024 17:40:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Cases down, losses up: Hong Kong fights phone scams as amount swindled quadruples to US$101 million
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/hong-kong-police-phone-scams-government-officials-impersonation-mainland-chinese-students-4334406
+   </link>
+   <description>
+    <![CDATA[Impersonation scams accounted for the vast majority of losses, with an increase in the number of mainland Chinese students getting ensnared. One person had HK$800,000 (US$102,000) moved out of her bank account.]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 17:35:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/hong-kong-police-phone-scams-government-officials-impersonation-mainland-chinese-students-4334406
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8niqgq3n--/c_crop,h_843,w_1500,x_0,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2022/05/12/istock-1158778974.jpg?itok=vqqk6lOi" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Departing Mbappe backs good friend Dembele to become Ligue 1's best
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/departing-mbappe-backs-good-friend-dembele-become-ligue-1s-best-4334466
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 17:34:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/departing-mbappe-backs-good-friend-dembele-become-ligue-1s-best-4334466
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tOld86YG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t093456z_1_lynxmpek4d0ak_rtroptp_3_soccer-france-psg-tou-report.jpg?itok=j0CNFM9n" width="1600"/>
+  </item>
   <item>
    <title>
     US to raise tariffs on US$18 billion of China imports including chips
@@ -418,48 +460,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZIW-WNNo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t074436z_1_lynxmpek4d07o_rtroptp_3_soccer-france-ang-psg-report.jpg?itok=0g294SKr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Mumbai police open probe as billboard collapse toll hits 14
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/india-police-probe-billboard-mumbai-collapse-storm-4334116
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 15:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/india-police-probe-billboard-mumbai-collapse-storm-4334116
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VZI7nTlg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/25021eaeb91e010430d3e1d7a59025ce690b745a.jpg?itok=S1tAbAL_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Putin to visit Beijing, meet Xi this week
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 15:31:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
-   </guid>
-   <category>
-    World ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5BVYpTEy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t080927z_1_lynxmpek4709q_rtroptp_3_china-russia-putin-xi.jpg?itok=XCGC1KOk" width="1600"/>
   </item>
  </channel>
 </rss>
