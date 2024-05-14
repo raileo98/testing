@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 15:56:39 +0800
+   Tue, 14 May 2024 16:20:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    South Africa captain Kolisi has greater ambition than winning World Cups
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/south-africa-captain-kolisi-has-greater-ambition-winning-world-cups-4334276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 16:07:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/south-africa-captain-kolisi-has-greater-ambition-winning-world-cups-4334276
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hgdoB79U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t080750z_1_lynxmpek4d08c_rtroptp_3_rugby-union-worldcup-nzl-zaf.jpg?itok=Z2iJ-zOI" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Shakib named in Bangladesh T20 World Cup squad, Shanto captain
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/shakib-named-bangladesh-t20-world-cup-squad-shanto-captain-4334281
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 16:04:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/shakib-named-bangladesh-t20-world-cup-squad-shanto-captain-4334281
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--c6NrXY6A--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t080457z_1_lynxmpek4d08a_rtroptp_3_cricket-worldcup-bgd-lka.jpg?itok=dSR0abn7" width="1600"/>
+  </item>
   <item>
    <title>
     Indonesia’s PDI-P objects to President-elect Prabowo's bigger Cabinet plan which critics say is unnecessary
@@ -418,48 +460,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    ‘A rubber band snapping back’: Thailand’s cannabis U-turn a return to political middle-ground, say observers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thailand-cannabis-laws-marijuana-srettha-4333971
-   </link>
-   <description>
-    <![CDATA[Prime Minister Srettha Thavisin’s May 7 announcement of plans to put cannabis back on the narcotics list has faced opposition from businesses and even members of his ruling government, though some welcome the prospect of safeguards against foreign players.]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 14:08:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thailand-cannabis-laws-marijuana-srettha-4333971
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fFPQowk---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/05/bangkok_cannabis-7.jpg?itok=_y6pnZZT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cryptoverse: Retail traders sit out bitcoin rally
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/cryptoverse-retail-traders-sit-out-bitcoin-rally-4334021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 14:02:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/cryptoverse-retail-traders-sit-out-bitcoin-rally-4334021
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wAwf5uYv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t065223z_2_lynxmpek4d055_rtroptp_3_fintech-crypto-weekly.jpg?itok=qFj7tKvF" width="1600"/>
   </item>
  </channel>
 </rss>
