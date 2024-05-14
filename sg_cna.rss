@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 05:21:42 +0800
+   Wed, 15 May 2024 05:27:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US federal court enforces SEC's subpoena to depose Elon Musk
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-federal-court-enforces-secs-subpoena-depose-elon-musk-4336196
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 05:22:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-federal-court-enforces-secs-subpoena-depose-elon-musk-4336196
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yMeyCaOC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t212249z_2_lynxmpek4d0wj_rtroptp_3_usa-sec-musk.jpg?itok=AFJAliH0" width="1600"/>
+  </item>
   <item>
    <title>
     Haaland double puts Man City on brink of title
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eW2-hMDz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t180544z_2_lynxmpek4d0qv_rtroptp_3_alphabet-ai-chips.jpg?itok=KmhsL7dq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Blue Origin to resume space tourist flights after near 2-year pause
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/blue-origin-resume-space-tourist-flights-after-near-2-year-pause-4335711
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 01:41:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/blue-origin-resume-space-tourist-flights-after-near-2-year-pause-4335711
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
