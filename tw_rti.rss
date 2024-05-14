@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Tue, 14 May 2024 15:40:02 +0800
+   Tue, 14 May 2024 15:50:02 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,32 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [政治] 法務部：停止審判中案件  非可行使特赦權範圍
+   </title>
+   <description>
+    <![CDATA[立法院司法及法制委員會15日將邀司法院、法務部等，就總統特赦等議題進行專題報告。根據法務部今天(14日)送抵立法院的報告指出，停止審判中的案件，應非可行使特赦權的範圍，而具體個案中如有未沒收的犯罪所得，不受特赦效力影響。外傳蔡英文總統決定在520卸任前，特赦前總統陳水扁，總統府發言人林聿禪7日表示，總統府現階段的立場仍是希望確保陳水扁獲得妥善的健康照顧，並依照相關的法律規範辦理。此外，法務部7日指出，依據法務部推動刑法沒收新制的立論與正當性，已宣示新制目的是阻斷犯罪者或第三人，因僥倖享有犯罪所得利益，因此檢察官仍可向法官聲請單獨沒收海外遭扣鉅款等犯罪所得...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2205860">...more</a>]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 15:22:29 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2205860
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2205860
+   </guid>
+   <author>
+    中央社
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
+    政治
+   </category>
+   <dc:creator>
+    中央社
+   </dc:creator>
+  </item>
   <item>
    <title>
     [生活] 單週就診近1.8萬人次 腸病毒疫情估5月底達高峰 - 240514-18
@@ -78,13 +104,13 @@
     https://www.rti.org.tw/news/view/id/2205857
    </guid>
    <author>
-    採訪, 中央社
+    中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 中央社
+    中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -130,13 +156,13 @@
     https://www.rti.org.tw/news/view/id/2205855
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -156,13 +182,13 @@
     https://www.rti.org.tw/news/view/id/2205854
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -182,13 +208,13 @@
     https://www.rti.org.tw/news/view/id/2205853
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -208,13 +234,13 @@
     https://www.rti.org.tw/news/view/id/2205852
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2205851
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他
    </dc:creator>
   </item>
   <item>
@@ -260,13 +286,13 @@
     https://www.rti.org.tw/news/view/id/2205850
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2205849
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -338,13 +364,13 @@
     https://www.rti.org.tw/news/view/id/2205847
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -442,13 +468,13 @@
     https://www.rti.org.tw/news/view/id/2205842
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/2">
     財經
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -546,13 +572,13 @@
     https://www.rti.org.tw/news/view/id/2205839
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -754,13 +780,13 @@
     https://www.rti.org.tw/news/view/id/2205828
    </guid>
    <author>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 其他, 美國之音, 德國之聲, 採訪, 路透社, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 其他, 美國之音, 德國之聲, 採訪, 路透社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 其他, 美國之音, 德國之聲, 採訪, 路透社, 採訪, 中央社
+    中央社, 採訪, 中央社, 採訪, 中央社, 中央社, 中央社, 中央社, 其他, 中央社, 中央社, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 其他, 美國之音, 德國之聲, 採訪, 路透社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -787,32 +813,6 @@
    </category>
    <dc:creator>
     陳文蔚採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 傳台美海上軍演 國防部：依不預期相遇準則進行海上演練
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2023%2F08%2F31%2Fc72f3cd246511490041f3064c35936d6.jpg" width="360" alt="國防部發言人孫立方。(國防部提供)" title="國防部發言人孫立方。(國防部提供)"><br>外媒「路透社」報導，台美海軍在上月初曾舉行未公開演習。國防部發言人孫立方今(14)日說明，因海上不確定性因素非常多，為避免遭遇時形成干擾，海軍依「海上不預期相遇行動準則」，進行例行性演練。另外國防部也回應，此次並非涉及動態作業的海上操演，而是只是針對通信構連等作業進行演練。此次也不是台美船艦相遇後的首次相關演練。海上不預期相遇行動準則(The Code for Unplanned Encounters at Sea，CUES)，是指當各國海軍艦艇或航空器在不期相遇時，應採取哪些安全措施和手段減少相互干擾和不確定性、方便進行通信。...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2205827">...more</a>]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 11:19:02 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2205827
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2205827
-   </guid>
-   <author>
-    楊仁翔採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    楊仁翔採訪
    </dc:creator>
   </item>
  </channel>
