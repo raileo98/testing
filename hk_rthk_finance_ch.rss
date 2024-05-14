@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 11:40:27 +0800
+   Tue, 14 May 2024 12:01:44 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 11:15:53 +0800
+   Tue, 14 May 2024 11:44:44 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    內地股市半日偏軟
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753098-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753098-20240514.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市反覆偏軟，貴金屬、煤炭和證券股向下，雲遊戲、教育及汽車整車相關股份上升。
+
+上證綜合指數上午收市報3144點，跌3點，跌幅0.12%。
+
+深證成份指數報9672點，跌1點。
+
+創業板指數報1857點，跌3點，跌幅0.18%。]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 11:44:44 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日本財相：政府與央行就匯率問題密切合作　確保沒有摩擦
@@ -431,31 +454,6 @@ CGPI用作衡量企業之間相互收取的商品和服務價格。]]>
    </description>
    <pubDate>
     Tue, 14 May 2024 08:15:24 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    耶倫預期中方或會對美方調整關稅有重大反應
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753055-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753055-20240514.htm
-   </link>
-   <description>
-    <![CDATA[美國政府預計本周公布對某些行業的中國進口產品徵收新關稅，財長耶倫預期，北京可能會有重大反應。
-
-耶倫表示，她與其他美國官員已經向中方明確表示，可能重新調整時任總統特朗普政府徵收的關稅，令關稅更具策略性，但任何調整都會是針對性。她拒絕透露對華關稅預期變化的細節，只是說拜登政府會確保美方採取行動前，提前知會中方官員。
-
-耶倫接受傳媒訪問時又說，總統拜登認為美方做的任何事，都應該針對美方的關切，而非廣泛性，她不希望見到北京作出重大反應，但認為是有可能。
-
-耶倫重申，希望穩定美中經貿關係，不希望與中國經濟脫鈎，但必須要有公平的競爭環境。
-
-中方早前表示，美國上屆政府對華加徵301關稅，嚴重干擾正常經貿往來，違反世貿規則，美方不但不糾正錯誤做法，反而繼續將經貿問題政治化，要進一步增加關稅，是錯上加錯。中方將採取一切必要措施捍衛自身權益。]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 08:04:02 +0800
    </pubDate>
   </item>
  </channel>
