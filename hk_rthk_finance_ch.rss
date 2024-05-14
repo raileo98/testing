@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 10:40:29 +0800
+   Tue, 14 May 2024 11:01:19 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 10:01:25 +0800
+   Tue, 14 May 2024 10:55:15 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,46 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    據報沃爾瑪裁員數百人　要求部分員工改變辦公地點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753085-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753085-20240514.htm
+   </link>
+   <description>
+    <![CDATA[華爾街日報引述消息指，沃爾瑪正在裁減數百個公司職位，並要求部分員工改變辦公地點。
+
+報道指，位於達拉斯、亞特蘭大和多倫多的較小型辦公室的員工，被要求搬到其他中心樞紐，例如位於本頓維、霍博肯或南加州的總部辦公。
+
+報道又指，沃爾瑪仍將容許員工部分時間遙距工作，但大部分時間需要在辦公室。
+
+根據監管文件，截至1月底，沃爾瑪約有210萬名員工。]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 10:55:15 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股半日微升
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753081-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753081-20240514.htm
+   </link>
+   <description>
+    <![CDATA[日本股市半日微升，日經平均指數上午收市報38199點，升19點，升幅0.05%。]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 10:47:59 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     雅居樂：票據利息支付寬限期已過　無能力履行所有境外債付款義務
@@ -420,48 +460,6 @@ CGPI用作衡量企業之間相互收取的商品和服務價格。]]>
    </description>
    <pubDate>
     Tue, 14 May 2024 07:13:30 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股美國預託證券普遍較本港收市上升
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753048-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753048-20240514.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)普遍較本港收市上升。
-
-金融股方面，滙控ADR較本港收市升約0.9%，友邦升1%。
-
-至於科技股，ATMXJ的ADR較本港收市升逾1%至逾2%。]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 06:23:03 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    紐約期金收市跌逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753047-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753047-20240514.htm
-   </link>
-   <description>
-    <![CDATA[金價跌1%，市場等待美國公布關鍵的通脹數據。
-
-紐約期金收市報每盎司2343美元，跌32美元，跌幅1.3%。
-
-現貨金較早時報每盎司2336.62美元，跌幅1%。]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 06:22:48 +0800
    </pubDate>
   </item>
  </channel>
