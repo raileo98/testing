@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 07:46:42 +0800
+   Wed, 15 May 2024 07:54:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tesla to lay off an additional 601 employees in California - government notice
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tesla-lay-additional-601-employees-california-government-notice-4336496
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 07:45:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tesla-lay-additional-601-employees-california-government-notice-4336496
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yBTVDxLF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t234551z_1_lynxmpek4d0z7_rtroptp_3_tesla-layoffs.jpg?itok=au4q6dft" width="1600"/>
+  </item>
   <item>
    <title>
     Cleveland-Cliffs CEO says Nippon-US Steel deal has 'zero chance' of US approval
@@ -438,28 +459,6 @@
     Obsessions ,CNA Luxury ,Style &amp; Beauty ,Women
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--q1KRnjao--/c_crop,h_790,w_1406,x_43,y_276/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/valerio-mezzanotti-9234_gucci_cruise_collection_2025.jpg?itok=fb2yfdb6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Electric cars pile up at European ports as Chinese firms struggle to find buyers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/electric-cars-vehicles-tariffs-china-eu-us-buyers-4334361
-   </link>
-   <description>
-    <![CDATA[Chinese car makers are finding the road to succeeding in the EU slow and bumpy, says a supply chain expert.
-]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/electric-cars-vehicles-tariffs-china-eu-us-buyers-4334361
-   </guid>
-   <category>
-    Commentary ,Business ,World ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ghLKfhdq--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-02-07t033336z_1_lynxmpek1603e_rtroptp_3_china-autos-sales.jpg?itok=Zjt_6Wf_" width="1600"/>
   </item>
  </channel>
 </rss>
