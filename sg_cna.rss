@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 04:35:56 +0800
+   Wed, 15 May 2024 04:50:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Quarter of Gaza's population displaced again as fighting rages north to south
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/quarter-gazas-population-displaced-again-fighting-rages-north-south-4336071
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 04:46:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/quarter-gazas-population-displaced-again-fighting-rages-north-south-4336071
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--js3Jm6qD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/5c31f6924ffa3a47361900b9cd463200ae2e5c5c.jpg?itok=PwQ4MP_v" width="1600"/>
+  </item>
   <item>
    <title>
     Paul reaches Italian Open quarter-finals after thrashing Medvedev
@@ -206,7 +227,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_SaSXrWP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t203813z_1_lynxmpek4d0v9_rtroptp_3_mexico-byd-china.jpg?itok=3Nnpf62J" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World ,Sustainability
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--faLGk9w_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/v1/one-cms/core/ce5dce410c3b35e4497b0dd5e886f5a6e00b6c70.jpg?itok=wTnbwsr-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Bruins captain Brad Marchand out for Game 5 vs. Panthers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/bruins-captain-brad-marchand-out-game-5-vs-panthers-4335526
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 00:18:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/bruins-captain-brad-marchand-out-game-5-vs-panthers-4335526
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NBmh-RId--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t161852z_1_lynxmpek4d0oc_rtroptp_3_hockey-nhl-tor-bos.jpg?itok=iKNDx6kl" width="1600"/>
   </item>
  </channel>
 </rss>
