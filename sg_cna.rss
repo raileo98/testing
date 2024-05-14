@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 23:54:16 +0800
+   Wed, 15 May 2024 00:15:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Elon Musk's xAI nears $10 billion deal to rent Oracle's AI servers, The Information reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/elon-musks-xai-nears-10-billion-deal-rent-oracles-ai-servers-information-reports-4335486
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 00:11:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/elon-musks-xai-nears-10-billion-deal-rent-oracles-ai-servers-information-reports-4335486
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UBCQbPde--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t161135z_1_lynxmpek4d0o7_rtroptp_3_tech-ai.jpg?itok=QuShU9jd" width="1600"/>
+  </item>
+  <item>
+   <title>
     Giroud joins MLS side LAFC after three years at Milan
    </title>
    <link>
@@ -66,7 +87,7 @@
     Paret-Peintre attacks late to win Giro d'Italia stage 10
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/paret-peintre-attacks-late-win-giro-ditalia-stage-10-4335416
+    https://www.channelnewsasia.com/sport/paret-peintre-attacks-late-win-giro-stage-10-pogacar-retains-lead-4335416
    </link>
    <description>
     <![CDATA[]]>
@@ -75,7 +96,7 @@
     Tue, 14 May 2024 23:32:29 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/paret-peintre-attacks-late-win-giro-ditalia-stage-10-4335416
+    https://www.channelnewsasia.com/sport/paret-peintre-attacks-late-win-giro-stage-10-pogacar-retains-lead-4335416
    </guid>
    <category>
     Sport
@@ -105,10 +126,10 @@
   </item>
   <item>
    <title>
-    Oil dips as US data suggests inflation stickier than expected
+    Oil falls as macroeconomic woes weigh on investor sentiment
    </title>
    <link>
-    https://www.channelnewsasia.com/business/oil-dips-us-data-suggests-inflation-stickier-expected-4333451
+    https://www.channelnewsasia.com/business/oil-falls-macroeconomic-woes-weigh-investor-sentiment-4333451
    </link>
    <description>
     <![CDATA[]]>
@@ -117,7 +138,7 @@
     Tue, 14 May 2024 21:47:16 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-dips-us-data-suggests-inflation-stickier-expected-4333451
+    https://www.channelnewsasia.com/business/oil-falls-macroeconomic-woes-weigh-investor-sentiment-4333451
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Alphabet to spotlight AI innovations at developer conference
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/alphabet-spotlight-ai-innovations-developer-conference-4334751
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 19:06:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/alphabet-spotlight-ai-innovations-developer-conference-4334751
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h2z90QKF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t110603z_2_lynxmpek4d0eo_rtroptp_3_alphabet-ai.jpg?itok=goxXpMdJ" width="1600"/>
   </item>
  </channel>
 </rss>
