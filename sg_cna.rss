@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 02:15:09 +0800
+   Wed, 15 May 2024 02:27:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Koepka gets morning start to PGA Championship title defence
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/koepka-gets-morning-start-pga-championship-title-defence-4335821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 02:19:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/koepka-gets-morning-start-pga-championship-title-defence-4335821
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Israel and Egypt trade blame over Rafah Crossing closure
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-and-egypt-trade-blame-over-rafah-crossing-closure-4335606
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 02:16:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-and-egypt-trade-blame-over-rafah-crossing-closure-4335606
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QuzbZxPc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-11t090418z_1_lynxmpek4a01u_rtroptp_3_israel-palestinians-gaza-rafah.jpg?itok=_Ckfx3Dw" width="1600"/>
+  </item>
   <item>
    <title>
     Michael Schumacher's watches fetch 4 million Swiss francs at auction
@@ -417,48 +459,6 @@
     Interactives ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TZWDEcT1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/pm_lee_timeline_composite.png?itok=ITocZcqS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Glass Lewis backs two dissident candidates in board fight with Crown Castle
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/glass-lewis-backs-two-dissident-candidates-board-fight-crown-castle-4335146
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 21:44:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/glass-lewis-backs-two-dissident-candidates-board-fight-crown-castle-4335146
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Amazon's cloud unit chief to step down after three years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/amazons-cloud-unit-chief-step-down-after-three-years-4335121
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 21:33:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amazons-cloud-unit-chief-step-down-after-three-years-4335121
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
