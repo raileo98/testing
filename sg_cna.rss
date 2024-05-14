@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 19:18:23 +0800
+   Tue, 14 May 2024 19:24:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Shopee-owner Sea tops quarterly revenue estimates on e-commerce strength
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/shopee-owner-sea-tops-quarterly-revenue-estimates-e-commerce-strength-4334811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 19:23:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/shopee-owner-sea-tops-quarterly-revenue-estimates-e-commerce-strength-4334811
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--u3tS5vZl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t112333z_1_lynxmpek4d0fi_rtroptp_3_sea-southeast-asia-tech.jpg?itok=-jyz9ZAc" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Rheinmetall's civil unit suffered cyberattack that cost $10 million
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/rheinmetalls-civil-unit-suffered-cyberattack-cost-10-million-4334801
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 19:14:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/rheinmetalls-civil-unit-suffered-cyberattack-cost-10-million-4334801
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WiVVNy_i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t111438z_1_lynxmpek4d0fa_rtroptp_3_ukraine-crisis-rheinmetall.jpg?itok=mTdSt_Qm" width="1600"/>
+  </item>
   <item>
    <title>
     TSMC says ASML High NA EUV machine not necessary for A16 node
@@ -294,27 +336,6 @@
   </item>
   <item>
    <title>
-    Favourite books, leadership style and managing dissent: Highlights from Lawrence Wong’s interview before becoming PM
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lawrence-wong-next-prime-minister-interview-highlights-4333776
-   </link>
-   <description>
-    <![CDATA[Deputy Prime Minister and Prime Minister-to-be Lawrence Wong said that Singaporeans saw glimpses of his leadership during COVID-19 and during recent Budgets.]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 18:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lawrence-wong-next-prime-minister-interview-highlights-4333776
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LmBiA3yu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/1000032431.jpg?itok=cJ8SzLr_" width="1600"/>
-  </item>
-  <item>
-   <title>
     4G leaders 'prepared to re-examine all assumptions', says Lawrence Wong ahead of PM handover
    </title>
    <link>
@@ -333,6 +354,27 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aKB52zc3--/c_crop,h_784,w_1393,x_1,y_79/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/lawrence_wong_10_may_interview_close_up.jpg?itok=BGnFOyqE" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Favourite books, leadership style and managing dissent: Highlights from Lawrence Wong’s interview before becoming PM
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lawrence-wong-next-prime-minister-interview-highlights-4333776
+   </link>
+   <description>
+    <![CDATA[Deputy Prime Minister and Prime Minister-to-be Lawrence Wong said that Singaporeans saw glimpses of his leadership during COVID-19 and during recent Budgets.]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 18:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lawrence-wong-next-prime-minister-interview-highlights-4333776
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LmBiA3yu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/1000032431.jpg?itok=cJ8SzLr_" width="1600"/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--af7nLD8c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t094506z_1_lynxmpek4d0b2_rtroptp_3_waymo-recall.jpg?itok=uWnggH94" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US military aid 'on its way', Blinken tells Ukraine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/us-military-aid-its-way-antony-blinken-ukraine-4334046
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 17:43:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/us-military-aid-its-way-antony-blinken-ukraine-4334046
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HZO7gjEP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t084349z_2_lynxmpek4d099_rtroptp_3_ukraine-crisis-usa-blinken.jpg?itok=dwyy1b7Z" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cases down, losses up: Hong Kong fights phone scams as amount swindled quadruples to US$101 million
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/hong-kong-police-phone-scams-government-officials-impersonation-mainland-chinese-students-4334406
-   </link>
-   <description>
-    <![CDATA[Impersonation scams accounted for the vast majority of losses, with an increase in the number of mainland Chinese students getting ensnared. One person had HK$800,000 (US$102,000) moved out of her bank account.]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 17:35:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/hong-kong-police-phone-scams-government-officials-impersonation-mainland-chinese-students-4334406
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8niqgq3n--/c_crop,h_843,w_1500,x_0,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2022/05/12/istock-1158778974.jpg?itok=vqqk6lOi" width="1600"/>
   </item>
  </channel>
 </rss>
