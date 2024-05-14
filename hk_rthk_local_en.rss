@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 11:20:47 +0800
+   Tue, 14 May 2024 11:40:28 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 11:15:30 +0800
+   Tue, 14 May 2024 11:35:39 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Two Hongkongers injured in helicopter tour
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753097-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753097-20240514.htm
+   </link>
+   <description>
+    <![CDATA[Three people were injured on Monday after a sightseeing helicopter to Mount Aso, an active volcano in Japan, needed to make an emergency landing due to an engine failure mid-flight. 
+
+A Japanese pilot and two Hong Kong tourists were on tour to the Aso Nakadake Crater in Kumamoto prefecture, when the incident occurred at noon during its return to base. 
+
+The helicopter's engine failed and an emergency landing was made on a grassy field near the mountainous area, where all three were sent conscious to hospital for treatment. 
+
+The Immigration Department has followed up the case with the Office of the Commissioner of the Ministry of Foreign Affairs and the Chinese Consulate in Fukuoka to provide assistance.]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 11:35:39 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Teacher fails to return after mainland study tour: EDB
@@ -667,29 +690,6 @@ The powerlifting and weightlifting association has submitted a report to the Spo
    </description>
    <pubDate>
     Sun, 12 May 2024 12:39:07 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Police arrest son in Yuen Long murder case
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752803-20240511.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752803-20240511.htm
-   </link>
-   <description>
-    <![CDATA[Police on Saturday arrested a 32-year-old man in Yuen Long on suspicion of murdering his 50-year-old father.
-
-Officers were called to a flat on Ping Fai Path shortly after 1am on reports that a man had collapsed. The victim was rushed to unconscious to Pok Oi Hospital with head injuries and was declared dead at about 2.30am.
-
-Officers said initial investigations indicated that the victim had a dispute with his son, during which he was attacked. Police arrested a suspect at the scene. He was detained for inquiries.
-
-Both the father and son are said to be non-ethnic Chinese. A post-mortem is to take place to determine the cause of death. The Yuen Long district crime squad is investigating.]]>
-   </description>
-   <pubDate>
-    Sat, 11 May 2024 23:49:17 +0800
    </pubDate>
   </item>
  </channel>
