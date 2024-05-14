@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 16:20:22 +0800
+   Tue, 14 May 2024 16:33:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    LTA refutes online claims of ERP 2.0 on-board unit not complying with international standards
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lta-erp-board-unit-international-standards-4334141
+   </link>
+   <description>
+    <![CDATA[The new ERP 2.0 on-board units - which have received criticism from motorists - meet the relevant global benchmarks, said the Land Transport Authority.]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 16:24:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lta-erp-board-unit-international-standards-4334141
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yj1AmiKx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/10/23/dsc_6779.jpg?itok=g21fkzku" width="1600"/>
+  </item>
   <item>
    <title>
     South Africa captain Kolisi has greater ambition than winning World Cups
@@ -169,7 +190,7 @@
   </item>
   <item>
    <title>
-    China says Russian leader Vladimir Putin to visit this week
+    Putin to visit Beijing, meet Xi this week
    </title>
    <link>
     https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
@@ -184,7 +205,28 @@
     https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
    </guid>
    <category>
-    World
+    World ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5BVYpTEy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t080927z_1_lynxmpek4709q_rtroptp_3_china-russia-putin-xi.jpg?itok=XCGC1KOk" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Putin to visit Beijing, meet Xi this week
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 15:31:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
+   </guid>
+   <category>
+    World ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5BVYpTEy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t080927z_1_lynxmpek4709q_rtroptp_3_china-russia-putin-xi.jpg?itok=XCGC1KOk" width="1600"/>
   </item>
@@ -413,48 +455,6 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/apple-supplier-foxconns-q1-profit-jumps-72-misses-forecasts-4334096
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Gauff says tweaked serve needs time to take off
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/gauff-says-tweaked-serve-needs-time-take-4334066
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 14:15:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/gauff-says-tweaked-serve-needs-time-take-4334066
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Sony posts 7% fall in annual profit, narrowly misses PS5 target
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sony-posts-7-fall-annual-profit-narrowly-misses-ps5-target-4334036
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 14:08:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sony-posts-7-fall-annual-profit-narrowly-misses-ps5-target-4334036
    </guid>
    <category>
     Business
