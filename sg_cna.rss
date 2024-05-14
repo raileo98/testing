@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 16:33:23 +0800
+   Tue, 14 May 2024 16:40:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    TSMC says work on European plant on track to start in fourth quarter
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tsmc-says-work-european-plant-track-start-fourth-quarter-4334316
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 16:29:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tsmc-says-work-european-plant-track-start-fourth-quarter-4334316
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lSs7JaHe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t082943z_1_lynxmpek4d08x_rtroptp_3_tsmc-results.jpg?itok=YTzBEQeu" width="1600"/>
+  </item>
   <item>
    <title>
     LTA refutes online claims of ERP 2.0 on-board unit not complying with international standards
@@ -232,10 +253,10 @@
   </item>
   <item>
    <title>
-    Rakuten logs $213 million quarterly loss as mobile losses negate fintech growth
+    Rakuten logs 15th quarter of losses on mobile woes despite record financial unit profit
    </title>
    <link>
-    https://www.channelnewsasia.com/business/rakuten-logs-213-million-quarterly-loss-mobile-losses-negate-fintech-growth-4334131
+    https://www.channelnewsasia.com/business/rakuten-logs-15th-quarter-losses-mobile-woes-despite-record-financial-unit-profit-4334131
    </link>
    <description>
     <![CDATA[]]>
@@ -244,7 +265,7 @@
     Tue, 14 May 2024 14:58:03 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/rakuten-logs-213-million-quarterly-loss-mobile-losses-negate-fintech-growth-4334131
+    https://www.channelnewsasia.com/business/rakuten-logs-15th-quarter-losses-mobile-woes-despite-record-financial-unit-profit-4334131
    </guid>
    <category>
     Business
@@ -439,27 +460,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fFQ_LGJ_--/c_crop,h_632,w_1125,x_1,y_48/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/KEL_2791.jpg?itok=GlJxa0Ri" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Apple supplier Foxconn's Q1 profit jumps 72% but misses forecasts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/apple-supplier-foxconns-q1-profit-jumps-72-misses-forecasts-4334096
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 14:23:38 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/apple-supplier-foxconns-q1-profit-jumps-72-misses-forecasts-4334096
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
