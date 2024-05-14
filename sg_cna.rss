@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 21:18:31 +0800
+   Tue, 14 May 2024 21:26:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Lee Hsien Loong: 20 years as Prime Minister and almost a lifetime in the public eye
+   </title>
+   <link>
+    https://www.channelnewsasia.com/interactives/pm-lee-hsien-loong-career-achievements-lookback-4317261
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 21:24:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/interactives/pm-lee-hsien-loong-career-achievements-lookback-4317261
+   </guid>
+   <category>
+    Interactives ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TZWDEcT1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/pm_lee_timeline_composite.png?itok=ITocZcqS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Lee Hsien Loong: 20 years as Prime Minister and almost a lifetime in the public eye
+   </title>
+   <link>
+    https://www.channelnewsasia.com/interactives/pm-lee-hsien-loong-career-achievements-lookback-4317261
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 21:24:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/interactives/pm-lee-hsien-loong-career-achievements-lookback-4317261
+   </guid>
+   <category>
+    Interactives ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TZWDEcT1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/pm_lee_timeline_composite.png?itok=ITocZcqS" width="1600"/>
+  </item>
   <item>
    <title>
     PSG already preparing for Coupe de France final, says Luis Enrique
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qUulZKUg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t102645z_1_lynxmpek4d0cy_rtroptp_3_soccer-euro-germany.jpg?itok=UoiwNTxd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Arsenal women to play 11 home matches at Emirates next season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/arsenal-women-play-11-home-matches-emirates-next-season-4334611
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 18:19:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/arsenal-women-play-11-home-matches-emirates-next-season-4334611
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zYcVFiCD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t101932z_1_lynxmpek4d0ch_rtroptp_3_soccer-england-ars-bsc-report.jpg?itok=ZftFnPTX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore must pursue national interests in consistent, principled manner: DPM Lawrence Wong
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lawrence-wong-foreign-policy-geopolitics-us-china-national-interest-singapore-4331481
-   </link>
-   <description>
-    <![CDATA[Amid geopolitical currents, Singapore can tap on its position as a trusted player in the Southeast Asian region, says Lawrence Wong ahead of his May 15 swearing-in as Singapore's next Prime Minister. ]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 18:01:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lawrence-wong-foreign-policy-geopolitics-us-china-national-interest-singapore-4331481
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--j1Nl2DMD--/c_crop,h_792,w_1409,x_139,y_203/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/lawrence_wong_10_may_interview_speaking_with_journalists.jpg?itok=MJJ4vMi_" width="1600"/>
   </item>
  </channel>
 </rss>
