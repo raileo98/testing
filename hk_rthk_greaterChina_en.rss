@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 19:01:18 +0800
+   Tue, 14 May 2024 19:10:22 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 16:21:08 +0800
+   Tue, 14 May 2024 19:07:13 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US raises tariffs on Chinese imports
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753163-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753163-20240514.htm
+   </link>
+   <description>
+    <![CDATA[China has spoken out against a move by the United States to hike tariffs on US$18 billion worth of Chinese imports such as electric vehicles (EVs), advanced batteries, solar cells, steel, aluminium and medical equipment.
+
+The tariffs are to be phased in over the next three years, with those that take effect in 2024 covering EVs, solar cells, syringes, needles, steel and aluminium and more. 
+
+The tariff rate on EVs is set to quadruple to 100 percent this year, the White House said.
+
+Tariffs for semiconductors, meanwhile, will double from 25 percent to 50 percent by next year.
+
+The action is aimed at encouraging China to "eliminate its unfair trade practices regarding technology transfer, intellectual property, and innovation," the White House said in a statement.
+
+The Foreign Ministry said it's against unilateral tariff hikes in violation of World Trade Organisation rules.
+
+China "will take all necessary measures to safeguard its legitimate rights and interests", spokesman Wang Wenbin said.
+
+Xinhua News Agency described it as "a protectionist move widely believed to imperil the American ambition to enhance competitiveness and slash carbon emissions".
+
+The tariffs come in the middle of a heated campaign between US President Joe Biden and his Republican predecessor, Donald Trump, in which both candidates are vying to show who's tougher on China. (Agencies)]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 19:07:13 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Putin to visit China this week
@@ -645,35 +678,6 @@ Last updated: 2024-05-06 HKT 15:46]]>
    </description>
    <pubDate>
     Mon, 06 May 2024 14:05:27 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Xi Jinping touches down in Paris for official visit
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1751904-20240505.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1751904-20240505.htm
-   </link>
-   <description>
-    <![CDATA[Sino-French relations over the past 60 years have been at the forefront of China's ties with major Western countries, setting a good example for the international community of peaceful coexistence and win-win cooperation between countries with different systems, President Xi Jinping said on Sunday as he arrived in France for a state visit.
-
-French Prime Minister, Gabriel Attal, met Xi at the airport at the start of his first visit to a European Union country in five years.  
-
-In a written speech, Xinhua reported that Xi also described Sino-French relations as a model of peaceful coexistence and win-win cooperation between countries with different systems. 
-
-Xinhua quoted the president as saying the development of China-France ties brings benefits to the two peoples and injected stability, positive energy into a turbulent world.
-
-Xi also said China was ready to consolidate traditional friendship, enhance political mutual trust, build strategic consensus and deepen exchanges and cooperation in various fields with France through the visit. 
-
-Xi is expected to meet the French president, Emmanuel Macron, and the president of the European Commission, Ursula von der Leyen on his trip. 
-
-During his European visit, Xi will also visit Hungary and Serbia.]]>
-   </description>
-   <pubDate>
-    Sun, 05 May 2024 22:29:47 +0800
    </pubDate>
   </item>
  </channel>
