@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 06:35:36 +0800
+   Wed, 15 May 2024 06:45:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Massive manhunt after French prison officers killed, inmate escapes in ambush
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/massive-manhunt-france-inmate-escapes-prison-officers-killed-4335111
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 06:44:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/massive-manhunt-france-inmate-escapes-prison-officers-killed-4335111
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ruftmbor--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/50b6bf3d49dbbde6c3491b6e0de20f05363c2109.jpg?itok=EcxvPH6q" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Top-ranked Scheffler getting advice on how to be number one dad at PGA
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/top-ranked-scheffler-getting-advice-how-be-number-one-dad-pga-4336366
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 06:36:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/top-ranked-scheffler-getting-advice-how-be-number-one-dad-pga-4336366
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZOsQhBoj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t223623z_1_lynxmpek4d0y0_rtroptp_3_golf.jpg?itok=GM8ym77t" width="1600"/>
+  </item>
   <item>
    <title>
     Job not done, warns Guardiola, as City edge towards title
@@ -421,48 +463,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yMeyCaOC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t212249z_2_lynxmpek4d0wj_rtroptp_3_usa-sec-musk.jpg?itok=AFJAliH0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Haaland double puts Man City on brink of title
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/haaland-double-puts-man-city-brink-title-4336161
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 05:11:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/haaland-double-puts-man-city-brink-title-4336161
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    These branded residential developments offer the best of luxury living with exclusive hotel perks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/obsessions/branded-residential-developments-hotel-residences-investment-asia-4331641
-   </link>
-   <description>
-    <![CDATA[A private club with a waitlist, personal chefs, private club privileges and baby-sitting services on top of returns on investment are some perks that these hotel residences offer buyers.  ]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 04:55:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/obsessions/branded-residential-developments-hotel-residences-investment-asia-4331641
-   </guid>
-   <category>
-    Obsessions ,CNA Luxury ,Living ,Remarkable Living ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HuVBRleK--/c_crop,h_843,w_1500,x_0,y_244/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/hero_regent_residences_phu_quoc_four_bedroom_beach_pool_villa_branded_residential_developments_hotel_residences_investment_asia.jpg?itok=sZTFQu69" width="1600"/>
   </item>
  </channel>
 </rss>
