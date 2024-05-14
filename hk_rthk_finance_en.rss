@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 09:40:28 +0800
+   Tue, 14 May 2024 10:10:22 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 04:20:58 +0800
+   Tue, 14 May 2024 09:49:58 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks press on with gains at open
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753073-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753073-20240514.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks extended gains at the open Tuesday on investor optimism over upcoming earnings from Chinese tech giants, while traders also awaited the release of US inflation data.
+
+The Hang Seng Index rose 0.4 percent, or 88 points, to 19,203.
+
+The Shanghai Composite Index was marginally higher, inching up 0.83 points to 3,148.85, while the Shenzhen Composite Index added 0.1 percent, or 2 points, to 1,768. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 09:49:58 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US market pauses ahead of key inflation figure
@@ -597,27 +618,6 @@ The auto industry is undergoing a sweeping transformation away from old-style ga
    </description>
    <pubDate>
     Wed, 08 May 2024 15:01:07 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks resume gains in early trading
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752254-20240508.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752254-20240508.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong edged back up at the open Wednesday, the day after a small drop that broke a 10-day winning streak, while investors assess the outlook for US interest rates after last week's US jobs data.
-
-The Hang Seng Index added 0.17 percent to 18,511.
-
-The Shanghai Composite Index dipped 0.20 percent to 3,141, while the Shenzhen Composite Index on the mainland's second exchange fell 0.32 percent to 1,791. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 08 May 2024 09:51:24 +0800
    </pubDate>
   </item>
  </channel>
