@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 07:06:20 +0800
+   Wed, 15 May 2024 07:18:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ship that hit Maryland bridge had lost power several times, investigators say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/cargo-ship-dali-baltimore-francis-scott-key-bridge-lost-electrical-power-several-times-4336401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 07:17:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/cargo-ship-dali-baltimore-francis-scott-key-bridge-lost-electrical-power-several-times-4336401
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--K_Pkldzc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t162854z_1_lynxmpek4c0ox_rtroptp_3_maryland-incident.jpg?itok=jRa3Ad7P" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Digital bank Chime debuts advance wage product ahead of anticipated IPO
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/digital-bank-chime-debuts-advance-wage-product-ahead-anticipated-ipo-4336431
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 07:04:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/digital-bank-chime-debuts-advance-wage-product-ahead-anticipated-ipo-4336431
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4ND4rXRA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t230428z_1_lynxmpek4d0yc_rtroptp_3_chime-ipo.jpg?itok=Y5EwrLI6" width="1600"/>
+  </item>
   <item>
    <title>
     Angry Postecoglou blasts Tottenham's fragile foundations
@@ -421,48 +463,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---6TAINO3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t213556z_1_lynxmpek4d0wq_rtroptp_3_china-markets-msci.jpg?itok=xg0hcV_B" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City can 'make history' with fourth consecutive Premier League: Rodri
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-city-can-make-history-fourth-consecutive-premier-league-rodri-4336211
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 05:35:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-city-can-make-history-fourth-consecutive-premier-league-rodri-4336211
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uLVwPlrU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/34bc73915c595bac256dc99d7668ba18c21db9b2.jpg?itok=f3XPCImk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nasdaq ends at record high ahead of US consumer inflation data
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/nasdaq-ends-record-high-ahead-us-consumer-inflation-data-4336221
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 05:31:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nasdaq-ends-record-high-ahead-us-consumer-inflation-data-4336221
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cyiaeK55--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-03t181749z_1_lynxmpek420ku_rtroptp_3_usa-stocks-fed.jpg?itok=wNFeDTW5" width="1600"/>
   </item>
  </channel>
 </rss>
