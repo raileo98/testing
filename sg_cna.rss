@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 03:06:12 +0800
+   Wed, 15 May 2024 03:18:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Unpredictable Spieth eyes Grand Slam at PGA Championship
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/unpredictable-spieth-eyes-grand-slam-pga-championship-4335921
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 03:12:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/unpredictable-spieth-eyes-grand-slam-pga-championship-4335921
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3JQPLoRm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t191243z_1_lynxmpek4d0t7_rtroptp_3_golf-pgachamp.jpg?itok=cTS19dH3" width="1600"/>
+  </item>
+  <item>
+   <title>
+    TikTok creators file suit to block US divestment or ban law
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tiktok-creators-file-suit-block-us-divestment-or-ban-law-4335916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 03:07:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tiktok-creators-file-suit-block-us-divestment-or-ban-law-4335916
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wK2GoM3V--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t190736z_2_lynxmpek4d0t0_rtroptp_3_usa-tiktok-creators.jpg?itok=gVHr8v9h" width="1600"/>
+  </item>
   <item>
    <title>
     BYD to nail down Mexico plant site by year-end, Americas head says
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--28WkweCT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t005552z_2_lynxmpek4d00z_rtroptp_3_global-oil.jpg?itok=KVII1wIZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    European spot will make Chelsea's season, Pochettino says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/european-spot-will-make-chelseas-season-pochettino-says-4335151
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 21:46:54 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/european-spot-will-make-chelseas-season-pochettino-says-4335151
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eMkekaBi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t134654z_1_lynxmpek4d0jg_rtroptp_3_soccer-england-brh-che-preview.jpg?itok=h4U_8lLy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Lee Hsien Loong: 20 years as Prime Minister and almost a lifetime in the public eye
-   </title>
-   <link>
-    https://www.channelnewsasia.com/interactives/pm-lee-hsien-loong-career-achievements-lookback-4335141
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 21:46:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/interactives/pm-lee-hsien-loong-career-achievements-lookback-4335141
-   </guid>
-   <category>
-    Interactives ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TZWDEcT1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/pm_lee_timeline_composite.png?itok=ITocZcqS" width="1600"/>
   </item>
  </channel>
 </rss>
