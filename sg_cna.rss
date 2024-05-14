@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 23:39:14 +0800
+   Tue, 14 May 2024 23:45:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Giroud joins MLS side LAFC after three years at Milan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/giroud-joins-mls-side-lafc-after-three-years-milan-4335421
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 23:35:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/giroud-joins-mls-side-lafc-after-three-years-milan-4335421
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V-k8zvuS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t153552z_1_lynxmpek4d0n1_rtroptp_3_soccer-italy-mil-gen-report.jpg?itok=OSb-UjUt" width="1600"/>
+  </item>
   <item>
    <title>
     Paret-Peintre attacks late to win Giro d'Italia stage 10
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h2z90QKF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t110603z_2_lynxmpek4d0eo_rtroptp_3_alphabet-ai.jpg?itok=goxXpMdJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Vunipola to leave Saracens at end of season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/vunipola-leave-saracens-end-season-4334756
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 19:04:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/vunipola-leave-saracens-end-season-4334756
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4P3AIPMJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t110414z_1_lynxmpek4d0em_rtroptp_3_rugby-union-england-vunipola.jpg?itok=kOd0m4B5" width="1600"/>
   </item>
  </channel>
 </rss>
