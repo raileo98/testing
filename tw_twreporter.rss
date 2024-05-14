@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Mon, 13 May 2024 17:00:03 GMT
+   Tue, 14 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    【投書】水文與氣候科學在法庭匯流──豐坪溪水力開發的環境影響辯證
+   </title>
+   <description>
+    <![CDATA[25年前通過環評、至今尚未施作主工程的世豐水力電廠，如今要重新開工，卻不需再行評估環境影響。究竟現在的水文環境是否較當年有所變異？針對這類長期停工的「殭屍開發案」，現行的監督機制合理嗎？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/opinion-feng-ping-river-hydroelectric-power-plant
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/opinion-feng-ping-river-hydroelectric-power-plant
+   </guid>
+   <pubDate>
+    Mon, 13 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240513171326-e4a521c796f5f2c56eb4c9f555b19fa2-mobile.jpg"/>
+  </item>
   <item>
    <title>
     8年併網面積僅18%，「不利耕作區」推動難關揭台灣地面型光電困局
@@ -195,24 +213,6 @@
     Sun, 05 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240502234522-8ea4cc96f0a082c9ed85bd25f65b0082-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    陳佳琦／我只有拍下來的動作，沒有其他──《臺北道》林國彰的攝影道
-   </title>
-   <description>
-    <![CDATA[入行40幾年，《臺北道》是攝影師林國彰第一本攝影集，是他對城市的凝望。對於攝影隱喻的歷史感，他說：「我只是拍下那個當下，然後放著過了10年、20年，讓另外一張照片來取代它。我只有拍下來的動作，沒有其他了。」]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/photo-taipei-dao-2014-2023-lin-guo-chang-interview
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/photo-taipei-dao-2014-2023-lin-guo-chang-interview
-   </guid>
-   <pubDate>
-    Sat, 04 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240430090634-58a0b2ffa679ea9388cd57d7c3f65969-mobile.jpg"/>
   </item>
  </channel>
 </rss>
