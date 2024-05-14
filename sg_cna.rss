@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 17:40:35 +0800
+   Tue, 14 May 2024 17:51:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US opens probe into Alphabet's Waymo over performance of self-driving vehicles
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-opens-probe-alphabets-waymo-over-performance-self-driving-vehicles-4334491
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 17:45:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-opens-probe-alphabets-waymo-over-performance-self-driving-vehicles-4334491
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--af7nLD8c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t094506z_1_lynxmpek4d0b2_rtroptp_3_waymo-recall.jpg?itok=uWnggH94" width="1600"/>
+  </item>
+  <item>
+   <title>
+    US military aid 'on its way', Blinken tells Ukraine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-military-aid-its-way-antony-blinken-ukraine-4334046
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 17:43:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-military-aid-its-way-antony-blinken-ukraine-4334046
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HZO7gjEP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t084349z_2_lynxmpek4d099_rtroptp_3_ukraine-crisis-usa-blinken.jpg?itok=dwyy1b7Z" width="1600"/>
+  </item>
   <item>
    <title>
     Cases down, losses up: Hong Kong fights phone scams as amount swindled quadruples to US$101 million
@@ -240,7 +282,7 @@
     <![CDATA[The Infocomm Media Development Authority aims to launch the green data centre roadmap later this month. ]]>
    </description>
    <pubDate>
-    Tue, 14 May 2024 17:00:50 +0800
+    Tue, 14 May 2024 17:00:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sustainability/data-centres-green-sustainability-roadmap-digital-demands-technology-4334226
@@ -261,7 +303,7 @@
     <![CDATA[The Infocomm Media Development Authority aims to launch the green data centre roadmap later this month. ]]>
    </description>
    <pubDate>
-    Tue, 14 May 2024 17:00:50 +0800
+    Tue, 14 May 2024 17:00:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sustainability/data-centres-green-sustainability-roadmap-digital-demands-technology-4334226
@@ -418,48 +460,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bXDciN7p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/21/Prabowo%20and%20Megawati.jpg?itok=bxvca4uD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    IOC bids to boost visibility of qualifying events
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/ioc-bids-boost-visibility-qualifying-events-4334246
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 15:49:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/ioc-bids-boost-visibility-qualifying-events-4334246
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Kurzawa to leave PSG after nine years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/kurzawa-leave-psg-after-nine-years-4334236
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 15:44:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/kurzawa-leave-psg-after-nine-years-4334236
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZIW-WNNo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t074436z_1_lynxmpek4d07o_rtroptp_3_soccer-france-ang-psg-report.jpg?itok=0g294SKr" width="1600"/>
   </item>
  </channel>
 </rss>
