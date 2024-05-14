@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 05:47:49 +0800
+   Wed, 15 May 2024 05:57:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Serena Williams to host 2024 ESPYs in July
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/serena-williams-host-2024-espys-july-4336281
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 05:53:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/serena-williams-host-2024-espys-july-4336281
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Vinicius double helps Real to 5-0 win over Alaves
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/vinicius-double-helps-real-5-0-win-over-alaves-4336286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 05:48:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/vinicius-double-helps-real-5-0-win-over-alaves-4336286
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     MSCI publishes quarterly index review results
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wK2GoM3V--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t190736z_2_lynxmpek4d0t0_rtroptp_3_usa-tiktok-creators.jpg?itok=gVHr8v9h" width="1600"/>
-  </item>
-  <item>
-   <title>
-    BYD to nail down Mexico plant site by year-end, Americas head says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/byd-nail-down-mexico-plant-site-year-end-americas-head-says-4335881
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 02:39:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/byd-nail-down-mexico-plant-site-year-end-americas-head-says-4335881
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_SaSXrWP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t203813z_1_lynxmpek4d0v9_rtroptp_3_mexico-byd-china.jpg?itok=3Nnpf62J" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Koepka gets morning start to PGA Championship title defence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/koepka-gets-morning-start-pga-championship-title-defence-4335821
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 02:19:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/koepka-gets-morning-start-pga-championship-title-defence-4335821
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
