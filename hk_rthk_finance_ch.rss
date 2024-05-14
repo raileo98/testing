@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 14 May 2024 15:20:04 +0800
+   Tue, 14 May 2024 15:30:46 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 14 May 2024 14:45:07 +0800
+   Tue, 14 May 2024 15:24:08 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬深股市微跌收市
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753125-20240514.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753125-20240514.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市微跌收市，房地產、煤炭、燃氣股受壓，遊戲、教育、汽車整車股造好。
+
+上證指數收報3145點，跌2點，跌幅0.07%。
+
+深證成份指數報9668點，跌4點，跌幅0.05%。
+
+創業板指數報1855點，跌4點，跌幅0.26%。]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 15:24:08 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     韓股全日微升3點
@@ -443,23 +466,6 @@ IMF理事會發表的聲明指，考慮到通脹形勢面臨的風險均衡，�
    </description>
    <pubDate>
     Tue, 14 May 2024 09:25:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人民幣兌美元中間價跌23點子　創兩星期新低
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753066-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753066-20240514.htm
-   </link>
-   <description>
-    <![CDATA[人民幣中間價報7.1053兌1美元，較上日下跌23點子，創兩星期新低。]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 09:23:20 +0800
    </pubDate>
   </item>
  </channel>

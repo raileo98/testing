@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 14 May 2024 15:21:37 +0800
+   Tue, 14 May 2024 15:32:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China says Russian leader Vladimir Putin to visit this week
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 14 May 2024 15:31:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-putin-visit-china-xi-jinping-4334201
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5BVYpTEy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-08t080927z_1_lynxmpek4709q_rtroptp_3_china-russia-putin-xi.jpg?itok=XCGC1KOk" width="1600"/>
+  </item>
   <item>
    <title>
     Rakuten logs $213 million quarterly loss as mobile losses negate fintech growth
@@ -438,27 +459,6 @@
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XBbA2RAs--/c_crop,h_900,w_1600,x_0,y_63/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/moh_swee_kee.jpg?itok=hhvuaszq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Klopp hails Liverpool's character, bids farewell to away fans
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/klopp-hails-liverpools-character-bids-farewell-away-fans-4333986
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 13:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/klopp-hails-liverpools-character-bids-farewell-away-fans-4333986
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
