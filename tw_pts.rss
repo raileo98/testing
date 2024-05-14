@@ -21,7 +21,7 @@
    en
   </language>
   <lastBuildDate>
-   Tue, 14 May 2024 12:46:21 GMT
+   Tue, 14 May 2024 13:00:27 GMT
   </lastBuildDate>
   <ttl>
    5
@@ -434,6 +434,18 @@
    <author>
     薛宜家, 謝政霖, 陳佳鑫, 陳昌維
    </author>
+   <category>
+    就醫
+   </category>
+   <category>
+    憂鬱
+   </category>
+   <category>
+    詐騙集團
+   </category>
+   <category>
+    外商公司
+   </category>
   </item>
   <item>
    <title>
@@ -492,6 +504,21 @@
    <author>
     王蕙文
    </author>
+   <category>
+    電動車
+   </category>
+   <category>
+    電動汽車
+   </category>
+   <category>
+    比亞迪
+   </category>
+   <category>
+    關稅
+   </category>
+   <category>
+    中國
+   </category>
   </item>
   <item>
    <title>
@@ -515,43 +542,61 @@
    <author>
     沈祿珮
    </author>
+   <category>
+    看板
+   </category>
+   <category>
+    孟買
+   </category>
+   <category>
+    沙塵暴
+   </category>
+   <category>
+    狂風暴雨
+   </category>
   </item>
   <item>
    <title>
-    以色列堅持攻入拉法 逾50萬巴勒斯坦人逃離成鬼城
+    OpenAI最新模型GPT-4o 可帶情緒流輰對話
    </title>
    <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F201401%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">以色列上週無視包括美國在內的國際社會警告，派遣坦克和士兵進入拉法東部。儘管以軍先前已對拉法平民下了疏散令，但在砲火四射、到處缺物資的情況下，很多人根本找不到棲身之處。加上商家擔心遭戰火波及，關起門不營業，許多地區已形同鬼城。</div>
-                                        <p>帶著僅存家當，驚慌的一步步往前走。隨著以色列軍隊在拉法東部對居民下了撤離令，巴勒斯坦人在加薩幾無棲身之地。</p><p>巴勒斯坦民眾表示，「我們不知該去哪裡，我們已經從一個地方流離失所到另一個地方，現在要離開，不知道去哪裡，我們就是在街上奔跑，我親眼看到了，看到坦克車和推土機就在那條街上。」</p><p>從以軍發出撤離令以來，已有高達50萬人逃離拉法。但在戰火摧殘下，加薩各地都物資短缺，包括西北部的人道主義區，都沒有能力接受大量平民湧入，巴勒斯坦人即使逃離拉法，也不知道到哪才能生存。</p><p>部分人選擇留下，面臨的卻是空蕩蕩的街道，關起門不營業的商店，以及無水可取的加水站。</p><p>拉法居民塔維爾說道，「麵包店關了，所有商店都關了，我們甚至找不到淡水來喝，這裡什麼都沒有了，沒有食物或水，什麼都沒有，過境點也關閉了。」</p><p>拉法居民迪布說，「沒有現金了，我們只是在等死。」</p><p>以軍13日則在拉法東部發動直升機襲擊，並展開巷戰；同時又狂轟加薩北部的賈巴利亞和拜特拉希亞，部分砲火甚至落在難民營中心。</p><p>而即使包括美國在內的國際社會，持續施壓以軍不要大規模進攻拉法，以色列總理納坦雅胡（Benjamin Netanyahu）13日仍強調，一定要讓哈瑪斯付出慘痛教訓。</p><p>納坦雅胡表示，「我們決心在這場戰爭中取得勝利，我們已經、而且會繼續敵人為他們的犯罪行為付出沉重的代價。」</p><p>美國國家安全顧問蘇利文指出，「我們仍然認為在拉法市中心，發起大規模軍事行動是錯誤的，這將使大量平民遭受風險，不會獲得明確的戰略效益，拜登總統很明確，如果發生這樣的行動，他不會提供某些進攻型的武器。」</p><p>白宮表示，正跟以色列商討，如何在不採取大規模地面入侵行動的情況下，消滅拉法的哈瑪斯。同時強調，以色列有考慮美國的擔憂。</p><p>同一時間，美國跟埃及、卡達的停火調解陷入停滯。埃及已經表態，將正式支持南非向國際法院提起的訴訟，也就是指控以色列在中東地區施行種族滅絕行為。</p>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F201423%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">美國OpenAI發布最新生成式AI模型GPT-4o，不僅可以判讀影像給予反饋，也能用帶有豐富情緒的語氣和人類流暢對話。不過AI科技持續引發質疑，IMF總裁日前就警告，AI恐將奪取先進經濟體6成的工作。</div>
+                                        <p>美國人工智慧公司OpenAI，13日發布性能和效率更好的AI技術GPT-4o，這項技術支援OpenAI研發的生成式AI工具ChatGPT，在文字、影像和音訊等方面，能力都有所提高。 </p><p>使用者與模型對話，「我想把你介紹給某個對象。」模型自然地對使用者的寵物說道，「哈囉小可愛，你叫什麼名字呀？小毛球？」</p><p>成功判讀影像，展現富有情緒的語氣，新模型和人類聊天自然又流暢，應答反應也讓人眼睛為之一亮。</p><p>研發人員說，「你可以針對我的呼吸方式，給我一點反饋嗎？」模型回答，「慢一點，馬克，你又不是1台吸塵器。」</p><p>OpenAI選在谷歌生成式AI聊天機器人Gemini亮相的前1天發布GPT-4o，競爭意味濃厚。</p><p>而美國科技公司Anthropic開發的Claude則進軍歐洲，號稱能理解德語、法語等多種歐洲語言，可和當地使用者進行對話。</p><p>不過，正當科技公司爭奪生成式AI霸權，人工智慧快速發展也帶來隱憂。</p><p>國際貨幣基金總裁喬治艾娃日前就指出，人工智慧正如海嘯一般衝擊勞動市場，未來2年內將影響先進經濟體6成的工作機會，及全球4成的職缺。</p><p>美國則有藝術和音樂工作者控告AI侵權，而包括《紐約時報》在內，全美有8間媒體，4月底提告OpenAI和微軟（Microsoft）未經許可竊取受版權保護的新聞文章，用來訓練AI聊天機器人。</p>
                  ]]>
    </description>
    <link>
-    https://news.pts.org.tw/article/695026
+    https://news.pts.org.tw/article/695071
    </link>
    <guid isPermaLink="false">
-    https://news.pts.org.tw/article/695026
+    https://news.pts.org.tw/article/695071
    </guid>
    <pubDate>
-    Tue, 14 May 2024 10:58:00 GMT
+    Tue, 14 May 2024 11:31:00 GMT
    </pubDate>
    <author>
-    徐婉寧
+    梁雁
    </author>
    <category>
-    拉法
+    OpenAI
    </category>
    <category>
-    巴勒斯坦
+    GPT-4
    </category>
    <category>
-    以色列
+    生成式AI
    </category>
    <category>
-    50萬
+    對話
    </category>
    <category>
-    納坦雅胡
+    模型
+   </category>
+   <category>
+    聊天機器人
+   </category>
+   <category>
+    人工智慧
    </category>
   </item>
   <image>
