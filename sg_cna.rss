@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 01:42:18 +0800
+   Wed, 15 May 2024 01:54:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Google launches Trillium chip, improving AI data center performance fivefold
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/google-launches-trillium-chip-improving-ai-data-center-performance-fivefold-4335716
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 01:43:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/google-launches-trillium-chip-improving-ai-data-center-performance-fivefold-4335716
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--52FTnunW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t174358z_1_lynxmpek4d0qv_rtroptp_3_alphabet-ai-chips.jpg?itok=G9MfnaTE" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Blue Origin to resume space tourist flights after near 2-year pause
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/blue-origin-resume-space-tourist-flights-after-near-2-year-pause-4335711
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 01:41:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/blue-origin-resume-space-tourist-flights-after-near-2-year-pause-4335711
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Eutelsat confirms guidance, with OneWeb network on track
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hQd_lTDy--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t130214z_1_lynxmpek4d0i5_rtroptp_3_soccer-france-psg-tou-report.jpg?itok=M0PEqwOx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UK summons China's ambassador over 'foreign interference' claims
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/uk-summons-chinas-ambassador-over-foreign-interference-claims-4334971
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 20:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/uk-summons-chinas-ambassador-over-foreign-interference-claims-4334971
-   </guid>
-   <category>
-    World ,East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KtBalzyC--/c_crop,h_450,w_800,x_0,y_83/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2021-09-28t152622z_1_lynxmpeh8r0v6_rtroptp_3_usa-trade-china.jpg?itok=TuLA2-Qd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UK summons China's ambassador over 'foreign interference' claims
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/uk-summons-chinas-ambassador-over-foreign-interference-claims-4334971
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 20:57:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/uk-summons-chinas-ambassador-over-foreign-interference-claims-4334971
-   </guid>
-   <category>
-    World ,East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KtBalzyC--/c_crop,h_450,w_800,x_0,y_83/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2021-09-28t152622z_1_lynxmpeh8r0v6_rtroptp_3_usa-trade-china.jpg?itok=TuLA2-Qd" width="1600"/>
   </item>
  </channel>
 </rss>
