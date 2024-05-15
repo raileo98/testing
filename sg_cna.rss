@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 03:51:32 +0800
+   Thu, 16 May 2024 04:06:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    FIA and F1 signal better relations with joint strategic plan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fia-and-f1-signal-better-relations-joint-strategic-plan-4339151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 03:54:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fia-and-f1-signal-better-relations-joint-strategic-plan-4339151
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oCClGxLs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t195400z_1_lynxmpek4e0x8_rtroptp_3_motor-f1-fia.jpg?itok=jWTS1Otu" width="1600"/>
+  </item>
   <item>
    <title>
     Despite divorce McIlroy focused on ending 10-year major drought at PGA
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Semenya determined to fight on against DSD regulations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/semenya-determined-fight-against-dsd-regulations-4338531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 23:07:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/semenya-determined-fight-against-dsd-regulations-4338531
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LWEc3FRL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t150715z_1_lynxmpek4e0px_rtroptp_3_athletics-semenya.jpg?itok=M7NM_mZr" width="1600"/>
   </item>
  </channel>
 </rss>
