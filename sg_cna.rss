@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 10:55:06 +0800
+   Wed, 15 May 2024 11:19:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Thai industrial sentiment falls in April on weak demand, wage hike plan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/thai-industrial-sentiment-falls-april-weak-demand-wage-hike-plan-4336936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 11:16:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/thai-industrial-sentiment-falls-april-weak-demand-wage-hike-plan-4336936
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S0LgM8dF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t031604z_1_lynxmpek4e03l_rtroptp_3_business-currency.jpg?itok=cD1cik-Q" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Japan Post Insurance, Daiwa Securities Group tie up in asset management
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-post-insurance-daiwa-securities-group-tie-asset-management-4336941
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 11:14:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-post-insurance-daiwa-securities-group-tie-asset-management-4336941
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zItU5KOE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t031405z_1_lynxmpek4e03e_rtroptp_3_daiwa-president.jpg?itok=hWztL3A-" width="1600"/>
+  </item>
   <item>
    <title>
     Five years after 13-0 World Cup mauling, Thai women look to future
@@ -417,48 +459,6 @@
     Style &amp; Beauty ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VE5-nBbC--/c_crop,h_900,w_1600,x_0,y_167/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/26/Clothing%20alterations%205.jpg?itok=MtqLfY1p" width="1600"/>
-  </item>
-  <item>
-   <title>
-    CNA Correspondent Podcast: What's in store for cross-strait relations ahead of incoming Taiwan president William Lai's inauguration
-   </title>
-   <link>
-    https://www.channelnewsasia.com/podcasts/taiwan-william-lai-beijing-china-president-us-4333546
-   </link>
-   <description>
-    <![CDATA[In his victory speech after president-elect William Lai won the election, the noted proponent of Taiwan's independence extended the olive branch to Beijing. ]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:24:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/podcasts/taiwan-william-lai-beijing-china-president-us-4333546
-   </guid>
-   <category>
-    Podcasts ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xEMnitkS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/15/cna%20correspondent.jpg?itok=P4hrWSxv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    CNA Correspondent Podcast: What's in store for cross-strait relations ahead of incoming Taiwan president William Lai's inauguration
-   </title>
-   <link>
-    https://www.channelnewsasia.com/podcasts/taiwan-william-lai-beijing-china-president-us-4333546
-   </link>
-   <description>
-    <![CDATA[In his victory speech after president-elect William Lai won the election, the noted proponent of Taiwan's independence extended the olive branch to Beijing. ]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:24:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/podcasts/taiwan-william-lai-beijing-china-president-us-4333546
-   </guid>
-   <category>
-    Podcasts ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xEMnitkS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/15/cna%20correspondent.jpg?itok=P4hrWSxv" width="1600"/>
   </item>
  </channel>
 </rss>
