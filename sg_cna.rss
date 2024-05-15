@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 02:25:35 +0800
+   Thu, 16 May 2024 02:33:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Palestinians mark 1948 Nakba in the shadow of war in Gaza
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/palestinians-mark-1948-nakba-shadow-war-gaza-4338401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 02:28:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/palestinians-mark-1948-nakba-shadow-war-gaza-4338401
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qgZpPqjz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t140620z_1_lynxmpek4e0nx_rtroptp_3_israel-palestinians-nakba.jpg?itok=QQtYqB7c" width="1600"/>
+  </item>
   <item>
    <title>
     US delegation to attend Taiwan inauguration as China tensions flare
@@ -417,27 +438,6 @@
     World
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    US consumer inflation eases slightly in April, in good news for Biden
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-consumer-inflation-eases-slightly-april-good-news-biden-4338281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 22:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-consumer-inflation-eases-slightly-april-good-news-biden-4338281
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rhgMZRbV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/669d67fa0785db870440757072d886e2c7c603fd.jpg?itok=NGabSoSh" width="1600"/>
   </item>
   <item>
    <title>
