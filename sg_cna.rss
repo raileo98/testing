@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 10:23:29 +0800
+   Wed, 15 May 2024 10:42:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Five years after 13-0 World Cup mauling, Thai women look to future
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/five-years-after-13-0-world-cup-mauling-thai-women-look-future-4336746
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 10:37:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/five-years-after-13-0-world-cup-mauling-thai-women-look-future-4336746
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Huawei flagship store surge in China signals showdown with Apple
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/huawei-flagship-store-surge-china-signals-showdown-apple-4336621
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 10:36:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/huawei-flagship-store-surge-china-signals-showdown-apple-4336621
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Sun cool Fever in Clark's WNBA debut
@@ -417,48 +459,6 @@
     Podcasts ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xEMnitkS--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/15/cna%20correspondent.jpg?itok=P4hrWSxv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    The chef behind Saveur and The Masses pays tribute to his hawker mum with his new restaurant
-   </title>
-   <link>
-    https://www.channelnewsasia.com/dining/chef-dylan-ong-masses-choon-hoy-parlor-4330046
-   </link>
-   <description>
-    <![CDATA[Chef Dylan Ong of casual Franco-Asian restaurant The Masses and formerly Saveur has just opened Choon Hoy Parlor in honour of his mother, a former hawker who worked three jobs to support the family.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:20:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/dining/chef-dylan-ong-masses-choon-hoy-parlor-4330046
-   </guid>
-   <category>
-    Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IbWJc5Zk--/c_crop,h_1125,w_2000,x_0,y_105/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/choon_hoy_parlour_dylan_ong_benji_chew_renee_tang_2.jpg?itok=TcxHZuBz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    The chef behind Saveur and The Masses pays tribute to his hawker mum with his new restaurant
-   </title>
-   <link>
-    https://www.channelnewsasia.com/dining/chef-dylan-ong-masses-choon-hoy-parlor-4330046
-   </link>
-   <description>
-    <![CDATA[Chef Dylan Ong of casual Franco-Asian restaurant The Masses and formerly Saveur has just opened Choon Hoy Parlor in honour of his mother, a former hawker who worked three jobs to support the family.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:20:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/dining/chef-dylan-ong-masses-choon-hoy-parlor-4330046
-   </guid>
-   <category>
-    Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IbWJc5Zk--/c_crop,h_1125,w_2000,x_0,y_105/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/choon_hoy_parlour_dylan_ong_benji_chew_renee_tang_2.jpg?itok=TcxHZuBz" width="1600"/>
   </item>
  </channel>
 </rss>
