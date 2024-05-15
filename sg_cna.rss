@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 13:51:10 +0800
+   Wed, 15 May 2024 14:06:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Amazon Web Services plans $8.4 billion cloud investment in Germany
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/amazon-web-services-plans-84-billion-cloud-investment-germany-4337211
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 14:02:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/amazon-web-services-plans-84-billion-cloud-investment-germany-4337211
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gx8v1asW--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t060229z_1_lynxmpek4e06y_rtroptp_3_amazon-com-aws-ceo.jpg?itok=eiIbLmwR" width="1600"/>
+  </item>
+  <item>
+   <title>
+    From kelong to Istana: State dinner for swearing-in ceremony to feature local produce
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lawrence-wong-prime-minister-istana-banquet-dinner-menu-local-produce-4337156
+   </link>
+   <description>
+    <![CDATA[The menu includes dishes by local hawkers, featuring home-grown produce in popiah, prawn noodles, roti john, vadai and vegetarian mee siam.]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 13:54:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lawrence-wong-prime-minister-istana-banquet-dinner-menu-local-produce-4337156
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yf-3t2aD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/istana_buffet_tandoori_fish_large_lime.jpg?itok=nmSgcXrp" width="1600"/>
+  </item>
   <item>
    <title>
     Pakistan's benchmark share index hits record high above 75,000 points
@@ -417,48 +459,6 @@
     Business ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--En-8zJGW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2cf3f431e4e8d35c870932218ef4503be56e6067.jpg?itok=7j62oMsL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US says Boeing can be prosecuted for 737 MAX crashes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-says-boeing-can-be-prosecuted-737-max-crashes-lion-air-ethiopian-airlines-4336601
-   </link>
-   <description>
-    <![CDATA[Boeing can be prosecuted for the Lion Air Flight 610 and Ethiopian Airlines Flight 302 crashes, says the US Justice Department.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 11:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-says-boeing-can-be-prosecuted-737-max-crashes-lion-air-ethiopian-airlines-4336601
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--En-8zJGW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2cf3f431e4e8d35c870932218ef4503be56e6067.jpg?itok=7j62oMsL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thai industrial sentiment falls in April on weak demand, wage hike plan
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/thai-industrial-sentiment-falls-april-weak-demand-wage-hike-plan-4336936
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 11:16:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/thai-industrial-sentiment-falls-april-weak-demand-wage-hike-plan-4336936
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S0LgM8dF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t031604z_1_lynxmpek4e03l_rtroptp_3_business-currency.jpg?itok=cD1cik-Q" width="1600"/>
   </item>
  </channel>
 </rss>
