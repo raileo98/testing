@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 23:31:14 +0800
+   Wed, 15 May 2024 23:45:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    In pictures: Swearing-in of Singapore's fourth Prime Minister Lawrence Wong
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lawrence-wong-swearing-prime-minister-istana-pictures-4338411
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 23:44:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lawrence-wong-swearing-prime-minister-istana-pictures-4338411
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OLpfZm4l--/c_crop,h_900,w_1600,x_0,y_96/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/gcm_50172_0.jpg?itok=03jSy1wr" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Anthropic taps Instagram co-founder as product chief
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/anthropic-taps-instagram-co-founder-product-chief-4338641
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 23:41:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/anthropic-taps-instagram-co-founder-product-chief-4338641
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E5-aEaKI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t154143z_1_lynxmpek4e0rd_rtroptp_3_tech-ai.jpg?itok=QbElRiqV" width="1600"/>
+  </item>
   <item>
    <title>
     Milan beats Merlier on the line to win Giro stage 11
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    'We will lead in our own way': Lawrence Wong takes office as fourth Prime Minister of Singapore
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/we-will-lead-our-own-way-lawrence-wong-takes-office-fourth-prime-minister-singapore-4338016
-   </link>
-   <description>
-    <![CDATA[Prime Minister Lawrence Wong says Singapore's fourth generation of leaders has benefited from the policies of the country's founding fathers, but will have to lead in a different style.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 21:05:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/we-will-lead-our-own-way-lawrence-wong-takes-office-fourth-prime-minister-singapore-4338016
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rL6sZCLd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/lawrence_wong_lee_hsien_loong.jpg?itok=WuBQZJW1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cerebras Systems, Aleph Alpha to supply AI to German military
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/cerebras-systems-aleph-alpha-supply-ai-german-military-4338191
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 21:03:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/cerebras-systems-aleph-alpha-supply-ai-german-military-4338191
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ai6RTtDc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t130356z_1_lynxmpek4e0l6_rtroptp_3_ai-companies-cerebras.jpg?itok=oriCXhcF" width="1600"/>
   </item>
  </channel>
 </rss>
