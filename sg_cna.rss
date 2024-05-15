@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 05:39:30 +0800
+   Thu, 16 May 2024 05:51:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Vlahovic strike sends Juventus past Atalanta in Coppa Italia final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/vlahovic-strike-sends-juventus-past-atalanta-coppa-italia-final-4339396
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 05:35:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/vlahovic-strike-sends-juventus-past-atalanta-coppa-italia-final-4339396
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     PSG end Nice's hopes of a Champions League spot
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fi-0nSGJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/954dc807e740627b1eed713bf8dbb97a83d03223.jpg?itok=lzOKbXqy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    FIA and F1 signal better relations with joint strategic plan
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fia-and-f1-signal-better-relations-joint-strategic-plan-4339151
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 03:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fia-and-f1-signal-better-relations-joint-strategic-plan-4339151
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oCClGxLs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t195400z_1_lynxmpek4e0x8_rtroptp_3_motor-f1-fia.jpg?itok=jWTS1Otu" width="1600"/>
   </item>
  </channel>
 </rss>
