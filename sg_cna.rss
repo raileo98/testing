@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 12:38:02 +0800
+   Wed, 15 May 2024 12:45:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Gambhir backs Pant as India's first-choice wicketkeeper at World Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/gambhir-backs-pant-indias-first-choice-wicketkeeper-world-cup-4337086
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 12:42:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/gambhir-backs-pant-indias-first-choice-wicketkeeper-world-cup-4337086
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     'Affirmative no': Malaysia PM Anwar Ibrahim rejects second casino in the country
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Guardiola feels Man City are 'serving for Wimbledon'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/guardiola-feels-man-city-are-serving-wimbledon-4336591
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 08:38:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/guardiola-feels-man-city-are-serving-wimbledon-4336591
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UoYqE0et--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t003852z_1_lynxmpek4e00n_rtroptp_3_soccer-england-tot-mci-report.jpg?itok=nDbatvvV" width="1600"/>
   </item>
  </channel>
 </rss>
