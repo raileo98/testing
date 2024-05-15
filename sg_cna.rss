@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 06:44:58 +0800
+   Thu, 16 May 2024 06:52:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    In first speech as Prime Minister, Lawrence Wong showed he wants to be a ‘different type of leader’: Analysts
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/prime-minister-lawrence-wong-first-speech-different-type-leader-analysts-4338891
+   </link>
+   <description>
+    <![CDATA[Singaporeans’ expectations of the government are now vastly different from the time of previous Prime Ministers, says one political analyst.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 06:47:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/prime-minister-lawrence-wong-first-speech-different-type-leader-analysts-4338891
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m17OIbPZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/20240515_raj_yew_tee_swearing_in_watch_party-6.jpg?itok=G5WZex0q" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Zverev bounces back from fall to beat Fritz and reach Italian Open semis
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/zverev-bounces-back-fall-beat-fritz-and-reach-italian-open-semis-4339521
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 06:45:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/zverev-bounces-back-fall-beat-fritz-and-reach-italian-open-semis-4339521
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ten Hag sees the potential despite terrible season for Man United
@@ -126,27 +168,6 @@
   </item>
   <item>
    <title>
-    Commentary: Israel’s invasion of Rafah will not eliminate Hamas or end the war
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/israel-hamas-war-palestine-gaza-long-term-plan-idf-netanyahu-4337561
-   </link>
-   <description>
-    <![CDATA[As they flee from one conflict zone to another, Palestinian residents are losing hope, says this Australian National University academic.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/israel-hamas-war-palestine-gaza-long-term-plan-idf-netanyahu-4337561
-   </guid>
-   <category>
-    Commentary ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ojxre96P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t165036z_1_lynxmpek4d0pe_rtroptp_3_israel-palestinians.jpg?itok=2OVVUNP3" width="1600"/>
-  </item>
-  <item>
-   <title>
     Commentary: What’s the science behind Singapore’s policy on vapes?
    </title>
    <link>
@@ -165,6 +186,48 @@
     Commentary ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6ZAxX-Rp--/c_crop,h_625,w_1111,x_80,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/singapore_vape_penalty_fine_screenshot.png?itok=E10BJ9_q" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: US green trade war with China is just getting started
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/us-china-trade-war-tariffs-ev-solar-clean-energy-4337526
+   </link>
+   <description>
+    <![CDATA[The desire to disentangle the United States from dependency on China is bipartisan. President Joe Biden’s clean tech tariffs are only one piece of the puzzle, says Bloomberg Opinion’s Liam Denning.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/us-china-trade-war-tariffs-ev-solar-clean-energy-4337526
+   </guid>
+   <category>
+    Commentary ,Sustainability ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0bfaPQgs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t141012z_1_lynxmpek460lm_rtroptp_3_china-economy.jpg?itok=k9g2Tzly" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: Israel’s invasion of Rafah will not eliminate Hamas or end the war
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/israel-hamas-war-palestine-gaza-long-term-plan-idf-netanyahu-4337561
+   </link>
+   <description>
+    <![CDATA[As they flee from one conflict zone to another, Palestinian residents are losing hope, says this Australian National University academic.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/israel-hamas-war-palestine-gaza-long-term-plan-idf-netanyahu-4337561
+   </guid>
+   <category>
+    Commentary ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ojxre96P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t165036z_1_lynxmpek4d0pe_rtroptp_3_israel-palestinians.jpg?itok=2OVVUNP3" width="1600"/>
   </item>
   <item>
    <title>
@@ -210,48 +273,6 @@
   </item>
   <item>
    <title>
-    Commentary: What’s the science behind Singapore’s policy on vapes?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/singapore-vape-ban-policy-harm-chemical-nicotine-addiction-4334461
-   </link>
-   <description>
-    <![CDATA[Toxicology has given us an objective way to appraise the health risks of e-cigarettes, says NUS Associate Professor Ho Han Kiat.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/singapore-vape-ban-policy-harm-chemical-nicotine-addiction-4334461
-   </guid>
-   <category>
-    Commentary ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6ZAxX-Rp--/c_crop,h_625,w_1111,x_80,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/singapore_vape_penalty_fine_screenshot.png?itok=E10BJ9_q" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: US green trade war with China is just getting started
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/us-china-trade-war-tariffs-ev-solar-clean-energy-4337526
-   </link>
-   <description>
-    <![CDATA[The desire to disentangle the United States from dependency on China is bipartisan. President Joe Biden’s clean tech tariffs are only one piece of the puzzle, says Bloomberg Opinion’s Liam Denning.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/us-china-trade-war-tariffs-ev-solar-clean-energy-4337526
-   </guid>
-   <category>
-    Commentary ,Sustainability ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0bfaPQgs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-07t141012z_1_lynxmpek460lm_rtroptp_3_china-economy.jpg?itok=k9g2Tzly" width="1600"/>
-  </item>
-  <item>
-   <title>
     Commentary: Israel’s invasion of Rafah will not eliminate Hamas or end the war
    </title>
    <link>
@@ -270,6 +291,27 @@
     Commentary ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ojxre96P--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t165036z_1_lynxmpek4d0pe_rtroptp_3_israel-palestinians.jpg?itok=2OVVUNP3" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: What’s the science behind Singapore’s policy on vapes?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/singapore-vape-ban-policy-harm-chemical-nicotine-addiction-4334461
+   </link>
+   <description>
+    <![CDATA[Toxicology has given us an objective way to appraise the health risks of e-cigarettes, says NUS Associate Professor Ho Han Kiat.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/singapore-vape-ban-policy-harm-chemical-nicotine-addiction-4334461
+   </guid>
+   <category>
+    Commentary ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6ZAxX-Rp--/c_crop,h_625,w_1111,x_80,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/singapore_vape_penalty_fine_screenshot.png?itok=E10BJ9_q" width="1600"/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     World ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f-vsOZPB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/v1/one-cms/core/4bc8d12a46208276b92270871b46778001a18875.jpg?itok=Wia_zFx6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chelsea climb to sixth with 2-1 win over Brighton
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/chelsea-climb-sixth-2-1-win-over-brighton-4339326
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 05:04:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/chelsea-climb-sixth-2-1-win-over-brighton-4339326
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Prime Time: Highlights at Watches and Wonders Geneva 2024
-   </title>
-   <link>
-    https://www.channelnewsasia.com/obsessions/watches-wonder-2024-highlights-4334456
-   </link>
-   <description>
-    <![CDATA[A fusion of classic sophistication and ground-breaking functionality, these new creations tell a unique story of heritage and technological advancement.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 04:53:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/obsessions/watches-wonder-2024-highlights-4334456
-   </guid>
-   <category>
-    Obsessions ,CNA Luxury ,Style &amp; Beauty ,Living
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GtWkehB4--/c_crop,h_843,w_1500,x_0,y_141/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/hero_watches_wonder_2024_highlights_grand_seiko_hermes_van_cleef_arpels_jaeger_lecoultre_parmigiani_fleurier_lange_sohne.jpg?itok=HgFgf7Px" width="1600"/>
   </item>
  </channel>
 </rss>
