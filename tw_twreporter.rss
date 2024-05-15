@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Tue, 14 May 2024 17:00:03 GMT
+   Wed, 15 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    世上有「完美的口譯」嗎？直播時代，口譯員背負的風險與使命
+   </title>
+   <description>
+    <![CDATA[隨著直播流行，每當有政治和外交等重大事件發生，記者會等場合上的口譯員也開始受到關注。外界對口譯褒貶的標準是否合理？當新聞充斥著「口譯哥」、「口譯妹」等空泛標籤，社會又將如何理解口譯專業？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/interpreters-mission-and-risk-in-live-stream
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/interpreters-mission-and-risk-in-live-stream
+   </guid>
+   <pubDate>
+    Tue, 14 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240514222029-9d4b3ee45aa05d9e7159820bb4d646be-mobile.jpg"/>
+  </item>
   <item>
    <title>
     【投書】水文與氣候科學在法庭匯流──豐坪溪水力開發的環境影響辯證
@@ -195,24 +213,6 @@
     Mon, 06 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417173716-455928cb03717d1dd35b0f63ac2b4fa3-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    留住那些親愛的《老查某》──蔡晏珊讓時間成為遺憾的剪接師
-   </title>
-   <description>
-    <![CDATA[「老查某」是貓也是人。時隔18年，已是剪接師的蔡晏珊回頭處理青春時代的影像素材，從DV帶裡打撈記憶，重新敘說白蘭和她的公娼姊妹，一群女人們的抗爭和生活記事。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/tidf-2024-tsai-yann-shan-lauchabo
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/tidf-2024-tsai-yann-shan-lauchabo
-   </guid>
-   <pubDate>
-    Sun, 05 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240502234522-8ea4cc96f0a082c9ed85bd25f65b0082-mobile.jpg"/>
   </item>
  </channel>
 </rss>
