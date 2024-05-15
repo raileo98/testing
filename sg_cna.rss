@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 21:21:16 +0800
+   Wed, 15 May 2024 21:25:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,16 +42,62 @@
   </image>
   <item>
    <title>
-    Stocks at record high ahead of inflation data; meme mania heats up
+    AI could bring 50 billion euro benefit to Italian companies, Accenture study shows
    </title>
    <link>
-    https://www.channelnewsasia.com/
+    https://www.channelnewsasia.com/business/ai-could-bring-50-billion-euro-benefit-italian-companies-accenture-study-shows-4338251
    </link>
    <description>
     <![CDATA[]]>
    </description>
-   <pubDate/>
-   <guid isPermaLink="false"/>
+   <pubDate>
+    Wed, 15 May 2024 21:21:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ai-could-bring-50-billion-euro-benefit-italian-companies-accenture-study-shows-4338251
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JgwkCipI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t132154z_1_lynxmpek4e0m7_rtroptp_3_ai-startup.jpg?itok=eZFQt3Fr" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Head charity says Ederson injury highlights need for temporary concussion substitutes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/head-charity-says-ederson-injury-highlights-need-temporary-concussion-substitutes-4338256
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 21:21:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/head-charity-says-ederson-injury-highlights-need-temporary-concussion-substitutes-4338256
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Stocks jump, dollar slides after cooler US inflation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/stocks-jump-dollar-slides-after-cooler-us-inflation-4336741
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 21:14:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/stocks-jump-dollar-slides-after-cooler-us-inflation-4336741
+   </guid>
    <category>
     Business
    </category>
@@ -413,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jCvWIW4D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t103115z_1_lynxmpek4e0gl_rtroptp_3_axiata-group-m-a-sinar-mas.jpg?itok=Ar-0s3V-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sri Lanka says 16 citizens killed fighting in Ukraine war
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/sri-lanka-16-citizens-killed-fighting-russia-ukraine-war-4337786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 18:30:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/sri-lanka-16-citizens-killed-fighting-russia-ukraine-war-4337786
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gC9bHWob--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t235254z_1_lynxmpek4d0zc_rtroptp_3_ukraine-crisis-attack-kharkiv.jpg?itok=gLMlCxJk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sri Lanka says 16 citizens killed fighting in Ukraine war
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/sri-lanka-16-citizens-killed-fighting-russia-ukraine-war-4337786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 18:30:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/sri-lanka-16-citizens-killed-fighting-russia-ukraine-war-4337786
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gC9bHWob--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t235254z_1_lynxmpek4d0zc_rtroptp_3_ukraine-crisis-attack-kharkiv.jpg?itok=gLMlCxJk" width="1600"/>
   </item>
  </channel>
 </rss>
