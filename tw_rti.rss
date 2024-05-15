@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Wed, 15 May 2024 22:20:03 +0800
+   Wed, 15 May 2024 22:35:01 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,58 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [生活] 北科大「十二甲講堂」 再現校園百年文資薪傳展
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F05%2F15%2F8fc3d64e0448ec4835f58403267d863e.jpg" width="360" alt="台北科技大學在校園建置「十二甲講堂」，並重現「記憶・技藝」系列展。" title="台北科技大學在校園建置「十二甲講堂」，並重現「記憶・技藝」系列展。"><br>國立台北科技大學迎接113週年校慶，今天(15日)起在校內「十二甲講堂」重現「記憶・技藝─百年北科文資薪傳紀實」系列展覽，並以「活化歷史記憶」與「永續文化技藝」為主軸，擴充相關主題，將可從《臺灣鐵道》雜誌看見日治時期鐵道視角的美學，並在教學現場轉換為台灣鐵道工業文化資產的實作教材，引領學生發想文化創意作品，實踐產業文資薪傳教育。台北科技大學校長王錫福表示，北科大在1912年設立時，坐落於台北廳大加蚋堡大安庄十二甲，這個地名是源自先民拓墾引水灌溉的水田面積，現在學校有「十二甲講堂」的建置與命名，體現北科大100多年來與都市紋理交融的共生軌跡，及標誌著守護文...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206025">...more</a>]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 22:14:08 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2206025
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2206025
+   </guid>
+   <author>
+    陳國維採訪
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/3">
+    生活
+   </category>
+   <dc:creator>
+    陳國維採訪
+   </dc:creator>
+  </item>
+  <item>
+   <title>
+    [國際] 國際能源總署調降2024年全球石油需求成長預測
+   </title>
+   <description>
+    <![CDATA[國際能源總署(IEA)今天(15日)表示，受到暖冬與柴油汽車數量減少等影響，已開發國家首季石油需求減少，2024年全球石油需求成長將比預期減緩。法新社報導，2024年全球石油需求預估每日將增加110萬桶，比IEA之前月度報告預估減少14萬桶。IEA表示，2024年全球需求預估將達到每日1億300萬桶。IEA的報告表示，經濟合作暨發展組織(OECD)國家的需求在今年前3個月萎縮了7萬桶。報告中還說：「主要是暖冬對OECD的燃油需求帶來衝擊。」    報告中還說，需求也受到車輛效率提高等結構性不利因素，以及柴油汽車數量減少的影響。「這些影...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206023">...more</a>]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 21:55:02 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2206023
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2206023
+   </guid>
+   <author>
+    採訪, 中央社
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    採訪, 中央社
+   </dc:creator>
+  </item>
   <item>
    <title>
     [生活] 2.8萬張票一天賣光 《勸世三姊妹》巡演再創票房天花板
@@ -78,13 +130,13 @@
     https://www.rti.org.tw/news/view/id/2206021
    </guid>
    <author>
-    採訪, 中央社
+    採訪, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社
+    採訪, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -130,13 +182,13 @@
     https://www.rti.org.tw/news/view/id/2206019
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -156,13 +208,13 @@
     https://www.rti.org.tw/news/view/id/2206018
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -182,13 +234,13 @@
     https://www.rti.org.tw/news/view/id/2206017
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -234,13 +286,13 @@
     https://www.rti.org.tw/news/view/id/2206014
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -260,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2206013
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +338,13 @@
     https://www.rti.org.tw/news/view/id/2206012
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -364,13 +416,13 @@
     https://www.rti.org.tw/news/view/id/2206009
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -390,13 +442,13 @@
     https://www.rti.org.tw/news/view/id/2206008
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -416,13 +468,13 @@
     https://www.rti.org.tw/news/view/id/2206006
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -468,13 +520,13 @@
     https://www.rti.org.tw/news/view/id/2206004
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -520,13 +572,13 @@
     https://www.rti.org.tw/news/view/id/2206005
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -546,13 +598,13 @@
     https://www.rti.org.tw/news/view/id/2206002
    </guid>
    <author>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社, 中央社
+    採訪, 中央社, 採訪, 中央社, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 法新社, 中央社, 中央社, 中央社, 採訪, 採訪, 路透社, 中央社, 中央社, 中央社, 採訪, 中央社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -761,58 +813,6 @@
    </category>
    <dc:creator>
     江昭倫採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 挺運動外交 賴清德讚劉柏君讓台灣運動發揮強大功能
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F05%2F15%2Fcdf869ff8ac7c7366eeee18641d898c1.jpg" width="360" alt="民進黨15日召開中常會，邀請社團法人台灣運動好事協會創辦人、執行長劉柏君專案報告。資料照。(圖:中央社)" title="民進黨15日召開中常會，邀請社團法人台灣運動好事協會創辦人、執行長劉柏君專案報告。資料照。(圖:中央社)"><br>民進黨今天(15日)召開中常會，會中邀請社團法人台灣運動好事協會創辦人、執行長劉柏君以「台灣運動軟實力-運動外交新思維」為題進行專案報告。兼任民進黨主席的副總統賴清德聽取專案報告後裁示指出，劉柏君除了擔任棒球裁判，也在運動、女性權益、性別平等、身心障礙、宗教文化、教育平權、國民外交上做了許多倡議，做了許多他達不到的事情，讓世界看見台灣，貢獻非常多。賴清德說，劉柏君曾獲得聯合國總部的國際奧會女性與體育獎，以及倡議性別平權、幫助女子運動推廣，得到國際奧會、國際棒總以及世界各國的支持與認同，讓台灣運動發揮更多、更強大的功能。賴清德表示，他要感謝劉柏君過去對台灣...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2205992">...more</a>]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 16:44:05 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2205992
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2205992
-   </guid>
-   <author>
-    劉玉秋採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    劉玉秋採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [兩岸] 準備放大絕？彭博：中國擬令地方政府購買滯銷房屋救房市
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2022%2F08%2F12%2Fe2c948170e0f78a2ffd82f1ad8ade251.JPG" width="360" alt="為挽救陷入困境地產市場，傳出中國政府打算要求國有企業出手購買地產開發商餘屋救市。圖為中國尚未完工大樓。 (路透社/達志影像)" title="為挽救陷入困境地產市場，傳出中國政府打算要求國有企業出手購買地產開發商餘屋救市。圖為中國尚未完工大樓。 (路透社/達志影像)"><br>《彭博社》報導，在嘗試許多清理庫存餘屋的試點計畫後，中國政府準備再推出規模較大的行動。兩位知情人士表示，各地國有企業正被要求使用國有銀行貸款，以大幅折扣幫助陷入困境的地產開發商購買尚未出售的房屋，並將這些房屋改造成經濟適用房(廉租房、公租房)。知情人士指出，官員們仍在討論這項計畫的細節和可行性，並補充表示，若中國領導人決定繼續實施該計畫，可能需要幾個月的時間才能做最後確認。報導認為，中國政府若確實採取行動，這將代表著政府為了解決拖累中國經濟最大問題的房地產業的救市行動將進入新階段。解決房市沉痾進入新階段根據統計，今年前4個月，中國房屋銷售量暴跌約47%，...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2205993">...more</a>]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 16:42:04 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2205993
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2205993
-   </guid>
-   <author>
-    陳文蔚採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/4">
-    兩岸
-   </category>
-   <dc:creator>
-    陳文蔚採訪
    </dc:creator>
   </item>
  </channel>
