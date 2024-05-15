@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 03:43:04 +0800
+   Thu, 16 May 2024 03:51:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Despite divorce McIlroy focused on ending 10-year major drought at PGA
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/despite-divorce-mcilroy-focused-ending-10-year-major-drought-pga-4339111
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 03:41:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/despite-divorce-mcilroy-focused-ending-10-year-major-drought-pga-4339111
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--aKQucAOH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t194137z_1_lynxmpek4e0wz_rtroptp_3_golf.jpg?itok=SeOjEtHt" width="1600"/>
+  </item>
   <item>
    <title>
     Disney to dramatically cut spending for traditional TV networks
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LWEc3FRL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t150715z_1_lynxmpek4e0px_rtroptp_3_athletics-semenya.jpg?itok=M7NM_mZr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Uber unveils US shuttle service, expands Costco tie-up to woo price-conscious users
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/uber-unveils-us-shuttle-service-expands-costco-tie-woo-price-conscious-users-4338506
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 22:58:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/uber-unveils-us-shuttle-service-expands-costco-tie-woo-price-conscious-users-4338506
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xNYMyzl1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t145813z_1_lynxmpek4e0pf_rtroptp_3_uber-politician.jpg?itok=1IMLQULN" width="1600"/>
   </item>
  </channel>
 </rss>
