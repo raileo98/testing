@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 12:15:08 +0800
+   Wed, 15 May 2024 12:29:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,24 +42,24 @@
   </image>
   <item>
    <title>
-    58 killed in Indonesia’s cold lava, flash floods: Experts say deaths were avoidable, warn of further surges
+    'Affirmative no': Malaysia PM Anwar Ibrahim rejects second casino in the country
    </title>
    <link>
-    https://www.channelnewsasia.com/asia/marapi-flash-floods-disaster-preparedness-4336926
+    https://www.channelnewsasia.com/asia/malaysia-pm-anwar-no-second-casino-licence-forest-city-4337006
    </link>
    <description>
-    <![CDATA[Besides the deaths, another 35 people remain missing in the affected areas surrounding the recently erupted “Mountain of Fire” Marapi.]]>
+    <![CDATA[The issue has been in the spotlight since last month when Bloomberg reported that Malaysia was in early discussions with tycoons on opening a casino in Johor’s Forest City.]]>
    </description>
    <pubDate>
-    Wed, 15 May 2024 11:53:00 +0800
+    Wed, 15 May 2024 12:28:49 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/marapi-flash-floods-disaster-preparedness-4336926
+    https://www.channelnewsasia.com/asia/malaysia-pm-anwar-no-second-casino-licence-forest-city-4337006
    </guid>
    <category>
     Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--agURlSay--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t020411z_1_lynxmpek4c01k_rtroptp_3_indonesia-disaster.jpg?itok=RzRqxsxk" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IItr0930--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/29/fc3.jpg?itok=XEE6RqQp" width="1600"/>
   </item>
   <item>
    <title>
@@ -81,6 +81,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08k9oElU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/canada_wildfire_2.jpg?itok=Os5M_Ci9" width="1600"/>
+  </item>
+  <item>
+   <title>
+    58 killed in Indonesia’s cold lava, flash floods: Experts say deaths were avoidable, warn of further surges
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/marapi-flash-floods-disaster-preparedness-4336926
+   </link>
+   <description>
+    <![CDATA[Besides the deaths, another 35 people remain missing in the affected areas surrounding the recently erupted “Mountain of Fire” Marapi.]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 11:53:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/marapi-flash-floods-disaster-preparedness-4336926
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--agURlSay--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t020411z_1_lynxmpek4c01k_rtroptp_3_indonesia-disaster.jpg?itok=RzRqxsxk" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UoYqE0et--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t003852z_1_lynxmpek4e00n_rtroptp_3_soccer-england-tot-mci-report.jpg?itok=nDbatvvV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Hunger striking Thai rights activist dies in detention
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/hunger-striking-thai-rights-activist-netiporn-sanae-sangkhom-dies-detention-cardiac-arrest-4336541
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 08:38:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/hunger-striking-thai-rights-activist-netiporn-sanae-sangkhom-dies-detention-cardiac-arrest-4336541
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e31oZJ46--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/2024-05-14t105219z_1_lynxmpek4d0e8_rtroptp_4_thailand-politics.jpg?itok=Ztny58oB" width="1600"/>
   </item>
  </channel>
 </rss>
