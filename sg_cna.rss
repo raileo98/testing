@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 15:06:51 +0800
+   Wed, 15 May 2024 15:23:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Villa's Champions League qualification a special day, says boss Emery
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/villas-champions-league-qualification-special-day-says-boss-emery-4337366
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 15:14:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/villas-champions-league-qualification-special-day-says-boss-emery-4337366
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--99Ucl0l5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t071400z_1_lynxmpek4e0ac_rtroptp_3_soccer-england-ava.jpg?itok=NbpC7pQt" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Philippine civilian convoy sails towards disputed reef
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/philippines-south-china-sea-territorial-dispute-tensions-maritime-convoy-4337286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 15:12:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/philippines-south-china-sea-territorial-dispute-tensions-maritime-convoy-4337286
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lmPiHeUs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/filipino_fishermen.jpg?itok=Zv1e9yrv" width="1600"/>
+  </item>
   <item>
    <title>
     Figure skating-US Center for SafeSport bans Australian Kerry for sexual misconduct
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    58 killed in Indonesia’s cold lava, flash floods: Experts say deaths were avoidable, warn of further surges
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/marapi-flash-floods-disaster-preparedness-4336926
-   </link>
-   <description>
-    <![CDATA[Besides the deaths, another 35 people remain missing in the affected areas surrounding the recently erupted “Mountain of Fire” Marapi.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 11:53:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/marapi-flash-floods-disaster-preparedness-4336926
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--agURlSay--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t020411z_1_lynxmpek4c01k_rtroptp_3_indonesia-disaster.jpg?itok=RzRqxsxk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Canada's oil sands hub threatened by wildfire, sparking large evacuations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/canada-wildfire-evacuation-fort-mcmurray-oil-sands-industry-firefighters-4336861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 11:53:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/canada-wildfire-evacuation-fort-mcmurray-oil-sands-industry-firefighters-4336861
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08k9oElU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/canada_wildfire_2.jpg?itok=Os5M_Ci9" width="1600"/>
   </item>
  </channel>
 </rss>
