@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 14:51:25 +0800
+   Wed, 15 May 2024 15:06:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Figure skating-US Center for SafeSport bans Australian Kerry for sexual misconduct
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/figure-skating-us-center-safesport-bans-australian-kerry-sexual-misconduct-4337321
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 14:59:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/figure-skating-us-center-safesport-bans-australian-kerry-sexual-misconduct-4337321
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jl0xu_H6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t065954z_1_lynxmpek4e08x_rtroptp_3_figure-skating-australia.jpg?itok=uYldEwED" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Japan's Mizuho posts big jump in Q4 profit, forecasts growth ahead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-mizuho-posts-big-jump-q4-profit-forecasts-growth-ahead-4337301
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 14:58:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-mizuho-posts-big-jump-q4-profit-forecasts-growth-ahead-4337301
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--56XfqmB0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t065816z_1_lynxmpek4e08t_rtroptp_3_japan-banks.jpg?itok=OZBXMyg2" width="1600"/>
+  </item>
   <item>
    <title>
     Aliff Aziz on his divorce case, infidelity and hate comments: 'I'm a sinner who's honest'
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08k9oElU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/canada_wildfire_2.jpg?itok=Os5M_Ci9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Totally Spies! revival set in Singapore, features Gardens by the Bay, Marina Bay Sands and bubble tea
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/totally-spies-singapore-seventh-season-4336876
-   </link>
-   <description>
-    <![CDATA[The seventh season of the beloved French cartoon series features Sam, Clover and Alex relocating to Singapore.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 11:47:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/totally-spies-singapore-seventh-season-4336876
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rHOMM2J7--/c_crop,h_900,w_1600,x_0,y_125/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/totally_spies_season_7_1_0.jpg?itok=HlbVRnih" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Totally Spies! revival set in Singapore, features Gardens by the Bay, Marina Bay Sands and bubble tea
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/totally-spies-singapore-seventh-season-4336876
-   </link>
-   <description>
-    <![CDATA[The seventh season of the beloved French cartoon series features Sam, Clover and Alex relocating to Singapore.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 11:47:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/totally-spies-singapore-seventh-season-4336876
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rHOMM2J7--/c_crop,h_900,w_1600,x_0,y_125/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/totally_spies_season_7_1_0.jpg?itok=HlbVRnih" width="1600"/>
   </item>
  </channel>
 </rss>
