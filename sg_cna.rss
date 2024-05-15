@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 12:53:08 +0800
+   Wed, 15 May 2024 13:12:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    RSAF regular who phished women for intimate images gets jail
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/rsaf-regular-engineer-phish-women-intimate-images-4336991
+   </link>
+   <description>
+    <![CDATA[Posing as a "helpful netizen", K Eshwaran sent phishing links to victims claiming that their intimate images had been posted online.]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 13:01:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/rsaf-regular-engineer-phish-women-intimate-images-4336991
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SRcdkS95--/c_crop,h_900,w_1600,x_0,y_135/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0088.jpg?itok=XoNFBwDb" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Workers' Party congratulates incoming Prime Minister Lawrence Wong, thanks Mr Lee Hsien Loong for service
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/workers-party-congratulates-incoming-prime-minister-lawrence-wong-thanks-lee-hsien-loong-4336986
+   </link>
+   <description>
+    <![CDATA[Mr Lawrence Wong will be sworn in as Singapore's fourth Prime Minister on Wednesday (May 15).]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 12:58:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/workers-party-congratulates-incoming-prime-minister-lawrence-wong-thanks-lee-hsien-loong-4336986
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hDE3efeO--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/30/image.png?itok=83TtCoXo" width="1600"/>
+  </item>
   <item>
    <title>
     Sweltering heat across Asia was 45 times more likely because of climate change, study finds
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Sun cool Fever in Clark's WNBA debut
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/sun-cool-fever-clarks-wnba-debut-4336756
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 10:11:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/sun-cool-fever-clarks-wnba-debut-4336756
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    North Korea's Kim calls for 'epochal change' in war preparations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/north-korea-south-korea-war-preparations-missile-inspection-russia-4336686
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 10:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/north-korea-south-korea-war-preparations-missile-inspection-russia-4336686
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--p192GklY--/c_crop,h_432,w_768,x_0,y_26/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0a796b36c247653958a3ac785c0a53e2bd1cc101.jpg?itok=7DaF_io1" width="1600"/>
   </item>
  </channel>
 </rss>
