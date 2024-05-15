@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 05:20:14 +0800
+   Thu, 16 May 2024 05:31:20 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 15 May 2024 16:37:37 +0800
+   Thu, 16 May 2024 05:30:09 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,46 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國4月零售銷售出乎預期按月持平
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753320-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753320-20240516.htm
+   </link>
+   <description>
+    <![CDATA[美國商務部公布，美國4月零售銷售按月持平，市場原先預期增加0.4%。
+
+期內，扣除汽車的零售銷售按月增加0.2%，符合市場預期。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 05:30:09 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    美國上月核心CPI按年升3.6%　創3年新低
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753319-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753319-20240516.htm
+   </link>
+   <description>
+    <![CDATA[美國勞工部公布，美國4月消費物價指數(CPI)按月上升0.3%，升幅略低過市場預期及3月的0.4%，是半年以來首次升幅放緩。
+
+按年比較，4月CPI上升3.4%，符合市場預期，升幅自3月的3.5%略有放緩。
+
+4月撇除食品和能源價格的核心CPI，按月和按年升幅分別放緩至0.3%和3.6%，兩者都符合預期，其中按年升幅創3年新低。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 05:29:59 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     一帶一路專員與商務部將率團訪問匈牙利及哈薩克斯坦
@@ -422,46 +462,6 @@ Tesla上月表示，作為裁員的一部分，將在加州和得州裁員6020�
    </description>
    <pubDate>
     Wed, 15 May 2024 09:21:20 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股初段升1%　韓股假期休市
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753207-20240515.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753207-20240515.htm
-   </link>
-   <description>
-    <![CDATA[日本股市在開市初段升1%，日經平均指數較早時報38755點，升399點，升幅1.04%。
-
-南韓股市假期休市。]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 08:18:46 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股美國預託證券與本港收市比較個別發展
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753204-20240515.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753204-20240515.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)與本港收市比較個別發展。
-
-科技股方面，阿里巴巴ADR較本港收市跌6%，騰訊則升逾5%。
-
-至於金融股，滙控ADR較本港收市升逾1%。]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:14:01 +0800
    </pubDate>
   </item>
  </channel>
