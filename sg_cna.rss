@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 03:31:46 +0800
+   Thu, 16 May 2024 03:43:04 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Disney to dramatically cut spending for traditional TV networks
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/disney-dramatically-cut-spending-traditional-tv-networks-4339106
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 03:37:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/disney-dramatically-cut-spending-traditional-tv-networks-4339106
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZDSsbkt7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t193745z_1_lynxmpek4e0wx_rtroptp_3_walt-disney-warner-bros.jpg?itok=xJbmy-3m" width="1600"/>
+  </item>
+  <item>
+   <title>
+    US to issue rules on Chinese connected vehicles this fall
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-issue-rules-chinese-connected-vehicles-fall-4339086
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 03:32:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-issue-rules-chinese-connected-vehicles-fall-4339086
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--6dZdznBs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t193245z_1_lynxmpek4e0ws_rtroptp_3_usa-china-huawei-chip.jpg?itok=I0ESuavx" width="1600"/>
+  </item>
   <item>
    <title>
     US charges two brothers with novel $25 million cryptocurrency heist
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xNYMyzl1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t145813z_1_lynxmpek4e0pf_rtroptp_3_uber-politician.jpg?itok=1IMLQULN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Slovak PM in critical condition in assassination attempt
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/slovak-pm-critical-condition-assassination-attempt-4338436
-   </link>
-   <description>
-    <![CDATA[Prime Minister Robert Fico was shot multiple times in an assassination attempt. Initial investigations pointed to a politically-motivated crime. ]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 22:44:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/slovak-pm-critical-condition-assassination-attempt-4338436
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5KSdQLpD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/ap24136523590329.jpg?itok=Qsz-3r5A" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Data platform firm WekaIO notches $1.6 billion valuation after latest funding round
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/data-platform-firm-wekaio-notches-16-billion-valuation-after-latest-funding-round-4338481
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 22:43:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/data-platform-firm-wekaio-notches-16-billion-valuation-after-latest-funding-round-4338481
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
