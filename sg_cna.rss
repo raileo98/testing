@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 08:49:39 +0800
+   Wed, 15 May 2024 09:51:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Australia's Iress says OneVue platform exposed to data breach
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/australias-iress-says-onevue-platform-exposed-data-breach-4336586
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 08:40:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/australias-iress-says-onevue-platform-exposed-data-breach-4336586
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Guardiola feels Man City are 'serving for Wimbledon'
@@ -395,7 +416,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YDY_Pa2g--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t231713z_1_lynxmpek4d0ym_rtroptp_3_tech-ai-israel.jpg?itok=88ahyqMo" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--a8JkYHIk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t005010z_2_lynxmpek4d0ym_rtroptp_3_tech-ai-israel.jpg?itok=Wrj4yYYu" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4ND4rXRA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t230428z_1_lynxmpek4d0yc_rtroptp_3_chime-ipo.jpg?itok=Y5EwrLI6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Angry Postecoglou blasts Tottenham's fragile foundations
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/angry-postecoglou-blasts-tottenhams-fragile-foundations-4336406
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:03:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/angry-postecoglou-blasts-tottenhams-fragile-foundations-4336406
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XdTt-VPt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t230324z_1_lynxmpek4d0ya_rtroptp_3_soccer-england-tot-mci-report.jpg?itok=zqx-YWcJ" width="1600"/>
   </item>
  </channel>
 </rss>
