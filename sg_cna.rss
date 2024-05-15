@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 15 May 2024 11:36:35 +0800
+   Wed, 15 May 2024 11:44:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US says Boeing can be prosecuted for 737 MAX crashes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-says-boeing-can-be-prosecuted-737-max-crashes-lion-air-ethiopian-airlines-4336601
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 11:40:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-says-boeing-can-be-prosecuted-737-max-crashes-lion-air-ethiopian-airlines-4336601
+   </guid>
+   <category>
+    Business ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--En-8zJGW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2cf3f431e4e8d35c870932218ef4503be56e6067.jpg?itok=7j62oMsL" width="1600"/>
+  </item>
+  <item>
+   <title>
+    US says Boeing can be prosecuted for 737 MAX crashes
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-says-boeing-can-be-prosecuted-737-max-crashes-lion-air-ethiopian-airlines-4336601
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 15 May 2024 11:40:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-says-boeing-can-be-prosecuted-737-max-crashes-lion-air-ethiopian-airlines-4336601
+   </guid>
+   <category>
+    Business ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--En-8zJGW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2cf3f431e4e8d35c870932218ef4503be56e6067.jpg?itok=7j62oMsL" width="1600"/>
+  </item>
   <item>
    <title>
     Thai industrial sentiment falls in April on weak demand, wage hike plan
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--p3yhY9A7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-14t233625z_1_lynxmpek4d0z1_rtroptp_3_u-s-steel-m-a-nippon-steel.jpg?itok=F4yUpk5S" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Clothing alteration 101: How to get clothes to fit better, repair jobs, how much to pay
-   </title>
-   <link>
-    https://www.channelnewsasia.com/style-beauty/how-get-your-clothes-fit-better-4222476
-   </link>
-   <description>
-    <![CDATA[CNA Lifestyle tapped Big Mama, a laundry and alteration chain for answers.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:27:57 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/style-beauty/how-get-your-clothes-fit-better-4222476
-   </guid>
-   <category>
-    Style &amp; Beauty ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VE5-nBbC--/c_crop,h_900,w_1600,x_0,y_167/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/26/Clothing%20alterations%205.jpg?itok=MtqLfY1p" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Clothing alteration 101: How to get clothes to fit better, repair jobs, how much to pay
-   </title>
-   <link>
-    https://www.channelnewsasia.com/style-beauty/how-get-your-clothes-fit-better-4222476
-   </link>
-   <description>
-    <![CDATA[CNA Lifestyle tapped Big Mama, a laundry and alteration chain for answers.]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 07:27:57 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/style-beauty/how-get-your-clothes-fit-better-4222476
-   </guid>
-   <category>
-    Style &amp; Beauty ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VE5-nBbC--/c_crop,h_900,w_1600,x_0,y_167/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/26/Clothing%20alterations%205.jpg?itok=MtqLfY1p" width="1600"/>
   </item>
  </channel>
 </rss>
