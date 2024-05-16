@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 14:40:34 +0800
+   Thu, 16 May 2024 14:50:44 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 14:34:32 +0800
+   Thu, 16 May 2024 14:44:50 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股高收逾0.8%　創逾1個半月新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753390-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753390-20240516.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市兩連升，創逾1個半月新高。
+
+首爾綜合指數收報2753點，升22點，升幅0.83%。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 14:44:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股升逾500點收市　迫近39000點
@@ -447,23 +466,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 08:58:02 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股初段升逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753335-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753335-20240516.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市在假期後復市，開市初段升逾1%，首爾綜合指數較早時報2762點，升32點，升幅1.19%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 08:18:03 +0800
    </pubDate>
   </item>
  </channel>
