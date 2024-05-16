@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 10:40:26 +0800
+   Thu, 16 May 2024 10:50:36 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 10:17:44 +0800
+   Thu, 16 May 2024 10:50:07 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股半日升逾0.7%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753357-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753357-20240516.htm
+   </link>
+   <description>
+    <![CDATA[日本股市半日上升，日經平均指數上午收市報38669點，升283點，升幅0.74%。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 10:50:07 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     人行下周三在港招標發行500億人民幣央行票據
@@ -441,27 +458,6 @@ Nvidia升近3.6%，Meta升2%，但Tesla跌2%。「迷因股」連升兩日後回
    </description>
    <pubDate>
     Thu, 16 May 2024 05:30:09 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美國上月核心CPI按年升3.6%　創3年新低
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753319-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753319-20240516.htm
-   </link>
-   <description>
-    <![CDATA[美國勞工部公布，美國4月消費物價指數(CPI)按月上升0.3%，升幅略低過市場預期及3月的0.4%，是半年以來首次升幅放緩。
-
-按年比較，4月CPI上升3.4%，符合市場預期，升幅自3月的3.5%略有放緩。
-
-4月撇除食品和能源價格的核心CPI，按月和按年升幅分別放緩至0.3%和3.6%，兩者都符合預期，其中按年升幅創3年新低。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 05:29:59 +0800
    </pubDate>
   </item>
  </channel>
