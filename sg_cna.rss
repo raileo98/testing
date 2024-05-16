@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 21:42:18 +0800
+   Thu, 16 May 2024 21:51:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    New psychoactive substances ‘not a big issue’ yet, but still a major concern: Shanmugam
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/shanmugam-new-psychoactive-substances-not-big-issue-yet-still-major-concern-4341231
+   </link>
+   <description>
+    <![CDATA[Speaking during a radio segment on CNA938, the Home Affairs and Law Minister also said that people are starting to abuse drugs at a younger age and addressed messaging in popular culture consumed by young people that “glamourises” drug use.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 21:50:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/shanmugam-new-psychoactive-substances-not-big-issue-yet-still-major-concern-4341231
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nnSNfinD--/c_crop,h_900,w_1600,x_0,y_166/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/14/iStock-1300093589%20(1).jpg?itok=Ihk5Avm-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    F1's proposed spray guards still need work, says Bearman
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/f1s-proposed-spray-guards-still-need-work-says-bearman-4341451
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 21:43:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/f1s-proposed-spray-guards-still-need-work-says-bearman-4341451
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dk9rA6oU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t134318z_1_lynxmpek4f0iw_rtroptp_3_motor-f1-australia.jpg?itok=KiVhYW2x" width="1600"/>
+  </item>
   <item>
    <title>
     City keeper Ederson out for rest of season with eye injury
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GkZKXwfr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t112814z_1_lynxmpek4f0ek_rtroptp_3_soccer-italy-nap-rom-report.jpg?itok=I_AOrj6V" width="1600"/>
-  </item>
-  <item>
-   <title>
-    German police raid properties as pro-Palestinian group banned
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/german-police-pro-palestinian-group-raid-banned-4341021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 19:22:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/german-police-pro-palestinian-group-raid-banned-4341021
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FpnibV3D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/israel_palestinians_the_watermelon_factor_34001.jpg?itok=RabltF59" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore Airlines hands out 8 months' bonus following record annual profit
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/singapore-airlines-scoot-employees-get-nearly-8-months-bonus-4340801
-   </link>
-   <description>
-    <![CDATA[The profit-sharing bonus of 7.94 months is the highest in history, according to screenshots of the announcement seen by CNA. ]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 19:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/singapore-airlines-scoot-employees-get-nearly-8-months-bonus-4340801
-   </guid>
-   <category>
-    Business ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VBptDlkZ--/c_crop,h_576,w_1024,x_0,y_13/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/000_34PG3NK.jpg?itok=Sk4qza5m" width="1600"/>
   </item>
  </channel>
 </rss>
