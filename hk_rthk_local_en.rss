@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 12:50:20 +0800
+   Thu, 16 May 2024 13:10:13 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 11:35:22 +0800
+   Thu, 16 May 2024 13:00:21 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,33 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    New ID card arrangements amid immigration office move
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753378-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753378-20240516.htm
+   </link>
+   <description>
+    <![CDATA[The Immigration Department on Thursday announced new ID card replacement arrangements as it prepares to move its headquarters from Wan Chai to Tseung Kwan O in the middle of next month.
+ 
+From June 11, the new headquarters will start providing services, and the Registration of Persons office in Kwun Tong will also be relocated to Tseung Kwan O. 
+
+"The main services provided by the Registration of Persons Office in Tseung Kwan O include applications for first registration of ID cards, replacement of ID cards due to due to defacement or loss, and amendment of registered particulars on ID cards," said assistant principal immigration officer Wong Ka-yee.
+
+Wong added that the Tseung Kwan O office will also handle the replacement of new smart ID cards during extended service hours.
+
+People who have applied for an ID card change on or before June 8 can collect their cards at a temporary office in Kwun Tong. 
+
+Meanwhile, the Registration of Persons Office at Immigration Tower in Wan Chai will continue to provide ID card replacement services.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 13:00:21 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Asia Summit on Global Health gets underway
@@ -661,27 +688,6 @@ RTHK has reached out to the school in question for comment.]]>
    </description>
    <pubDate>
     Tue, 14 May 2024 11:15:30 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks press on with gains at open
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753073-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753073-20240514.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks extended gains at the open Tuesday on investor optimism over upcoming earnings from Chinese tech giants, while traders also awaited the release of US inflation data.
-
-The Hang Seng Index rose 0.4 percent, or 88 points, to 19,203.
-
-The Shanghai Composite Index was marginally higher, inching up 0.83 points to 3,148.85, while the Shenzhen Composite Index added 0.1 percent, or 2 points, to 1,768. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 09:49:58 +0800
    </pubDate>
   </item>
  </channel>
