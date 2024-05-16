@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 22:39:36 +0800
+   Thu, 16 May 2024 22:50:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Women to play at Queen's for first time in over 50 years
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/women-play-queens-first-time-over-50-years-4341581
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 22:45:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/women-play-queens-first-time-over-50-years-4341581
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ssj8W6Go--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t144502z_1_lynxmpek4f0kv_rtroptp_3_tennis-london.jpg?itok=z5ZPS3KO" width="1600"/>
+  </item>
   <item>
    <title>
     Singaporean woman killed in Spain: Judge orders extraction of data from suspect's phone
@@ -438,27 +459,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dJLXUKKT--/c_crop,h_432,w_768,x_0,y_26/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/41f7809ca23a53f5b85d1ffb11bc8e09ea57be83.jpg?itok=wosRn-2u" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chinese overcapacity claims by US, Europe are 'trade protectionism', ministry says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/chinese-overcapacity-claims-us-europe-are-trade-protectionism-ministry-says-4340596
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 19:40:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/chinese-overcapacity-claims-us-europe-are-trade-protectionism-ministry-says-4340596
-   </guid>
-   <category>
-    Business ,East Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qodj2po8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t082921z_1_lynxmpek4f09i_rtroptp_3_health-coronavirus-china.jpg?itok=vEgBT5QD" width="1600"/>
   </item>
  </channel>
 </rss>
