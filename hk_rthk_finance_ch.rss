@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 11:30:44 +0800
+   Thu, 16 May 2024 12:10:27 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 11:11:13 +0800
+   Thu, 16 May 2024 11:47:04 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬指半日升近0.5%　創業板升逾1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753370-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753370-20240516.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市半日上升，創業板升逾1%。房地產、景點旅遊等股份造好，家電、航運、汽車相關股份則向下。
+
+上證綜合指數報3134點，升15點，升幅0.48%。
+
+深證成份指數報9663點，升79點，升幅0.83%。
+
+創業板指數報1859點，升20點，升幅1.14%。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 11:47:04 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     恒指升逾200點　騰訊一度重上400元
@@ -101,7 +124,7 @@
     https://news.rthk.hk/rthk/ch/component/k2/1753352-20240516.htm
    </link>
    <description>
-    <![CDATA[人民銀行將於下周三在香港招標發行500億元人民幣央行票據，當中300億元屬於3個月期，200億元屬於1年期，分別是今年第4期及第5期。
+    <![CDATA[人民銀行將於下周三在香港招標發行500億元人民幣央行票據，當中300億元屬於3個月期，200億元屬於1年期，分別是今年第4期及第5期。其中1年期發行量創該期限單期新高。
 
 這兩筆央票將會通過香港金管局債務工具中央結算系統(CMU)債券投標平台招標，下周五交收。3個月期央票到期日為今年8月23日，1年期央票到期日為明年5月24日。
 
@@ -443,29 +466,6 @@ Nvidia升近3.6%，Meta升2%，但Tesla跌2%。「迷因股」連升兩日後回
    </description>
    <pubDate>
     Thu, 16 May 2024 06:10:17 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    德法股市創收市新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753321-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753321-20240516.htm
-   </link>
-   <description>
-    <![CDATA[歐洲主要股市收市上升，德國和法國股市都創收市新高。
-
-德國DAX指數收市報18869點，升152點，升幅0.82%。
-
-法國CAC指數收市報8239點，升14點，升幅0.17%。
-
-英國富時100指數收市報8445點，升17點，升幅0.21%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 05:54:37 +0800
    </pubDate>
   </item>
  </channel>
