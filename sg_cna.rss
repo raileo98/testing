@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 19:27:08 +0800
+   Thu, 16 May 2024 19:36:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Napoli in European last-chance saloon at Fiorentina
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/napoli-european-last-chance-saloon-fiorentina-4341086
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 19:28:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/napoli-european-last-chance-saloon-fiorentina-4341086
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GkZKXwfr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t112814z_1_lynxmpek4f0ek_rtroptp_3_soccer-italy-nap-rom-report.jpg?itok=I_AOrj6V" width="1600"/>
+  </item>
   <item>
    <title>
     German police raid properties as pro-Palestinian group banned
@@ -420,10 +441,10 @@
   </item>
   <item>
    <title>
-    Climate change could force Bangkok to move, official warns
+    Billion-dollar money laundering case: Suspect gets 6 new charges over fake property sale, loan agreement papers
    </title>
    <link>
-    https://www.channelnewsasia.com/asia/bangkok-thailand-climate-change-rising-sea-levels-move-new-capital-4340716
+    https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-su-jianfeng-new-charges-4340726
    </link>
    <description>
     <![CDATA[]]>
@@ -432,33 +453,12 @@
     Thu, 16 May 2024 17:25:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/bangkok-thailand-climate-change-rising-sea-levels-move-new-capital-4340716
+    https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-su-jianfeng-new-charges-4340726
    </guid>
    <category>
-    Asia ,Sustainability
+    Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SKbM-ugj--/c_crop,h_576,w_1024,x_0,y_53/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/000_9rd2tn.jpg?itok=nbicP3K0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Climate change could force Bangkok to move, official warns
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/bangkok-thailand-climate-change-rising-sea-levels-move-new-capital-4340716
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 17:25:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/bangkok-thailand-climate-change-rising-sea-levels-move-new-capital-4340716
-   </guid>
-   <category>
-    Asia ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SKbM-ugj--/c_crop,h_576,w_1024,x_0,y_53/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/000_9rd2tn.jpg?itok=nbicP3K0" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nBO8ZP9H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/su_jianfeng.png?itok=uQbUo8-V" width="1600"/>
   </item>
  </channel>
 </rss>
