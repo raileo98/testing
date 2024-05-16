@@ -21,11 +21,57 @@
    en
   </language>
   <lastBuildDate>
-   Thu, 16 May 2024 08:34:10 GMT
+   Thu, 16 May 2024 08:42:33 GMT
   </lastBuildDate>
   <ttl>
    5
   </ttl>
+  <item>
+   <title>
+    Google I/O推出生活數位助理 AI如何改變生活？
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F201610%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">Google於台灣時間15日凌晨舉行年度開發者大會Google I/O。Google這次推出能生成圖像的Imagen 3、生成影片的Veo兩款模型，也提出更多旗下AI Gemini應用於生活中的項目。新的AI功能能做到什麼？</div>
+                                        <p>緊接OpenAI的新GPT-4o發布消息後，Google也在美國當地時間14日上午10時，於加州舉行年度開發者大會Google I/O，其中AI的發展不僅令人矚目，也是本次大會的重點。</p><p>本次大會中Google除了推出能生成圖像的Imagen 3、生成影片的Veo兩款模型，以因應OpenAI的Dall-E 3與Sora，也提出更多將旗下AI Gemini應用於生活中的項目。</p><p>Google表示，開發真正實用、可以在日常生活中協助人類的通用 AI 代理，一直是他們的使命之一，這些功能都將於不久後上線，但初步多只支持美國境內的英文搜尋。</p><h2 id="aizhuli-mu-project-astra-nengzuodaoshen"><strong>AI助理項目「Project Astra」能做到什麼？</strong></h2><p>Google在大會中發表了開發AI助理的「Project Astra」項目，有別於聊天式的AI如ChatGPT等，Project Astra能透過手機鏡頭或智慧眼鏡與Google旗下的AI Gemini即時互動。</p><p>該項目目標結合語音互動、影像識別、環境感知等方式，讓人工智慧即時描述、解釋鏡頭拍攝到的畫面內容，同時也能記憶過去的內容。</p><div class="raw-html-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/nXVvvRhiGjI?si=6ZpMRJiPLPypO9G6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="no-referrer" allowfullscreen=""></iframe></div><p>在展示影片中，Google的工作人員在辦公室內拍攝，並要求Gemini在看到「能發出聲音的東西」時告訴他，Gemini隨即回應，「我看到1台喇叭。」</p><p>工作人員又走到落地窗前拍攝風景問道，「你覺得我在哪個地方？」</p><p>Gemini說道，「應該是在倫敦的王十字車站。」並介紹了該景點的特色。</p><p>隨後工作人員說道忘記自己的眼鏡放在哪了，問Gemini是否記得？Gemini準確指出眼鏡被放在桌上的一顆蘋果旁。</p><p>Google表示，雖然他們已在開發能理解影像、音訊、文字等多模態資訊的AI系統方面，取得了大幅進展，但要讓AI的回應速度快到像人類對話一樣自然仍是一大挑戰，在經過幾年的調整才終於達到如今的成果。</p><p>預計該功能將於今年稍晚在Google產品如Gemini App上推出。</p><h2 id="buzhidaozen-ti-zhijiepaiyingpian-ai"><strong>不知道怎麼提問？ 直接拍影片「問」AI</strong></h2><p>Google也結合AI與搜尋本業，讓使用者無須用文字描述、直接透過影片影片搜尋問題。</p><div class="raw-html-embed"><img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Flh7-us.googleusercontent.com%2Fdocsz%2FAD_4nXf_vmO4vqjNKoVvscbJoIapNJjueCvfSVu4YZx-yBwH5-waMbVub56ncv849SJ5AFlGYuUy-u5r-NYYpoU_OKiPZudBhX7JjZcqUUP4LCO9uJ3hURgykYy7G3c7Q8twUdShqDMmmkPldmRi0t6lkg%3Fkey%3DtjW0gIeljDROorjhB_Q-nA" referrerpolicy="no-referrer"></div><p>Google在官方部落格中以「二手黑膠唱片機跳針」的情境來演示，透過Ask with Video的功能，使用者只需要拍下黑膠唱片機故障的影片，AI就會自動辨識搜尋。</p><h2 id="googlexiangbuyue-yueda-aikuaisuzhaochusuoxuzhaopian"><strong>Google相簿越來越大？ AI快速找出所需照片</strong></h2><p>另一個和AI結合的Google產品是相簿，Google表示每天有超過60億張照片被傳到Google相簿中，使用者若要尋找特定內容的照片往往需要自行過濾許久。</p><p>透過「Ask Photos」的功能，未來使用者只需要向Gemini表示「找出有我的車牌號碼的照片」、「找出我去過的國家公園照片」，Gemini就可以在短時間內從相簿中找出符合指令的照片。</p><h2 id="sou-guotaiduo-kan-ai-zuo-kuaisuzhaojieda"><strong>搜尋結果太多沒時間看？ AI製作總覽快速找解答</strong></h2><p>過往搜尋時會出現大量的結果，往往需要時間慢慢過濾才能取得所需資訊，Google將AI功能與搜尋結合，讓搜尋結果呈現的同時也會提供使用者概要資訊，快速瀏覽。</p><p>Google表示目前該實驗功能使用次數已達數十億，且多數使用者搜尋結果的滿意度也有上升，該功能將先在美國推出，預計在年底前會開放其他國家使用。</p><h2 id="kezi-gems-dazao-ren-aizhuli"><strong>可自訂Gems 打造個人專屬AI助理</strong></h2><p>Google也推出了可依個人需求，製造出不同個性與專業的AI助理功能「<a href="https://blog.google/products/gemini/google-gemini-update-may-2024/#personalize-gems">Gems</a>」。</p><p>透過該功能，使用者能將AI助理設定成健身夥伴、營養師、軟體工程師，要求Gems幫忙制定健身計畫、備餐菜單等等。 </p><p>Google表示未來預計將更多旗下產品，如日曆Google日曆、任務管理程式Google Tasks和筆記產品Google Keep與AI整合，「未來你可以拍下孩子的學校課表，然後要求Gemini建立對應的行事曆事項，或是拍下一個食譜並且將待採買的食材加入Keep做成購物清單。」</p>
+                 ]]>
+   </description>
+   <link>
+    https://news.pts.org.tw/article/695389
+   </link>
+   <guid isPermaLink="false">
+    https://news.pts.org.tw/article/695389
+   </guid>
+   <pubDate>
+    Thu, 16 May 2024 08:35:00 GMT
+   </pubDate>
+   <author>
+    洪詩宸
+   </author>
+  </item>
+  <item>
+   <title>
+    苗栗受困套索小黑熊「日曼」傷癒 部落祈福下順利野放【影片】
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F201611%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
+                                            <div class="articleimg">去（2023）年10月，苗栗縣泰安鄉1隻小黑熊被發現受困於套索陷阱，當地泰雅族人協助脫困，並以發現小黑熊的地名「Ziman（日曼）」為牠命名。經7個多月休養及評估無虞後，今（16）日上午在林業署人員及族人陪伴下順利野放重返山林。</div>
+                                        <p>去年10月，苗栗縣泰安鄉桂竹林地內發現1隻未滿1歲的小黑熊，受困於俗稱「山豬吊」的套索陷阱，在救援下成功脫困，當地部落族人還以發現小熊的地名「Ziman（日曼）」為牠命名。</p><ul><li><a href="https://news.pts.org.tw/article/662203">苗栗山區小黑熊受困陷阱 部落族人通報獲救</a></li></ul><p>歷經7個多月專業醫療照養後，日曼的恢復情形良好，經評估健康無虞，今（16）日上午順利野放重返山林。</p><div class="raw-html-embed"><iframe width="560" height="315" src="https://www.youtube.com/embed/1GOiJOJkXsU?si=VFkD1gXkVmTXp_3p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="no-referrer" allowfullscreen=""></iframe></div><p>林業署表示，日曼曾受困套索的左前掌雖因傷勢嚴重而無法保留，但傷口已全部癒合，攀爬、行走情形良好，對野外食物接受度高，在照養人員安排下皆能成功覓食，且對人保持高度警戒，符合各項野放標準，已是1隻可以獨立生活的亞成熊。</p><p>林業署指出，今日野放時以高分貝聲響及無殺傷力的野生動物驅離槍進行負面制約，讓日曼盡可能遠離人群，也將透過衛星發報頸圈回傳訊息，隨時掌握牠的活動情形。</p><figure class="image"><img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Flh7-us.googleusercontent.com%2Fbl0ayrL3QgCWX1sDU0mP6wFbiFURdxQflc9OajYMgt25QA0E7xgkkqdWISjzZFc-EbeeLDIPDaTXLqsoQPQLofaTOI7dHy5b0HQA9RYmNPupuiHdW2SSt169O6C5xGlT-pxZ2SQHE7LD4a4soGD9j4g" referrerpolicy="no-referrer"><figcaption>（圖／林業署）</figcaption></figure><p>當初發現小熊的大安部落族人們提到，Ziman（日曼）意指靠近溪流水源的平坦地方，希望小黑熊帶著這個名字重返山林，重新開始平順悠遊的生活。大安及桃山部落族人今日也到場為日曼祈福，並見證開啟野放籠瞬間，目送日曼快步朝山林奔去。</p><figure class="image"><img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Flh7-us.googleusercontent.com%2FFIHIdsIsNt4dAdnjqUGFfiqmEw3UUm59L_zFTYgjwnq9ut3CbRwGifydBOaaVYMm9MoDYmxCg5xilg9IiaUm41oej_lR66Kk4nGGHOV7NXobICQ4KPweyVIeorCHWv2yEp0fC4HeHxx9IczrmQlz8ec" referrerpolicy="no-referrer"><figcaption>（圖／林業署）</figcaption></figure><p>林業署台中分署也呼籲，若有防治野生動物危害農作或原住民傳統狩獵需求，可向分署申領改良式獵具，如有發生誤捕或誤傷黑熊事件應立即通報；也將鼓勵各部落參與黑熊生態服務給付，協助棲地巡護、移除不明獵具。</p>
+                 ]]>
+   </description>
+   <link>
+    https://news.pts.org.tw/article/695388
+   </link>
+   <guid isPermaLink="false">
+    https://news.pts.org.tw/article/695388
+   </guid>
+   <pubDate>
+    Thu, 16 May 2024 08:34:00 GMT
+   </pubDate>
+   <author>
+    黃瑀喬
+   </author>
+  </item>
   <item>
    <title>
     金曲35／金曲獎入圍名單揭曉 林俊傑、熱狗爭歌王寶座【完整名單】
@@ -545,82 +591,6 @@
    </category>
    <category>
     消防署
-   </category>
-  </item>
-  <item>
-   <title>
-    家長控孩子遭體罰事後卻遭霸凌 高雄市府將啟動調查
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F201592%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">高雄某國中籃球教練3月底被人本基金會及家長質疑，有不當體罰及隊費帳目不清問題；出面指控的家長今（16）日再度表示，孩子事後在學校被霸凌，只能轉學；吹哨的家長會長也被罷免。對此校方澄清，相關調查及輔導都有持續進行，並無包庇行為；高市府則表示會針對罷免案及校長行政管理責任，啟動府級調查。</div>
-                                        <p>家長拿著孩子寫給市長、訴說打球願望的陳情信。</p><p>這幾位家長3月底出面指控，高雄某國中籃球教練不當體罰及隊費帳目不清，事後孩子卻被排擠霸凌。</p><p>家長指出，「大隊是林教練帶的，他就是把我們孩子剔除在大隊的名單，那小隊的教練也不能帶他們，因為他們不在小隊的名單裡面，就等於沒人管的狀態。」</p><p>家長說道，「網路上面截圖，我們開記者會的畫面，然後（學生）在旁邊加字留言說，都是你們這幾個在惹事。」</p><p>擔憂孩子身心受影響，家長16日上午無奈陳情，籃球隊內5名學生接連在這2周內轉學，同樣出面指控的家長會長也被罷免。</p><p>人本基金會南部辦公室主任施宜昕表示，「校長從頭到尾都在家長會（提議罷免）的現場教練，學校不但沒有把他停聘，繼續讓他能夠控制學生的上場練習的權利、讓他控制學生出賽的權利，那這些小孩就是被犧牲了嘛！」</p><p>面對包庇質疑，校方強調未介入家長會長罷免案，當天僅是受邀列席；收到家長申訴不當體罰後，也啟動調查，讓教練於專訓課請假，與當事學生隔離。</p><p>當事學校校長回應，「專訓課的時候去做請假的動作，表示已經有達到隔離的動作，所以基本上會議的部分就決議說，教練未達停聘的標準，也兼顧到其他班級孩子的受課權。」</p><p>校方強調，學校及學資中心持續輔導學生。</p><p>市長陳其邁則回應，已啟動對罷免案及校長行政管理責任的府級調查，由於校方之前調查過程、程序有瑕疵，已經駁回，市府會盡速釐清真相、確保孩子受教權。</p>
-                 ]]>
-   </description>
-   <link>
-    https://news.pts.org.tw/article/695343
-   </link>
-   <guid isPermaLink="false">
-    https://news.pts.org.tw/article/695343
-   </guid>
-   <pubDate>
-    Thu, 16 May 2024 04:31:00 GMT
-   </pubDate>
-   <author>
-    陳奐宇, 許政俊
-   </author>
-   <category>
-    家長
-   </category>
-   <category>
-    孩子
-   </category>
-   <category>
-    教練
-   </category>
-   <category>
-    家長會長
-   </category>
-   <category>
-    體罰
-   </category>
-  </item>
-  <item>
-   <title>
-    頭城鎮民代表會遭錄影 民代質疑公所派員反監督
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fnews-data.pts.org.tw%2Fmedia%2F201586%2Fconversions%2Fcover-webp.webp" referrerpolicy="no-referrer">   
-                                            <div class="articleimg">頭城鎮民代表會近期召開定期大會，不過部分代表對於鎮公所派3名公所公務員到代表會旁聽席，針對代表發言錄影、拍照和做筆記相當不滿，質疑是在反監督；鎮公所則回應，旁聽席人員是所會聯絡人，負責所會的溝通聯繫，並非要監督代表。</div>
-                                        <p>頭城鎮民代表會近期召開定期會，卻爆發爭議，因為代表質疑旁聽席裡突然出現3名鎮公所人員，還有人針對代表質詢拿攝影機錄影、拍照和做筆記，讓部分鎮民代表相當不滿，質疑公所是在反監督。</p><p>頭城鎮民代表會副主席游錫財質疑，「第一，他沒有法律的依據，過去也從來不曾看過這樣的做法。鎮公所說是聯絡，為什麼還要錄影？」</p><p>代表質疑，過去代表會開會，鎮公所從來沒派員錄影，且代表會都只有錄音會議內容，並公布在公所網頁，公所從沒有任何人事編制是到代表會錄影拍攝。如果公所派的這些人員是基於私人目的來旁聽，也應該請假；如果是所會聯絡人，應該大方進到議場，不是佔用旁聽席。</p><p>16日來到代表會旁聽席，只剩下1名公所人員到場旁聽，鎮公所表示這2年確實有派所會聯絡人到代表會，主要工作是負責所會的溝通聯繫。</p><p>頭城鎮公所代理秘書陳國棟說道，「你可以看所會聯絡人手機，他沒有拍照，就是在上面玩手機或是看什麼東西，我不知道，就只知道他沒有拍照。」</p><p>鎮公所表示，因為原本的所會聯絡人請長假，所以派其他執掌的人員到旁聽席，後來該員因臨時有公務才請同事代理，忙完後又回到旁聽席，才出現多人在旁聽席的情況，公所也解釋，這些人員並沒有拍攝，可能只是在玩手機。</p>
-                 ]]>
-   </description>
-   <link>
-    https://news.pts.org.tw/article/695342
-   </link>
-   <guid isPermaLink="false">
-    https://news.pts.org.tw/article/695342
-   </guid>
-   <pubDate>
-    Thu, 16 May 2024 04:31:00 GMT
-   </pubDate>
-   <author>
-    林敬倫
-   </author>
-   <category>
-    公所
-   </category>
-   <category>
-    錄影
-   </category>
-   <category>
-    質疑
-   </category>
-   <category>
-    頭城
-   </category>
-   <category>
-    監督
    </category>
   </item>
   <image>

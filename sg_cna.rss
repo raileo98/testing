@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 16:30:21 +0800
+   Thu, 16 May 2024 16:39:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Celtics overpower Cavs, Mavs edge closer after beating Thunder
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/celtics-overpower-cavs-mavs-edge-closer-after-beating-thunder-4339826
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 16:36:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/celtics-overpower-cavs-mavs-edge-closer-after-beating-thunder-4339826
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--T-OQrHOv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/41471bda1c453225aa3064bd9451c27efad2ff14.jpg?itok=p0vNFJjY" width="1600"/>
+  </item>
   <item>
    <title>
     Fernandes says he'll stay at Man Utd if club wants him
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---AsjZtDy--/c_crop,h_562,w_1000,x_0,y_24/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/world_premiere_of_guardians_of_the_galaxy_vol._3_82215.jpg?itok=o4NkYQTR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Dune prequel series adds Bollywood legend Tabu and Succession actress Jihae to its cast
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/dune-prequel-casts-tabu-and-jihae-4340226
-   </link>
-   <description>
-    <![CDATA[Titled Dune: Prophecy, the series is set 10,000 years before the events of the first Dune film starring Timothee Chalamet and Zendaya.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 14:28:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/dune-prequel-casts-tabu-and-jihae-4340226
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uOTnr_Nl--/c_crop,h_900,w_1600,x_0,y_112/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/dune_tabu_jihae.jpg?itok=Lg5nE5RW" width="1600"/>
   </item>
  </channel>
 </rss>
