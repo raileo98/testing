@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 03:30:22 +0800
+   Fri, 17 May 2024 03:40:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Injured De Jong named in preliminary Dutch squad for Euro 2024
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/injured-de-jong-named-preliminary-dutch-squad-euro-2024-4342221
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 03:34:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/injured-de-jong-named-preliminary-dutch-squad-euro-2024-4342221
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Flawless Schauffele ties major record with 62 at PGA Championship
@@ -439,27 +460,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ssj8W6Go--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t144502z_1_lynxmpek4f0kv_rtroptp_3_tennis-london.jpg?itok=z5ZPS3KO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singaporean woman killed in Spain: Judge orders extraction of data from suspect's phone
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/spain-killling-audrey-fang-judge-orders-phone-data-extraction-4341406
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 22:23:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/spain-killling-audrey-fang-judge-orders-phone-data-extraction-4341406
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yjt4Xh1l--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/audrey_fang_suspected_killer_spain.jpg?itok=-TLVhwbd" width="1600"/>
   </item>
  </channel>
 </rss>
