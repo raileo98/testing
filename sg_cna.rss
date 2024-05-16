@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 01:51:20 +0800
+   Fri, 17 May 2024 02:15:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Sea otters get more prey and reduce tooth damage using tools
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/sea-otters-get-more-prey-and-reduce-tooth-damage-using-tools-4342081
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 02:10:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/sea-otters-get-more-prey-and-reduce-tooth-damage-using-tools-4342081
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ospo9POz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t181035z_1_lynxmpek4f0rb_rtroptp_3_science-otters.jpg?itok=sPKPXu00" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Tesla gets local council go-ahead for German factory expansion
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tesla-gets-local-council-go-ahead-german-factory-expansion-4342066
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 02:00:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tesla-gets-local-council-go-ahead-german-factory-expansion-4342066
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoUiCGWs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t180047z_1_lynxmpek4f0r5_rtroptp_3_tesla-germany-factory.jpg?itok=7SgElXRg" width="1600"/>
+  </item>
   <item>
    <title>
     Philippine group calls civilian mission in South China Sea a 'major victory'
@@ -418,48 +460,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F8ylG2Ob--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t130553z_2_lynxmpek4f0hs_rtroptp_3_usa-biden.jpg?itok=kDyloDpZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New psychoactive substances ‘not a big issue’ yet, but still a major concern: Shanmugam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/shanmugam-new-psychoactive-substances-not-big-issue-yet-still-major-concern-4341231
-   </link>
-   <description>
-    <![CDATA[Speaking during a radio segment on CNA938, the Home Affairs and Law Minister also said that people are starting to abuse drugs at a younger age and addressed messaging in popular culture consumed by young people that “glamourises” drug use.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 21:50:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/shanmugam-new-psychoactive-substances-not-big-issue-yet-still-major-concern-4341231
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nnSNfinD--/c_crop,h_900,w_1600,x_0,y_166/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/14/iStock-1300093589%20(1).jpg?itok=Ihk5Avm-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    F1's proposed spray guards still need work, says Bearman
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/f1s-proposed-spray-guards-still-need-work-says-bearman-4341451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 21:43:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/f1s-proposed-spray-guards-still-need-work-says-bearman-4341451
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dk9rA6oU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t134318z_1_lynxmpek4f0iw_rtroptp_3_motor-f1-australia.jpg?itok=KiVhYW2x" width="1600"/>
   </item>
  </channel>
 </rss>
