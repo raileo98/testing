@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 16:30:26 +0800
+   Thu, 16 May 2024 16:40:31 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 09:45:29 +0800
+   Thu, 16 May 2024 16:34:14 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks finish with more gains
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753410-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753410-20240516.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks rallied more than one percent on Thursday as investors returned from a midweek break to news that US inflation had started to slow again, boosting hopes for an interest rate cut.
+
+The Hang Seng Index climbed 1.6 percent, or 302 points, to 19,376.
+
+The Shanghai Composite Index edged up 0.1 percent, or 2 points, to 3,122, while the Shenzhen Composite Index gained 0.3 percent, or 5 points, to 1,764. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 16:34:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK stocks gain on US interest rate hopes
@@ -605,33 +626,6 @@ The Shanghai Composite Index added 0.8 percent, or 25 points, to 3,154, while th
    </description>
    <pubDate>
     Thu, 09 May 2024 17:50:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Stock market rebound helps more IPO listings: HKEX
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752439-20240509.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752439-20240509.htm
-   </link>
-   <description>
-    <![CDATA[The head of the city's stock exchange operator on Thursday said average daily trading turnover was improving, paving the way for more initial public offerings (IPOs) in the SAR. 
-
-Bonnie Chan, CEO of Hong Kong Exchanges and Clearing, said trading volume towards the end of April had reached up to HK$150 billion, and that turnover during the Golden Week holiday period remained strong at over HK$110 billion when mainland markets were closed with reduced capital flows to the territory.
-
-"The stock market's rebound means that we have regained the confidence of investors. This certainly helps more IPOs to get listed smoothly and successfully in Hong Kong," she told reporters. 
-
-She said the number of IPO applications received by the bourse in the first quarter of this year was 30 percent more than in the same period in 2023, with around 100 currently waiting to be listed. 
-
-Chan also noted that many firms had expressed interest after the China Securities Regulatory Commission announced new measures to facilitate Hong Kong listings by leading Chinese firms. 
-
-Leading mainland companies would list in Hong Kong in the near future, which could boost the city's market, she added.]]>
-   </description>
-   <pubDate>
-    Thu, 09 May 2024 13:41:26 +0800
    </pubDate>
   </item>
  </channel>
