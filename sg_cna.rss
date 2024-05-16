@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 05:09:10 +0800
+   Fri, 17 May 2024 05:21:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel vows to 'intensify' operations in Rafah
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-vows-intensify-operations-rafah-4340761
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 05:09:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-vows-intensify-operations-rafah-4340761
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F7vOedZL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/187f4f4c05237976d41efd66656d2332e227f2e9.jpg?itok=CgcpSWS1" width="1600"/>
+  </item>
   <item>
    <title>
     Kante makes surprise return to France Euro squad
@@ -378,7 +399,7 @@
   </item>
   <item>
    <title>
-    Slovak PM speaking, in serious condition, after shooting, suspected gunman charged
+    Slovak PM speaking, in serious condition, after shooting; suspected gunman charged
    </title>
    <link>
     https://www.channelnewsasia.com/world/slovak-pm-speaking-serious-condition-after-shooting-suspected-gunman-charged-4342161
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ku24cmXO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t172502z_1_lynxmpek4f0qn_rtroptp_3_israel-palestinians-politics.jpg?itok=29ZHKrMG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sea otters get more prey and reduce tooth damage using tools
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sea-otters-get-more-prey-and-reduce-tooth-damage-using-tools-4342081
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 02:10:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sea-otters-get-more-prey-and-reduce-tooth-damage-using-tools-4342081
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
