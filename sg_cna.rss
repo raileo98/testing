@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 10:42:07 +0800
+   Thu, 16 May 2024 10:45:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Figure skating-Australian Kerry to appeal US sexual misconduct ban
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/figure-skating-australian-kerry-appeal-us-sexual-misconduct-ban-4339961
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 10:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/figure-skating-australian-kerry-appeal-us-sexual-misconduct-ban-4339961
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oem2wc1D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t024000z_1_lynxmpek4f02m_rtroptp_3_olympics-2022-figureskating.jpg?itok=NJeqG7Ge" width="1600"/>
+  </item>
   <item>
    <title>
     France imposes state of emergency in New Caledonia after deadly riots
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1B77O4K4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t012719z_1_lynxmpek4f01j_rtroptp_3_business-currency.jpg?itok=eL7O-sAS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Victoria's Secret fashion show set for a comeback after six-year gap
-   </title>
-   <link>
-    https://www.channelnewsasia.com/style-beauty/victorias-secret-fashion-show-coming-back-4338841
-   </link>
-   <description>
-    <![CDATA[The popular annual runway show from Victoria's Secret, featuring supermodels with jewel-encrusted bras and angel wings, will be back this fall season.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 08:44:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/style-beauty/victorias-secret-fashion-show-coming-back-4338841
-   </guid>
-   <category>
-    Style &amp; Beauty ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--azspEuaM--/c_crop,h_450,w_800,x_0,y_63/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t174257z_1_lynxmpek4e0u4_rtroptp_3_victoria-s-secret-fashion-show.jpg?itok=xkG7PCeT" width="1600"/>
   </item>
  </channel>
 </rss>
