@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 16:56:29 +0800
+   Thu, 16 May 2024 17:14:03 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    White House moves to protect US solar manufacturers from Chinese competition
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/white-house-moves-protect-us-solar-manufacturers-chinese-competition-4340741
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 17:07:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/white-house-moves-protect-us-solar-manufacturers-chinese-competition-4340741
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Mfp0Q5aL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t090743z_1_lynxmpek4f0af_rtroptp_3_usa-biden-solar.jpg?itok=cv9m4JRZ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Pushback against Indonesia's revised broadcasting bill; journalist groups fear threats to press freedom
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-broadcasting-bill-press-freedom-4340676
+   </link>
+   <description>
+    <![CDATA[One controversial recent amendment is a provision which prohibits the exclusive broadcasting of investigative journalism content.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 17:02:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-broadcasting-bill-press-freedom-4340676
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A20DeBqs--/c_fill,h_900,w_1600/f_auto,q_auto/indonesia-parliament---1382274.png?itok=Z0RJhkf3" width="1600"/>
+  </item>
   <item>
    <title>
     Celtics overpower Cavs, Mavs edge closer after beating Thunder
@@ -156,7 +198,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 16 May 2024 16:03:35 +0800
+    Thu, 16 May 2024 16:03:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/slovakia-prime-minister-robert-fico-condition-assassination-attempt-hospital-4340491
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Xn6Ngp_D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t063136z_1_lynxmpek4f05v_rtroptp_3_soccer-fifa.jpg?itok=XyU5MBab" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chris Pratt hints at Nintendo movie universe: 'There's so much to explore'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/chris-pratt-nintendo-movie-universe-4339741
-   </link>
-   <description>
-    <![CDATA[Chris Pratt plays Mario in The Super Mario Bros Movie and its sequel.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 14:31:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/chris-pratt-nintendo-movie-universe-4339741
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---AsjZtDy--/c_crop,h_562,w_1000,x_0,y_24/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/world_premiere_of_guardians_of_the_galaxy_vol._3_82215.jpg?itok=o4NkYQTR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Chris Pratt hints at Nintendo movie universe: 'There's so much to explore'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/chris-pratt-nintendo-movie-universe-4339741
-   </link>
-   <description>
-    <![CDATA[Chris Pratt plays Mario in The Super Mario Bros Movie and its sequel.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 14:31:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/chris-pratt-nintendo-movie-universe-4339741
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---AsjZtDy--/c_crop,h_562,w_1000,x_0,y_24/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/world_premiere_of_guardians_of_the_galaxy_vol._3_82215.jpg?itok=o4NkYQTR" width="1600"/>
   </item>
  </channel>
 </rss>
