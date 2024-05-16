@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 04:54:13 +0800
+   Fri, 17 May 2024 05:09:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Kante makes surprise return to France Euro squad
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/kante-makes-surprise-return-france-euro-squad-4342401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 04:56:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/kante-makes-surprise-return-france-euro-squad-4342401
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pK_AGa6v--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t205621z_1_lynxmpek4f0v4_rtroptp_3_soccer-euro-fra-ger-preview.jpg?itok=ItAISYyR" width="1600"/>
+  </item>
   <item>
    <title>
     OpenAI strikes deal to bring Reddit content to ChatGPT
@@ -248,7 +269,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4XTnpji_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t202648z_3_lynxmpek4f0tz_rtroptp_3_ai-voiceover-lawsuit.jpg?itok=2NDuljzl" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_M8yCk-a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t205505z_4_lynxmpek4f0tz_rtroptp_3_ai-voiceover-lawsuit.jpg?itok=cJ1nHVcj" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Tesla gets local council go-ahead for German factory expansion
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tesla-gets-local-council-go-ahead-german-factory-expansion-4342066
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 02:00:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tesla-gets-local-council-go-ahead-german-factory-expansion-4342066
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoUiCGWs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t180047z_1_lynxmpek4f0r5_rtroptp_3_tesla-germany-factory.jpg?itok=7SgElXRg" width="1600"/>
   </item>
  </channel>
 </rss>
