@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 03:16:10 +0800
+   Fri, 17 May 2024 03:27:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Flawless Schauffele ties major record with 62 at PGA Championship
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/flawless-schauffele-ties-major-record-62-pga-championship-4342186
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 03:15:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/flawless-schauffele-ties-major-record-62-pga-championship-4342186
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Slovak PM speaking, in serious condition, after shooting, suspected gunman charged
    </title>
    <link>
@@ -60,6 +81,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o2isr5_H--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/9a51e1b607d293a92b787ea6654f114ec8ca8961.jpg?itok=t9hjsIRt" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Figma valued at $12.5 billion in tender offer backed by Fidelity, others
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/figma-valued-125-billion-tender-offer-backed-fidelity-others-4342176
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 03:01:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/figma-valued-125-billion-tender-offer-backed-fidelity-others-4342176
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -418,48 +460,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Yjt4Xh1l--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/19/audrey_fang_suspected_killer_spain.jpg?itok=-TLVhwbd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    In France, anti-LGBT+ offences rose 13% in 2023
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/france-anti-lgbt-offences-rose-13-2023-4341486
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 22:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/france-anti-lgbt-offences-rose-13-2023-4341486
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NQwX85mD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/france_lgbt_rights_93291.jpg?itok=cSsOCd0J" width="1600"/>
-  </item>
-  <item>
-   <title>
-    The world skirted a wage-price spiral, though 'last mile' risks remain: Research
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/world-skirted-wage-price-spiral-though-last-mile-risks-remain-research-4341501
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 22:05:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/world-skirted-wage-price-spiral-though-last-mile-risks-remain-research-4341501
-   </guid>
-   <category>
-    Business ,World
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
