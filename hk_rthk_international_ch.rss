@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 10:20:25 +0800
+   Thu, 16 May 2024 10:40:48 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 10:17:05 +0800
+   Thu, 16 May 2024 10:31:46 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    央視報道習近平將舉行儀式歡迎普京訪華
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753356-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753356-20240516.htm
+   </link>
+   <description>
+    <![CDATA[央視報道，國家主席習近平將在北京人民大會堂東門外廣場，舉行儀式，歡迎俄羅斯總統普京訪華。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 10:31:46 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     巴基斯坦宣布成功試射法塔赫-2制導火箭系統
@@ -463,25 +480,6 @@
    </description>
    <pubDate>
     Wed, 15 May 2024 18:44:25 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    東電周五啟動第六輪核污水排海　排放約7800噸
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753285-20240515.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753285-20240515.htm
-   </link>
-   <description>
-    <![CDATA[日本東京電力公司宣布，將於星期五啟動福島第一核電站核污水第六輪排海，持續至下月4日，將排放約7800噸核污水。
-
-東電今年1月表示，2024財政年度將分7次排放54600噸左右核污水。]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 18:33:57 +0800
    </pubDate>
   </item>
  </channel>
