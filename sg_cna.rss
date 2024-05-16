@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 05:44:55 +0800
+   Fri, 17 May 2024 05:55:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Lopez double move Barca closer to top two finish with win over Almeria
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/lopez-double-move-barca-closer-top-two-finish-win-over-almeria-4342511
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 05:51:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/lopez-double-move-barca-closer-top-two-finish-win-over-almeria-4342511
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Israel vows to 'intensify' operations in Rafah
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    UN aid chief warns on Gaza food supplies, says relief work 'unplannable'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/un-aid-chief-warns-gaza-food-supplies-says-relief-work-unplannable-4341766
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 02:30:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/un-aid-chief-warns-gaza-food-supplies-says-relief-work-unplannable-4341766
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ku24cmXO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t172502z_1_lynxmpek4f0qn_rtroptp_3_israel-palestinians-politics.jpg?itok=29ZHKrMG" width="1600"/>
   </item>
  </channel>
 </rss>
