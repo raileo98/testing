@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 17 May 2024 05:10:13 +0800
+   Fri, 17 May 2024 05:20:41 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 23:47:40 +0800
+   Fri, 17 May 2024 05:11:07 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    歐股收市下跌
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753476-20240517.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753476-20240517.htm
+   </link>
+   <description>
+    <![CDATA[歐洲主要股市收市下跌。
+
+德國DAX指數收市報18738點，跌130點，跌幅0.69%。
+
+法國CAC指數收市報8188點，跌51點，跌幅0.63%。
+
+英國富時100指數收市報8438點，跌7點，跌幅0.08%。]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 05:11:07 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     京東集團：以舊換新有助刺激存量置換需求
@@ -447,29 +470,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 16:51:24 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股高收302點　成交突破2千億元創近1年半新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753407-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753407-20240516.htm
-   </link>
-   <description>
-    <![CDATA[港股假期後上升，恒生指數最高升至19442點，再創逾9個月新高，收市報19376點，升302點，升幅約1.6%。全日主板成交額增至約2049億元，較周二增加43%，創近1年半新高。
-
-科技指數未能突破4100點，收報4072點，升幅約0.8%。騰訊及阿里巴巴績後個別發展，騰訊高收約4%，但未能企穩400元，是表現最好科指成份股；阿里巴巴逆市跌逾3%。
-
-有傳中央要求國有銀行協助地方政府收購未售樓盤，內房股急升，龍湖集團升近11%，是升幅最大藍籌股；世茂集團、融創中國、萬科企業都升逾一成。
-
-物管、金融、本地地產、博彩股都升。汽車股個別發展。創科逆市跌逾5%，是表現最差藍籌股。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 16:47:20 +0800
    </pubDate>
   </item>
  </channel>
