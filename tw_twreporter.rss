@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Wed, 15 May 2024 17:00:03 GMT
+   Thu, 16 May 2024 17:00:03 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    1996年後新總統首任內閣比一比：賴政府非綠閣員占比低於扁蔡、內閣最老但國安團隊最年輕
+   </title>
+   <description>
+    <![CDATA[新總統就任後的初代內閣，具有重要宣示意義。即將在520上任的賴清德政府，閣員組成較李登輝、陳水扁、馬英九、蔡英文政府，有哪些不同？《報導者》從黨籍、年齡、性別組成分析。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/data-reporter-the-composition-of-first-cabinet-after-1996
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/data-reporter-the-composition-of-first-cabinet-after-1996
+   </guid>
+   <pubDate>
+    Wed, 15 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240515142031-3294f091af577bc6d6964d9cf3250d0a-mobile.jpg"/>
+  </item>
   <item>
    <title>
     世上有「完美的口譯」嗎？直播時代，口譯員背負的風險與使命
@@ -195,24 +213,6 @@
     Tue, 07 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240427145343-8a186d9cbeba963d8f0267edfc7dd4a7-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    當上學念書成為「一場遊戲」，我們是促進學習、還是開啟了威權監控？
-   </title>
-   <description>
-    <![CDATA[若某些人自願接受遊戲化，將他們的生活交給手上的智慧型手機控制，那是一回事。但是政府和當權者在未經同意下將數百萬人的生活化為數據點操作，像是遊戲中與非玩家角色互動一樣，那又是另一回事了。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-you-have-been-played
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-you-have-been-played
-   </guid>
-   <pubDate>
-    Mon, 06 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240417173716-455928cb03717d1dd35b0f63ac2b4fa3-mobile.jpg"/>
   </item>
  </channel>
 </rss>
