@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 14:20:20 +0800
+   Thu, 16 May 2024 14:40:34 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 14:15:22 +0800
+   Thu, 16 May 2024 14:34:32 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股升逾500點收市　迫近39000點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753385-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753385-20240516.htm
+   </link>
+   <description>
+    <![CDATA[日股尾市升幅擴大，日經指數迫近39000點，連升3個交易日，創逾1個月新高。
+
+指數收市報38920點，升534點，升幅1.39%。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 14:34:32 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     台股高收逾0.7%　再創新高
@@ -445,23 +464,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 08:18:03 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股初段升0.9%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753334-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753334-20240516.htm
-   </link>
-   <description>
-    <![CDATA[日本股市在開市初段上升，日經平均指數較早時報38745點，升359點，升幅0.94%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 08:17:36 +0800
    </pubDate>
   </item>
  </channel>
