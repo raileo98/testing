@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 15:01:16 +0800
+   Thu, 16 May 2024 15:20:06 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 14:44:50 +0800
+   Thu, 16 May 2024 15:16:03 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬股尾市一度倒跌　全日升2點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753393-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753393-20240516.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市尾市升幅收窄，房地產、旅遊、家具等股份造好，港口航運、電力、貴金屬、汽車整車股偏軟。
+
+上證指數尾市一度倒跌，收市報3122點，升2點，升幅0.08%。
+
+深證成份指數收報9604點，升20點，升幅0.21%。
+
+創業板指數收報1844點，升5點，升幅0.29%。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 15:16:03 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     韓股高收逾0.8%　創逾1個半月新高
@@ -443,29 +466,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 09:07:24 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    分析料聯儲局最快9月開始減息　年內共減兩次
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753336-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753336-20240516.htm
-   </link>
-   <description>
-    <![CDATA[美國通脹放緩，4月消費物價指數(CPI)按月升0.3%，按年升3.4%。撇除食品和能源價格的核心CPI，按月升0.3%，按年升3.6%，其中按年升幅創3年新低。
-
-大新金融集團首席經濟及策略師溫嘉煒表示，今次通脹放緩主要反映在消費品價格下跌、住屋成本回落等服務業以外的項目，但服務業通脹升幅按年仍然有所加快，如果相關通脹持續高企，可能是未來一段時間CPI進一步放緩的重大阻力。
-
-他又指，即使核心CPI按年已放緩至3.6%，但仍與歐元區3%以下的幅度有一段距離，因此對於聯儲局未來減息步伐不容過於樂觀，估計美國最快在9月開始減息，今年合共減息兩次，亦未必每次會議都會減息，以便觀察經濟數據表現。如果通脹放緩幅度再度減慢，甚至回升，聯儲局年內可能只減息1次。
-
-另外，美國4月零售銷售按月持平，市場原先預期增加0.4%。溫嘉煒指，近期美國消費信心轉弱，民眾憂慮通脹或較長時間處於高位，從而削弱消費力，預料今年零售銷售可能仍有放緩壓力，可能導致下半年美國經濟增長速度未如首季。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 08:58:02 +0800
    </pubDate>
   </item>
  </channel>

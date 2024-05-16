@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 15:01:46 +0800
+   Thu, 16 May 2024 15:20:24 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 14:50:13 +0800
+   Thu, 16 May 2024 15:05:16 +0800
   </lastBuildDate>
   <category>
    News
@@ -48,7 +48,38 @@
   </image>
   <item>
    <title>
-    FIBA to stage 3x3 World Tour in HK
+    Spam call blocker apps pose privacy risk: watchdog
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753391-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753391-20240516.htm
+   </link>
+   <description>
+    <![CDATA[The Consumer Council on Thursday warned that the personal data of people who use apps to block spam callers could be at risk because some of these apps pass on the information to third parties.
+
+The watchdog investigated five such apps and found that two of them uploaded details from the user’s list of contacts onto their databases.
+
+The council found that third parties could then access sensitive details including addresses and the monthly rents the contacts paid. 
+
+It's suspected these were extracted from the contact lists of landlords or property agents who also used the apps. 
+
+The council found that one of the apps would also access up to eight items of personal data, including names, photos and dates of birth, when registered via Facebook. 
+
+Speaking at a press briefing, Kenneth Chan, the Vice-Chairman of the council's Publicity and Community Relations Committee, reminded users to stay vigilant when using these apps.
+
+"Consumers should pay attention to the following when using blocker apps. Read the terms of service and privacy policy before use, and evaluate whether the blocker app is trustworthy and the permission is reasonably commensurate with the functions offered," he added. 
+
+Despite the privacy risk, Chan also called on users to proactively report spam to help apps identify and block the latest telemarketing and spam calls.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 15:05:16 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    FIBA to stage 3x3 World Tour Final in HK
    </title>
    <guid>
     https://news.rthk.hk/rthk/en/component/k2/1753388-20240516.htm
@@ -667,37 +698,6 @@ The CE said that is the only impression he has of Yuen.]]>
    </description>
    <pubDate>
     Tue, 14 May 2024 12:30:31 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Tourists from 8 mainland cities to get HK$200 vouchers
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753100-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753100-20240514.htm
-   </link>
-   <description>
-    <![CDATA[Tourists hailing from eight mainland cities will be welcomed with HK$200 vouchers for restaurants and shops, Chief Executive John Lee said on Tuesday.
-
-Last week, the central government added eight new cities, including Urumqi, Hohhot and Heilongjiang to the Individual Visit Scheme (IVS), allowing residents to travel to the SAR without joining a tour group.
-
-Speaking ahead of the weekly Executive Council meeting, Lee said he expects visitors from the eight cities to provide a large boost to Hong Kong's tourism sector.
-
-"The IVS is the main source of tourists for Hong Kong. It contributed 60 percent of all mainland tourist arrivals last year. The eight cities come with large populations and they also have significant economic growth, with high spending power," he said.
-
-"The eight cities are located in the north, northwest and northeast of China respectively. They are further away from Hong Kong, when compared with the other cities under the IVS. This will bring in a lot of overnight visitors, largely increase per capita spending, and revenues from tourism and related sectors will increase exponentially."
-
-Lee said the authorities have a series of measures to attract more tourists, including the HK$200 vouchers.
-
-He added that a drone show at the weekend received rave reviews.
-
-"Our purpose is to let locals and visitors feel the joy, when they participate in these activities. We hope to use activities to bring liveliness, and use liveliness to bring more money," he said.]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 12:06:32 +0800
    </pubDate>
   </item>
  </channel>
