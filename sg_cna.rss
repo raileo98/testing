@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 10:58:04 +0800
+   Thu, 16 May 2024 11:18:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    South Korea's state-run think tank raises GDP, inflation forecasts
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/south-koreas-state-run-think-tank-raises-gdp-inflation-forecasts-4340031
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 11:04:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/south-koreas-state-run-think-tank-raises-gdp-inflation-forecasts-4340031
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    TSMC says no damage to its Arizona facilities after incident
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tsmc-says-no-damage-its-arizona-facilities-after-incident-4340006
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 10:55:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tsmc-says-no-damage-its-arizona-facilities-after-incident-4340006
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--10jn19-7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t025529z_1_lynxmpek4f02t_rtroptp_3_tech-ai.jpg?itok=6D1SSJXa" width="1600"/>
+  </item>
   <item>
    <title>
     Magician David Copperfield accused of sexual misconduct by multiple women: Report
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rw59A7LM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/gcm_5280.jpg?itok=jikyKksm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Asia rides Wall St rally, dollar sags on US inflation relief
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/asia-rides-wall-st-rally-dollar-sags-us-inflation-relief-4339816
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 10:02:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/asia-rides-wall-st-rally-dollar-sags-us-inflation-relief-4339816
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eKFZS1Kg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t020214z_1_lynxmpek4f020_rtroptp_3_global-markets.jpg?itok=JJ8HbAud" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Saudis look to show jumping for medal success in Paris
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/saudis-look-show-jumping-medal-success-paris-4339771
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 09:35:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/saudis-look-show-jumping-medal-success-paris-4339771
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KTEN0Cnc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t013529z_1_lynxmpek4f01p_rtroptp_3_olympics-2024-saudi.jpg?itok=FLSOWpMo" width="1600"/>
   </item>
  </channel>
 </rss>
