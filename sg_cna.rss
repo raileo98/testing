@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 02:27:27 +0800
+   Fri, 17 May 2024 02:40:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    UN aid chief warns on Gaza food supplies, says relief work 'unplannable'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/un-aid-chief-warns-gaza-food-supplies-says-relief-work-unplannable-4341766
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 02:30:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/un-aid-chief-warns-gaza-food-supplies-says-relief-work-unplannable-4341766
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ku24cmXO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t172502z_1_lynxmpek4f0qn_rtroptp_3_israel-palestinians-politics.jpg?itok=29ZHKrMG" width="1600"/>
+  </item>
+  <item>
+   <title>
     Sea otters get more prey and reduce tooth damage using tools
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ospo9POz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t181035z_1_lynxmpek4f0rb_rtroptp_3_science-otters.jpg?itok=sPKPXu00" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -439,27 +460,6 @@
     Business ,World
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    White House blocks Republican demands for audio of Biden interview
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/white-house-blocks-republican-demands-audio-biden-interview-4341391
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 21:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/white-house-blocks-republican-demands-audio-biden-interview-4341391
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F8ylG2Ob--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t130553z_2_lynxmpek4f0hs_rtroptp_3_usa-biden.jpg?itok=kDyloDpZ" width="1600"/>
   </item>
  </channel>
 </rss>
