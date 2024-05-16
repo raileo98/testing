@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 17:10:46 +0800
+   Thu, 16 May 2024 17:20:54 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 16:55:36 +0800
+   Thu, 16 May 2024 17:12:50 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    在岸人民幣兌美元收市創逾1周新高
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753420-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753420-20240516.htm
+   </link>
+   <description>
+    <![CDATA[在岸人民幣收市報7.2188元兌1美元，上升7點子，創逾1周新高；中間價亦創近1周新高，與市場預測偏離收窄至1000點子內。
+
+交易員指出，美國通脹率放緩，推高聯儲局9月減息預期，美元匯價回軟，但逢低購匯需求偏多，限制人民幣反彈空間。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 17:12:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     調查：今年旅遊開支增長趨勢將持續
@@ -471,23 +490,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 11:11:13 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股半日升逾0.7%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753357-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753357-20240516.htm
-   </link>
-   <description>
-    <![CDATA[日本股市半日上升，日經平均指數上午收市報38669點，升283點，升幅0.74%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 10:50:07 +0800
    </pubDate>
   </item>
  </channel>

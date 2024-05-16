@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 17:14:03 +0800
+   Thu, 16 May 2024 17:24:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Alexandra Hospital to add 1,000 beds in upgrade; NUH to also undergo redevelopment from next year
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/alexandra-hospital-redevelopment-ageing-population-healthcare-nuh-ong-ye-kung-4340521
+   </link>
+   <description>
+    <![CDATA[These moves are part of plans to ensure healthcare capacity can meet rising needs, said Health Minister Ong Ye Kung.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 17:17:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/alexandra-hospital-redevelopment-ageing-population-healthcare-nuh-ong-ye-kung-4340521
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ixuD9g37--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/ah_igh_hero_image_-_1920x1080.png?itok=s2hIW-yC" width="1600"/>
+  </item>
+  <item>
+   <title>
     White House moves to protect US solar manufacturers from Chinese competition
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Mfp0Q5aL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t090743z_1_lynxmpek4f0af_rtroptp_3_usa-biden-solar.jpg?itok=cv9m4JRZ" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--76Iy2GtE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t091456z_2_lynxmpek4f0af_rtroptp_3_usa-biden-solar.jpg?itok=70y0RG1y" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8EqrnLUr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t064836z_1_lynxmpek4f06f_rtroptp_3_autoshow-bangkok.jpg?itok=8WhV3HpU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    AFC back Palestine bid to suspend Israel, abolishes term limits
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/afc-back-palestine-bid-suspend-israel-abolishes-term-limits-4340346
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 14:31:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/afc-back-palestine-bid-suspend-israel-abolishes-term-limits-4340346
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Xn6Ngp_D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t063136z_1_lynxmpek4f05v_rtroptp_3_soccer-fifa.jpg?itok=XyU5MBab" width="1600"/>
   </item>
  </channel>
 </rss>
