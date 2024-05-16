@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 21:51:20 +0800
+   Thu, 16 May 2024 22:07:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    White House blocks Republican demands for audio of Biden interview
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/white-house-blocks-republican-demands-audio-biden-interview-4341391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 21:51:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/white-house-blocks-republican-demands-audio-biden-interview-4341391
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--F8ylG2Ob--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t130553z_2_lynxmpek4f0hs_rtroptp_3_usa-biden.jpg?itok=kDyloDpZ" width="1600"/>
+  </item>
   <item>
    <title>
     New psychoactive substances ‘not a big issue’ yet, but still a major concern: Shanmugam
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 16 May 2024 21:43:18 +0800
+    Thu, 16 May 2024 21:43:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/f1s-proposed-spray-guards-still-need-work-says-bearman-4341451
@@ -93,7 +114,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 16 May 2024 21:30:36 +0800
+    Thu, 16 May 2024 21:30:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/city-keeper-ederson-out-rest-season-eye-injury-4341436
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Napoli in European last-chance saloon at Fiorentina
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/napoli-european-last-chance-saloon-fiorentina-4341086
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 19:28:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/napoli-european-last-chance-saloon-fiorentina-4341086
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GkZKXwfr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t112814z_1_lynxmpek4f0ek_rtroptp_3_soccer-italy-nap-rom-report.jpg?itok=I_AOrj6V" width="1600"/>
   </item>
  </channel>
 </rss>
