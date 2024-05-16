@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 13:10:32 +0800
+   Thu, 16 May 2024 13:30:49 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 12:44:29 +0800
+   Thu, 16 May 2024 13:16:35 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,46 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    恒指下午初段升逾300點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753381-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753381-20240516.htm
+   </link>
+   <description>
+    <![CDATA[港股下午升勢持續，恒生指數較早時報19382點，升308點，升幅1.62%。
+
+科技指數報4077點，升36點，升幅0.9%。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 13:16:35 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    新世界與深業集團簽署戰略合作協議　研究北部都會區內項目
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753380-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753380-20240516.htm
+   </link>
+   <description>
+    <![CDATA[新世界發展與國企深業集團簽署戰略合作協議，將共同研究及開發北部都會區內的創科及其他房地產項目。
+
+根據協議內容，雙方在深港產業創新及科技合作方面，共同探索新發展方向及營運模式，開拓粵港澳大灣區產業合作的地標項目。雙方亦會聯合成立工作小組，尋求全方位的合作機會。
+
+雙方代表於本月10日在深圳聯合簽署該協議。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 13:13:19 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日本首季經濟收縮　分析：通脹若溫和　央行未必急於加息
@@ -424,48 +464,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 07:31:44 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    國際期油價格上升　美國原油庫存下跌及通脹放緩
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753325-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753325-20240516.htm
-   </link>
-   <description>
-    <![CDATA[美國原油庫存下跌及通脹放緩，帶動國際期油價格反彈。
-
-倫敦布蘭特期油收市報每桶82.75美元，升37美仙，升幅0.4%。
-
-紐約期油報每桶78.63美元，升61美仙，升幅近0.8%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 06:22:47 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    金價升逾1%　美元及債息向下
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753324-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753324-20240516.htm
-   </link>
-   <description>
-    <![CDATA[美元及債息向下，刺激金價升逾1%。
-
-現貨金曾升穿每盎司2390美元，較早時報2385.61美元，升幅約1.2%。
-
-紐約期金收市報每盎司2394.9美元，升35美元，升幅近1.5%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 06:11:04 +0800
    </pubDate>
   </item>
  </channel>

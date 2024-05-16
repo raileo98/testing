@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 13:22:48 +0800
+   Thu, 16 May 2024 13:36:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Game Of Thrones actress Sophie Turner on divorce fallout: 'I didn’t know if I was going to make it'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/sophie-turner-joe-jonas-divorce-fallout-4339731
+   </link>
+   <description>
+    <![CDATA[Sophie Turner and Joe Jonas announced their divorce in September 2023.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 13:32:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/sophie-turner-joe-jonas-divorce-fallout-4339731
+   </guid>
+   <category>
+    Entertainment ,CNA Lifestyle
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TpEcFUaE--/c_crop,h_562,w_1000,x_0,y_60/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/france_fashion_louis_vuitton_f_w_23-24_front_row_74602.jpg?itok=RF3favWz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Game Of Thrones actress Sophie Turner on divorce fallout: 'I didn’t know if I was going to make it'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/sophie-turner-joe-jonas-divorce-fallout-4339731
+   </link>
+   <description>
+    <![CDATA[Sophie Turner and Joe Jonas announced their divorce in September 2023.]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 13:32:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/sophie-turner-joe-jonas-divorce-fallout-4339731
+   </guid>
+   <category>
+    Entertainment ,CNA Lifestyle
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TpEcFUaE--/c_crop,h_562,w_1000,x_0,y_60/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/france_fashion_louis_vuitton_f_w_23-24_front_row_74602.jpg?itok=RF3favWz" width="1600"/>
+  </item>
   <item>
    <title>
     ERP 2.0 rollout delayed for new Tesla cars, LTA finalising installation details
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    TSMC says no damage to its Arizona facilities after incident
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tsmc-says-no-damage-its-arizona-facilities-after-incident-4340006
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 10:55:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tsmc-says-no-damage-its-arizona-facilities-after-incident-4340006
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--10jn19-7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t025529z_1_lynxmpek4f02t_rtroptp_3_tech-ai.jpg?itok=6D1SSJXa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Magician David Copperfield accused of sexual misconduct by multiple women: Report
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/david-copperfield-accused-sexual-misconduct-multiple-women-4339971
-   </link>
-   <description>
-    <![CDATA[The incidents are said to have taken place over several decades, from the late 1980s to 2014.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 10:51:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/david-copperfield-accused-sexual-misconduct-multiple-women-4339971
-   </guid>
-   <category>
-    Entertainment ,World ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EMHASrrU--/c_crop,h_414,w_737,x_1,y_75/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/063_1192783217.jpg?itok=hIugunrq" width="1600"/>
   </item>
  </channel>
 </rss>
