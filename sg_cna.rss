@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 19:54:40 +0800
+   Thu, 16 May 2024 20:15:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Germany name four goalkeepers in Euro 2024 squad
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/germany-name-four-goalkeepers-euro-2024-squad-4341196
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 20:01:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/germany-name-four-goalkeepers-euro-2024-squad-4341196
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Cisco rises as networking equipment demand rebound takes root
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/cisco-rises-networking-equipment-demand-rebound-takes-root-4341191
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 19:58:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/cisco-rises-networking-equipment-demand-rebound-takes-root-4341191
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PntgGq1c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t115853z_1_lynxmpek4f0fm_rtroptp_3_cisco-results.jpg?itok=FCen4GDf" width="1600"/>
+  </item>
   <item>
    <title>
     Seoul court dismisses doctors' bid to halt South Korea reforms
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rSLIlJ-7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t103929z_1_lynxmpek4f0de_rtroptp_3_olympics-2024-flame.jpg?itok=GXBOsIzk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indonesia raises alert to highest level for Ibu volcano
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/indonesia-ibu-volcano-highest-alert-level-eruption-4340786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 18:33:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/indonesia-ibu-volcano-highest-alert-level-eruption-4340786
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--p8eMMQcu--/c_crop,h_253,w_450,x_0,y_332/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-13t053108z_2_lynxmpek4c06g_rtroptp_3_indonesia-volcano.jpg?itok=Iab_B42f" width="1600"/>
-  </item>
-  <item>
-   <title>
-    GameStop, AMC slide as meme stocks rally loses steam
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/gamestop-amc-slide-meme-stocks-rally-loses-steam-4340941
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 18:26:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/gamestop-amc-slide-meme-stocks-rally-loses-steam-4340941
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4JgZJPdm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t102921z_2_lynxmpek4f0d0_rtroptp_3_gamestop-stocks.jpg?itok=L8jVVTl_" width="1600"/>
   </item>
  </channel>
 </rss>

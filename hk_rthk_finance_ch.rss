@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 16 May 2024 19:50:15 +0800
+   Thu, 16 May 2024 20:01:33 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 16 May 2024 18:27:14 +0800
+   Thu, 16 May 2024 20:00:57 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    吉利派發特別股息　合資格股東可獲實物分派極氪
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753436-20240516.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753436-20240516.htm
+   </link>
+   <description>
+    <![CDATA[吉利汽車派發特別股息合共7521萬港元。公告指，每持有2.2萬股吉利，即22手，以今日收市價計算相當22.484萬港元，可以選擇收取1股極氪美國存託股票，或收取現金約164.43港元。超出2.2萬股的整數倍，股東可選擇收取相應極氪股份，或選擇按每1000股收取7.474港元。
+
+至於持有不足2.2萬股吉利，只可以每6000股收取44.844港元，或每1000股收取7.474港元。持有少於6000股的股東，不會收到任何分派。
+
+極氪上星期五於紐約證券交易所掛牌，每股美國存託股票上市價21美元，每股美國存託股票相當於10股極氪股份。]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 20:00:57 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     建造業擬設審裁制度處理合約付款爭議　但不包括拖欠工資糾紛
@@ -461,25 +482,6 @@
    </description>
    <pubDate>
     Thu, 16 May 2024 14:34:32 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股高收逾0.7%　再創新高
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753386-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753386-20240516.htm
-   </link>
-   <description>
-    <![CDATA[台股連升5個交易日，再創新高。
-
-加權指數一度升穿21500點，收市報21304點，升157點，升幅0.74%。]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 14:15:22 +0800
    </pubDate>
   </item>
  </channel>
