@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 16 May 2024 19:45:22 +0800
+   Thu, 16 May 2024 19:54:40 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Seoul court dismisses doctors' bid to halt South Korea reforms
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/south-korea-doctors-medical-students-requests-school-quota-dismiss-4341061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 19:49:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/south-korea-doctors-medical-students-requests-school-quota-dismiss-4341061
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dJLXUKKT--/c_crop,h_432,w_768,x_0,y_26/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/41f7809ca23a53f5b85d1ffb11bc8e09ea57be83.jpg?itok=wosRn-2u" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Seoul court dismisses doctors' bid to halt South Korea reforms
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/south-korea-doctors-medical-students-requests-school-quota-dismiss-4341061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 16 May 2024 19:49:26 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/south-korea-doctors-medical-students-requests-school-quota-dismiss-4341061
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dJLXUKKT--/c_crop,h_432,w_768,x_0,y_26/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/41f7809ca23a53f5b85d1ffb11bc8e09ea57be83.jpg?itok=wosRn-2u" width="1600"/>
+  </item>
   <item>
    <title>
     Chinese overcapacity claims by US, Europe are 'trade protectionism', ministry says
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4JgZJPdm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t102921z_2_lynxmpek4f0d0_rtroptp_3_gamestop-stocks.jpg?itok=L8jVVTl_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Digitalisation of banking creates new risks, says global watchdog
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/digitalisation-banking-creates-new-risks-says-global-watchdog-4340876
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 18:12:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/digitalisation-banking-creates-new-risks-says-global-watchdog-4340876
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5gzCW9zN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t101240z_1_lynxmpek4f0cq_rtroptp_3_germany-dailylife-frankfurt.jpg?itok=tWwmBrc4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Meta faces EU investigation over child safety risks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/meta-faces-eu-investigation-over-child-safety-risks-4340856
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 18:08:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/meta-faces-eu-investigation-over-child-safety-risks-4340856
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--AJUb3WH8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t100816z_2_lynxmpek4f0c4_rtroptp_3_eu-meta-platforms-tech.jpg?itok=vgHMoZkS" width="1600"/>
   </item>
  </channel>
 </rss>
