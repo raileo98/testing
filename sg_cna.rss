@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 04:45:04 +0800
+   Fri, 17 May 2024 04:54:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    OpenAI strikes deal to bring Reddit content to ChatGPT
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/openai-strikes-deal-bring-reddit-content-chatgpt-4342361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 04:47:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/openai-strikes-deal-bring-reddit-content-chatgpt-4342361
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Woods struggles to find rhythm in PGA Championship opening round
@@ -72,7 +93,7 @@
     <![CDATA[Among investments of passion, art claimed the top spot in 2023, particularly for high- and ultra-high-net-worth individuals and families in Singapore. Here, industry insiders offer their insights into this phenomenon. ]]>
    </description>
    <pubDate>
-    Fri, 17 May 2024 04:37:54 +0800
+    Fri, 17 May 2024 04:37:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/experiences/art-investment-singapore-4336721
@@ -93,7 +114,7 @@
     <![CDATA[Among investments of passion, art claimed the top spot in 2023, particularly for high- and ultra-high-net-worth individuals and families in Singapore. Here, industry insiders offer their insights into this phenomenon. ]]>
    </description>
    <pubDate>
-    Fri, 17 May 2024 04:37:54 +0800
+    Fri, 17 May 2024 04:37:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/experiences/art-investment-singapore-4336721
@@ -114,7 +135,7 @@
     <![CDATA[Among investments of passion, art claimed the top spot in 2023, particularly for high- and ultra-high-net-worth individuals and families in Singapore. Here, industry insiders offer their insights into this phenomenon. ]]>
    </description>
    <pubDate>
-    Fri, 17 May 2024 04:37:54 +0800
+    Fri, 17 May 2024 04:37:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/experiences/art-investment-singapore-4336721
@@ -135,7 +156,7 @@
     <![CDATA[Among investments of passion, art claimed the top spot in 2023, particularly for high- and ultra-high-net-worth individuals and families in Singapore. Here, industry insiders offer their insights into this phenomenon. ]]>
    </description>
    <pubDate>
-    Fri, 17 May 2024 04:37:54 +0800
+    Fri, 17 May 2024 04:37:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/experiences/art-investment-singapore-4336721
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MoUiCGWs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t180047z_1_lynxmpek4f0r5_rtroptp_3_tesla-germany-factory.jpg?itok=7SgElXRg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Philippine group calls civilian mission in South China Sea a 'major victory'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-china-sea-philippine-group-mission-major-victory-4342036
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 01:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-china-sea-philippine-group-mission-major-victory-4342036
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--otxhQtTf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/8f6ae3793ac3a802f6c6f29f12b78787c5452f59.jpg?itok=bTycH3wZ" width="1600"/>
   </item>
  </channel>
 </rss>
