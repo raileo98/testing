@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 11:33:30 +0800
+   Fri, 17 May 2024 11:36:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Timberwolves crush Nuggets to stay alive in NBA playoffs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/timberwolves-crush-nuggets-stay-alive-nba-playoffs-4343021
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 11:34:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/timberwolves-crush-nuggets-stay-alive-nba-playoffs-4343021
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    GM, LG agree on $150 million relief fund for Chevy Bolt EV owners over faulty batteries
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/gm-lg-agree-150-million-relief-fund-chevy-bolt-ev-owners-over-faulty-batteries-4343026
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 11:32:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/gm-lg-agree-150-million-relief-fund-chevy-bolt-ev-owners-over-faulty-batteries-4343026
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Taiwanese singer A-Mei adds 2nd Singapore show on Jul 28
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cgm9SRs---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/angry_driver_bad_driving.jpg?itok=w8jWPWij" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Donnie Yen set to star in John Wick spinoff film based on his character, Caine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/donnie-yen-john-wick-spinoff-caine-assassin-4342771
-   </link>
-   <description>
-    <![CDATA[Filming is expected to take place in Hong Kong in 2025. ]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 10:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/donnie-yen-john-wick-spinoff-caine-assassin-4342771
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7qZ49WU---/c_crop,h_900,w_1600,x_0,y_68/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/07/GCM_0269.jpg?itok=bmsiKk2-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Donnie Yen set to star in John Wick spinoff film based on his character, Caine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/donnie-yen-john-wick-spinoff-caine-assassin-4342771
-   </link>
-   <description>
-    <![CDATA[Filming is expected to take place in Hong Kong in 2025. ]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 10:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/donnie-yen-john-wick-spinoff-caine-assassin-4342771
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7qZ49WU---/c_crop,h_900,w_1600,x_0,y_68/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/07/GCM_0269.jpg?itok=bmsiKk2-" width="1600"/>
   </item>
  </channel>
 </rss>
