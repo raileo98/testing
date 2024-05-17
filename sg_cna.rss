@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 00:31:01 +0800
+   Sat, 18 May 2024 00:44:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Zverev battles past Tabilo to reach Italian Open final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/zverev-battles-past-tabilo-reach-italian-open-final-4344851
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 00:35:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/zverev-battles-past-tabilo-reach-italian-open-final-4344851
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Juventus fire coach Allegri for misbehaviour in Italian Cup final
@@ -227,7 +248,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hcILT8j7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t144309z_1_lynxmpek4g0ja_rtroptp_3_soccer-england-liv.jpg?itok=GLDIjqPw" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,28 +459,6 @@
     World ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P5i0rkHU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/000_34rw8yl.jpg?itok=DKGUforx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Travelling with kids: 7 essential travel accessories for families on vacation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/buyers-guide/travel-essentials-kids-4343651
-   </link>
-   <description>
-    <![CDATA[Whether you’re flying with kids or setting out on a road trip, these accessories can help make your journey smoother.
-This article contains affiliate links. If you buy through these links, we may earn a small commission.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 21:38:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/buyers-guide/travel-essentials-kids-4343651
-   </guid>
-   <category>
-    Buyers' Guide ,Travel ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--waBMvlxY--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/travel_accessories_christopher-ott.jpg?itok=SfXbbtdM" width="1600"/>
   </item>
  </channel>
 </rss>
