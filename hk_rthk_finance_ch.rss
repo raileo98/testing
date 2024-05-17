@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 17 May 2024 14:41:03 +0800
+   Fri, 17 May 2024 14:50:14 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 17 May 2024 14:39:54 +0800
+   Fri, 17 May 2024 14:42:55 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股全日跌1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753552-20240517.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753552-20240517.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市連升兩日後回軟，首爾綜合指數收報2724點，跌28點，跌幅1.03%。
+
+指數本周微跌0.1%。]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 14:42:55 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股低收0.34%　結束3日升勢
@@ -461,23 +480,6 @@
    </description>
    <pubDate>
     Fri, 17 May 2024 11:04:51 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股半日跌約0.4%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753517-20240517.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753517-20240517.htm
-   </link>
-   <description>
-    <![CDATA[日本股市半日下跌，日經平均指數上午收市報38782點，跌138點，跌幅0.36%。]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 10:41:21 +0800
    </pubDate>
   </item>
  </channel>
