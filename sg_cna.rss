@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 13:27:29 +0800
+   Fri, 17 May 2024 13:40:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Prosus, parent group Naspers name Fabricio Bloisi as new CEO
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/prosus-parent-group-naspers-name-fabricio-bloisi-new-ceo-4343251
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 13:33:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/prosus-parent-group-naspers-name-fabricio-bloisi-new-ceo-4343251
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IHFbfsrM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t053137z_1_lynxmpek4g04a_rtroptp_3_naspers-results.jpg?itok=uAhiCcgO" width="1600"/>
+  </item>
   <item>
    <title>
     Interactive: How to deal with backache, knee pain and gout
@@ -437,27 +458,6 @@
    </guid>
    <category>
     Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    GM, LG agree on $150 million relief fund for Chevy Bolt EV owners over faulty batteries
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/gm-lg-agree-150-million-relief-fund-chevy-bolt-ev-owners-over-faulty-batteries-4343026
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 11:32:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/gm-lg-agree-150-million-relief-fund-chevy-bolt-ev-owners-over-faulty-batteries-4343026
-   </guid>
-   <category>
-    Business
    </category>
    <media:thumbnail/>
   </item>
