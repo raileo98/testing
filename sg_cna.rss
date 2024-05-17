@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 02:12:27 +0800
+   Sat, 18 May 2024 02:20:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Napkin used by Barcelona to sign Messi sold for nearly $1 million
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/napkin-used-barcelona-sign-messi-sold-nearly-1-million-4345056
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 02:17:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/napkin-used-barcelona-sign-messi-sold-nearly-1-million-4345056
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Israel tells World Court South Africa case makes a mockery of genocide
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/genocide-world-court-israel-palestine-south-africa-hague-4345006
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 02:14:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/genocide-world-court-israel-palestine-south-africa-hague-4345006
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oEbFdwVP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t083406z_1_lynxmpek4g08m_rtroptp_3_israel-palestinians-safrica-world-court.jpg?itok=nlFbw09X" width="1600"/>
+  </item>
   <item>
    <title>
     Marseille manager Gasset announces retirement
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yjUVl66z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t141618z_1_lynxmpek4g0iq_rtroptp_3_dxc-tech-results.jpg?itok=s9cEXOcr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'Close-knit' colleagues, friends attend wake of SCDF firefighter who fought tanker blaze
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/scdf-death-cpt-kenneth-tay-wake-ship-tanker-fire-4344271
-   </link>
-   <description>
-    <![CDATA[CPT Kenneth Tay Xue Qin died in the line of duty on Thursday (May 16).]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 22:12:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/scdf-death-cpt-kenneth-tay-wake-ship-tanker-fire-4344271
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f2oc9paN--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/IMG_0668.JPG?itok=ouzVRqpy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Johor police station attack: Suspect’s neighbours say no inkling of his family's suspected JI links
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/jemaah-islamiyah-johor-malaysia-suspect-kill-police-officers-terrorism-indonesia-4344311
-   </link>
-   <description>
-    <![CDATA[While the attack has raised security fears in Malaysia and even the region, security experts say it is too early to tell if the incident points to a resurgence of a terrorist cell in Johor.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 22:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/jemaah-islamiyah-johor-malaysia-suspect-kill-police-officers-terrorism-indonesia-4344311
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d7UNwv5I--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/madrasah3.jpg?itok=nZSaWme8" width="1600"/>
   </item>
  </channel>
 </rss>
