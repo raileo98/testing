@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 21:21:52 +0800
+   Fri, 17 May 2024 21:35:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Microsoft plans to release next Call of Duty version on subscription service, WSJ reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/microsoft-plans-release-next-call-duty-version-subscription-service-wsj-reports-4344391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 21:26:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/microsoft-plans-release-next-call-duty-version-subscription-service-wsj-reports-4344391
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--em9dNuHV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t132647z_1_lynxmpek4g0hg_rtroptp_3_activision-m-a-microsoft.jpg?itok=fMoflMCV" width="1600"/>
+  </item>
+  <item>
+   <title>
+    US labor board will suspend case against SpaceX pending company's legal challenge
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-labor-board-will-suspend-case-against-spacex-pending-companys-legal-challenge-4344381
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 21:22:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-labor-board-will-suspend-case-against-spacex-pending-companys-legal-challenge-4344381
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Chelsea aiming to finish season on a high, and in Europe, says Pochettino
@@ -416,49 +458,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1yOh7bNY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t113720z_2_lynxmpek4g0ei_rtroptp_3_golf.jpg?itok=NEMdZIQG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Liverpool's Klopp says he would vote to scrap VAR
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/liverpools-klopp-says-he-would-vote-scrap-var-4344086
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 19:33:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/liverpools-klopp-says-he-would-vote-scrap-var-4344086
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lrLTWIjm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t113319z_1_lynxmpek4g0ee_rtroptp_3_soccer-england-liv-wlv-preview.jpg?itok=S6KmPhwg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    GameStop expects first-quarter revenue to drop, shares tumble
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/gamestop-expects-first-quarter-revenue-drop-shares-tumble-4344081
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 19:28:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/gamestop-expects-first-quarter-revenue-drop-shares-tumble-4344081
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FsAEylQl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t112856z_1_lynxmpek4g0ea_rtroptp_3_gamestop-results.jpg?itok=qOtsPk-B" width="1600"/>
+   <media:thumbnail/>
   </item>
  </channel>
 </rss>
