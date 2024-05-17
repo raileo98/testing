@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 15:45:05 +0800
+   Fri, 17 May 2024 15:57:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US military says first aid delivered to Gaza via temporary pier
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-military-first-aid-delivered-gaza-temporary-pier-4343426
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 15:53:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-military-first-aid-delivered-gaza-temporary-pier-4343426
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m9hq3c2E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/11ba279f149f0205378d9609012bff201b5f75fd.jpg?itok=sl1U5dln" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Top HSBC shareholder Ping An will retain investment in bank, source says, amid sale talk
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/top-hsbc-shareholder-ping-will-retain-investment-bank-source-says-amid-sale-talk-4343511
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 15:45:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/top-hsbc-shareholder-ping-will-retain-investment-bank-source-says-amid-sale-talk-4343511
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PUAp6uym--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t075233z_2_lynxmpek4g07n_rtroptp_3_hsbc-agm.jpg?itok=Os16tA4w" width="1600"/>
+  </item>
   <item>
    <title>
     Exclusive-Toyota repeatedly halted Mexico plant after suppliers hit by worker shortage, sources say
@@ -417,48 +459,6 @@
     Sustainability ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---VfOHQ5a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t021023z_2_lynxmpek4g018_rtroptp_3_space-tech-agriculture.jpg?itok=SlzGrGkj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Space data fuels India's farming innovation drive
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sustainability/space-satellite-data-india-farming-agriculture-agritech-4342841
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 13:00:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sustainability/space-satellite-data-india-farming-agriculture-agritech-4342841
-   </guid>
-   <category>
-    Sustainability ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---VfOHQ5a--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t021023z_2_lynxmpek4g018_rtroptp_3_space-tech-agriculture.jpg?itok=SlzGrGkj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pain-free Sabalenka keeps close eye on back injury before French Open
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pain-free-sabalenka-keeps-close-eye-back-injury-french-open-4343196
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 12:57:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pain-free-sabalenka-keeps-close-eye-back-injury-french-open-4343196
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
