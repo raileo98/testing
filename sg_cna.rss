@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 04:39:33 +0800
+   Sat, 18 May 2024 04:45:19 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US, TikTok seek fast-track schedule, ruling by Dec. 6 on potential ban
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-tiktok-seek-fast-track-schedule-ruling-dec-6-potential-ban-4345301
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 04:43:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-tiktok-seek-fast-track-schedule-ruling-dec-6-potential-ban-4345301
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Nbx0Vxgt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t204306z_1_lynxmpek4g0r7_rtroptp_3_usa-tiktok.jpg?itok=jgLQ2wrD" width="1600"/>
+  </item>
   <item>
    <title>
     Morikawa in PGA contention after five straight birdies
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hF9icI68--/c_crop,h_720,w_1280,x_0,y_138/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/gopal_mahey_former_drug_abuser_support_group.jpeg?itok=M6PPaDMw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Dutchman Slot confirms he is taking Liverpool job next season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/dutchman-slot-confirms-he-taking-liverpool-job-next-season-4344551
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 22:43:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/dutchman-slot-confirms-he-taking-liverpool-job-next-season-4344551
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
