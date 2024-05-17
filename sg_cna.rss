@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 14:30:31 +0800
+   Fri, 17 May 2024 14:36:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Analysis:BOJ may face more pressure to hike rates as weak yen hits consumer spending
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/analysisboj-may-face-more-pressure-hike-rates-weak-yen-hits-consumer-spending-4343401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 14:32:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/analysisboj-may-face-more-pressure-hike-rates-weak-yen-hits-consumer-spending-4343401
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oHOZSfc1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t063212z_1_lynxmpek4g05m_rtroptp_3_imf-worldbank-fed.jpg?itok=F-Ip3IWi" width="1600"/>
+  </item>
   <item>
    <title>
     China pledges to buy apartments and finish stalled housing projects
@@ -135,7 +156,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 17 May 2024 13:59:25 +0800
+    Fri, 17 May 2024 13:59:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/foreigners-sold-asian-bonds-april-amid-firm-dollar-fed-uncertainty-4343306
@@ -439,27 +460,6 @@
     Sustainability ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--R4P6RSkc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/a691a77bf84f827d5faa06c0dbcd88a7f3fa7985.jpg?itok=oCJ5hmIy" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former Air Force engineer opens Hainanese-style beef noodles stall in Yishun
-   </title>
-   <link>
-    https://www.channelnewsasia.com/dining/former-air-force-engineer-turned-beef-noodles-hawker-yishun-4342846
-   </link>
-   <description>
-    <![CDATA[He had to take a huge pay cut when he started but he reckons that it was all worth it, and he’s now making the same as he did back when he was an engineer.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 12:08:41 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/dining/former-air-force-engineer-turned-beef-noodles-hawker-yishun-4342846
-   </guid>
-   <category>
-    Dining ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5HUabmJu--/c_crop,h_900,w_1600,x_0,y_150/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/beef_noodles_hawker.jpg?itok=v0KQhGxP" width="1600"/>
   </item>
  </channel>
 </rss>
