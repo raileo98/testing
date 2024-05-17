@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 01:48:23 +0800
+   Sat, 18 May 2024 02:12:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Marseille manager Gasset announces retirement
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/marseille-manager-gasset-announces-retirement-4345021
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 01:59:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/marseille-manager-gasset-announces-retirement-4345021
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ospz0oPM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t175905z_1_lynxmpek4g0or_rtroptp_3_soccer-europa-att-olm-report.jpg?itok=M8ElgNGb" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Doping-Kenyan distance runner Kwemoi banned six years for blood doping
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/doping-kenyan-distance-runner-kwemoi-banned-six-years-blood-doping-4345016
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 01:56:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/doping-kenyan-distance-runner-kwemoi-banned-six-years-blood-doping-4345016
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nWMDQXRq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t175650z_1_lynxmpek4g0oq_rtroptp_3_athletics-world.jpg?itok=kSFwfj_-" width="1600"/>
+  </item>
   <item>
    <title>
     Antonelli showing 'metronomic' pace, says Mercedes' Allison
@@ -417,48 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d7UNwv5I--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/madrasah3.jpg?itok=nZSaWme8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore advises citizens travelling in Malaysia to exercise vigilance in wake of deadly Johor attack
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/ulu-tiram-johor-ji-attack-singapore-advises-citizens-vigilance-malaysia-4344401
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 21:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/ulu-tiram-johor-ji-attack-singapore-advises-citizens-vigilance-malaysia-4344401
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--STRdsNX6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot1.jpg?itok=mhe8--Xg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    French response in New Caledonia risks helping China, analysts say
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/french-response-new-caledonia-risks-helping-china-analysts-say-4344386
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 21:47:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/french-response-new-caledonia-risks-helping-china-analysts-say-4344386
-   </guid>
-   <category>
-    World ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P5i0rkHU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/000_34rw8yl.jpg?itok=DKGUforx" width="1600"/>
   </item>
  </channel>
 </rss>
