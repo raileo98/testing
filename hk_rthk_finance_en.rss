@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 18 May 2024 05:30:40 +0800
+   Sat, 18 May 2024 05:40:13 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 17 May 2024 17:35:05 +0800
+   Sat, 18 May 2024 05:38:33 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Dow closes above 40,000 for first time, stocks mixed
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753638-20240518.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753638-20240518.htm
+   </link>
+   <description>
+    <![CDATA[The Dow Jones finished above 40,000 points for the first time on Friday, as stocks were mixed on Wall Street at the end of the trading week.
+
+The Dow Jones rose 0.3 percent to finish at 40,003.
+
+The S&P 500 closed up 0.1 percent at 5,303, while the Nasdaq slipped 0.1 percent to 16,685.
+
+But despite the slight decline in the Nasdaq, all three major indexes still finished the week higher than they were at the start of it.
+
+"We made a breakout to new record high," said Karl Haeling from LBBW.
+
+"The market is just choosing to consolidate, which is probably a healthy thing," he continued. "Because it's racing and getting too exuberant."
+
+Among individual companies, petrochemical producer Valero Energy finished the day up 4.8 percent, while the mining company Freeport McMoRan was up 4.2 percent.
+
+One of the day's big losers was Paramount Global, which saw its share price fall 4.9 percent. (AFP)]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 05:38:33 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     E-CNY pilot scheme expanded to HK for the first time
@@ -601,27 +632,6 @@ But the Shanghai Composite Index slipped 0.21 percent to 3,148, while the Shenzh
    </description>
    <pubDate>
     Mon, 13 May 2024 16:21:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks open with small losses
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752912-20240513.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752912-20240513.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks opened slightly lower on Monday following last week's strong run-up, while traders were also spooked by reports that the United States is set to ramp up tariffs on Chinese clean energy goods.
-
-The Hang Seng Index edged down 0.3 percent, or 59 points, to 18,904.
-
-The Shanghai Composite Index slipped 0.4 percent, or 15 points, to 3,139, while the Shenzhen Composite Index fell 0.7 percent, or 13 points, to 1,770. (AFP)]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 09:55:29 +0800
    </pubDate>
   </item>
  </channel>
