@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 12:31:36 +0800
+   Fri, 17 May 2024 12:36:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,28 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More than 20 suspected Jemaah Islamiyah members arrested in Johor after attack on police station which left 2 officers dead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/malaysia-johor-police-officers-killed-attack-4343051
+   </link>
+   <description>
+    <![CDATA[The attacker - who was shot dead at the scene - was a member of Islamist terror group Jemaah Islamiyah, local police say. More than 20 people believed to be members of JI, including the assailant’s family, have been arrested.
+ ]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 12:35:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/malaysia-johor-police-officers-killed-attack-4343051
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vM-dQtd2--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%202.jpg?itok=EvwzKCSS" width="1600"/>
+  </item>
   <item>
    <title>
     Indonesia evacuates hundreds near erupting Ibu volcano
@@ -438,27 +460,6 @@
     Asia ,East Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PRXAvS2Z--/c_crop,h_450,w_800,x_0,y_41/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-11t094921z_1_lynxmpek4a02b_rtroptp_3_china-property-debt-country-garden.jpg?itok=gL7gdyVU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Wild Rice theatre company founder Ivan Heng to receive honorary doctorate from the Royal Conservatoire of Scotland
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/ivan-heng-honorary-doctorate-royal-conservatoire-scotland-4342871
-   </link>
-   <description>
-    <![CDATA[Heng will receive the honorary doctorate alongside dancer Akram Khan and singer-songwriter Vashti Bunyan.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 10:48:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/ivan-heng-honorary-doctorate-royal-conservatoire-scotland-4342871
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Y1HFJ3nj--/c_crop,h_600,w_1067,x_1,y_255/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ivan_heng._wild_rice_theatre_company.jpg?itok=81uVD1Ji" width="1600"/>
   </item>
  </channel>
 </rss>
