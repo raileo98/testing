@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 04:28:08 +0800
+   Sat, 18 May 2024 04:39:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Morikawa in PGA contention after five straight birdies
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/morikawa-pga-contention-after-five-straight-birdies-4345296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 04:31:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/morikawa-pga-contention-after-five-straight-birdies-4345296
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Marta celebrates Brazil hosting 2027 Women's World Cup
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Families, loved ones of drug abusers suffer from emotional, social fallout of addiction: Social workers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/drugs-abuse-addiction-k-shanmugam-cnb-weed-ice-4344441
-   </link>
-   <description>
-    <![CDATA[In one case, the younger brother of a youth drug abuser felt neglected at home, as his parents were always focusing their attention on his sibling's issues, said one social worker.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 22:40:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/drugs-abuse-addiction-k-shanmugam-cnb-weed-ice-4344441
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VppW0pM6--/c_crop,h_1207,w_2145,x_337,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/drug_abuse.jpg?itok=vavsCEBv" width="1600"/>
   </item>
  </channel>
 </rss>
