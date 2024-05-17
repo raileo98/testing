@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 13:45:09 +0800
+   Fri, 17 May 2024 13:55:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan inflation likely slowed again, may ease cost pressure - Reuters poll
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-inflation-likely-slowed-again-may-ease-cost-pressure-reuters-poll-4343276
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 13:52:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-inflation-likely-slowed-again-may-ease-cost-pressure-reuters-poll-4343276
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bcWn8vMz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t055255z_1_lynxmpek4g04i_rtroptp_3_japan-economy-inflation.jpg?itok=2V2xRM4m" width="1600"/>
+  </item>
   <item>
    <title>
     Prosus, parent group Naspers name Fabricio Bloisi as new CEO
@@ -439,27 +460,6 @@
     Asia ,East Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YkUE2B0n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t040007z_3_lynxmpek4g01c_rtroptp_3_china-economy-property.jpg?itok=To_j0YBN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Timberwolves crush Nuggets to stay alive in NBA playoffs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/timberwolves-crush-nuggets-stay-alive-nba-playoffs-4343021
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 11:34:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/timberwolves-crush-nuggets-stay-alive-nba-playoffs-4343021
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
