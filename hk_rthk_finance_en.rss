@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 17 May 2024 12:50:06 +0800
+   Fri, 17 May 2024 13:10:22 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 17 May 2024 09:47:22 +0800
+   Fri, 17 May 2024 12:59:04 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK court delays Country Garden hearing till June
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753541-20240517.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753541-20240517.htm
+   </link>
+   <description>
+    <![CDATA[The High Court adjourned to June 11 a hearing of a petition on Friday seeking the liquidation of Chinese property giant Country Garden. 
+
+The decision provides some relief to the embattled developer amid Beijing's efforts to revive the crisis-hit property sector.
+
+A Hong Kong firm filed the petition against Country Garden in February for non-payment of a US$205 million loan. The developer defaulted on US$11 billion of offshore bonds last year and is in the process of an offshore debt restructuring.
+
+Country Garden applied for the adjournment to prepare more evidence. The request was not opposed by the petitioner which filed the action against the company.
+
+If Country Garden is able to present progress on the debt restructuring talks with its offshore creditors, it would help the developer push back against the liquidation petition.
+
+A key group of creditors, the ad hoc group of bondholders, have signalled their "neutral stance" towards the liquidation petition, according to the petitioner's lawyer. 
+
+In a letter to the court, the law firm Kirkland & Ellis, representing the ad hoc group, said they no longer intended to appear in the court.
+
+The hearing into the petition comes against the backdrop of Beijing stepping up efforts to revive the property sector, which slipped into an unprecedented debt crisis in mid-2021.
+
+Over the past few years, a growing list of developers has defaulted on debt repayment obligations and a handful of them, including China Evergrande, have been ordered to be liquidated. (Reuters)]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 12:59:04 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks extend gains at open
@@ -605,27 +638,6 @@ The Shanghai Composite Index was flat, inching up 0.2 points to 3,154, while the
    </description>
    <pubDate>
     Fri, 10 May 2024 16:28:31 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK market builds on gains, lifted by US data
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752563-20240510.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752563-20240510.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares extended their gains on Friday on growing optimism for US interest rate cuts following another batch of supportive jobs data.
-
-The Hang Seng Index rose 0.7 percent to 18,669.
-
-The Shanghai Composite Index edged up 0.1 percent to 3,158, and the Shenzhen Composite Index on China's second exchange ticked up 0.05 percent to 1,797. (AFP)]]>
-   </description>
-   <pubDate>
-    Fri, 10 May 2024 10:39:11 +0800
    </pubDate>
   </item>
  </channel>
