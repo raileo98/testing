@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 23:46:56 +0800
+   Fri, 17 May 2024 23:54:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Klopp exiting Anfield stage, but legacy will live on
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/klopp-exiting-anfield-stage-legacy-will-live-4344706
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 23:46:35 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/klopp-exiting-anfield-stage-legacy-will-live-4344706
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ukraine braces for heavy battles as Putin says Russia carving out 'buffer zone'
@@ -441,27 +462,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--em9dNuHV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t132647z_1_lynxmpek4g0hg_rtroptp_3_activision-m-a-microsoft.jpg?itok=fMoflMCV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US labor board will suspend case against SpaceX pending company's legal challenge
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-labor-board-will-suspend-case-against-spacex-pending-companys-legal-challenge-4344381
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 21:22:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-labor-board-will-suspend-case-against-spacex-pending-companys-legal-challenge-4344381
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
