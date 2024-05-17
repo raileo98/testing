@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 17 May 2024 15:09:36 +0800
+   Fri, 17 May 2024 15:21:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Exclusive-Toyota repeatedly halted Mexico plant after suppliers hit by worker shortage, sources say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-toyota-repeatedly-halted-mexico-plant-after-suppliers-hit-worker-shortage-sources-say-4343441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 17 May 2024 15:05:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-toyota-repeatedly-halted-mexico-plant-after-suppliers-hit-worker-shortage-sources-say-4343441
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--P9WPPR9m--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t070544z_2_lynxmpek4g06m_rtroptp_3_toyota-suppliers.jpg?itok=EtTlrkyx" width="1600"/>
+  </item>
   <item>
    <title>
     Blackpink's Jennie donates US$73,600 for the construction of a school in South Korea
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Firefighter who stole smartwatch while responding to a home fire gets jail
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/scdf-firefighter-stole-apple-watch-responding-home-fire-4343141
-   </link>
-   <description>
-    <![CDATA[The victim saw on her mobile app that the missing watch was last used at Ang Mo Kio Fire Station.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 12:53:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/scdf-firefighter-stole-apple-watch-responding-home-fire-4343141
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rHoNQ3oh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/state-courts-09-data.jpg?itok=5j4IDMXJ" width="1600"/>
   </item>
  </channel>
 </rss>
