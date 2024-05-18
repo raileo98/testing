@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 19 May 2024 05:20:11 +0800
+   Sun, 19 May 2024 05:30:25 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 18 May 2024 22:38:47 +0800
+   Sun, 19 May 2024 05:23:37 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    元朗宏樂街有油庫洩漏化學品
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753739-20240519.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753739-20240519.htm
+   </link>
+   <description>
+    <![CDATA[元朗宏樂街有油庫於凌晨0時52分發生化學品洩漏事故，消防處正在現場處理。
+
+消防處說，如市民受到隨風飄散的煙霧和異味影響，關閉門窗及保持鎮定。]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 05:23:37 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     慢性病治理先導計劃篩查近4成參加者血糖偏高、患糖尿或高血壓
@@ -463,25 +482,6 @@
    </description>
    <pubDate>
     Sat, 18 May 2024 13:21:47 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    林世雄關注輕鐵鍾屋村站附近列車出軌事故
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753680-20240518.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753680-20240518.htm
-   </link>
-   <description>
-    <![CDATA[運輸及物流局局長林世雄對早上在輕鐵鍾屋村站附近，發生列車懷疑因外物導致轉向架偏離路軌事故表示關注。
-
-局方已向港鐵了解事件，機電工程署已即時到事故現場進行調查，會與港鐵公司研究改善措施。]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 13:12:23 +0800
    </pubDate>
   </item>
  </channel>
