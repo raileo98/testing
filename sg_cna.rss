@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 19:46:55 +0800
+   Sat, 18 May 2024 19:52:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Vietnam nominates public security minister for new president: State media
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/vietnam-lam-nominated-president-anti-corruption-4346136
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 19:50:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/vietnam-lam-nominated-president-anti-corruption-4346136
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RG_8vM0h--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0b906f9869751ec49024ab09f8f6e38e6e327f57.jpg?itok=GXTIXN5I" width="1600"/>
+  </item>
   <item>
    <title>
     Ukraine struggles to hold eastern front as Russians advance on cities
@@ -440,27 +461,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gvz1mG3b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t031637z_1_lynxmpek4h013_rtroptp_3_paramount-m-a-sony.jpg?itok=LTPcptHT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Suspect in Johor police station attack was ‘lone wolf’, says Malaysia's home minister
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-lone-wolf-home-minister-4345736
-   </link>
-   <description>
-    <![CDATA[Police are still investigating the motive for the attack, says Home Minister Saifuddin Nasution Ismail.]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 11:15:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-lone-wolf-home-minister-4345736
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B41Qbp02--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%203.jpg?itok=VMD-tF48" width="1600"/>
   </item>
  </channel>
 </rss>
