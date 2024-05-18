@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 22:54:15 +0800
+   Sat, 18 May 2024 23:12:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    'Time to move aside': Hart at peace with retirement decision
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/time-move-aside-hart-peace-retirement-decision-4346381
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 23:00:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/time-move-aside-hart-peace-retirement-decision-4346381
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Klopp declares himself 'super happy' with his Liverpool legacy
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/klopp-declares-himself-super-happy-his-liverpool-legacy-4346386
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 23:00:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/klopp-declares-himself-super-happy-his-liverpool-legacy-4346386
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D5KtOUYD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t150009z_1_lynxmpek4h04x_rtroptp_3_soccer-england-liv-wlv-preview.jpg?itok=PG9aFBwT" width="1600"/>
+  </item>
   <item>
    <title>
     De Zerbi to leave Brighton at end of the season
@@ -418,49 +460,6 @@
     Asia ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cm6kmyR7--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%204.jpg?itok=vkxjni8A" width="1600"/>
-  </item>
-  <item>
-   <title>
-    No Singaporeans arrested over Johor police station attack: Malaysia police chief
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-singaporean-mother-4345996
-   </link>
-   <description>
-    <![CDATA[Inspector-General of Police Razarudin Husain said all seven people detained over a deadly attack on a Johor police station are Malaysians, refuting earlier reports by Malaysian media that one of them was a 65-year-old Singaporean woman.
- ]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 15:50:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-singaporean-mother-4345996
-   </guid>
-   <category>
-    Asia ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cm6kmyR7--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%204.jpg?itok=vkxjni8A" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Philippines to vigorously defend territory, president Marcos says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/philippines-south-china-sea-igorously-defend-what-ours-marcos-4345826
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 15:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/philippines-south-china-sea-igorously-defend-what-ours-marcos-4345826
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wINW7GwR--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t034800z_1_lynxmpek4h015_rtroptp_3_philippines-newzealand-southchinasea.jpg?itok=E5PNAMl7" width="1600"/>
   </item>
  </channel>
 </rss>
