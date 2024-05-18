@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 05:36:11 +0800
+   Sun, 19 May 2024 05:47:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Slovak PM shooting: 'positive' health outlook, suspect in detention
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/slovak-pm-shooting-positive-health-outlook-suspect-detention-4345831
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 05:40:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/slovak-pm-shooting-positive-health-outlook-suspect-detention-4345831
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sDtFvYr8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/19a50dc841b74d5b96c51ac067742e730f80dbcf.jpg?itok=yF-qaWLr" width="1600"/>
+  </item>
   <item>
    <title>
     Chelsea WSL champions again, but chasing pack closing in
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Ganna gets time-trial revenge on Pogacar to win Giro stage 14
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/ganna-gets-time-trial-revenge-pogacar-win-giro-stage-14-4346456
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 23:36:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/ganna-gets-time-trial-revenge-pogacar-win-giro-stage-14-4346456
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iSpBAhHV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t153652z_1_lynxmpek4h05j_rtroptp_3_cycling-giro.jpg?itok=byD-FJ5n" width="1600"/>
   </item>
  </channel>
 </rss>
