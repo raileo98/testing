@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 10:56:09 +0800
+   Sat, 18 May 2024 11:15:49 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Suspect in Johor police station attack was ‘lone wolf’, says Malaysia's home minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-lone-wolf-home-minister-4345736
+   </link>
+   <description>
+    <![CDATA[The motive of the attack is still unknown, says Home Minister Saifuddin Nasution Ismail.]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 11:15:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-lone-wolf-home-minister-4345736
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B41Qbp02--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%203.jpg?itok=VMD-tF48" width="1600"/>
+  </item>
+  <item>
+   <title>
     Boeing Starliner's debut crewed flight delayed again to check helium leak
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yPzDcG4i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t025244z_1_lynxmpek4h011_rtroptp_3_space-exploration-boeing-starliner.jpg?itok=MeuW733d" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OX2azw5m--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t025434z_2_lynxmpek4h011_rtroptp_3_space-exploration-boeing-starliner.jpg?itok=H7TwqYQs" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8f1rxzB4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t235147z_3_lynxmpek4g0tc_rtroptp_3_u-s-steel-m-a-nippon-steel.jpg?itok=qlzI8pj0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Canada exploring higher tariffs on Chinese EVs, Bloomberg News reports
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/canada-exploring-higher-tariffs-chinese-evs-bloomberg-news-reports-4345486
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 06:11:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/canada-exploring-higher-tariffs-chinese-evs-bloomberg-news-reports-4345486
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--brZ2Z2nn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t221129z_1_lynxmpek4g0ss_rtroptp_3_lunar-newyear-canada.jpg?itok=Y5uoy2Re" width="1600"/>
   </item>
  </channel>
 </rss>
