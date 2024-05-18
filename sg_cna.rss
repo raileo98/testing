@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 20:45:21 +0800
+   Sat, 18 May 2024 21:18:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Under-pressure Xavi says he still has Barca's trust
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/under-pressure-xavi-says-he-still-has-barcas-trust-4346216
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 20:45:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/under-pressure-xavi-says-he-still-has-barcas-trust-4346216
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     PSG's Enrique expects tough challenge at Metz before French Cup final
@@ -300,7 +321,7 @@
     https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-singaporean-mother-4345996
    </link>
    <description>
-    <![CDATA[Inspector-General of Police (IGP) Razarudin Husain said all seven people detained over a deadly attack on a Johor police station are Malaysians, refuting earlier reports that one of them was a 65-year-old Singaporean woman.
+    <![CDATA[Inspector-General of Police Razarudin Husain said all seven people detained over a deadly attack on a Johor police station are Malaysians, refuting earlier reports by Malaysian media that one of them was a 65-year-old Singaporean woman.
  ]]>
    </description>
    <pubDate>
@@ -322,7 +343,7 @@
     https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-singaporean-mother-4345996
    </link>
    <description>
-    <![CDATA[Inspector-General of Police (IGP) Razarudin Husain said all seven people detained over a deadly attack on a Johor police station are Malaysians, refuting earlier reports that one of them was a 65-year-old Singaporean woman.
+    <![CDATA[Inspector-General of Police Razarudin Husain said all seven people detained over a deadly attack on a Johor police station are Malaysians, refuting earlier reports by Malaysian media that one of them was a 65-year-old Singaporean woman.
  ]]>
    </description>
    <pubDate>
@@ -440,27 +461,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UZodtZKg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t060104z_1_lynxmpek4h01h_rtroptp_3_soccer-champions-bay-ars-preview.jpg?itok=b6vYfjve" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Irish actor Barry Keoghan jokes about doing a musical after Bird
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/irish-actor-barry-keoghan-jokes-about-doing-musical-after-bird-4345161
-   </link>
-   <description>
-    <![CDATA[Before Cannes Film Festival entry Bird, Keoghan had a nude dance scene in black comedy Saltburn. ]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 13:12:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/irish-actor-barry-keoghan-jokes-about-doing-musical-after-bird-4345161
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9Ohqncwi--/c_crop,h_450,w_800,x_0,y_64/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t190846z_1_lynxmpek4g0pv_rtroptp_3_filmfestival-cannes-bird.jpg?itok=CVSzvh_K" width="1600"/>
   </item>
  </channel>
 </rss>
