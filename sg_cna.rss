@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 07:36:09 +0800
+   Sun, 19 May 2024 07:42:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -357,7 +357,28 @@
   </item>
   <item>
    <title>
-    Malaysia’s currency woes spur financial stress, political discontent. Will the ringgit rise again?
+    Commentary: S$2 million HDB flats? Not so fast
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/singapore-hdb-2-million-resale-flat-listings-misleading-unrealistic-sengkang-toa-payoh-4343496
+   </link>
+   <description>
+    <![CDATA[The recent listings of S$2 million HDB flats have sparked public curiosity and concern. NUS Business School's Sing Tien Foo weighs in on the controversy surrounding unrealistic listings and inflated asking prices.]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/singapore-hdb-2-million-resale-flat-listings-misleading-unrealistic-sengkang-toa-payoh-4343496
+   </guid>
+   <category>
+    Commentary ,Singapore ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--56ANbsrD--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/picture17.png?itok=vnF4PmNt" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Decline of the ringgit: Amid strain on people, businesses, is there hope for a rebound?
    </title>
    <link>
     https://www.channelnewsasia.com/cna-insider/ringgit-decline-rise-malaysia-currency-low-brain-drain-government-4343531
@@ -420,45 +441,25 @@
   </item>
   <item>
    <title>
-    Commentary: ChatGPT is now better than ever at faking human emotion and behaviour
+    Malaysia farms must adapt to extreme weather, changing taste to compete for slice of China’s durian pie, industry experts say
    </title>
    <link>
-    https://www.channelnewsasia.com/commentary/openai-chatgpt-gpt4o-google-astra-ai-chatbot-ethics-4343696
+    https://www.channelnewsasia.com/asia/malaysia-durian-musang-king-mao-shan-wang-black-thorn-china-heatwave-4334501
    </link>
    <description>
-    <![CDATA[OpenAI’s new version of ChatGPT, GPT-4o, raises ethical questions of creating AI that can simulate human emotions and behaviours, says this University of Sydney academic.]]>
+    <![CDATA[China, which accounts for 95 per cent of world durian consumption, is known to adopt strict quality control for the fruits imported and will likely halt shipments if supply from Malaysia falls below standards, says an exporter. 
+ ]]>
    </description>
    <pubDate>
     Sun, 19 May 2024 06:00:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/openai-chatgpt-gpt4o-google-astra-ai-chatbot-ethics-4343696
+    https://www.channelnewsasia.com/asia/malaysia-durian-musang-king-mao-shan-wang-black-thorn-china-heatwave-4334501
    </guid>
    <category>
-    Commentary ,Business
+    Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PkAZe8iq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t133525z_2_lynxmpek4e0mn_rtroptp_3_ai-languages.jpg?itok=rFcImTqR" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Malaysia’s currency woes spur financial stress, political discontent. Will the ringgit rise again?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/cna-insider/ringgit-decline-rise-malaysia-currency-low-brain-drain-government-4343531
-   </link>
-   <description>
-    <![CDATA[After the currency hit a 26-year low, is the only way up? The programme Insight finds optimism and doubt in equal measure as it looks at factors behind the ringgit’s fall and the ripple effects.]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cna-insider/ringgit-decline-rise-malaysia-currency-low-brain-drain-government-4343531
-   </guid>
-   <category>
-    CNA Insider ,Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZUNty9MW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/ins_ep5_clean_hkg10187709.jpg?itok=GEZWjrbC" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Wo_6FajT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/durian2.jpg?itok=8PLH5zPt" width="1600"/>
   </item>
  </channel>
 </rss>
