@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 18:41:22 +0800
+   Sat, 18 May 2024 18:47:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ukraine struggles to hold eastern front as Russians advance on cities
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/ukraine-struggles-hold-eastern-front-russia-advance-4346076
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 18:45:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/ukraine-struggles-hold-eastern-front-russia-advance-4346076
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gDAOuzBz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t100241z_1_lynxmpek4h02r_rtroptp_3_ukraine-crisis-south-frontline.jpg?itok=-vSEIiRd" width="1600"/>
+  </item>
   <item>
    <title>
     Man City's Foden voted Premier League player of the season
@@ -440,27 +461,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B41Qbp02--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%203.jpg?itok=VMD-tF48" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Boeing Starliner's debut crewed flight delayed again to check helium leak
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/boeing-starliners-debut-crewed-flight-delayed-again-check-helium-leak-4345756
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 10:52:44 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/boeing-starliners-debut-crewed-flight-delayed-again-check-helium-leak-4345756
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OX2azw5m--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t025434z_2_lynxmpek4h011_rtroptp_3_space-exploration-boeing-starliner.jpg?itok=H7TwqYQs" width="1600"/>
   </item>
  </channel>
 </rss>
