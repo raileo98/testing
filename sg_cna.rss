@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 04:53:58 +0800
+   Sun, 19 May 2024 05:13:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Chelsea WSL champions again, but chasing pack closing in
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/chelsea-wsl-champions-again-chasing-pack-closing-4346806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 05:04:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/chelsea-wsl-champions-again-chasing-pack-closing-4346806
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pKiDYcJX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t210427z_1_lynxmpek4h08r_rtroptp_3_soccer-england-mun-che-report.jpg?itok=ooL_Iul7" width="1600"/>
+  </item>
   <item>
    <title>
     Israel pushes into new parts of northern Gaza, recovers slain hostage
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iSpBAhHV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t153652z_1_lynxmpek4h05j_rtroptp_3_cycling-giro.jpg?itok=byD-FJ5n" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Leverkusen become first Bundesliga team to go all season without defeat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/leverkusen-become-first-bundesliga-team-go-all-season-without-defeat-4346441
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 23:30:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/leverkusen-become-first-bundesliga-team-go-all-season-without-defeat-4346441
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
