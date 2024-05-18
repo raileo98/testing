@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 10:47:11 +0800
+   Sat, 18 May 2024 10:56:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Boeing Starliner's debut crewed flight delayed again to check helium leak
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/boeing-starliners-debut-crewed-flight-delayed-again-check-helium-leak-4345756
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 10:52:44 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/boeing-starliners-debut-crewed-flight-delayed-again-check-helium-leak-4345756
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yPzDcG4i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t025244z_1_lynxmpek4h011_rtroptp_3_space-exploration-boeing-starliner.jpg?itok=MeuW733d" width="1600"/>
+  </item>
   <item>
    <title>
     Boeing shareholders back outgoing CEO's US$33 million pay deal despite safety woes
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--brZ2Z2nn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t221129z_1_lynxmpek4g0ss_rtroptp_3_lunar-newyear-canada.jpg?itok=Y5uoy2Re" width="1600"/>
-  </item>
-  <item>
-   <title>
-    IN FOCUS: China is set to wield bigger ‘carrots and sticks’ over Taiwan. Here's how it may impact ASEAN states
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/taiwan-president-william-lai-inauguration-china-asean-southeast-asia-ties-4341151
-   </link>
-   <description>
-    <![CDATA[Ahead of Mr William Lai’s inauguration as Taiwan president on Monday (May 20), China has kept up military pressure while easing some travel and import curbs. Its message to the self-governing island is clear, say experts.]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/taiwan-president-william-lai-inauguration-china-asean-southeast-asia-ties-4341151
-   </guid>
-   <category>
-    East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RaoAEJXt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-25t042558z_1_lynxnpek3o03g_rtroptp_3_taiwan-politics.jpg?itok=BzP1ivNy" width="1600"/>
   </item>
  </channel>
 </rss>
