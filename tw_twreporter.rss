@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Fri, 17 May 2024 17:00:13 GMT
+   Sat, 18 May 2024 17:00:01 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    許震唐／不再氤氳的波瓦倫──廬山溫泉紀行
+   </title>
+   <description>
+    <![CDATA[舊稱「波瓦倫」，曾經風華的廬山溫泉，是濁水溪水系中的溫泉鄉，遭遇921地震與多起風災後，終究走上被迫遷徙的歷史命運。經過一段與自然環境共存、拔河的記憶，該如何面對？當輸贏的標線不在我們這邊時。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-a-travelogue-of-lushan-buwarung-hot-spring
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-a-travelogue-of-lushan-buwarung-hot-spring
+   </guid>
+   <pubDate>
+    Sat, 18 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424083642-8fc2c4cc53636c952cc114ded05faca4-mobile.jpg"/>
+  </item>
   <item>
    <title>
     登不到的釣魚台，紀錄片作為「過程」：訪《誰來釣魚®？》導演陳芯宜、製片樓一安
@@ -177,24 +195,6 @@
     Fri, 10 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240506113302-e6b23449168f1d551da0549e22b35a8b-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    【尋找報導者】本次徵才已全面結束，歡迎投稿合作
-   </title>
-   <description>
-    <![CDATA[《報導者》是台灣第一個由公益基金會成立的非營利網路媒體，歡迎各界好手跨界加入新聞小革命！]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/hiring-job-description
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/hiring-job-description
-   </guid>
-   <pubDate>
-    Thu, 09 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/png" url="https://www.twreporter.org/images/20220302164545-5ccad6e75463cb525f233dcd9d91bc73-mobile.png"/>
   </item>
   <item>
    <title>
