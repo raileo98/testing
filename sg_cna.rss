@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 23:40:15 +0800
+   Sat, 18 May 2024 23:48:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bayern end season in third place after 4-2 loss at Hoffenheim
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/bayern-end-season-third-place-after-4-2-loss-hoffenheim-4346461
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 23:39:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/bayern-end-season-third-place-after-4-2-loss-hoffenheim-4346461
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ganna gains time trial revenge on Pogacar to win Giro stage 14
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--I8ckz-4S--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t092848z_1_lynxmpek4h02h_rtroptp_3_soccer-champions-mad-bay-report.jpg?itok=dNIhscID" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Usyk's promoter says wrong weight was announced, fighter is lighter
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/usyks-promoter-says-wrong-weight-was-announced-fighter-lighter-4346046
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 17:27:34 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/usyks-promoter-says-wrong-weight-was-announced-fighter-lighter-4346046
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
