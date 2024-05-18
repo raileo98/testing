@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 11:15:49 +0800
+   Sat, 18 May 2024 11:24:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,16 +42,37 @@
   </image>
   <item>
    <title>
+    Sony and Apollo move ahead with Paramount bid process but reticent about earlier plan, NYT reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/sony-and-apollo-move-ahead-paramount-bid-process-reticent-about-earlier-plan-nyt-reports-4345801
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 11:16:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/sony-and-apollo-move-ahead-paramount-bid-process-reticent-about-earlier-plan-nyt-reports-4345801
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gvz1mG3b--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t031637z_1_lynxmpek4h013_rtroptp_3_paramount-m-a-sony.jpg?itok=LTPcptHT" width="1600"/>
+  </item>
+  <item>
+   <title>
     Suspect in Johor police station attack was ‘lone wolf’, says Malaysia's home minister
    </title>
    <link>
     https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-lone-wolf-home-minister-4345736
    </link>
    <description>
-    <![CDATA[The motive of the attack is still unknown, says Home Minister Saifuddin Nasution Ismail.]]>
+    <![CDATA[Police are still investigating the motive for the attack, says Home Minister Saifuddin Nasution Ismail.]]>
    </description>
    <pubDate>
-    Sat, 18 May 2024 11:15:11 +0800
+    Sat, 18 May 2024 11:15:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/johor-police-station-attack-suspect-lone-wolf-home-minister-4345736
@@ -438,27 +459,6 @@
     Wellness ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--c5FP9VOt--/c_crop,h_1152,w_2048,x_0,y_106/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:nytimeswatermark,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/well_loneliness_brain-0.jpg?itok=DLseOtnk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nippon Steel executive to visit US to meet stakeholders of US Steel deal
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/nippon-steel-executive-visit-us-meet-stakeholders-us-steel-deal-4345551
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 07:14:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nippon-steel-executive-visit-us-meet-stakeholders-us-steel-deal-4345551
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8f1rxzB4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t235147z_3_lynxmpek4g0tc_rtroptp_3_u-s-steel-m-a-nippon-steel.jpg?itok=qlzI8pj0" width="1600"/>
   </item>
  </channel>
 </rss>
