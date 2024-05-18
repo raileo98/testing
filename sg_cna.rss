@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 21:51:27 +0800
+   Sat, 18 May 2024 22:06:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
+    Israeli leaders split over post-war Gaza governance
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-leaders-split-over-post-war-gaza-governance-4346141
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 22:00:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-leaders-split-over-post-war-gaza-governance-4346141
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V3Tm5jkN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7ed6195e0e827c1024271094fcdb18d87df80419.jpg?itok=qlB9tNi8" width="1600"/>
+  </item>
+  <item>
+   <title>
     Heightened security at Singapore checkpoints following attack on Johor police station
    </title>
    <link>
-    https://www.channelnewsasia.com/singapore/heightened-security-singapore-checkpoints-following-attack-johor-police-station-4346281
+    https://www.channelnewsasia.com/singapore/checkpoints-security-travellers-delay-immigration-johor-police-station-attack-jemaah-islamiyah-4346281
    </link>
    <description>
     <![CDATA[Delays are expected due to enhanced checks and travellers should factor in extra time for immigration clearance, said Singapore's Ministry of Home Afffairs.]]>
@@ -54,7 +75,7 @@
     Sat, 18 May 2024 21:31:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/heightened-security-singapore-checkpoints-following-attack-johor-police-station-4346281
+    https://www.channelnewsasia.com/singapore/checkpoints-security-travellers-delay-immigration-johor-police-station-attack-jemaah-islamiyah-4346281
    </guid>
    <category>
     Singapore
@@ -440,27 +461,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zxr5XGDx--/c_crop,h_576,w_1024,x_0,y_72/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/18/000_32jx7fa.jpg?itok=H7sZ8QoL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pandya's form mirrors Mumbai woes in wretched IPL season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pandyas-form-mirrors-mumbai-woes-wretched-ipl-season-4345966
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 14:17:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pandyas-form-mirrors-mumbai-woes-wretched-ipl-season-4345966
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wEdO5Xi2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t061739z_1_lynxmpek4h01l_rtroptp_3_cricket-asiancup-uae.jpg?itok=xPOgax1-" width="1600"/>
   </item>
  </channel>
 </rss>
