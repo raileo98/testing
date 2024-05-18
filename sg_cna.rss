@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 00:40:16 +0800
+   Sun, 19 May 2024 00:48:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    McLaren can hope to win at Imola, says Piastri
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/mclaren-can-hope-win-imola-says-piastri-4346541
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 00:40:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/mclaren-can-hope-win-imola-says-piastri-4346541
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Pr9nzTPt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t164007z_2_lynxmpek4h06k_rtroptp_3_motor-f1-emiliaromagna.jpg?itok=-xwcpHqs" width="1600"/>
+  </item>
   <item>
    <title>
     Pope says tension and debate are inevitable, embrace them
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RG_8vM0h--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0b906f9869751ec49024ab09f8f6e38e6e327f57.jpg?itok=GXTIXN5I" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ukraine struggles to hold eastern front as Russians advance on cities
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/ukraine-struggles-hold-eastern-front-russia-advance-4346076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 18:45:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/ukraine-struggles-hold-eastern-front-russia-advance-4346076
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gDAOuzBz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t100241z_1_lynxmpek4h02r_rtroptp_3_ukraine-crisis-south-frontline.jpg?itok=-vSEIiRd" width="1600"/>
   </item>
  </channel>
 </rss>
