@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 04:46:58 +0800
+   Sun, 19 May 2024 04:53:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel pushes into new parts of northern Gaza, recovers slain hostage
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-pushes-new-parts-northern-gaza-recovers-slain-hostage-4346776
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 04:49:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-pushes-new-parts-northern-gaza-recovers-slain-hostage-4346776
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OBQMsjal--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t184955z_1_lynxmpek4h07u_rtroptp_3_israel-palestinians.jpg?itok=58lVKGg2" width="1600"/>
+  </item>
   <item>
    <title>
     Atalanta not afraid of Bayer 'Neverlusen', Gasperini says
@@ -433,27 +454,6 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/leverkusen-become-first-bundesliga-team-go-all-season-without-defeat-4346441
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Verstappen equals Senna's record eight poles in a row
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/verstappen-equals-sennas-record-eight-poles-row-4346411
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 23:16:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/verstappen-equals-sennas-record-eight-poles-row-4346411
    </guid>
    <category>
     Sport
