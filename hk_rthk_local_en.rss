@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 18 May 2024 17:10:04 +0800
+   Sat, 18 May 2024 17:20:21 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 18 May 2024 16:41:28 +0800
+   Sat, 18 May 2024 17:18:43 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,41 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    MTR Corp to investigate light rail incident at NT
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753698-20240518.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753698-20240518.htm
+   </link>
+   <description>
+    <![CDATA[The MTR Corporation said on Saturday it's investigating an incident in the western New Territories this morning, during which light rail services were disrupted for about three hours.
+
+The incident occurred at around 9:40am, when a carriage derailed near Chung Uk Tsuen Station and affected light rail routes 610, 614, 615, and 715.
+
+As a result of the incident, services were suspended at Lam Tei, Nai Wai, Chung Uk Tsuen and Hung Shui Kiu stations. But there were no injuries.
+
+The city’s rail operator said it suspects the incident involves a “foreign object” on the track and a preliminary investigation found that the train involved was not speeding.
+
+“The MTR Corp will investigate the cause of the incident,” it said.
+
+Citing sources, lawmaker Gary Zhang, the deputy chairman of the subcommittee on matters relating to railways at the Legislative Council, said the incident happened at a busy crossing and an object may have fallen onto the tracks.
+
+“Although the incident is unrelated to the operations and maintenance of the light rail services, I think the MTR Corporation can still use technology to prevent similar incidents from happening again. For example, they can consider installing AI cameras at its junctions, or maybe install some vehicle-based detection systems so that early detections can be done,” he said.
+
+Zhang doesn't expect the incident to trigger any penalty mechanisms.
+
+Separately, the city’s transport chief Lam Sai-hung said that he had expressed concern about the incident. 
+
+The Electrical and Mechanical Services Department (EMSD) has conducted an immediate investigation at the scene of the incident and will study improvement measures along with the MTR Corporation.]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 17:18:43 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     More companies than ever in Hong Kong: govt
@@ -641,37 +676,6 @@ Chan also urged the makers of mosquito repellents to list out the ingredients in
    </description>
    <pubDate>
     Thu, 16 May 2024 15:45:51 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Spam call blocker apps pose privacy risk: watchdog
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753391-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753391-20240516.htm
-   </link>
-   <description>
-    <![CDATA[The Consumer Council on Thursday warned that the personal data of people who use apps to block spam callers could be at risk because some of these apps pass on the information to third parties.
-
-The watchdog investigated five such apps and found that two of them uploaded details from the user’s list of contacts onto their databases.
-
-The council found that third parties could then access sensitive details including addresses and the monthly rents the contacts paid. 
-
-It's suspected these were extracted from the contact lists of landlords or property agents who also used the apps. 
-
-The council found that one of the apps would also access up to eight items of personal data, including names, photos and dates of birth, when registered via Facebook. 
-
-Speaking at a press briefing, Kenneth Chan, the Vice-Chairman of the council's Publicity and Community Relations Committee, reminded users to stay vigilant when using these apps.
-
-"Consumers should pay attention to the following when using blocker apps. Read the terms of service and privacy policy before use, and evaluate whether the blocker app is trustworthy and the permission is reasonably commensurate with the functions offered," he added. 
-
-Despite the privacy risk, Chan also called on users to proactively report spam to help apps identify and block the latest telemarketing and spam calls.]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 15:05:16 +0800
    </pubDate>
   </item>
  </channel>
