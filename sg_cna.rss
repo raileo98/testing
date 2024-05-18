@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 07:15:41 +0800
+   Sun, 19 May 2024 07:24:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -399,6 +399,27 @@
   </item>
   <item>
    <title>
+    Commentary: The price of rebuilding Ukraine goes up each day - but shirking the bill will cost even more
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/ukraine-russia-invasion-us-europe-aid-rebuild-infrastructure-4334356
+   </link>
+   <description>
+    <![CDATA[Failing to repair Ukraine's infrastructure will lead to longer-term instability, says this University of Arizona professor.]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/ukraine-russia-invasion-us-europe-aid-rebuild-infrastructure-4334356
+   </guid>
+   <category>
+    Commentary ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QmIpKpYb--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-12t104608z_2_lynxnpek3b0e9_rtroptp_3_ukraine-crisis-kharkiv.jpg?itok=reEk9yWZ" width="1600"/>
+  </item>
+  <item>
+   <title>
     Commentary: S$2 million HDB flats? Not so fast
    </title>
    <link>
@@ -420,45 +441,24 @@
   </item>
   <item>
    <title>
-    Malaysia’s currency woes spur financial stress, political discontent. Will the ringgit rise again?
+    Commentary: ChatGPT is now better than ever at faking human emotion and behaviour
    </title>
    <link>
-    https://www.channelnewsasia.com/cna-insider/ringgit-decline-rise-malaysia-currency-low-brain-drain-government-4343531
+    https://www.channelnewsasia.com/commentary/openai-chatgpt-gpt4o-google-astra-ai-chatbot-ethics-4343696
    </link>
    <description>
-    <![CDATA[After the currency hit a 26-year low, is the only way up? The programme Insight finds optimism and doubt in equal measure as it looks at factors behind the ringgit’s fall and the ripple effects.]]>
+    <![CDATA[OpenAI’s new version of ChatGPT, GPT-4o, raises ethical questions of creating AI that can simulate human emotions and behaviours, says this University of Sydney academic.]]>
    </description>
    <pubDate>
     Sun, 19 May 2024 06:00:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/cna-insider/ringgit-decline-rise-malaysia-currency-low-brain-drain-government-4343531
+    https://www.channelnewsasia.com/commentary/openai-chatgpt-gpt4o-google-astra-ai-chatbot-ethics-4343696
    </guid>
    <category>
-    CNA Insider ,Asia ,Business
+    Commentary ,Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZUNty9MW--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/ins_ep5_clean_hkg10187709.jpg?itok=GEZWjrbC" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: The price of rebuilding Ukraine goes up each day - but shirking the bill will cost even more
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/ukraine-russia-invasion-us-europe-aid-rebuild-infrastructure-4334356
-   </link>
-   <description>
-    <![CDATA[Failing to repair Ukraine's infrastructure will lead to longer-term instability, says this University of Arizona professor.]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/ukraine-russia-invasion-us-europe-aid-rebuild-infrastructure-4334356
-   </guid>
-   <category>
-    Commentary ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QmIpKpYb--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-12t104608z_2_lynxnpek3b0e9_rtroptp_3_ukraine-crisis-kharkiv.jpg?itok=reEk9yWZ" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PkAZe8iq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-15t133525z_2_lynxmpek4e0mn_rtroptp_3_ai-languages.jpg?itok=rFcImTqR" width="1600"/>
   </item>
  </channel>
 </rss>
