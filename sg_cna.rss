@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 00:33:24 +0800
+   Sun, 19 May 2024 00:40:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pope says tension and debate are inevitable, embrace them
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/pope-says-tension-and-debate-are-inevitable-embrace-them-4346156
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 00:38:11 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/pope-says-tension-and-debate-are-inevitable-embrace-them-4346156
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Rrem6WJE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t115227z_1_lynxmpek4h03l_rtroptp_3_pope-verona.jpg?itok=e0CsyoK1" width="1600"/>
+  </item>
   <item>
    <title>
     Man City miss out on WSL title despite win over Villa
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gDAOuzBz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t100241z_1_lynxmpek4h02r_rtroptp_3_ukraine-crisis-south-frontline.jpg?itok=-vSEIiRd" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City's Foden voted Premier League player of the season
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/manchester-city-phil-foden-premier-league-player-year-4346101
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 18:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/manchester-city-phil-foden-premier-league-player-year-4346101
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qSEELsXH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t101740z_1_lynxmpek4h02y_rtroptp_3_soccer-england-brh-mci-report.jpg?itok=vNlIMMn8" width="1600"/>
   </item>
  </channel>
 </rss>
