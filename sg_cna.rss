@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 22:42:42 +0800
+   Sat, 18 May 2024 22:54:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    De Zerbi to leave Brighton at end of the season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/de-zerbi-leave-brighton-end-season-4346361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 22:47:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/de-zerbi-leave-brighton-end-season-4346361
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xn4fnM81--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t144728z_1_lynxmpek4h04u_rtroptp_3_soccer-england-new-brh-report.jpg?itok=qxNRr3aE" width="1600"/>
+  </item>
   <item>
    <title>
     Klopp an instant hit on Instagram on eve of final Liverpool game
@@ -440,27 +461,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wINW7GwR--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t034800z_1_lynxmpek4h015_rtroptp_3_philippines-newzealand-southchinasea.jpg?itok=E5PNAMl7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Arsenal must not get 'too emotional' on final day, says Odegaard
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/arsenal-must-not-get-too-emotional-final-day-says-odegaard-4345986
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 15:22:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/arsenal-must-not-get-too-emotional-final-day-says-odegaard-4345986
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--96ywcRgr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t072213z_1_lynxmpek4h01q_rtroptp_3_soccer-england-ars.jpg?itok=wo4Qn5I9" width="1600"/>
   </item>
  </channel>
 </rss>
