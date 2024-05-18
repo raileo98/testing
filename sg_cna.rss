@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 01:50:06 +0800
+   Sun, 19 May 2024 02:00:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    UN agency says 800,000 'forced to flee' Rafah since start of Israeli operation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/un-agency-says-800000-forced-flee-rafah-start-israeli-operation-4346646
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 01:59:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/un-agency-says-800000-forced-flee-rafah-start-israeli-operation-4346646
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V3Tm5jkN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7ed6195e0e827c1024271094fcdb18d87df80419.jpg?itok=qlB9tNi8" width="1600"/>
+  </item>
   <item>
    <title>
     Woods, Rahm miss PGA Championship cut
@@ -402,7 +423,7 @@
     Klopp an instant hit on Instagram on eve of final Liverpool game
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/klopp-instant-hit-instagram-eve-final-liverpool-game-4346336
+    https://www.channelnewsasia.com/sport/klopp-earns-million-instagram-followers-within-hours-4346336
    </link>
    <description>
     <![CDATA[]]>
@@ -411,7 +432,7 @@
     Sat, 18 May 2024 22:31:12 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/klopp-instant-hit-instagram-eve-final-liverpool-game-4346336
+    https://www.channelnewsasia.com/sport/klopp-earns-million-instagram-followers-within-hours-4346336
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V3Tm5jkN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/7ed6195e0e827c1024271094fcdb18d87df80419.jpg?itok=qlB9tNi8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Heightened security at Singapore checkpoints following attack on Johor police station
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/checkpoints-security-travellers-delay-immigration-johor-police-station-attack-jemaah-islamiyah-4346281
-   </link>
-   <description>
-    <![CDATA[Delays are expected due to enhanced checks and travellers should factor in extra time for immigration clearance, said Singapore's Ministry of Home Afffairs.]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 21:31:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/checkpoints-security-travellers-delay-immigration-johor-police-station-attack-jemaah-islamiyah-4346281
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gu0q4IFW--/c_fill,h_900,w_1600/f_auto,q_auto/police-officers-patrolling-singapore-file-photo_0.jpg?itok=F9oRNH7_" width="1600"/>
   </item>
  </channel>
 </rss>
