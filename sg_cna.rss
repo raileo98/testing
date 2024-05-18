@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 17:43:10 +0800
+   Sat, 18 May 2024 17:55:42 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Taiwan and China: Different views across the strait
+   </title>
+   <link>
+    https://www.channelnewsasia.com/east-asia/taiwan-china-different-views-across-strait-4346001
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 17:53:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/east-asia/taiwan-china-different-views-across-strait-4346001
+   </guid>
+   <category>
+    East Asia ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cx1DQacn--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/18/istock-1474138940.jpg?itok=ewJnEjy_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Taiwan and China: Different views across the strait
+   </title>
+   <link>
+    https://www.channelnewsasia.com/east-asia/taiwan-china-different-views-across-strait-4346001
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 17:53:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/east-asia/taiwan-china-different-views-across-strait-4346001
+   </guid>
+   <category>
+    East Asia ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cx1DQacn--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/18/istock-1474138940.jpg?itok=ewJnEjy_" width="1600"/>
+  </item>
   <item>
    <title>
     Kane struggling with back injury ahead of Euros
@@ -419,48 +461,6 @@
     World ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vQVLPeMK--/c_crop,h_432,w_768,x_0,y_4/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/9e4c65f35650da53ea7a6e77f8b38dac158bc7ca.jpg?itok=CkqtG8Rz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Boeing shareholders back outgoing CEO's US$33 million pay deal despite safety woes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/boeing-ceo-dave-calhoun-33-million-pay-package-shareholders-approve-4343286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 09:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/boeing-ceo-dave-calhoun-33-million-pay-package-shareholders-approve-4343286
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vQVLPeMK--/c_crop,h_432,w_768,x_0,y_4/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/9e4c65f35650da53ea7a6e77f8b38dac158bc7ca.jpg?itok=CkqtG8Rz" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Woods packing his bags after disastrous PGA Championship outing
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/woods-packing-his-bags-after-disastrous-pga-championship-outing-4345671
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 09:40:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/woods-packing-his-bags-after-disastrous-pga-championship-outing-4345671
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3rPAtLId--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t014036z_1_lynxmpek4h00p_rtroptp_3_golf.jpg?itok=sgsZpBDQ" width="1600"/>
   </item>
  </channel>
 </rss>
