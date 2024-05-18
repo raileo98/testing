@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 14:18:50 +0800
+   Sat, 18 May 2024 14:31:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pandya's form mirrors Mumbai woes in wretched IPL season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pandyas-form-mirrors-mumbai-woes-wretched-ipl-season-4345966
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 14:17:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pandyas-form-mirrors-mumbai-woes-wretched-ipl-season-4345966
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wEdO5Xi2--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t061739z_1_lynxmpek4h01l_rtroptp_3_cricket-asiancup-uae.jpg?itok=xPOgax1-" width="1600"/>
+  </item>
   <item>
    <title>
     Elneny to leave Arsenal after eight years
@@ -438,27 +459,6 @@
     East Asia ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dEd3b0hx--/c_crop,h_576,w_1024,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/18/000_34rt69g.jpg?itok=zPaE-OCJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Crypto lender Genesis to return $3 billion to customers in bankruptcy wind-down
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/crypto-lender-genesis-return-3-billion-customers-bankruptcy-wind-down-4345611
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 08:21:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/crypto-lender-genesis-return-3-billion-customers-bankruptcy-wind-down-4345611
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ilWMmUGr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t005315z_2_lynxmpek4h00c_rtroptp_3_usa-bankruptcy.jpg?itok=AAJNYQFW" width="1600"/>
   </item>
  </channel>
 </rss>
