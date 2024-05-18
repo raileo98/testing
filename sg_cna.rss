@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 13:54:33 +0800
+   Sat, 18 May 2024 14:18:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Elneny to leave Arsenal after eight years
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/elneny-leave-arsenal-after-eight-years-4345956
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 14:01:04 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/elneny-leave-arsenal-after-eight-years-4345956
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UZodtZKg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t060104z_1_lynxmpek4h01h_rtroptp_3_soccer-champions-bay-ars-preview.jpg?itok=b6vYfjve" width="1600"/>
+  </item>
   <item>
    <title>
     Irish actor Barry Keoghan jokes about doing a musical after Bird
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ilWMmUGr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t005315z_2_lynxmpek4h00c_rtroptp_3_usa-bankruptcy.jpg?itok=AAJNYQFW" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Jarry becomes first Chilean to reach Masters 1000 final in 17 years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/jarry-becomes-first-chilean-reach-masters-1000-final-17-years-4345586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 07:58:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/jarry-becomes-first-chilean-reach-masters-1000-final-17-years-4345586
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ihQChokM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-17t235832z_2_lynxmpek4g0tk_rtroptp_3_tennis-rome.jpg?itok=pML9PERT" width="1600"/>
   </item>
  </channel>
 </rss>
