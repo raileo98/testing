@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 18:11:15 +0800
+   Sat, 18 May 2024 18:25:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man City's Foden voted Premier League player of the season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-citys-foden-voted-premier-league-player-season-4346101
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 18:17:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-citys-foden-voted-premier-league-player-season-4346101
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qSEELsXH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t101740z_1_lynxmpek4h02y_rtroptp_3_soccer-england-brh-mci-report.jpg?itok=vNlIMMn8" width="1600"/>
+  </item>
   <item>
    <title>
     Taiwan and China: Different views across the strait
@@ -440,27 +461,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OX2azw5m--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t025434z_2_lynxmpek4h011_rtroptp_3_space-exploration-boeing-starliner.jpg?itok=H7TwqYQs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Boeing shareholders back outgoing CEO's US$33 million pay deal despite safety woes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/boeing-ceo-dave-calhoun-33-million-pay-package-shareholders-approve-4343286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 09:51:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/boeing-ceo-dave-calhoun-33-million-pay-package-shareholders-approve-4343286
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vQVLPeMK--/c_crop,h_432,w_768,x_0,y_4/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/9e4c65f35650da53ea7a6e77f8b38dac158bc7ca.jpg?itok=CkqtG8Rz" width="1600"/>
   </item>
  </channel>
 </rss>
