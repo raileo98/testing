@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 18 May 2024 14:54:29 +0800
+   Sat, 18 May 2024 15:06:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Singapore’s COVID-19 cases nearly double; hospitals to reduce non-urgent elective surgeries
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singapore-covid-19-cases-nearly-double-hospital-capacity-vaccination-4345961
+   </link>
+   <description>
+    <![CDATA[More than two-thirds of the COVID-19 cases in Singapore currently are of the KP.1 and KP.2 strain of the virus.]]>
+   </description>
+   <pubDate>
+    Sat, 18 May 2024 15:00:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singapore-covid-19-cases-nearly-double-hospital-capacity-vaccination-4345961
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zxr5XGDx--/c_crop,h_576,w_1024,x_0,y_72/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/18/000_32jx7fa.jpg?itok=H7sZ8QoL" width="1600"/>
+  </item>
   <item>
    <title>
     Pandya's form mirrors Mumbai woes in wretched IPL season
@@ -417,27 +438,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kBhKbtge--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2023-11-16t111626z_1_lynxmpejaf0ej_rtroptp_3_usa-pelosi-husband-video.jpg?itok=cY0yp4VT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    North Korea confirms missile launch, vows bolstered nuclear force
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/north-korea-missile-launch-may-17-kim-jong-un-4345601
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 08:26:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/north-korea-missile-launch-may-17-kim-jong-un-4345601
-   </guid>
-   <category>
-    East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0nJT-hrF--/c_crop,h_576,w_1024,x_0,y_39/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/18/000_34ry6jg.jpg?itok=WeOLLPtc" width="1600"/>
   </item>
   <item>
    <title>
