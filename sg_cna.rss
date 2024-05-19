@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 21:11:15 +0800
+   Sun, 19 May 2024 21:21:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    US race-neutral lung assessments to have profound effects, study finds
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-race-neutral-lung-assessments-have-profound-effects-study-finds-4347571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 21:18:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-race-neutral-lung-assessments-have-profound-effects-study-finds-4347571
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     17-year-old Singaporean kitefoiler Maximilian Maeder retains world title
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[The Asian Games gold medalist has now won five events in a row.]]>
    </description>
    <pubDate>
-    Sun, 19 May 2024 20:35:45 +0800
+    Sun, 19 May 2024 20:35:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/maximilian-maeder-17-year-old-singaporean-kitefoiler-retains-world-title-4347456
@@ -72,7 +93,7 @@
     <![CDATA[The Asian Games gold medalist has now won five events in a row.]]>
    </description>
    <pubDate>
-    Sun, 19 May 2024 20:35:45 +0800
+    Sun, 19 May 2024 20:35:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/maximilian-maeder-17-year-old-singaporean-kitefoiler-retains-world-title-4347456
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Coach Juric set to leave joyless Torino
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/coach-juric-set-leave-joyless-torino-4346896
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 07:13:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/coach-juric-set-leave-joyless-torino-4346896
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7L2vDnve--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t231316z_1_lynxmpek4h09a_rtroptp_3_soccer-italy-tor-nap-report.jpg?itok=gwrrT-32" width="1600"/>
   </item>
  </channel>
 </rss>
