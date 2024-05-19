@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 04:24:24 +0800
+   Mon, 20 May 2024 04:39:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Team by team review of Emilia Romagna Grand Prix
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/team-team-review-emilia-romagna-grand-prix-4348151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 04:22:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/team-team-review-emilia-romagna-grand-prix-4348151
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KBxyMHI3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t202229z_1_lynxmpek4i0ae_rtroptp_3_motor-f1-emiliaromagna.jpg?itok=tl6dIQa_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Guardiola says 'closer to leaving than staying' after latest Man City triumph
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/guardiola-says-closer-leaving-staying-after-latest-man-city-triumph-4348156
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 04:20:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/guardiola-says-closer-leaving-staying-after-latest-man-city-triumph-4348156
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9PQ9wIA3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t202059z_1_lynxmpek4i0ad_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=SK8zesWp" width="1600"/>
+  </item>
   <item>
    <title>
     Deadly strikes hit Gaza as US envoy visits Israel
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Wood double confirms Forest survival with win over Burnley
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/wood-double-confirms-forest-survival-win-over-burnley-4347946
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 02:04:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/wood-double-confirms-forest-survival-win-over-burnley-4347946
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Klopp receives emotional farewell tribute from Liverpool fans
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/klopp-receives-emotional-farewell-tribute-liverpool-fans-4347706
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 01:55:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/klopp-receives-emotional-farewell-tribute-liverpool-fans-4347706
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V4ETKaL4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/e40afbafe8cb206baaef470f20a0e9530a6afb84.jpg?itok=jQJcY3W6" width="1600"/>
   </item>
  </channel>
 </rss>
