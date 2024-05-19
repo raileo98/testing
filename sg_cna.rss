@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 06:35:49 +0800
+   Mon, 20 May 2024 06:46:04 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Premier League breaks new scoring record after last-day goal spree
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/premier-league-breaks-new-scoring-record-after-last-day-goal-spree-4348351
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 06:39:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/premier-league-breaks-new-scoring-record-after-last-day-goal-spree-4348351
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eqC3qCBl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t223905z_1_lynxmpek4i0bc_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=HMz9o7r5" width="1600"/>
+  </item>
   <item>
    <title>
     Scheffler moves on from arrest and leaves Valhalla with head held high
@@ -168,27 +189,6 @@
   </item>
   <item>
    <title>
-    Commentary: TCM’s role in Singapore’s healthcare continues to evolve, but will it lose its traditional roots?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/healthier-sg-traditional-chinese-medicine-evolve-integration-doctors-4343581
-   </link>
-   <description>
-    <![CDATA[Traditional Chinese Medicine (TCM) is gaining wider acceptance on the local and global front, yet it continues to be viewed by some as second-class. NUS Centre for Biomedical Ethics’ Kathryn Muyskens looks at what it means for TCM and Western medicine to be truly integrated.]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/healthier-sg-traditional-chinese-medicine-evolve-integration-doctors-4343581
-   </guid>
-   <category>
-    Commentary ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WYlgKSuL--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/istock-1324701999.jpg?itok=HK85Q2p0" width="1600"/>
-  </item>
-  <item>
-   <title>
     HDB rolls out resale flat listing service: Should property agents and listing portals be worried?
    </title>
    <link>
@@ -249,6 +249,27 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PrDKBZ3S--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/05/10/istock-1167010779.jpg?itok=y-ZAinOM" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: TCM’s role in Singapore’s healthcare continues to evolve, but will it lose its traditional roots?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/healthier-sg-traditional-chinese-medicine-evolve-integration-doctors-4343581
+   </link>
+   <description>
+    <![CDATA[Traditional Chinese Medicine (TCM) is gaining wider acceptance on the local and global front, yet it continues to be viewed by some as second-class. NUS Centre for Biomedical Ethics’ Kathryn Muyskens looks at what it means for TCM and Western medicine to be truly integrated.]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/healthier-sg-traditional-chinese-medicine-evolve-integration-doctors-4343581
+   </guid>
+   <category>
+    Commentary ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WYlgKSuL--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/istock-1324701999.jpg?itok=HK85Q2p0" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QALVwPrr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t223000z_1_lynxmpek4h096_rtroptp_3_israel-palestinians.jpg?itok=ckua87sJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Klopp encourages fans to embrace future after emotional finale at Liverpool
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/klopp-encourages-fans-embrace-future-after-emotional-finale-liverpool-4348121
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 04:07:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/klopp-encourages-fans-embrace-future-after-emotional-finale-liverpool-4348121
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
