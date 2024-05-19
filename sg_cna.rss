@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 02:42:10 +0800
+   Mon, 20 May 2024 02:51:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    No smiles for Postecoglou until Spurs achieve his 'lofty ambitions'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/no-smiles-postecoglou-until-spurs-achieve-his-lofty-ambitions-4347996
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 02:44:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/no-smiles-postecoglou-until-spurs-achieve-his-lofty-ambitions-4347996
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Late Dumfries header salvages 1-1 draw for champions Inter against Lazio
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/late-dumfries-header-salvages-1-1-draw-champions-inter-against-lazio-4347986
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 02:42:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/late-dumfries-header-salvages-1-1-draw-champions-inter-against-lazio-4347986
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BDo06hlH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t184208z_1_lynxmpek4i090_rtroptp_3_soccer-italy-int-laz-report.jpg?itok=ixaWvwni" width="1600"/>
+  </item>
   <item>
    <title>
     Taiwan's new leader inherits foreign policy strength but domestic political gridlock
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wsSq6B-x--/c_crop,h_900,w_1600,x_0,y_158/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/2024-05-19t182152z_1701959846_up1ek5j1f0e0z_rtrmadp_3_soccer-england-mci-whu-report.jpg?itok=3G3CUGla" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Cordlife announces arrest of one more director amid investigations into mishandling of cord blood units
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/cordlife-director-chen-xiaoling-arrested-bail-cord-blood-units-investigations-4347596
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 00:25:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/cordlife-director-chen-xiaoling-arrested-bail-cord-blood-units-investigations-4347596
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eN19l6PD--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/08/IMG_8713.jpg?itok=RmnVa798" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pogacar leaves chasing pack behind on climb to win Giro stage 15
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pogacar-dominates-climb-once-again-win-giro-stage-15-4347676
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 23:12:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pogacar-dominates-climb-once-again-win-giro-stage-15-4347676
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
