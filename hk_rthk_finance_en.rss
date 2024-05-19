@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sun, 19 May 2024 11:30:19 +0800
+   Sun, 19 May 2024 11:50:24 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 18 May 2024 05:38:33 +0800
+   Sun, 19 May 2024 11:36:52 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,33 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Economy improving but recovery uneven: FS
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753759-20240519.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753759-20240519.htm
+   </link>
+   <description>
+    <![CDATA[Financial Secretary Paul Chan on Sunday said while the macro-economy and investment sentiment have improved in recent months, not all industries in Hong Kong are recovering at the same pace. 
+
+Writing on his weekly blog, Chan noted that local stocks traded near nine-month highs earlier this month and home prices rebounded in March after a 10-month fall, but he acknowledged that retailers and restaurant operators still face challenges.
+
+"Indeed, the recovery is still uneven among different industries. The retail and catering sectors are still adapting to the challenges brought by changes in the consumption patterns of residents and tourists," he wrote.
+
+"In response to market changes, we take the initiative and strive to create more favourable market conditions and atmospheres. We work with the business community to create new opportunities of growth for Hong Kong."
+
+Chan added that the government will announce shortly mega events planned for the second half of the year.
+
+He vowed to create tourism experiences with unique characteristics of the SAR to boost spending.]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 11:36:52 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Dow closes above 40,000 for first time, stocks mixed
@@ -611,27 +638,6 @@ In mid-afternoon deals on the London stock market, Anglo American's share price 
    </description>
    <pubDate>
     Tue, 14 May 2024 00:12:59 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    HK stocks start week with more gains
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1752977-20240513.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1752977-20240513.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong shares finished on a high note on Monday as traders welcomed news that China would start selling almost US$140 billion in government bonds to help boost the world's number two economy.
-
-The Hang Seng Index rose 0.80 percent, or 151 points, to finish at 19,115.
-
-But the Shanghai Composite Index slipped 0.21 percent to 3,148, while the Shenzhen Composite on China's second exchange shed 0.95 percent to end at 1,766. (AFP)]]>
-   </description>
-   <pubDate>
-    Mon, 13 May 2024 16:21:39 +0800
    </pubDate>
   </item>
  </channel>
