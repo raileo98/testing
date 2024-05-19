@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 01:39:57 +0800
+   Mon, 20 May 2024 01:49:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Manchester City's six Premier League titles under Guardiola
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/manchester-citys-six-premier-league-titles-under-guardiola-4347911
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 01:39:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/manchester-citys-six-premier-league-titles-under-guardiola-4347911
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Slovak PM's life no longer in danger after shooting
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    17-year-old Singaporean kitefoiler Maximilian Maeder retains world title
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/maximilian-maeder-17-year-old-singaporean-kitefoiler-retains-world-title-4347456
-   </link>
-   <description>
-    <![CDATA[The Asian Games gold medalist has now won five events in a row.]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 20:35:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/maximilian-maeder-17-year-old-singaporean-kitefoiler-retains-world-title-4347456
-   </guid>
-   <category>
-    Singapore ,Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DV8YIak4--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/27/20230926_sailing_women_jl_005.jpg?itok=8pe04mNP" width="1600"/>
   </item>
  </channel>
 </rss>
