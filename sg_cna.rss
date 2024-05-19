@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 16:52:13 +0800
+   Sun, 19 May 2024 17:14:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    French forces smash roadblocks in bid to clear key New Caledonia road
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/french-forces-new-caledonia-violence-riots-roadblocks-4347361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 17:03:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/french-forces-new-caledonia-violence-riots-roadblocks-4347361
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NMutKwlc--/c_crop,h_432,w_768,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/eeeec384cb2938b4659ec7c3e5cecd3621e43651.jpg?itok=Sto_wl0a" width="1600"/>
+  </item>
   <item>
    <title>
     Gymnastics-Team Japan in Paris will be strongest ever, says medallist Kaya
@@ -438,27 +459,6 @@
     Women ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4cxHfyYz--/c_crop,h_900,w_1600,x_0,y_45/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/rani_dhaschainey_the_curve_cult.jpg?itok=34_-QAwM" width="1600"/>
-  </item>
-  <item>
-   <title>
-    The culinary journey of Johnson Wong, the Penang-based recipient of Malaysia’s Michelin Guide Young Chef Award 2023
-   </title>
-   <link>
-    https://www.channelnewsasia.com/people/gen-restaurant-penang-chef-johnson-wong-malaysia-4337641
-   </link>
-   <description>
-    <![CDATA[Johnson Wong’s restaurant Gen at Prestige Hotel uses local ingredients like free-range chicken from Balik Pulau, Penang or Sarawak Barrio Salt but cooked using refined modern European techniques he gleaned from his stints abroad.]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 06:23:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/people/gen-restaurant-penang-chef-johnson-wong-malaysia-4337641
-   </guid>
-   <category>
-    People ,CNA Luxury ,Dining ,Remarkable Living ,Travel ,Experiences ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cYLGrjI2--/c_crop,h_843,w_1500,x_0,y_112/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/hero-2-chef-johnson-wong-gen.jpg?itok=x6N5dYpB" width="1600"/>
   </item>
  </channel>
 </rss>
