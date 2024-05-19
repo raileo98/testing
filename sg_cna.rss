@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 22:25:31 +0800
+   Sun, 19 May 2024 22:31:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Helicopter in group carrying Iran's President Raisi makes rough landing, says minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/iran-president-ebrahim-raisi-convoy-helicopter-accident-4347551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 22:25:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/iran-president-ebrahim-raisi-convoy-helicopter-accident-4347551
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m0eKMsSZ--/c_crop,h_448,w_797,x_3,y_30/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-22t071218z_1_lynxnpek3l07g_rtroptp_3_iran-politics.jpg?itok=M8Z6x5HI" width="1600"/>
+  </item>
   <item>
    <title>
     Comet fragment lights up sky over Spain and Portugal 'like a movie'
@@ -436,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Simbine registers fastest 100m of season, Lyles superb in 150m
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/simbine-registers-fastest-100m-season-lyles-superb-150m-4346916
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 08:14:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/simbine-registers-fastest-100m-season-lyles-superb-150m-4346916
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ApUgzy49--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t001436z_1_lynxmpek4i005_rtroptp_3_athletics-world-relay.jpg?itok=JqXwpUeO" width="1600"/>
   </item>
  </channel>
 </rss>
