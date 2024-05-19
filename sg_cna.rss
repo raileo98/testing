@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 06:51:16 +0800
+   Mon, 20 May 2024 07:06:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Schauffele wins PGA Championship for first major title
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/schauffele-wins-pga-championship-first-major-title-4348386
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 07:01:02 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/schauffele-wins-pga-championship-first-major-title-4348386
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tgwOxIMz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t230102z_1_lynxmpek4i0bm_rtroptp_3_golf.jpg?itok=S-2aiB7X" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Brazil add three players to Copa America squad, injured Ederson replaced
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/brazil-add-three-players-copa-america-squad-injured-ederson-replaced-4348376
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 06:55:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/brazil-add-three-players-copa-america-squad-injured-ederson-replaced-4348376
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--TGCwc5pM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t225516z_1_lynxmpek4i0bk_rtroptp_3_soccer-copa-america-brazil.jpg?itok=hWZPcVT5" width="1600"/>
+  </item>
   <item>
    <title>
     Premier League breaks new scoring record after last-day goal spree
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KBxyMHI3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t202229z_1_lynxmpek4i0ae_rtroptp_3_motor-f1-emiliaromagna.jpg?itok=tl6dIQa_" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Guardiola says 'closer to leaving than staying' after latest Man City triumph
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/guardiola-says-closer-leaving-staying-after-latest-man-city-triumph-4348156
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 04:20:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/guardiola-says-closer-leaving-staying-after-latest-man-city-triumph-4348156
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9PQ9wIA3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t202059z_1_lynxmpek4i0ad_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=SK8zesWp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Deadly strikes hit Gaza as US envoy visits Israel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/deadly-strikes-hit-gaza-us-envoy-visits-israel-4347401
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 04:08:11 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/deadly-strikes-hit-gaza-us-envoy-visits-israel-4347401
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QALVwPrr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-18t223000z_1_lynxmpek4h096_rtroptp_3_israel-palestinians.jpg?itok=ckua87sJ" width="1600"/>
   </item>
  </channel>
 </rss>
