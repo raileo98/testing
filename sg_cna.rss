@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 01:21:32 +0800
+   Mon, 20 May 2024 01:30:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man United sign off disappointing league season with 2-0 win over Brighton
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-united-sign-disappointing-league-season-2-0-win-over-brighton-4347861
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 01:18:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-united-sign-disappointing-league-season-2-0-win-over-brighton-4347861
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Ship that destroyed Baltimore bridge set to move Monday
@@ -438,27 +459,6 @@
     Singapore ,Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DV8YIak4--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/27/20230926_sailing_women_jl_005.jpg?itok=8pe04mNP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Usyk's reign as undisputed champion may last only two weeks
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/usyks-reign-undisputed-champion-may-last-only-two-weeks-4347511
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 19:58:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/usyks-reign-undisputed-champion-may-last-only-two-weeks-4347511
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YnbIFN6n--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t115820z_1_lynxmpek4i03z_rtroptp_3_boxing-heavyweight-fury-usyk.jpg?itok=9QOEf11G" width="1600"/>
   </item>
  </channel>
 </rss>
