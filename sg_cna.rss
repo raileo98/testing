@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 19 May 2024 21:50:08 +0800
+   Sun, 19 May 2024 22:05:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,25 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Comet fragment lights up sky over Spain and Portugal 'like a movie'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 19 May 2024 21:19:44 +0800
+   </pubDate>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3h5HP0sL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t140310z_1_lynxmpek4i052_rtroptp_3_portugal-spain-comet.jpg?itok=2NSXZnny" width="1600"/>
+  </item>
   <item>
    <title>
     US race-neutral lung assessments to have profound effects, study finds
@@ -438,27 +457,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ApUgzy49--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t001436z_1_lynxmpek4i005_rtroptp_3_athletics-world-relay.jpg?itok=JqXwpUeO" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Usyk beats Fury to become undisputed heavyweight champ
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/usyk-beats-fury-become-undisputed-heavyweight-champ-4346911
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 08:10:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/usyk-beats-fury-become-undisputed-heavyweight-champ-4346911
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
