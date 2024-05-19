@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 05:25:48 +0800
+   Mon, 20 May 2024 05:39:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bezos' Blue Origin launches first crew to edge of space since 2022 grounding
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/bezos-blue-origin-launches-first-crew-edge-space-2022-grounding-4347436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 05:29:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/bezos-blue-origin-launches-first-crew-edge-space-2022-grounding-4347436
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---wcEWp0p--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t205350z_1_lynxmpek4i0ak_rtroptp_3_blue-origin-launch.jpg?itok=98nv9Yw0" width="1600"/>
+  </item>
   <item>
    <title>
     Team by team review of Emilia Romagna Grand Prix
@@ -433,27 +454,6 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/mateta-scores-hat-trick-palace-thrash-villa-5-0-4347966
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Luton’s relegation confirmed as Fulham win away
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/lutons-relegation-confirmed-fulham-win-away-4347941
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 02:08:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/lutons-relegation-confirmed-fulham-win-away-4347941
    </guid>
    <category>
     Sport
