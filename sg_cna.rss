@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 00:05:53 +0800
+   Mon, 20 May 2024 00:26:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Cordlife announces arrest of one more director amid investigations into mishandling of cord blood units
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/cordlife-director-chen-xiaoling-arrested-bail-cord-blood-units-investigations-4347596
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 00:25:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/cordlife-director-chen-xiaoling-arrested-bail-cord-blood-units-investigations-4347596
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eN19l6PD--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/12/08/IMG_8713.jpg?itok=RmnVa798" width="1600"/>
+  </item>
   <item>
    <title>
     Pogacar leaves chasing pack behind on climb to win Giro stage 15
@@ -150,7 +171,7 @@
     Comet fragment lights up sky over Spain and Portugal 'like a movie'
    </title>
    <link>
-    https://www.channelnewsasia.com/
+    https://www.channelnewsasia.com/business/comet-fragment-lights-sky-over-spain-and-portugal-movie-4347576
    </link>
    <description>
     <![CDATA[]]>
@@ -158,7 +179,9 @@
    <pubDate>
     Sun, 19 May 2024 21:19:44 +0800
    </pubDate>
-   <guid isPermaLink="false"/>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/comet-fragment-lights-sky-over-spain-and-portugal-movie-4347576
+   </guid>
    <category>
     Business
    </category>
@@ -436,27 +459,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yGkBEGuq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/6ed396429ddcd98361365b28e63854a161f986fe.jpg?itok=JlQ2P6Ve" width="1600"/>
-  </item>
-  <item>
-   <title>
-    What celebrities wore at Cannes Film Festival 2024
-   </title>
-   <link>
-    https://www.channelnewsasia.com/style-beauty/what-celebrities-wore-cannes-film-festival-2024-4346366
-   </link>
-   <description>
-    <![CDATA[Stars and models came out to play sartorially on the first few days of the festival. ]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 10:45:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/style-beauty/what-celebrities-wore-cannes-film-festival-2024-4346366
-   </guid>
-   <category>
-    Style &amp; Beauty ,Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hdZ-Shyo--/c_crop,h_890,w_1583,x_1,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/19/6.jpg?itok=XaTZFijs" width="1600"/>
   </item>
  </channel>
 </rss>
