@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 03:42:24 +0800
+   Mon, 20 May 2024 03:51:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Barcelona secure second place in LaLiga with win over Rayo
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/barcelona-secure-second-place-laliga-win-over-rayo-4348081
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 03:48:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/barcelona-secure-second-place-laliga-win-over-rayo-4348081
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hf_z9yyl--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-19t194831z_1_lynxmpek4i09q_rtroptp_3_soccer-spain-fcb-ray-report.jpg?itok=ohFjnHrC" width="1600"/>
+  </item>
   <item>
    <title>
     Pochettino remains tight-lipped about Chelsea future
@@ -433,27 +454,6 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/chelsea-earn-2-1-win-over-bournemouth-clinch-european-place-4347831
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Arsenal beat Everton but title wait goes on
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/arsenal-beat-everton-title-wait-goes-4347796
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 01:07:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/arsenal-beat-everton-title-wait-goes-4347796
    </guid>
    <category>
     Sport
