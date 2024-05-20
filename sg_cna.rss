@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 03:21:46 +0800
+   Tue, 21 May 2024 03:34:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vUnsyGiF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t171132z_1_lynxmpek4j0m5_rtroptp_3_israel-palestinians-biden.jpg?itok=hfpI5_JB" width="1600"/>
+  </item>
+  <item>
+   <title>
+    WTA signs multi-year partnership with Saudi PIF
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/wta-signs-multi-year-partnership-saudi-pif-4350391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 02:44:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/wta-signs-multi-year-partnership-saudi-pif-4350391
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -269,7 +290,7 @@
    <category>
     Business ,World
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8mZsjZgp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t182818z_4_lynxmpek4j0ii_rtroptp_3_fintech-crypto-britain-wright.jpg?itok=JLj3BGdi" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WBg0zETg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t193050z_5_lynxmpek4j0ii_rtroptp_3_fintech-crypto-britain-wright.jpg?itok=BZwrSjVF" width="1600"/>
   </item>
   <item>
    <title>
@@ -290,7 +311,7 @@
    <category>
     Business ,World
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8mZsjZgp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t182818z_4_lynxmpek4j0ii_rtroptp_3_fintech-crypto-britain-wright.jpg?itok=JLj3BGdi" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WBg0zETg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t193050z_5_lynxmpek4j0ii_rtroptp_3_fintech-crypto-britain-wright.jpg?itok=BZwrSjVF" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nRQpl7Q5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t070736z_3_lynxmpek4j03k_rtroptp_3_india-election.jpg?itok=27YrKYq0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Family in remote Himalayas gets own polling station for Indian election
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/family-remote-himalayas-gets-own-polling-station-indian-election-4349686
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 21:10:01 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/family-remote-himalayas-gets-own-polling-station-indian-election-4349686
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8AB4xof6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t122053z_1_lynxmpek4j0fe_rtroptp_3_india-election.jpg?itok=fCkwXJPg" width="1600"/>
   </item>
  </channel>
 </rss>
