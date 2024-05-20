@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 21:21:43 +0800
+   Mon, 20 May 2024 21:33:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Russia stresses strong ties with Iran as Putin calls interim president
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-stresses-strong-ties-iran-putin-calls-interim-president-4349726
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 21:31:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-stresses-strong-ties-iran-putin-calls-interim-president-4349726
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---68C3Ynv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t124412z_1_lynxmpek4j0fu_rtroptp_3_china-russia-putin.jpg?itok=K81y_o91" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Leverkusen's Wirtz named Bundesliga Player of the Season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leverkusens-wirtz-named-bundesliga-player-season-4349806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 21:25:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leverkusens-wirtz-named-bundesliga-player-season-4349806
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8TunOIq6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t132557z_1_lynxmpek4j0gx_rtroptp_3_soccer-germany-b04-aug-report.jpg?itok=DwWzHZCQ" width="1600"/>
+  </item>
   <item>
    <title>
     Ukraine's Kyivstar allocated $90 million to deal with cyberattack aftermath
@@ -417,48 +459,6 @@
     East Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FPWd-A1_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t094532z_2_lynxmpek4j0b3_rtroptp_3_china-property-debt.jpg?itok=uGJsrNgo" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Slump in China's home prices, sales set to worsen this year: Reuters poll
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/slump-chinas-home-prices-sales-set-worsen-year-reuters-poll-4349301
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 18:41:50 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/slump-chinas-home-prices-sales-set-worsen-year-reuters-poll-4349301
-   </guid>
-   <category>
-    East Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FPWd-A1_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t094532z_2_lynxmpek4j0b3_rtroptp_3_china-property-debt.jpg?itok=uGJsrNgo" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Kirin's electric spoon leaps from Ig Nobel infamy to the dinner table
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/kirins-electric-spoon-leaps-ig-nobel-infamy-dinner-table-4349421
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 18:38:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/kirins-electric-spoon-leaps-ig-nobel-infamy-dinner-table-4349421
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tL_PFZ6g--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t103808z_1_lynxmpek4j0cp_rtroptp_3_japan-spoon.jpg?itok=klw3eeGr" width="1600"/>
   </item>
  </channel>
 </rss>
