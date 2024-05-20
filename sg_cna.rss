@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 16:21:17 +0800
+   Mon, 20 May 2024 16:30:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Heightened security as man tries to snatch Penang police officer’s gun, days after fatal Ulu Tiram attack
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/malaysia-johor-police-station-attack-ulu-tiram-penang-ji-4349056
+   </link>
+   <description>
+    <![CDATA[The deadly assault at a police station in Malaysia's Johor on May 17 could have prompted others dissatisfied with society to turn to violent crime against authorities, say analysts.]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 16:24:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/malaysia-johor-police-station-attack-ulu-tiram-penang-ji-4349056
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--133CVL6B--/c_crop,h_843,w_1500,x_0,y_94/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/20/FDZ_4554.jpg?itok=oyWt2qrT" width="1600"/>
+  </item>
   <item>
    <title>
     Singapore Idol and Gegar Vaganza winner Hady Mirza to stage first solo concert in July
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IpFqh0jU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t055652z_1_lynxmpek4j06t_rtroptp_3_japan-economy-boj.jpg?itok=RaeEPo_9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'Island shot' helps KJ Choi set South Korean record on 54th birthday
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/island-shot-helps-kj-choi-set-south-korean-record-54th-birthday-4348921
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 13:26:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/island-shot-helps-kj-choi-set-south-korean-record-54th-birthday-4348921
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jbAQPK2Y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t052624z_1_lynxmpek4j06c_rtroptp_3_golf.jpg?itok=5EhRdTOW" width="1600"/>
   </item>
  </channel>
 </rss>

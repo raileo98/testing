@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 16:10:22 +0800
+   Mon, 20 May 2024 16:30:19 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 10:04:12 +0800
+   Mon, 20 May 2024 16:20:07 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks start week with another gain
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753900-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753900-20240520.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares built on a long-running rally on Monday after China last week unveiled plans to help its property sector, and as traders were upbeat about a possible US interest rate cut in the coming months.
+
+The Hang Seng Index added 0.4 percent, or 82 points, to 19,636.
+
+The Shanghai Composite Index rose 0.5 percent, or 17 points, to 3,171, while the Shenzhen Composite Index gained 0.5 percent, or 8 points, to 1,793. (AFP)]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 16:20:07 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks extend rally at open
@@ -587,39 +608,6 @@ The Shanghai Composite Index was marginally higher, inching up 0.83 points to 3,
    </description>
    <pubDate>
     Tue, 14 May 2024 09:49:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    US market pauses ahead of key inflation figure
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753037-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753037-20240514.htm
-   </link>
-   <description>
-    <![CDATA[A revival in GameStop and other meme stocks overshadowed a mixed performance in the broader stock market on Monday as a Dow winning streak ended.
-
-Art Hogan, from B. Riley Financial, said the markets are looking ahead to Wednesday's consumer price index report for April.
-
-The market will celebrate signs of moderating inflation, Hogan said, while further signs of intensifying inflation will lead to "the kind of selling pressure that we saw in April."
-
-The Dow Jones Industrial Average declined 0.2 percent to 39,431, ending an eight-day winning streak.
-
-The S&P 500 was flat at 5,221, while the Nasdaq Composite gained 0.3 percent to 16,388.
-
-Monday's light schedule in terms of economic reports continued the sleepy tenor of last week, when stocks climbed on hopes that the Federal Reserve will soon cut interest rates.
-
-The inflation report -- along with this week's retail sales data -- will inform expectations about US monetary policy.
-
-Among individual companies, GameStop rocketed 70.9 percent higher while AMC Entertainment surged 80.9 percent. Both benefited from the return to social media of "Roaring Kitty," whose posts helped ignite a massive rally in a handful of stocks in January 2021.
-
-Apple jumped 1.8 percent following a Bloomberg report that the smartphone giant is close to a deal with OpenAI to add ChatGPT to iPhones. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 04:20:58 +0800
    </pubDate>
   </item>
  </channel>
