@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 11:40:40 +0800
+   Mon, 20 May 2024 11:50:32 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 10:51:20 +0800
+   Mon, 20 May 2024 11:47:11 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    內地股市半日靠穩　上證指數升約0.4%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753868-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753868-20240520.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市半日上升，有色金屬、養殖、景點旅遊相關股份上升，房地產和家電股下跌。
+
+上證綜合指數報3166點，升12點，升幅0.38%。
+
+深證成份指數報9719點，升10點，升幅0.1%。
+
+創業板指數報1868點，升3點，升幅0.21%。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 11:47:11 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股止跌回升　半日升559點
@@ -429,29 +452,6 @@
    </description>
    <pubDate>
     Sat, 18 May 2024 06:23:44 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    國際油價高收近1%或以上
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753646-20240518.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753646-20240518.htm
-   </link>
-   <description>
-    <![CDATA[國際期油價格上升，市場憧憬原油需求改善。
-
-倫敦布蘭特期油收市報每桶83.98美元，升71美仙，升幅0.85%。
-
-紐約期油報每桶80.06美元，升83美仙，升幅1.05%。
-
-全星期計，兩者分別累計上升約1%和2%。]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 06:23:31 +0800
    </pubDate>
   </item>
  </channel>
