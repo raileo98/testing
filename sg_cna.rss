@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 02:05:48 +0800
+   Tue, 21 May 2024 02:28:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Messi leads Argentina's squad for pre-Copa America friendlies
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/messi-leads-argentinas-squad-pre-copa-america-friendlies-4350326
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 02:17:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/messi-leads-argentinas-squad-pre-copa-america-friendlies-4350326
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Dell deepens AI push with new PCs, Nvidia-powered servers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/dell-deepens-ai-push-new-pcs-nvidia-powered-servers-4350316
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 02:06:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/dell-deepens-ai-push-new-pcs-nvidia-powered-servers-4350316
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PQ3QZHjb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t180621z_1_lynxmpek4j0nc_rtroptp_3_dell-tech-results.jpg?itok=cBfchXBb" width="1600"/>
+  </item>
   <item>
    <title>
     UK PM Sunak says blood scandal should "shake our nation to its core"
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8dTHZeTv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t114726z_1_lynxmpek4j0eo_rtroptp_3_britain-usa-assange.jpg?itok=b-S9zaBE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil dips as US Fed dampens mood on interest rate cuts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-dips-us-fed-dampens-mood-interest-rate-cuts-4348541
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 20:13:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-dips-us-fed-dampens-mood-interest-rate-cuts-4348541
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Ukraine controls 60% of Kharkiv border town after Russian raids, Kyiv says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/ukraine-controls-60-kharkiv-border-town-after-russian-raids-kyiv-says-4349511
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 20:10:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/ukraine-controls-60-kharkiv-border-town-after-russian-raids-kyiv-says-4349511
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bQv05fy4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t111036z_1_lynxmpek4j0dm_rtroptp_3_ukraine-crisis-kharkiv-artillery.jpg?itok=Xqld5uZ9" width="1600"/>
   </item>
  </channel>
 </rss>
