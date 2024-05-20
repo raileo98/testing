@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 18:12:32 +0800
+   Mon, 20 May 2024 18:27:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,44 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man City's winning mindset helped beat Arsenal in the title race, says Rodri
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-citys-winning-mindset-helped-beat-arsenal-title-race-says-rodri-4349401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 18:19:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-citys-winning-mindset-helped-beat-arsenal-title-race-says-rodri-4349401
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rsdPkPLp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t101958z_1_lynxmpek4j0c8_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=D6OCNPwz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Oil climbs after Iran's president dies, Saudi flags issue with king's health
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate/>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     ERP rates to drop by S$1 at 7 locations during June school holidays
@@ -417,48 +455,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--133CVL6B--/c_crop,h_843,w_1500,x_0,y_94/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/03/20/FDZ_4554.jpg?itok=oyWt2qrT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore Idol and Gegar Vaganza winner Hady Mirza to stage first solo concert in July
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/hady-mirza-singapore-concert-4349101
-   </link>
-   <description>
-    <![CDATA[Hady will be performing at The Theatre at Mediacorp.]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 16:04:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/hady-mirza-singapore-concert-4349101
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1ZA0Jp9P--/c_crop,h_607,w_1080,x_0,y_82/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/hady_mirza.jpg?itok=ZfaTB58f" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore Idol and Gegar Vaganza winner Hady Mirza to stage first solo concert in July
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/hady-mirza-singapore-concert-4349101
-   </link>
-   <description>
-    <![CDATA[Hady will be performing at The Theatre at Mediacorp.]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 16:04:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/hady-mirza-singapore-concert-4349101
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1ZA0Jp9P--/c_crop,h_607,w_1080,x_0,y_82/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/hady_mirza.jpg?itok=ZfaTB58f" width="1600"/>
   </item>
  </channel>
 </rss>
