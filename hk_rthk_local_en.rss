@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 17:20:16 +0800
+   Mon, 20 May 2024 17:40:36 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 15:46:04 +0800
+   Mon, 20 May 2024 17:25:14 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK's jobless rate remains unchanged at three percent
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753907-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753907-20240520.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong’s jobless rate remained stable at three percent in the three-month period ending in April.
+
+Official figures from the Census and Statistics Department showed that the underemployment rate also remained unchanged, at 1.1 percent.
+
+About 5,700 people were newly employed during the three-month period, bringing the total employment number to 3.69 million. The labour force, meanwhile, increased by about 7,700 to 3.8 million.
+
+However, some 2,000 people became jobless during the period, sending the total number of unemployed to 113,700.
+
+The number of underemployed people stood at 40,500, largely unchanged compared with the previous three-month period.
+
+Commenting on the latest figures, labour chief Chris Sun said the unemployment rates of various sectors remained low in general, with only small changes observed.
+
+He said he expects "continued economic growth" to keep the labour market tight in the near term.
+
+Sun also noted that there was a monthly average of 75,425 vacancies in the private sector between February and April, which was a decrease of nearly 30 percent on a yearly basis and a drop of 2.7 percent compared with the first three months of the year.]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 17:25:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Label issued to "smart and safe" construction sites
@@ -623,41 +654,6 @@ Lo expressed the hope that upcoming legal changes that would allow more non-loca
    </description>
    <pubDate>
     Sat, 18 May 2024 10:47:21 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    E-CNY pilot scheme expanded to HK for the first time
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753582-20240517.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753582-20240517.htm
-   </link>
-   <description>
-    <![CDATA[The Hong Kong Monetary Authority on Friday announced that a pilot electronic renminibi programme had been expanded to Hong Kong to include cross-border usage of the digital currency. 
-
-It marks the first time since the launch of the e-CNY pilot scheme in 2019 that the nation's official digital currency was available for use outside of the mainland.
-
-The programme, backed by Beijing, allows Hong Kong residents to open digital yuan wallets using a local mobile number via an app developed by China's central bank - the People's Bank of China.
-
-The expansion of the programme permits users to make payments in retail shops and some online stores in Hong Kong, Macau and other Greater Bay Area cities as well as in other places covered by the pilot scheme.
-
-Hongkongers who use the e-CNY wallets can pay up to 2,000 yuan for each transaction, and are limited to use up to 50,000 yuan worth of purchases per year. 
-
-The apps are operated by four mainland banks, namely Bank of China, Bank of Communications, China Construction Bank as well as Industrial and Commercial Bank of China, while users can top up their e-CNY wallets from 17 banks, including HSBC, Hang Seng Bank and Standard Chartered Bank. 
-
-Speaking at a press briefing, the authority's deputy chief executive, Howard Lee, said the expansion of the pilot scheme would make it more convenient for Hongkongers to shop on the mainland.
-
-"This is going to provide an additional means, a safe and secure means for people in Hong Kong to use this wallet across the border when they go there and they have a need to make a payment, or vice versa for mainland users coming to Hong Kong," he explained.
-
-"There are already some other means that can be used for this purpose, but we thought that different people might have different preferences, so one more option is always better than one fewer option."
-
-However, Hong Kong users currently cannot make peer-to-peer (P2P) transactions, or electronic money transfers from oneself to another through the e-CNY wallets.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 17:35:05 +0800
    </pubDate>
   </item>
  </channel>
