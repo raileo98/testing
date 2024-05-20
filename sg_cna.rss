@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 13:51:32 +0800
+   Mon, 20 May 2024 14:06:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Klopp seeks private life after Liverpool exit, rules out immediate return
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/klopp-seeks-private-life-after-liverpool-exit-rules-out-immediate-return-4348961
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 13:57:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/klopp-seeks-private-life-after-liverpool-exit-rules-out-immediate-return-4348961
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Japan manufacturers want stable FX from BOJ policy, survey shows
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-manufacturers-want-stable-fx-boj-policy-survey-shows-4348966
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 13:56:52 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-manufacturers-want-stable-fx-boj-policy-survey-shows-4348966
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IpFqh0jU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t055652z_1_lynxmpek4j06t_rtroptp_3_japan-economy-boj.jpg?itok=RaeEPo_9" width="1600"/>
+  </item>
   <item>
    <title>
     'Island shot' helps KJ Choi set South Korean record on 54th birthday
@@ -171,7 +213,7 @@
     Indonesia lowers 2025 GDP growth expectation to 5.1%-5.5%
    </title>
    <link>
-    https://www.channelnewsasia.com/business/indonesia-lowers-2025-gdp-growth-expectation-51-55-4348861
+    https://www.channelnewsasia.com/business/indonesia-lowers-2025-gdp-growth-forecast-keeps-budget-gap-plan-4348861
    </link>
    <description>
     <![CDATA[]]>
@@ -180,7 +222,7 @@
     Mon, 20 May 2024 12:35:40 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indonesia-lowers-2025-gdp-growth-expectation-51-55-4348861
+    https://www.channelnewsasia.com/business/indonesia-lowers-2025-gdp-growth-forecast-keeps-budget-gap-plan-4348861
    </guid>
    <category>
     Business
@@ -417,48 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lilH23Vs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/26/gilbert_oh_mfa_director_general.jpg?itok=YumolSME" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taiwan swears in new president as China pressure grows
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/taiwan-swears-new-president-lai-ching-te-china-pressure-grows-4348216
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 10:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/taiwan-swears-new-president-lai-ching-te-china-pressure-grows-4348216
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lGzVtMAx--/c_crop,h_1687,w_3000,x_0,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/000_34t893f.jpg?itok=BxAPXbmi" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Taiwan swears in new president as China pressure grows
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/taiwan-swears-new-president-lai-ching-te-china-pressure-grows-4348216
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 10:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/taiwan-swears-new-president-lai-ching-te-china-pressure-grows-4348216
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lGzVtMAx--/c_crop,h_1687,w_3000,x_0,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/000_34t893f.jpg?itok=BxAPXbmi" width="1600"/>
   </item>
  </channel>
 </rss>
