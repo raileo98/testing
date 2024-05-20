@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 14:30:33 +0800
+   Mon, 20 May 2024 14:40:15 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 14:21:35 +0800
+   Mon, 20 May 2024 14:36:37 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股高收0.7%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753887-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753887-20240520.htm
+   </link>
+   <description>
+    <![CDATA[日本股市重上39000點，日經平均指數高見39437點，收市報39069點，升282點，升幅0.73%。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 14:36:37 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     台股收市靠穩
@@ -429,29 +446,6 @@
    </description>
    <pubDate>
     Mon, 20 May 2024 07:16:14 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美股本周焦點：Nvidia業績、聯儲局會議紀錄
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753829-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753829-20240520.htm
-   </link>
-   <description>
-    <![CDATA[美股上星期造好，道瓊斯指數上周五首次企穩4萬點收市，全周累計升1.2%，連升5星期。納斯達克指數及標普500指數分別升2.1%及1.5%，均連升4星期。
-
-美股本周焦點在於Nvidia周三收市後公布業績，市場預料盈利及收入分別按年急升逾5倍及逾2倍，兩者已連續多個季度超出市場預期。本周亦有零售股Target、勞氏公司、羅斯百貨公布業績。
-
-聯儲局將於周三公布上次議息會議紀錄，本周亦有多名官員在公開場合發表講話。
-
-本周公布的美國數據包括4月二手樓銷售、新屋銷售、耐用品訂單，亦有5月密歇根大學消費者信心指數終值、5月標普全球製造業及服務業採購經理指數(PMI)。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 05:27:40 +0800
    </pubDate>
   </item>
  </channel>

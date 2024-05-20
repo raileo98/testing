@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Mon, 20 May 2024 14:40:02 +0800
+   Mon, 20 May 2024 14:48:40 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,32 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [生活] 衛福部獲准加入全球隱私執法合作協議 防跨境個資侵害
+   </title>
+   <description>
+    <![CDATA[為加強保障國人個資，衛福部於去年底申請加入「全球隱私執法合作協議(Global CAPE)」，並在今年3月接獲Global CAPE管理者—日本經濟產業省通知我方申請已獲通過，該協議成員還包括美國、加拿大、韓國、新加坡等，未來可望透過該協議與其他國際夥伴共同推動跨境隱私執法合作，強化民眾資訊隱私權保障。衛福部指出，我國作為創始會員的「全球跨境隱私規則論壇(Global CBPR Forum)」向來致力於促進受信任的資料流通、降低不必要的數位貿易障礙，隨著全球數位化趨勢不斷加速，資料跨境傳輸需求急遽增加，個資侵害事故發生經常牽涉境外因素，須透過...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206581">...more</a>]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 14:28:36 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2206581
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2206581
+   </guid>
+   <author>
+    劉品希採訪
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/3">
+    生活
+   </category>
+   <dc:creator>
+    劉品希採訪
+   </dc:creator>
+  </item>
   <item>
    <title>
     [政治] 行政院內閣聯合交接 蕭美琴盼以積極思維面對問題 - 240520-16
@@ -78,13 +104,13 @@
     https://www.rti.org.tw/news/view/id/2206577
    </guid>
    <author>
-    採訪, 其他
+    採訪, 採訪, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 其他
+    採訪, 採訪, 其他
    </dc:creator>
   </item>
   <item>
@@ -104,13 +130,39 @@
     https://www.rti.org.tw/news/view/id/2206576
    </guid>
    <author>
-    採訪, 其他, 中央社
+    採訪, 採訪, 其他, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 其他, 中央社
+    採訪, 採訪, 其他, 中央社
+   </dc:creator>
+  </item>
+  <item>
+   <title>
+    [國際] 風險日增 南韓英國合辦第二屆全球AI峰會
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2019%2F01%2F30%2F75fb1af2cf464992a28ace6fbccd8c18.jpg" width="360" alt="人工智慧（Artificial Intelligence,AI）。示意圖。(pixabay圖庫)" title="人工智慧（Artificial Intelligence,AI）。示意圖。(pixabay圖庫)"><br>路透社今天(20日)報導，南韓和英國本週將在首爾聯合主辦第二屆全球人工智慧(AI)峰會，自去年11月的第一屆AI峰會以來，創新步伐驚人，讓各國政府倉促努力跟上一系列不斷增長的風險。英國首相蘇納克(Rishi Sunak)和南韓總統尹錫悅(Yoon Suk Yeol)21日將監督一場虛擬會議，儘管對於這項科技如何影響人類的問題存在著尖銳分歧，人們仍呼籲對AI加強監管。蘇納克和尹錫悅在一份刊於英國「i報紙」(i newspaper)和南韓「中央日報」(JoongAng Ilbo)，題為「只有全球AI標準能阻止向下沉淪的競賽」的聯合觀點文章中表示，「儘管在塑造...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206578">...more</a>]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 14:13:54 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2206578
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2206578
+   </guid>
+   <author>
+    余思瑩採訪
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    余思瑩採訪
    </dc:creator>
   </item>
   <item>
@@ -130,13 +182,13 @@
     https://www.rti.org.tw/news/view/id/2206575
    </guid>
    <author>
-    採訪, 其他, 中央社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 其他, 中央社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +338,13 @@
     https://www.rti.org.tw/news/view/id/2206569
    </guid>
    <author>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -364,13 +416,13 @@
     https://www.rti.org.tw/news/view/id/2206566
    </guid>
    <author>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -390,13 +442,13 @@
     https://www.rti.org.tw/news/view/id/2206565
    </guid>
    <author>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -442,13 +494,13 @@
     https://www.rti.org.tw/news/view/id/2206564
    </guid>
    <author>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -468,13 +520,13 @@
     https://www.rti.org.tw/news/view/id/2206562
    </guid>
    <author>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 其他, 中央社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
+    採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -761,58 +813,6 @@
    </category>
    <dc:creator>
     余思瑩採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 三黨不過半 賴總統盼朝野秉持人民至上、國家優先、行政立法合作 - 240520-10
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F05%2F20%2F20240520000096M.jpg" width="360" alt="總統賴清德（圖）20日上午出席第16任總統副總統就職慶祝大會，以「打造民主和平繁榮的台灣」為題發表就職演說。(圖：中央社)" title="總統賴清德（圖）20日上午出席第16任總統副總統就職慶祝大會，以「打造民主和平繁榮的台灣」為題發表就職演說。(圖：中央社)"><br>第16任總統賴清德今天(20日)以「打造民主和平繁榮的台灣」為題發表就職演說。面對國會「三黨不過半」，賴總統強調將「秉持人民利益至上、國家優先對應國會新局」，呼籲立法院的議事運作，應該遵守程序正義，他希望朝野政黨推動法案時，都要合乎憲法，而為了國家生存發展，他將透過民主力量，團結國人，壯大國家。#記者劉玉秋的報導#第16任總統賴清德、副總統蕭美琴正式宣誓就職，賴總統並以「打造民主和平繁榮的台灣」為題發表就職演說。賴總統首先表示，他年輕的時候，立志行醫救人；他從政的時候，立志改變台灣；現在他站在這裡，將立志壯大國家，他會以無比堅定的心情，接受人民的託付，並...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206551">...more</a>]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 11:34:11 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2206551
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2206551
-   </guid>
-   <author>
-    劉玉秋採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    劉玉秋採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 2030公車電動化目標尚遙 新興運具將納運安會調查範圍 - 240520-9
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F01%2F03%2F20240103000085M.jpg" width="360" alt="圖為大都會客運引進的15輛Model T電動公車。（台北市公運處提供）(資料照片/CNA)" title="圖為大都會客運引進的15輛Model T電動公車。（台北市公運處提供）(資料照片/CNA)"><br>政府推出「2030年市區公車全面電動化」，目標2030年完成1萬1,700輛電動公車上路。不過立法院交通委員會今天(20日)的報告指出，全台電動大客車的領牌數迄今還不到2千輛，遭到多名立委質疑2030年的目標能否達成。與此同時，國家運輸安全調查委員會則因應自駕車興起，研擬將新興運具納入事故調查範圍。#央廣記者吳琍君採訪報導#立法院交通委員會20日邀請交通部、運安會及經濟部就「我國汽車自動駕駛系統與電動大客車之產業前景、法規建置、安全風險及發展現況」進行專題報告並備詢。根據政府推出的「2030年市區公車全面電動化」計畫，預計未來7年將投入新台幣643億元，...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206547">...more</a>]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 11:34:02 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2206547
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2206547
-   </guid>
-   <author>
-    吳琍君採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    吳琍君採訪
    </dc:creator>
   </item>
  </channel>
