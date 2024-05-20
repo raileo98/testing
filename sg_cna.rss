@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 19:10:52 +0800
+   Mon, 20 May 2024 19:21:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US FDA clears Neuralink's brain chip implant in second patient, WSJ reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-fda-clears-neuralinks-brain-chip-implant-second-patient-wsj-reports-4349531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 19:14:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-fda-clears-neuralinks-brain-chip-implant-second-patient-wsj-reports-4349531
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oL9m3kC8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t111418z_1_lynxmpek4j0dr_rtroptp_3_neuralink-musk-wires.jpg?itok=blOfxKaL" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Slovak PM Fico is 'improving' after assassination attempt, says hospital
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/slovak-pm-fico-improving-after-assassination-attempt-says-hospital-4349451
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 19:14:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/slovak-pm-fico-improving-after-assassination-attempt-says-hospital-4349451
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zKH-tfID--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t105242z_1_lynxmpek4j0cz_rtroptp_3_slovakia-shooting.jpg?itok=yqpMWk0R" width="1600"/>
+  </item>
   <item>
    <title>
     CNA Explains: The FLiRT family of COVID-19 variants and what we know about the KP.2 strain
@@ -413,48 +455,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VmC209JE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/indonesia_daily_life_93416.jpg?itok=VbrFPkoS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Water pollution in Jakarta: Some residents resort to buying clean water from neighbours
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/water-pollution-jakarta-residents-buying-clean-water-neighbours-indonesia-4348901
-   </link>
-   <description>
-    <![CDATA[The capital city currently has about 65 per cent accessibility to clean water, and the authorities have set an ambitious target of 100 per cent by 2030. ]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 17:41:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/water-pollution-jakarta-residents-buying-clean-water-neighbours-indonesia-4348901
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VmC209JE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/indonesia_daily_life_93416.jpg?itok=VbrFPkoS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Timberwolves rally to knock defending champion Nuggets out of NBA playoffs
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/timberwolves-rally-knock-defending-champion-nuggets-out-nba-playoffs-4348651
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 17:39:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/timberwolves-rally-knock-defending-champion-nuggets-out-nba-playoffs-4348651
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
