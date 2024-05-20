@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 19:21:06 +0800
+   Mon, 20 May 2024 19:30:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    High Court strikes out suit by 36 death row inmates on legal aid for post-appeal cases
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/death-row-capital-sentence-legal-aid-assistance-access-justice-4349351
+   </link>
+   <description>
+    <![CDATA[A policy not to provide legal aid for post-appeal cases did not infringe death row inmates' constitutional rights, the judge found.]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 19:23:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/death-row-capital-sentence-legal-aid-assistance-access-justice-4349351
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ax3KPUgP--/c_crop,h_833,w_1481,x_9,y_128/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/10/18/supreme_court_file_photo_sep_23_2022_5.jpg?itok=lQ2A5C0N" width="1600"/>
+  </item>
   <item>
    <title>
     US FDA clears Neuralink's brain chip implant in second patient, WSJ reports
@@ -81,6 +102,27 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zKH-tfID--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t105242z_1_lynxmpek4j0cz_rtroptp_3_slovakia-shooting.jpg?itok=yqpMWk0R" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Cybersecurity company CyberArk to acquire Venafi in $1.5 billion deal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/cybersecurity-company-cyberark-acquire-venafi-15-billion-deal-4349521
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 19:09:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/cybersecurity-company-cyberark-acquire-venafi-15-billion-deal-4349521
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -413,48 +455,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--otMVeaNB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t095346z_1_lynxmpek4j0bl_rtroptp_3_paralympics-2024.jpg?itok=pfz2DJhx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Major change in US gun regulation takes effect after years of political wrangling
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/usa-gun-control-firearm-law-rule-license-dealer-background-check-4349276
-   </link>
-   <description>
-    <![CDATA[The new rule closes a loophole that has allowed more than 23,000 unlicensed dealers to sell guns without a licence or conducting background checks.]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 17:49:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/usa-gun-control-firearm-law-rule-license-dealer-background-check-4349276
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FCTWoGBX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/screenshot_436.png?itok=084M7sDs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Water pollution in Jakarta: Some residents resort to buying clean water from neighbours
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/water-pollution-jakarta-residents-buying-clean-water-neighbours-indonesia-4348901
-   </link>
-   <description>
-    <![CDATA[The capital city currently has about 65 per cent accessibility to clean water, and the authorities have set an ambitious target of 100 per cent by 2030. ]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 17:41:10 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/water-pollution-jakarta-residents-buying-clean-water-neighbours-indonesia-4348901
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VmC209JE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/indonesia_daily_life_93416.jpg?itok=VbrFPkoS" width="1600"/>
   </item>
  </channel>
 </rss>
