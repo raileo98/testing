@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 22:33:17 +0800
+   Mon, 20 May 2024 22:46:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -51,13 +51,34 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 20 May 2024 22:22:54 +0800
+    Mon, 20 May 2024 22:22:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/self-proclaimed-bitcoin-inventor-lied-repeatedly-support-claim-says-uk-judge-4349916
    </guid>
    <category>
-    Business
+    Business ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5GW49zIE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t142626z_2_lynxmpek4j0ii_rtroptp_3_fintech-crypto-britain-wright.jpg?itok=aro2AO1M" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Self-proclaimed bitcoin inventor lied 'repeatedly' to support claim, says UK judge
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/self-proclaimed-bitcoin-inventor-lied-repeatedly-support-claim-says-uk-judge-4349916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 22:22:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/self-proclaimed-bitcoin-inventor-lied-repeatedly-support-claim-says-uk-judge-4349916
+   </guid>
+   <category>
+    Business ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--5GW49zIE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t142626z_2_lynxmpek4j0ii_rtroptp_3_fintech-crypto-britain-wright.jpg?itok=aro2AO1M" width="1600"/>
   </item>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    CNA Explains: The FLiRT family of COVID-19 variants and what we know about the KP.2 strain
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/kp1-kp2-flirt-covid-19-strains-variants-what-we-know-4349086
-   </link>
-   <description>
-    <![CDATA[What are the KP.1 and KP.2 strains? Are they more infectious and are current vaccines effective against newer variants of COVID-19?]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 18:54:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/kp1-kp2-flirt-covid-19-strains-variants-what-we-know-4349086
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v1EMjGJd--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021/12/26/istock-1330931990.jpg?itok=MEN5LjUv" width="1600"/>
   </item>
  </channel>
 </rss>
