@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 23:01:28 +0800
+   Mon, 20 May 2024 23:20:18 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 22:39:45 +0800
+   Mon, 20 May 2024 23:06:56 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,48 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    瑞典央行：6月不可能減息
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753949-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753949-20240520.htm
+   </link>
+   <description>
+    <![CDATA[瑞典央行總裁泰登表示，當地可能在下半年再減息兩次，但6月不可能減息。
+
+瑞典央行本月初將政策利率由4厘下調至3.75厘，是8年來首次減息。央行表示，通脹率已接近目標，並預計保持溫和。
+
+泰登指出，通脹前景最大風險是瑞典克朗向下，推高進口價格，以及減息前景可能過度刺激需求。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 23:06:56 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    理想汽車稱目前未有任何減價計劃
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753948-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753948-20240520.htm
+   </link>
+   <description>
+    <![CDATA[理想汽車首季收入256.3億元人民幣，按年升超過36%，按季跌近39%。車輛銷售收入243億元，按年增加32%，按季減少近40%。
+
+首席執行官李想在業績電話會議上表示，目前未有任何減價計劃，4月調整產品售價後，旗下車型新增訂單量每周持續增長。他重申，20萬以上高端家庭用戶是集團堅定的市場選擇，中長期不會改變。
+
+首席財務官李鐵表示，雖然經歷新車型上市、產品迭代及價格體系調整，集團首季財務業績仍保持穩健。首季度交付量按季波動，但對未來幾季交付量增長充滿信心，並在研發及銷服網絡保持投入。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 23:06:37 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     內地首4月全國一般公共預算收入按年下跌約3%
@@ -430,40 +472,6 @@
    </description>
    <pubDate>
     Mon, 20 May 2024 14:43:31 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股高收0.7%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753887-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753887-20240520.htm
-   </link>
-   <description>
-    <![CDATA[日本股市重上39000點，日經平均指數高見39437點，收市報39069點，升282點，升幅0.73%。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 14:36:37 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股收市靠穩
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753886-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753886-20240520.htm
-   </link>
-   <description>
-    <![CDATA[台灣股市靠穩。加權指數收市報21271點，升13點。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 14:21:35 +0800
    </pubDate>
   </item>
  </channel>
