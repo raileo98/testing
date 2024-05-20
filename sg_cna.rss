@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 20:25:13 +0800
+   Mon, 20 May 2024 20:49:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    WikiLeaks founder Julian Assange wins permission to appeal US extradition
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/wikileaks-founder-julian-assange-wins-permission-appeal-us-extradition-4349636
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 20:34:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/wikileaks-founder-julian-assange-wins-permission-appeal-us-extradition-4349636
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8dTHZeTv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t114726z_1_lynxmpek4j0eo_rtroptp_3_britain-usa-assange.jpg?itok=b-S9zaBE" width="1600"/>
+  </item>
   <item>
    <title>
     Oil little changed after death of Iran's president, Saudi king's ill health
@@ -219,7 +240,7 @@
     <![CDATA[What are the KP.1 and KP.2 strains? Are they more infectious and are current vaccines effective against newer variants of COVID-19?]]>
    </description>
    <pubDate>
-    Mon, 20 May 2024 18:54:20 +0800
+    Mon, 20 May 2024 18:54:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/kp1-kp2-flirt-covid-19-strains-variants-what-we-know-4349086
@@ -438,27 +459,6 @@
     Business ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yTzEB0kc--/c_crop,h_450,w_800,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t092211z_1_lynxmpek4j0b1_rtroptp_3_apple-china-iphone.jpg?itok=1cH2WlJ8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City's winning mindset helped beat Arsenal in the title race, says Rodri
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-citys-winning-mindset-helped-beat-arsenal-title-race-says-rodri-4349401
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 18:19:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-citys-winning-mindset-helped-beat-arsenal-title-race-says-rodri-4349401
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rsdPkPLp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t101958z_1_lynxmpek4j0c8_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=D6OCNPwz" width="1600"/>
   </item>
  </channel>
 </rss>
