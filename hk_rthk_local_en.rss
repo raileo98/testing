@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 00:00:04 +0800
+   Tue, 21 May 2024 00:20:17 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 17:25:14 +0800
+   Tue, 21 May 2024 00:19:41 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    MTR stations better protected from storm flooding
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1753946-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1753946-20240521.htm
+   </link>
+   <description>
+    <![CDATA[The MTR has installed a flood detection system at 26 stations, to prepare for the coming rain and typhoon season. 
+
+The initiative comes after Wong Tai Sin Station was flooded during a heavy downpour last September, resulting in the partial suspension of the Kwun Tong Line.
+
+Speaking to reporters, the MTR’s Chief of Airport Segment, Ben Lui, said the rail giant had placed flood sensors at 42 entrances and exits. 
+
+"When water reaches the sensors, it will trigger an alarm to the station staff. Upon receiving the alarm, the staff will check the CCTV to confirm if there is flooding. If there is flooding, our staff will set flood barriers and temporarily cordon off the affected area. There will also be announcements for the public to use other exits to leave the station," he added.
+
+Lui also said the MTR would suspend all services on above ground sections of the network, including the light railway and airport express, whenever the typhoon signal No. 9 or higher was in effect.
+
+However, if trains were still above ground when the second-highest typhoon signal was raised, they would continue to their designated destinations, or at least to major stations such as Yuen Long or Sha Tin, where passengers could find shelter. 
+
+The MTR would also provide water and food for affected passengers under such circumstances.
+
+Lawmaker Gary Zhang said the newly installed flood sensors at station exits would provide early alerts to MTR staff, enabling them to proactively prevent flooding.
+
+However, Zhang, who's a former MTR engineer, expressed concerns regarding the safety of station staff who would need to set up flood-proof barriers themselves amid extreme weather.
+
+"Even for a small station like Wong Tai Sin, there are more than eight entrances, and each entrance has to be installed with floodblocks manually by the station staff. And the manpower is definitely still a concern and also a constraint," he told RTHK.
+
+Zhang said the rail operator was thinking about installing automatic flood-proof barriers at stations to minimise the risks to staff safety.]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 00:19:41 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK's jobless rate remains unchanged at three percent
@@ -625,35 +662,6 @@ The minister said they had also considered if people would accept a fare hike, b
    </description>
    <pubDate>
     Sat, 18 May 2024 12:13:32 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    SAR's health sector needs to be 'innovation driver'
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753668-20240518.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753668-20240518.htm
-   </link>
-   <description>
-    <![CDATA[Health minister Lo Chung-mau said on Saturday that he's confident that Hong Kong's high quality healthcare and dental services will remain competitive, even though some local patients have been heading north for services on the mainland that are cheaper. 
-
-He said while some patients think the mainland offers better value-for-money services, the SAR has nothing to worry about so long as the profession keeps improving its services. 
-
-Professor Lo said on RTHK's Your Home Address programme that as the government seeks to develop the SAR as an international health and medical innovation hub, Hong Kong can also drive advancement in the field.
-
-"Hong Kong has excellent health care service and we have a wonderful university here with a medical school and a dental school. We're not just good in providing service, we should be good in innovation as well," the minister said.
-
-"If we are good, we have all the talents, enough talents, we should actually not be looking just at providing services. We should be driving, we should be the driver for innovation."
-
-The secretary noted that a Hospital Authority initiative to offer medical staff low-interest home loans to retain talent has been going well, with some 80 percent - or more than a thousand applications approved. 
-
-Lo expressed the hope that upcoming legal changes that would allow more non-locally trained healthcare professionals to practice in the SAR will help ease the staffing shortage.]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 10:47:21 +0800
    </pubDate>
   </item>
  </channel>
