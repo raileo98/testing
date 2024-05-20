@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 11:50:32 +0800
+   Mon, 20 May 2024 12:20:06 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 11:47:11 +0800
+   Mon, 20 May 2024 12:16:11 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股半日升96點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753870-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753870-20240520.htm
+   </link>
+   <description>
+    <![CDATA[港股連續3日造好，但半日高低點數波幅不足115點，恒生指數最多升逾130點，中午收報19650點，升96點，升幅0.5%，成交額約923億元。
+
+科技指數報4137點，升0.6%。ATMXJ中，除京東升3%外，其餘跌0.1%至近2%。
+
+內地推出組合拳支持房地產市場，內房股個別發展，融創中國升逾3%，萬科企業升6%，龍湖跌近2%，中海外偏軟。中資金融股亦走勢不一。
+
+另外，內需股、個別資源股及汽車股表現向好。李寧升逾6%，是表現最好恒指成份股。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 12:16:11 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     內地股市半日靠穩　上證指數升約0.4%
@@ -431,27 +454,6 @@
    </description>
    <pubDate>
     Sat, 18 May 2024 18:21:06 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股美國預託證券普遍較本港收市上升
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753647-20240518.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753647-20240518.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)普遍較本港收市上升。
-
-金融股方面，滙控ADR較本港收市升約1.4%，友邦升近1%。
-
-至於科技股，ATMXJ的ADR都較本港收市上升，其中京東升約2.6%。]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 06:23:44 +0800
    </pubDate>
   </item>
  </channel>
