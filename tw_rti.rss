@@ -19,7 +19,7 @@
    </link>
   </image>
   <pubDate>
-   Mon, 20 May 2024 15:25:02 +0800
+   Mon, 20 May 2024 15:35:03 +0800
   </pubDate>
   <generator>
    Rti 中央廣播電臺
@@ -35,6 +35,32 @@
   </dc:creator>
   <atom:link href="https://www.rti.org.tw/rss" rel="self" type="application/rss+xml"/>
   <atom:link href="https://www.rti.org.tw/rss" rel="hub"/>
+  <item>
+   <title>
+    [國際] 伊朗總統與外長墜機身亡 世界領袖反應
+   </title>
+   <description>
+    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F05%2F20%2F7b48c8036b67a56f994e33bf21f8b548.jpg" width="360" alt="伊朗總統萊希和外長艾密拉多拉安墜機罹難。圖為當地救援人員在直升機墜毀現場打撈屍體。(AFP)" title="伊朗總統萊希和外長艾密拉多拉安墜機罹難。圖為當地救援人員在直升機墜毀現場打撈屍體。(AFP)"><br>伊朗官員與官方媒體今天(20日)發出聲明，強硬派的總統萊希(Ebrahim Raisi)和外長艾密拉多拉安(Hossein Amirabdollahian)墜機身亡。以下為世界領袖的反應：巴基斯坦宣布舉國哀悼在伊朗媒體報導萊希在直升機失事事故中喪生後，巴基斯坦總理夏立夫(Shehbaz Sharif)宣布舉國哀悼一天。夏立夫在社群媒體X上表示：「巴基斯坦將舉行哀悼日，國旗將降半旗，以表達對萊希總統及其同行人員的尊重，並聲援我們的兄弟伊朗。」他補充說：「我與巴基斯坦政府和人民一起，就這項可怕的損失向伊朗致上以最深切的哀悼和同情。」夏立夫4月份在伊斯蘭馬巴德...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206586">...more</a>]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 15:16:25 +0800
+   </pubDate>
+   <link>
+    https://www.rti.org.tw/news/view/id/2206586
+   </link>
+   <guid>
+    https://www.rti.org.tw/news/view/id/2206586
+   </guid>
+   <author>
+    張雅涵採訪
+   </author>
+   <category domain="https://www.rti.org.tw/news/list/categoryId/1">
+    國際
+   </category>
+   <dc:creator>
+    張雅涵採訪
+   </dc:creator>
+  </item>
   <item>
    <title>
     [政治] 陳建仁：每個人都是蠟燭 燃燒自己照亮台灣 - 240520-17
@@ -78,13 +104,13 @@
     https://www.rti.org.tw/news/view/id/2206584
    </guid>
    <author>
-    採訪, 其他
+    採訪, 法新社, 路透社, 採訪, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 其他
+    採訪, 法新社, 路透社, 採訪, 其他
    </dc:creator>
   </item>
   <item>
@@ -208,13 +234,13 @@
     https://www.rti.org.tw/news/view/id/2206577
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他
    </dc:creator>
   </item>
   <item>
@@ -234,13 +260,13 @@
     https://www.rti.org.tw/news/view/id/2206576
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/1">
     國際
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社
    </dc:creator>
   </item>
   <item>
@@ -286,13 +312,13 @@
     https://www.rti.org.tw/news/view/id/2206575
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/4">
     兩岸
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -442,13 +468,13 @@
     https://www.rti.org.tw/news/view/id/2206569
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -520,13 +546,13 @@
     https://www.rti.org.tw/news/view/id/2206566
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社
    </dc:creator>
   </item>
   <item>
@@ -546,13 +572,13 @@
     https://www.rti.org.tw/news/view/id/2206565
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -598,13 +624,13 @@
     https://www.rti.org.tw/news/view/id/2206564
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/5">
     政治
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -624,13 +650,13 @@
     https://www.rti.org.tw/news/view/id/2206562
    </guid>
    <author>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </author>
    <category domain="https://www.rti.org.tw/news/list/categoryId/3">
     生活
    </category>
    <dc:creator>
-    採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
+    採訪, 法新社, 路透社, 採訪, 其他, 採訪, 採訪, 採訪, 採訪, 其他, 中央社, 採訪, 路透社, 中央社, 採訪, 採訪, 採訪, 採訪, 採訪, 中央社, 採訪, 路透社, 採訪, 中央社, 中央社, 採訪, 路透社, 中央社, 中央社
    </dc:creator>
   </item>
   <item>
@@ -787,32 +813,6 @@
    </category>
    <dc:creator>
     陳林幸虹採訪
-   </dc:creator>
-  </item>
-  <item>
-   <title>
-    [政治] 賴清德就職演說 綠盼兩岸釋出善意 在野期許說到做到 - 240520-11
-   </title>
-   <description>
-    <![CDATA[<img src="https://images.weserv.nl/?n=-1&url=https%3A%2F%2Fstatic.rti.org.tw%2Fassets%2Fthumbnails%2F2024%2F05%2F20%2F36c163419126ad8d3665e89fdd43e4ec.JPG" width="360" alt="第16任總統賴清德以「打造民主和平繁榮的新台灣」為題發表就職演說。(路透社/達志影像)" title="第16任總統賴清德以「打造民主和平繁榮的新台灣」為題發表就職演說。(路透社/達志影像)"><br>總統當選人賴清德、副總統當選人蕭美琴今天(20日)宣誓就職，賴清德以「打造民主和平繁榮的台灣」為題發表就職演說，要讓台灣成為「民主世界的MVP」，兩岸交流合作釋放具體善意，不卑不亢、維持現狀，追求和平共榮。對此，民進黨立委許智傑表示，希望中國跟台灣能夠彼此釋出善意，呼籲中國軍機停飛，從務實的經濟、文化交流展開互動，繼續讓台灣再次上架國際；在野黨則期盼賴政府能說到做到。#請聽記者趙婉淳的採訪報導#總統當選人賴清德、副總統當選人蕭美琴20日在總統府宣誓就職，賴清德發表就職演說時，以「打造民主和平繁榮的台灣」為主軸，提及未來推動政策及法案時以人民、國家為先，讓...<a target="_blank" href="https://www.rti.org.tw/news/view/id/2206554">...more</a>]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 11:43:10 +0800
-   </pubDate>
-   <link>
-    https://www.rti.org.tw/news/view/id/2206554
-   </link>
-   <guid>
-    https://www.rti.org.tw/news/view/id/2206554
-   </guid>
-   <author>
-    趙婉淳採訪
-   </author>
-   <category domain="https://www.rti.org.tw/news/list/categoryId/5">
-    政治
-   </category>
-   <dc:creator>
-    趙婉淳採訪
    </dc:creator>
   </item>
  </channel>

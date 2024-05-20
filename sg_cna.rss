@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 15:21:56 +0800
+   Mon, 20 May 2024 15:30:36 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Registers of electors to be revised by Jul 31
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/eld-registers-electors-revised-prime-minister-lawrence-wong-4348956
+   </link>
+   <description>
+    <![CDATA[The revision comes ahead of Singapore's next General Election, which must be held by November 2025.]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 15:24:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/eld-registers-electors-revised-prime-minister-lawrence-wong-4348956
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_1a-GrJo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/22/polling%20station.JPG?itok=_3SslIzG" width="1600"/>
+  </item>
   <item>
    <title>
     Oldest brother first to be jailed for sexually abusing younger sister, in a case involving 4 brothers
@@ -297,7 +318,7 @@
     Top Japan companies agreed to average 5.58% pay hike, business lobby says
    </title>
    <link>
-    https://www.channelnewsasia.com/business/top-japan-companies-agreed-average-558-pay-hike-business-lobby-says-4348871
+    https://www.channelnewsasia.com/business/top-japan-companies-agree-558-average-pay-hike-business-lobby-says-4348871
    </link>
    <description>
     <![CDATA[]]>
@@ -306,12 +327,12 @@
     Mon, 20 May 2024 12:40:35 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/top-japan-companies-agreed-average-558-pay-hike-business-lobby-says-4348871
+    https://www.channelnewsasia.com/business/top-japan-companies-agree-558-average-pay-hike-business-lobby-says-4348871
    </guid>
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h-YszusE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t044035z_1_lynxmpek4j05a_rtroptp_3_japan-wages.jpg?itok=CEBVjhDt" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Iranian President Ebrahim Raisi killed in helicopter crash
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/iran-president-raisi-foreign-minister-helicopter-crash-dead-4348716
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 11:34:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/iran-president-raisi-foreign-minister-helicopter-crash-dead-4348716
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yXh-KVeM--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/Iran%20crashed%20helicopter.png?itok=xjSXkvos" width="1600"/>
   </item>
  </channel>
 </rss>
