@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Sun, 19 May 2024 17:00:01 GMT
+   Mon, 20 May 2024 17:00:01 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,42 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    2024總統就職典禮：記一場承載國家未來想望的慶典
+   </title>
+   <description>
+    <![CDATA[21響禮砲，為賴清德、蕭美琴執政拉開序幕，四年一度的520總統就職典禮不僅是國家實力的展示，更是全民共同見證新國家元首上任的時刻，《報導者》攝影團隊記錄演出籌備幕後，以及典禮現場瞬間。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-2024-lai-ching-te-president-inauguration
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-2024-lai-ching-te-president-inauguration
+   </guid>
+   <pubDate>
+    Sun, 19 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240520222912-6705d62949446d0bf19206fc3ea2ac55-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    賴清德就職演說分析：延續蔡英文「四個堅持」但多次提到「中國」，強調民主台灣的世界布局
+   </title>
+   <description>
+    <![CDATA[比較賴清德與蔡英文的就職演說，賴最大不同在於提到「中國」7次、「中華人民共和國」1次，這在蔡兩次就職演說中從來沒出現過；而賴提到台灣高達79次，遠遠超過蔡英文。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/2024-lai-ching-te-president-inauguration
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/2024-lai-ching-te-president-inauguration
+   </guid>
+   <pubDate>
+    Sun, 19 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240520171502-8bc36d9a4b7033233711abc0293da625-mobile.jpg"/>
+  </item>
   <item>
    <title>
     許震唐／不再氤氳的波瓦倫──廬山溫泉紀行
@@ -177,42 +213,6 @@
     Sat, 11 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240507203409-8f1f43139d9e5545e690e6cd8fc0f5e2-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    房慧真／躲在母親荒廢的乳房裡──馬尼尼為《故鄉無用》
-   </title>
-   <description>
-    <![CDATA[異鄉人躲在母親成為廢墟的乳房裡，乳房無用，子宮無用，卵巢無用，美麗無用，婀娜無用，曲線無用，女人有了寫作的房間還不夠，要到了無用堆疊成塔的這一天，才能成為真正的自由人。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/bookreview-maniniwei-hometown
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/bookreview-maniniwei-hometown
-   </guid>
-   <pubDate>
-    Fri, 10 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240506113302-e6b23449168f1d551da0549e22b35a8b-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    【投書】健保又不給付了，為什麼「健保協同商保」恐有反效果？
-   </title>
-   <description>
-    <![CDATA[當全民健保在財務上所能負擔的給付項目，與最新醫療發展落差漸大，衛福部提出以商保補位健保作為解方。學者從制度、倫理、他國經驗，指出此構想的可能與限制，並強調應以調整保費、維持體系品質與效率為主要改革方向。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/opinion-public-and-private-health-insurance
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/opinion-public-and-private-health-insurance
-   </guid>
-   <pubDate>
-    Thu, 09 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240509150654-3a5a76ca819b5289c5422154a731b248-mobile.jpg"/>
   </item>
  </channel>
 </rss>
