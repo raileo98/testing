@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 14:40:15 +0800
+   Mon, 20 May 2024 14:50:43 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 14:36:37 +0800
+   Mon, 20 May 2024 14:43:31 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股收市升17點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753889-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753889-20240520.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市上升。首爾綜合指數收市報2742點，升17點，升幅0.64%。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 14:43:31 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股高收0.7%
@@ -423,29 +440,6 @@
    </description>
    <pubDate>
     Mon, 20 May 2024 08:04:40 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    中原及美聯十大屋苑周末交投按周都增加1宗　多個屋苑零成交
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753834-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753834-20240520.htm
-   </link>
-   <description>
-    <![CDATA[在剛過去周末成交，本港兩大地產代理十大屋苑成交都微升1宗，多個屋苑零成交。
-
-中原十大屋苑周末二手交投錄得4宗成交，按星期增加1宗，連續3星期錄得單位數；有6個屋苑零成交。
-
-美聯十大藍籌屋苑周末錄得6宗成交，按星期增加1宗，5個屋苑零成交。十五大屋苑周末有8宗成交，按星期增加2宗。
-
-美聯表示，目前樓市聚焦新盤，但二手需求不斷，睇樓活動保持活躍，預期第2季住宅交投表現平穩。中原認為，經歷小陽春後，樓市正進入喘息期，預料下半年減息後，樓市將會轉旺。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 07:16:14 +0800
    </pubDate>
   </item>
  </channel>
