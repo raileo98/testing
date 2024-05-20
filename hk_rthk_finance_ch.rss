@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 06:40:22 +0800
+   Tue, 21 May 2024 07:01:40 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 06:36:48 +0800
+   Tue, 21 May 2024 06:54:10 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股美國預託證券大多下跌
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753973-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753973-20240521.htm
+   </link>
+   <description>
+    <![CDATA[港股美國預託證券(ADR)大多下跌。
+
+平保、中行、小米ADR，比本港昨日收市價都跌1%以上，以港元計折合報44.4元、3.9元及19.6元。
+
+滙控、阿里巴巴ADR則分別升約0.1%及0.8%，折合報68.9元及86元。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 06:54:10 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     多名聯儲局官員指未確定通脹正朝向2%目標回落
@@ -461,23 +482,6 @@ Nvidia獲數家大行上調目標價，股價高收2.5%。其餘科技股個別�
    </description>
    <pubDate>
     Mon, 20 May 2024 17:49:14 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    政府明日公布今年下半年香港盛事年表
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753909-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753909-20240520.htm
-   </link>
-   <description>
-    <![CDATA[財政司副司長黃偉綸、文化體育及旅遊局局長楊潤雄，明早11時半主持記者會，公布今年下半年香港盛事年表，旅發局總幹事程鼎一亦會出席。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 17:15:23 +0800
    </pubDate>
   </item>
  </channel>
