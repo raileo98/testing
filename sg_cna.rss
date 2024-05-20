@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 05:29:41 +0800
+   Tue, 21 May 2024 05:39:07 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Bitcoin rises to $70,206
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/bitcoin-rises-70206-4350681
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 05:25:30 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/bitcoin-rises-70206-4350681
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VXbR4UwR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t212530z_1_lynxmpek4j0q4_rtroptp_3_fintech-crypto-grayscale.jpg?itok=jxfq4z0N" width="1600"/>
+  </item>
   <item>
    <title>
     Louis Vuitton CEO Pietro Beccari: ‘There is no household in the world that doesn’t have [contact with] Louis Vuitton’
@@ -186,6 +207,27 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fsSGSSUr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t130825z_1_lynxmpek4j0gm_rtroptp_3_israel-palestinians-icc.jpg?itok=10FzQ7Sd" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Trump's social media company discloses inquiry from FINRA
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/trumps-social-media-company-discloses-inquiry-finra-4350626
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 04:48:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/trumps-social-media-company-discloses-inquiry-finra-4350626
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JWP6krWf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t163644z_1_lynxmpek4j0l9_rtroptp_3_france-business-macron.jpg?itok=-_fPMuQh" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Liverpool confirm Slot as new manager to replace Klopp
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/liverpool-confirm-slot-new-manager-replace-klopp-4350096
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 00:10:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/liverpool-confirm-slot-new-manager-replace-klopp-4350096
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cLytCrqn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t161028z_1_lynxmpek4j0kt_rtroptp_3_soccer-england-liv-slot.jpg?itok=mQmz_nQn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US inflation fight will take 'further time': Senior Fed official
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/us-inflation-fight-will-take-further-time-senior-fed-official-4349811
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 23:20:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/us-inflation-fight-will-take-further-time-senior-fed-official-4349811
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sn19kV16--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/478f8b0b0e140f6dd819f314ffc71f4880583b0a.jpg?itok=PUNZ5QgT" width="1600"/>
   </item>
  </channel>
 </rss>
