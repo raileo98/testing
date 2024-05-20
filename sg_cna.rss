@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 04:51:44 +0800
+   Tue, 21 May 2024 05:06:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hamas' Qatar-based leader Haniyeh named in ICC warrant request
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/hamas-qatar-based-leader-haniyeh-named-icc-warrant-request-4349836
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 04:57:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/hamas-qatar-based-leader-haniyeh-named-icc-warrant-request-4349836
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fsSGSSUr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t130825z_1_lynxmpek4j0gm_rtroptp_3_israel-palestinians-icc.jpg?itok=10FzQ7Sd" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Hamas' Qatar-based leader Haniyeh named in ICC warrant request
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/hamas-qatar-based-leader-haniyeh-named-icc-warrant-request-4349836
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 04:57:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/hamas-qatar-based-leader-haniyeh-named-icc-warrant-request-4349836
+   </guid>
+   <category>
+    Asia ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fsSGSSUr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t130825z_1_lynxmpek4j0gm_rtroptp_3_israel-palestinians-icc.jpg?itok=10FzQ7Sd" width="1600"/>
+  </item>
   <item>
    <title>
     How cockroaches spread around the world to become global pests
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DRjs1tBM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/d762645d7c9c368a172aa8d4d36d915efa8468cf.jpg?itok=qGcP3KIm" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Crashed ship that took down Baltimore bridge refloated, towed from channel
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/crashed-ship-took-down-baltimore-bridge-refloated-towed-channel-4349821
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 21:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/crashed-ship-took-down-baltimore-bridge-refloated-towed-channel-4349821
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VeebeDVw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t133124z_1_lynxmpek4j0h2_rtroptp_3_maryland-incident.jpg?itok=HkZsX-rr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Russia stresses strong ties with Iran as Putin calls interim president
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/russia-stresses-strong-ties-iran-putin-calls-interim-president-4349726
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 21:31:23 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/russia-stresses-strong-ties-iran-putin-calls-interim-president-4349726
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---68C3Ynv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t124412z_1_lynxmpek4j0fu_rtroptp_3_china-russia-putin.jpg?itok=K81y_o91" width="1600"/>
   </item>
  </channel>
 </rss>
