@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 17:44:41 +0800
+   Mon, 20 May 2024 17:55:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Major change in US gun regulation takes effect after years of political wrangling
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/usa-gun-control-firearm-law-rule-license-dealer-background-check-4349276
+   </link>
+   <description>
+    <![CDATA[The new rule closes a loophole that has allowed more than 23,000 unlicensed dealers to sell guns without a licence or conducting background checks.]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 17:49:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/usa-gun-control-firearm-law-rule-license-dealer-background-check-4349276
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FCTWoGBX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/screenshot_436.png?itok=084M7sDs" width="1600"/>
+  </item>
   <item>
    <title>
     Water pollution in Jakarta: Some residents resort to buying clean water from neighbours
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DC3fKifo--/c_crop,h_900,w_1600,x_0,y_187/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/dj_newjeansnim.jpg?itok=fkwr5bIa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Venture capital investment in crypto picks up after long decline
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/venture-capital-investment-crypto-picks-after-long-decline-4349106
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 15:54:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/venture-capital-investment-crypto-picks-after-long-decline-4349106
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cOIJvA-9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t075456z_2_lynxmpek4j08z_rtroptp_3_fintech-crypto-grayscale.jpg?itok=_SjLSXyh" width="1600"/>
   </item>
  </channel>
 </rss>
