@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 18:52:17 +0800
+   Mon, 20 May 2024 19:10:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    CNA Explains: The FLiRT family of COVID-19 variants and what we know about the KP.2 strain
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/kp1-kp2-flirt-covid-19-strains-variants-what-we-know-4349086
+   </link>
+   <description>
+    <![CDATA[What are the KP.1 and KP.2 strains? Are they more infectious and are current vaccines effective against newer variants of COVID-19?]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 18:54:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/kp1-kp2-flirt-covid-19-strains-variants-what-we-know-4349086
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v1EMjGJd--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021/12/26/istock-1330931990.jpg?itok=MEN5LjUv" width="1600"/>
+  </item>
   <item>
    <title>
     Attack on tourists rocks fledgling Afghanistan tourism sector
@@ -177,7 +198,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 20 May 2024 18:34:45 +0800
+    Mon, 20 May 2024 18:34:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/cnb-raid-teen-arrested-yishun-cannabis-plant-cultivation-4349186
@@ -192,16 +213,16 @@
     Google invests 1 billion euros in Finnish data centre to drive AI growth
    </title>
    <link>
-    https://www.channelnewsasia.com/business/google-invests-1-billion-euros-finnish-data-centre-drive-ai-growth-4349406
+    https://www.channelnewsasia.com/business/google-ai-invest-1-billion-finnish-data-centre-ai-4349406
    </link>
    <description>
     <![CDATA[]]>
    </description>
    <pubDate>
-    Mon, 20 May 2024 18:30:31 +0800
+    Mon, 20 May 2024 18:30:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/google-invests-1-billion-euros-finnish-data-centre-drive-ai-growth-4349406
+    https://www.channelnewsasia.com/business/google-ai-invest-1-billion-finnish-data-centre-ai-4349406
    </guid>
    <category>
     Business
@@ -434,27 +455,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Paris vies for Europe's AI crown as key conference beckons
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/paris-vies-europes-ai-crown-key-conference-beckons-4349321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 17:38:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/paris-vies-europes-ai-crown-key-conference-beckons-4349321
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h186KrZH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t094217z_2_lynxmpek4j0bc_rtroptp_3_usa-china-ai.jpg?itok=cCkYT0yT" width="1600"/>
   </item>
  </channel>
 </rss>
