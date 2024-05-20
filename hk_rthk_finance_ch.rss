@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 10:50:44 +0800
+   Mon, 20 May 2024 11:01:34 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 10:46:53 +0800
+   Mon, 20 May 2024 10:51:20 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股止跌回升　半日升559點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753861-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753861-20240520.htm
+   </link>
+   <description>
+    <![CDATA[日股扭轉早段跌勢，日經指數半日收報39346點，升559點，升幅1.44%。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 10:51:20 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     許正宇：惡劣天氣下開市不存在延遲實施問題　年中公布實施細節
@@ -435,27 +452,6 @@
    </description>
    <pubDate>
     Sat, 18 May 2024 06:23:31 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    紐約期金高收1.3%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753645-20240518.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753645-20240518.htm
-   </link>
-   <description>
-    <![CDATA[金價上升，現貨金一度升穿每盎司2420美元水平，最多曾升近2%，其後升幅收窄，報2414.89美元，升幅1.6%。
-
-紐約期金收市報每盎司2417.4美元，升31.9美元，升幅1.3%。
-
-另外，白銀突破每盎司30美元關口，創11年新高。]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 06:23:14 +0800
    </pubDate>
   </item>
  </channel>
