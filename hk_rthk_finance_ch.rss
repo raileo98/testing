@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 17:10:42 +0800
+   Mon, 20 May 2024 17:20:23 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 16:42:57 +0800
+   Mon, 20 May 2024 17:12:20 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    理想汽車首季經調整盈利按年跌逾9%　料第2季交付量升逾20%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753906-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753906-20240520.htm
+   </link>
+   <description>
+    <![CDATA[理想汽車首季盈利5.93億元人民幣，按年跌約36%，按季跌近90%。非美國公認會計準則計的盈利12.8億元，按年跌逾9%，按季跌72%。
+
+集團首季收入256.3億元，按年升超過36%，按季跌近39%。車輛銷售收入243億元，按年增加32%，按季減少近40%。車輛毛利率19.3%，按年跌0.5個百分點，按季跌3.4個百分點。首季交付量8.04萬輛，按年升近53%。
+
+公司預計，第2季汽車交付量10.5至11萬輛，按年升21.3%至27.1%；收入299億元至314億元，增長4.2%至9.4%。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 17:12:20 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     再出發大聯盟就香港四大中心調研　將約見政府相關部門
@@ -457,23 +478,6 @@
    </description>
    <pubDate>
     Mon, 20 May 2024 09:40:27 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    人行持續逆回購20億元人民幣　單日淨回籠20億元
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753848-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753848-20240520.htm
-   </link>
-   <description>
-    <![CDATA[人民銀行持續開展20億元人民幣7天期操作，連續12日相同規模，中標利率維持1.8厘。對沖到期量後，公開市場單日淨回籠20億元。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 09:35:15 +0800
    </pubDate>
   </item>
  </channel>

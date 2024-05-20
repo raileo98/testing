@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Mon, 20 May 2024 17:19:23 +0800
+   Mon, 20 May 2024 17:29:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Cough syrup made in ‘unsanitary’ Geylang condo seized in crackdown on illegal medicine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/cough-syrup-made-unsanitary-geylang-condo-unit-illegal-medicine-hsa-police-4349166
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 17:21:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/cough-syrup-made-unsanitary-geylang-condo-unit-illegal-medicine-hsa-police-4349166
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KEYQ_WeE--/c_crop,h_900,w_1600,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/20/Cough%20syrup%20made%20in%20unsanitary%20Geylang%20condo.jpeg?itok=ZW58xCXy" width="1600"/>
+  </item>
   <item>
    <title>
     Commentary: President Ebrahim Raisi’s death deals blow to Iran regime
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_1a-GrJo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:mediacorp,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/22/polling%20station.JPG?itok=_3SslIzG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oldest brother first to be jailed for sexually abusing younger sister, in a case involving 4 brothers
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/four-brothers-sexual-abuse-assault-younger-sister-oldest-guilty-jailed-4348986
-   </link>
-   <description>
-    <![CDATA[The offender knew another brother had allegedly sexually assaulted their sister, but preyed on her instead of protecting her, said the judge.]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 15:16:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/four-brothers-sexual-abuse-assault-younger-sister-oldest-guilty-jailed-4348986
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cn3ySKb6--/c_crop,h_843,w_1500,x_0,y_138/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/10/18/supreme_court_file_photo_sep_23_2022_3.jpg?itok=4x6NqSBF" width="1600"/>
   </item>
  </channel>
 </rss>
