@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Mon, 20 May 2024 10:40:51 +0800
+   Mon, 20 May 2024 10:50:56 +0800
   </pubDate>
   <lastBuildDate>
-   Mon, 20 May 2024 09:01:53 +0800
+   Mon, 20 May 2024 10:42:39 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,23 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    外電報道伊朗紅新月會發現萊希所乘直升機
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1753859-20240520.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1753859-20240520.htm
+   </link>
+   <description>
+    <![CDATA[伊朗紅新月會表示，已經發現總統萊希乘坐的直升機，救援人員正向直升機位置推進，但相信情況並不良好。]]>
+   </description>
+   <pubDate>
+    Mon, 20 May 2024 10:42:39 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     伊朗總統萊希所乘直升機硬著陸　土耳其在事故區域探測到熱源
@@ -467,27 +484,6 @@
    </description>
    <pubDate>
     Sun, 19 May 2024 13:24:06 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    商務部對原產於歐美日及台灣地區進口共聚聚甲醛進行反傾銷調查
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753770-20240519.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753770-20240519.htm
-   </link>
-   <description>
-    <![CDATA[商務部今日起對原產於歐盟、美國、台灣地區及日本的進口共聚聚甲醛，進行反傾銷立案調查。
-
-商務部在公布指出，上月收到一批企業，代表中國大陸共聚聚甲醛產業，正式提交的反傾銷調查申請；根據申請人提供的證據及商務部的初步審查，認為符合反傾銷調查立案所要求的內容。
-
-調查通常應於明年5月19日前結束，特殊情況下可延長6個月。利害關係方應於公告發布日起20天內，向商務部貿易救濟調查局登記參加調查，商務部調查時應當如實反映情況，提供有關資料；若果不如實反映、無在合理時間內提供必要信息，或以其他方式嚴重妨礙調查，商務部可根據已獲得的事實作出裁定。]]>
-   </description>
-   <pubDate>
-    Sun, 19 May 2024 13:04:47 +0800
    </pubDate>
   </item>
  </channel>
