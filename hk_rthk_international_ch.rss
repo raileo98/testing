@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 10:50:44 +0800
+   Tue, 21 May 2024 11:10:28 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 10:12:18 +0800
+   Tue, 21 May 2024 11:06:25 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    法國支持國際刑事法院獨立性　稱應打擊有罪不罰現象
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754005-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754005-20240521.htm
+   </link>
+   <description>
+    <![CDATA[國際刑事法院檢察官以涉嫌犯下戰爭罪為由，尋求對以色列總理內塔尼亞胡和國防部長加蘭特，以及三名巴勒斯坦武裝組織哈馬斯領導人發出逮捕令。
+
+以色列和哈馬斯都譴責國際刑事法院檢察官的做法。美國亦認為有關做法令人憤慨，並且無助加沙停火談判。
+
+法國外交部發表聲明，表示法國支持國際刑事法院及其獨立性，並支持在所有情況下打擊有罪不罰的現象。南非亦對國際刑事法院做法表示歡迎，認為法律必須平等地適用於所有人，以維護國際法治。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 11:06:25 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     習近平致電祝賀達夫科娃就任北馬其頓總統
@@ -453,25 +474,6 @@
    </description>
    <pubDate>
     Mon, 20 May 2024 20:58:08 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    各方就萊希逝世致哀　習近平稱是伊朗人民巨大損失
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753919-20240520.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753919-20240520.htm
-   </link>
-   <description>
-    <![CDATA[萊希在2021年當選、並宣誓就任伊朗總統，承諾打擊腐敗及反對歧視，在外交上主張與鄰國及友好國家合作。
-
-各方就萊希及伊朗外長阿卜杜拉希揚罹難向伊朗致哀。國家主席習近平表示深切哀悼，誠摯慰問伊朗政府與人民，又說萊希不幸遇難是伊朗人民的巨大損失，形容中國人民失去一位好朋友。]]>
-   </description>
-   <pubDate>
-    Mon, 20 May 2024 18:42:08 +0800
    </pubDate>
   </item>
  </channel>
