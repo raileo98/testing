@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 19:25:39 +0800
+   Tue, 21 May 2024 19:39:14 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,7 +42,28 @@
   </image>
   <item>
    <title>
-    LIVE: Death on SIA flight after severe turbulence
+    Scotland Women's match against Israel to be played without supporters
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/scotland-womens-match-against-israel-be-played-without-supporters-4352261
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 19:33:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/scotland-womens-match-against-israel-be-played-without-supporters-4352261
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ImJVYLKU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t113328z_1_lynxmpek4k0ec_rtroptp_3_soccer-euro-svk-isr-report.jpg?itok=qc_vQy2I" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Live: Death on SIA flight after severe turbulence
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/liveblog-sia-singapore-airlines-death-turbulence-london-bangkok-4352156
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 21 May 2024 19:15:58 +0800
+    Tue, 21 May 2024 19:15:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/liveblog-sia-singapore-airlines-death-turbulence-london-bangkok-4352156
@@ -101,11 +122,11 @@
    <category>
     Singapore
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--CLREI198--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/singapore_airlines_flight_approaching_heathrow.jpg?itok=uBb5Ef0b" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zdZuLa2x--/c_crop,h_524,w_933,x_401,y_227/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/singapore_airlines_flight_approaching_heathrow.jpg?itok=uBb5Ef0b" width="1600"/>
   </item>
   <item>
    <title>
-    Convoy to disputed Scarborough Shoal an effort to boost Philippine civilian stakeholdership: Organisers
+    Onboard a Philippine convoy boat that sailed towards disputed Scarborough Shoal
    </title>
    <link>
     https://www.channelnewsasia.com/asia/philippines-china-disputed-scs-scarborough-shoal-boat-convoy-4351971
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IDJddml3--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t100540z_2_lynxmpek4k0ae_rtroptp_3_china-e-commerce-alibaba.jpg?itok=2uOup3zp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Best of the rest: Zverev and Rublev among dark horses for French Open
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/best-rest-zverev-and-rublev-among-dark-horses-french-open-4351831
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 17:07:57 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/best-rest-zverev-and-rublev-among-dark-horses-french-open-4351831
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S1mS6z1d--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t090757z_1_lynxmpek4k0ac_rtroptp_3_tennis-atpfinals.jpg?itok=xxk27YxX" width="1600"/>
   </item>
  </channel>
 </rss>
