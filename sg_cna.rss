@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 22:50:56 +0800
+   Tue, 21 May 2024 23:06:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Micron lifts 2024 capex forecast on rising investment in AI-related chips
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/micron-lifts-2024-capex-forecast-rising-investment-ai-related-chips-4352801
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 22:58:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/micron-lifts-2024-capex-forecast-rising-investment-ai-related-chips-4352801
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--h_KwjO64--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t145832z_1_lynxmpek4k0k3_rtroptp_3_micron-tech-china.jpg?itok=YkklXzHU" width="1600"/>
+  </item>
   <item>
    <title>
     Kretinsky weighs changes to Atos bid to win over creditors, source says
@@ -126,10 +147,10 @@
   </item>
   <item>
    <title>
-    Toyota mulls over $500 million investment into Texas plant, San Antonio Express-News reports
+    Toyota mulls over $500 million investment into Texas plant
    </title>
    <link>
-    https://www.channelnewsasia.com/business/toyota-mulls-over-500-million-investment-texas-plant-san-antonio-express-news-reports-4352646
+    https://www.channelnewsasia.com/business/toyota-mulls-over-500-million-investment-texas-plant-4352646
    </link>
    <description>
     <![CDATA[]]>
@@ -138,7 +159,7 @@
     Tue, 21 May 2024 21:55:24 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/toyota-mulls-over-500-million-investment-texas-plant-san-antonio-express-news-reports-4352646
+    https://www.channelnewsasia.com/business/toyota-mulls-over-500-million-investment-texas-plant-4352646
    </guid>
    <category>
     Business
@@ -290,7 +311,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1xgsC7RF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t124612z_1_lynxmpek4k0g7_rtroptp_3_fintech-cryptocurrency.jpg?itok=YejbObIN" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iSPRktyv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t150241z_2_lynxmpek4k0g7_rtroptp_3_fintech-cryptocurrency.jpg?itok=WVeUX0Ed" width="1600"/>
   </item>
   <item>
    <title>
@@ -399,13 +420,13 @@
   </item>
   <item>
    <title>
-    One person dead after severe turbulence on London-Singapore SIA flight
+    Elderly British man dies after severe turbulence hits Singapore Airlines flight
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/sia-singapore-airlines-death-turbulence-london-bangkok-4352051
    </link>
    <description>
-    <![CDATA[Thai authorities said the deceased is a 73-year-old British man, and that another seven people were critically injured. ]]>
+    <![CDATA[Seven people were critically injured on SQ321, which made an emergency landing in Bangkok.]]>
    </description>
    <pubDate>
     Tue, 21 May 2024 18:18:00 +0800
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Xw9GYcWJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/screenshot_442.png?itok=XYhBW1Gj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sri Lanka inflation rises to 2.7% in April from 2.5% in March
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sri-lanka-inflation-rises-27-april-25-march-4352061
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 18:12:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sri-lanka-inflation-rises-27-april-25-march-4352061
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OMrckQuk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t101229z_1_lynxmpek4k0c3_rtroptp_3_sri-lanka-crisis-inflation.jpg?itok=3mIaqugJ" width="1600"/>
   </item>
  </channel>
 </rss>
