@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 15:36:07 +0800
+   Tue, 21 May 2024 15:43:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Johor police station attack 'grim reminder' that terrorism threat remains high: PM Wong
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lawrence-wong-johor-police-station-attack-terrorism-vigilance-4351531
+   </link>
+   <description>
+    <![CDATA[Mr Wong urged the public to remain vigilant and report any suspicious individuals to the authorities immediately.]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 15:30:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lawrence-wong-johor-police-station-attack-terrorism-vigilance-4351531
+   </guid>
+   <category>
+    Singapore ,Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B41Qbp02--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%203.jpg?itok=VMD-tF48" width="1600"/>
+  </item>
   <item>
    <title>
     Johor police station attack 'grim reminder' that terrorism threat remains high: PM Wong
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8S5UtZjp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t051841z_1_lynxmpek4k04f_rtroptp_3_thailand-economy-cenbank.jpg?itok=kkCgI7wA" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nvidia earnings could spark $200 billion swing in shares, options show
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/nvidia-earnings-could-spark-200-billion-swing-shares-options-show-4351316
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 13:02:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nvidia-earnings-could-spark-200-billion-swing-shares-options-show-4351316
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QoQ0BXkD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t051011z_2_lynxmpek4k041_rtroptp_3_nvidia-results.jpg?itok=aD7Yax3m" width="1600"/>
   </item>
  </channel>
 </rss>
