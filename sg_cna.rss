@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 03:36:27 +0800
+   Wed, 22 May 2024 03:50:54 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    UK blood scandal victims to receive payouts this year: Government
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/uk-blood-scandal-victims-receive-payouts-year-government-4353466
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 03:45:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/uk-blood-scandal-victims-receive-payouts-year-government-4353466
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7NYGuJ_R--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t120004z_2_lynxmpek4k0eu_rtroptp_3_britain-blood-vigil.jpg?itok=-f-4ibQu" width="1600"/>
+  </item>
   <item>
    <title>
     Russia starts tactical nuclear drills near Ukraine
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1E5AForo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t162701z_2_lynxmpek4k0ks_rtroptp_3_filmfestival-cannes-asteroid-city-premiere.jpg?itok=QynZmu3A" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Billionaire urges Russian firms to build alternative to SAP software
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/billionaire-urges-russian-firms-build-alternative-sap-software-4352871
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:23:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/billionaire-urges-russian-firms-build-alternative-sap-software-4352871
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3Ym4g922--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t152352z_1_lynxmpek4k0kk_rtroptp_3_russia-technologies.jpg?itok=2ZdbDM99" width="1600"/>
   </item>
  </channel>
 </rss>
