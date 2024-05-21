@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 05:41:23 +0800
+   Wed, 22 May 2024 05:51:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Netherlands' Martens to retire from internationals
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/netherlands-martens-retire-internationals-4353656
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 05:42:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/netherlands-martens-retire-internationals-4353656
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tpi0yZjS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t214434z_1_lynxmpek4k0s9_rtroptp_3_soccer-netherlands-martens.jpg?itok=uf1khGI8" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Leverkusen's Alonso ready to snap losing streak against Atalanta in Europa League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leverkusens-alonso-ready-snap-losing-streak-against-atalanta-europa-league-final-4353661
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 05:41:22 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leverkusens-alonso-ready-snap-losing-streak-against-atalanta-europa-league-final-4353661
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--axDataw0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t214122z_1_lynxmpek4k0s8_rtroptp_3_soccer-europa-att-b04-preview.jpg?itok=7eTsaxCe" width="1600"/>
+  </item>
   <item>
    <title>
     After Singapore Airlines turbulence accident, flight crews urge buckling up
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Explainer-What are AI PCs?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/explainer-what-are-ai-pcs-4352931
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:45:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/explainer-what-are-ai-pcs-4352931
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tFyqeIJX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t165356z_2_lynxmpek4k0l0_rtroptp_3_microsoft-britain-store.jpg?itok=N-JgCz1k" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Palo Alto slides as billings forecast points to clients deferring payments
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/palo-alto-slides-billings-forecast-points-clients-deferring-payments-4352936
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:45:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/palo-alto-slides-billings-forecast-points-clients-deferring-payments-4352936
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fXjlkRNw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t154528z_1_lynxmpek4k0l1_rtroptp_3_palo-alto-results.jpg?itok=rKEuVpXO" width="1600"/>
   </item>
  </channel>
 </rss>
