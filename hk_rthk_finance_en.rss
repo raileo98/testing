@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 22 May 2024 06:40:35 +0800
+   Wed, 22 May 2024 07:10:07 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 00:10:46 +0800
+   Wed, 22 May 2024 07:04:16 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,43 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Nasdaq edges to fresh record ahead of Nvidia results
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754130-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754130-20240522.htm
+   </link>
+   <description>
+    <![CDATA[The Nasdaq climbed to a fresh record on Tuesday following a choppy session after a smattering of mixed earnings and muted Federal Reserve commentary.
+
+"There really isn't much economic news to speak of," said Cresset Capital's Jack Ablin, who pointed to Wednesday's earnings report from Nvidia as one of the highlights of the week.
+
+Shares of Nvidia rose 0.6 percent.
+
+Fed governor Christopher Waller welcomed last week's consumer price index report that showed moderating inflation, while adding that "several" months of additional data were needed before interest rates should be cut.
+
+The tech-rich Nasdaq finished at 16,832, up 0.2 percent for the day and a record for the second straight session.
+
+The Dow Jones also advanced 0.2 percent to 19,872, along with the S&P 500, which stood at 5,321.
+
+Cresset's Ablin said the stock market is probably "overbought" at this point, adding that, "relative to bonds, the stock market is probably the most expensive it's been since the financial crisis."
+
+All three major indices scored records last week following data showing a moderation in inflation.
+
+Among individual companies, Lowe's dropped 1.9 percent after earnings topped analyst expectations. However, revenues for the home-improvement retailer fell about four percent to US$21.4 billion.
+
+Trump Media & Technology Group slumped 8.7 percent after reporting a net loss of US$327.6 million in the quarter ending March 31.
+
+Disney nudged up 0.1 percent following news the company's animation studio Pixar is laying off about 14 percent of its staff. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 07:04:16 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US stocks edge down from records
@@ -565,41 +602,6 @@ The so-called "core" inflation index rose 0.3 percent in April from a month earl
    </description>
    <pubDate>
     Wed, 15 May 2024 21:48:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Nasdaq ends at record high ahead of US inflation data
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753196-20240515.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753196-20240515.htm
-   </link>
-   <description>
-    <![CDATA[The Nasdaq finished at a new record on Tuesday as US stocks rallied, shrugging off data that showed April wholesale inflation that topped expectations.
-
-The tech-focused index closed at 16,511, up 0.8 percent.
-
-The Dow Jones rose 0.3 percent to 39,558, while the S&P 500 gained 0.5 percent to 5,246.
-
-US wholesale prices jumped by 0.5 percent in April, much above estimates in a dynamic that could keep Federal Reserve interest rates higher for longer.
-
-However, analysts noted that the gain was offset by a revision to the March report, which showed wholesale inflation cooling in that period.
-
-"The numbers were more or less in line," said Steve Sosnick of Interactive Brokers, who pointed to Wednesday's consumer price report as a key test for stocks.
-
-Fed Chair Jerome Powell described the first quarter as "notable for its lack of further progress on inflation," adding that "we'll need to be patient and let restrictive policy do its work."
-
-Among individual companies, Google parent Alphabet rose 0.6 percent as the tech giant highlighted its artificial intelligence offerings at a developer conference.
-
-Home Depot dipped 0.1 percent after reporting a decline in first-quarter revenues as it pointed to "continued softness" in some consumer segments. The home-improvement retailer confirmed its full-year forecast.
-
-GameStop jumped 60.1 percent and AMC Entertainment 32 percent in a revival of the so-called "meme stock" craze from 2021. (AFP)]]>
-   </description>
-   <pubDate>
-    Wed, 15 May 2024 05:17:35 +0800
    </pubDate>
   </item>
  </channel>
