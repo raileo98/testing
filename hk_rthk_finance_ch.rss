@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 14:40:16 +0800
+   Tue, 21 May 2024 14:50:40 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 14:12:15 +0800
+   Tue, 21 May 2024 14:49:04 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,44 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股全日跌122點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754043-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754043-20240521.htm
+   </link>
+   <description>
+    <![CDATA[東京股市跌逾100點收市。
+
+日經指數收報38946點，跌122點，跌幅0.31%。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 14:49:04 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    台股低收近0.2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754042-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754042-20240521.htm
+   </link>
+   <description>
+    <![CDATA[台灣股市偏軟。
+
+加權指數收報21236點，跌34點，跌幅0.16%。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 14:48:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     楊潤雄啟程往西安出席有關旅遊高層會議
@@ -422,40 +460,6 @@
    </description>
    <pubDate>
     Tue, 21 May 2024 09:07:08 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股初段跌約0.5%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753978-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753978-20240521.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市早段偏軟，首爾綜合指數較早時報2729點，跌12點，跌幅0.46%。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 08:14:15 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股初段升逾200點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753977-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753977-20240521.htm
-   </link>
-   <description>
-    <![CDATA[日股初段造好，日經指數較早時報39304點，升235點，升幅0.6%。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 08:13:41 +0800
    </pubDate>
   </item>
  </channel>
