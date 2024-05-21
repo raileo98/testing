@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 22:36:11 +0800
+   Tue, 21 May 2024 22:45:35 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Kretinsky weighs changes to Atos bid to win over creditors, source says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/kretinsky-weighs-changes-atos-bid-win-over-creditors-source-says-4352741
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 22:42:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/kretinsky-weighs-changes-atos-bid-win-over-creditors-source-says-4352741
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7SiajRD8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t144239z_1_lynxmpek4k0jp_rtroptp_3_atos-m-a-kretinsky.jpg?itok=nHbmJPdg" width="1600"/>
+  </item>
   <item>
    <title>
     Singapore to face Thailand, Malaysia in ASEAN football championship
@@ -147,10 +168,10 @@
   </item>
   <item>
    <title>
-    Nissan pauses plans for EV production in US, Automotive News reports
+    Nissan pauses EV sedan development in US, widens lineup
    </title>
    <link>
-    https://www.channelnewsasia.com/business/nissan-pauses-plans-ev-production-us-automotive-news-reports-4352546
+    https://www.channelnewsasia.com/business/nissan-pauses-ev-sedan-development-us-widens-lineup-4352546
    </link>
    <description>
     <![CDATA[]]>
@@ -159,7 +180,7 @@
     Tue, 21 May 2024 21:16:52 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nissan-pauses-plans-ev-production-us-automotive-news-reports-4352546
+    https://www.channelnewsasia.com/business/nissan-pauses-ev-sedan-development-us-widens-lineup-4352546
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OMrckQuk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t101229z_1_lynxmpek4k0c3_rtroptp_3_sri-lanka-crisis-inflation.jpg?itok=3mIaqugJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Scale AI valued at $14 billion in Nvidia, Amazon-backed funding round
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/scale-ai-valued-14-billion-nvidia-amazon-backed-funding-round-4352056
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 18:10:52 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/scale-ai-valued-14-billion-nvidia-amazon-backed-funding-round-4352056
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xI3xOp3_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t101052z_1_lynxmpek4k0c1_rtroptp_3_canada-politics.jpg?itok=Hl5zZSlT" width="1600"/>
   </item>
  </channel>
 </rss>
