@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 04:35:59 +0800
+   Wed, 22 May 2024 04:51:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ranieri steps down as Cagliari manager amid retirement reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ranieri-steps-down-cagliari-manager-amid-retirement-reports-4353551
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 04:41:45 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ranieri-steps-down-cagliari-manager-amid-retirement-reports-4353551
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Q6U0ihlM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t204145z_1_lynxmpek4k0r9_rtroptp_3_soccer-italy-cag-ranieri.jpg?itok=KFr_OMti" width="1600"/>
+  </item>
   <item>
    <title>
     Israel backs down over confiscation of AP camera equipment
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HtKem99o--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t153521z_1_lynxmpek4k0kv_rtroptp_3_football-nfl-kc-sf.jpg?itok=_66oplc1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Comcast prices Peacock, Netflix, Apple TV+ streaming bundle at $15 a month
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/comcast-prices-peacock-netflix-apple-tv-streaming-bundle-15-month-4352861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:27:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/comcast-prices-peacock-netflix-apple-tv-streaming-bundle-15-month-4352861
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OHwHkYJn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t152720z_3_lynxmpek4k0kj_rtroptp_3_comcast-streaming-netflix.jpg?itok=SdUKGkSG" width="1600"/>
   </item>
  </channel>
 </rss>
