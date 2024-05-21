@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 13:09:34 +0800
+   Tue, 21 May 2024 13:27:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    New Thai finance minister has chance to improve strained central bank ties, says ex-Finance Minister
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/new-thai-finance-minister-has-chance-improve-strained-central-bank-ties-says-ex-finance-minister-4351371
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 13:18:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/new-thai-finance-minister-has-chance-improve-strained-central-bank-ties-says-ex-finance-minister-4351371
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8S5UtZjp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t051841z_1_lynxmpek4k04f_rtroptp_3_thailand-economy-cenbank.jpg?itok=kkCgI7wA" width="1600"/>
+  </item>
+  <item>
+   <title>
     Nvidia earnings could spark $200 billion swing in shares, options show
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lgr81P_E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t050209z_1_lynxmpek4k041_rtroptp_3_nvidia-results.jpg?itok=-37CxPRR" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QoQ0BXkD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t051011z_2_lynxmpek4k041_rtroptp_3_nvidia-results.jpg?itok=aD7Yax3m" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nr9UOKoH--/c_crop,h_632,w_1125,x_1,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/21/KEL_3398.jpg?itok=eG7NCWwr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Yale graduates stage pro-Palestinian walkout of commencement
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/yale-university-graduates-pro-palestinian-walkout-commencement-4350861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 11:11:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/yale-university-graduates-pro-palestinian-walkout-commencement-4350861
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--77ArbS1Z--/c_crop,h_450,w_800,x_0,y_73/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t000736z_2_lynxmpek4j0sc_rtroptp_3_israel-palestinians-usa-protests-commencements.jpg?itok=Ipmxz632" width="1600"/>
   </item>
  </channel>
 </rss>
