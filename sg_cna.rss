@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 02:27:23 +0800
+   Wed, 22 May 2024 02:36:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Pochettino leaves Chelsea by mutual consent - reports
+    Technical head Symonds leaves FOM for Andretti Cadillac
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/pochettino-leaves-chelsea-mutual-consent-reports-4353316
+    https://www.channelnewsasia.com/sport/technical-head-symonds-leaves-fom-andretti-cadillac-4353326
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 02:26:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/technical-head-symonds-leaves-fom-andretti-cadillac-4353326
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l2vVxDqi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t182612z_1_lynxmpek4k0p3_rtroptp_3_motor-f1-symonds.jpg?itok=7oHj7FOS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Pochettino leaves Chelsea by mutual consent after one season in charge
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pochettino-leaves-chelsea-mutual-consent-after-one-season-charge-4353316
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Wed, 22 May 2024 02:20:05 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pochettino-leaves-chelsea-mutual-consent-reports-4353316
+    https://www.channelnewsasia.com/sport/pochettino-leaves-chelsea-mutual-consent-after-one-season-charge-4353316
    </guid>
    <category>
     Sport
@@ -84,10 +105,10 @@
   </item>
   <item>
    <title>
-    Anthropic hires Airbnb veteran Krishna Rao as first CFO, The Information reports
+    AI startup Anthropic hires Airbnb veteran Krishna Rao as first CFO
    </title>
    <link>
-    https://www.channelnewsasia.com/business/anthropic-hires-airbnb-veteran-krishna-rao-first-cfo-information-reports-4353276
+    https://www.channelnewsasia.com/business/ai-startup-anthropic-hires-airbnb-veteran-krishna-rao-first-cfo-4353276
    </link>
    <description>
     <![CDATA[]]>
@@ -96,7 +117,7 @@
     Wed, 22 May 2024 01:59:27 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/anthropic-hires-airbnb-veteran-krishna-rao-first-cfo-information-reports-4353276
+    https://www.channelnewsasia.com/business/ai-startup-anthropic-hires-airbnb-veteran-krishna-rao-first-cfo-4353276
    </guid>
    <category>
     Business
@@ -147,10 +168,10 @@
   </item>
   <item>
    <title>
-    Microsoft talks up tools for making AI software
+    Microsoft promotes new tools for making AI software
    </title>
    <link>
-    https://www.channelnewsasia.com/business/microsoft-talks-tools-making-ai-software-4353191
+    https://www.channelnewsasia.com/business/microsoft-promotes-new-tools-making-ai-software-4353191
    </link>
    <description>
     <![CDATA[]]>
@@ -159,7 +180,7 @@
     Wed, 22 May 2024 01:32:52 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/microsoft-talks-tools-making-ai-software-4353191
+    https://www.channelnewsasia.com/business/microsoft-promotes-new-tools-making-ai-software-4353191
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--M_3Q3v1B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/2024-05-21t142401z_137950052_rc2wu7ayls6o_rtrmadp_3_singaporeairlines-thailand.jpg?itok=FsaSFLQ9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Disney's Pixar Animation to lay off about 14% of workforce
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/disneys-pixar-animation-lay-about-14-workforce-4352826
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:08:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/disneys-pixar-animation-lay-about-14-workforce-4352826
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Kvboc2mU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t152611z_3_lynxmpek4k0kc_rtroptp_3_usa-toyfair.jpg?itok=M1KLTZHB" width="1600"/>
   </item>
  </channel>
 </rss>
