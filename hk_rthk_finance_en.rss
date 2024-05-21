@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 10:10:22 +0800
+   Tue, 21 May 2024 10:40:41 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 05:13:56 +0800
+   Tue, 21 May 2024 10:28:00 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks open with losses
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754000-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754000-20240521.htm
+   </link>
+   <description>
+    <![CDATA[Local stocks opened on the back foot on Tuesday after a recent rally. The Hang Seng Index shed 0.83 percent at beginning of trade. 
+
+This came as investors tracked a mixed day on Wall Street, with eyes turning to the upcoming release of minutes from the US Federal Reserve's May policy meeting. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 10:28:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Nasdaq lifts to fresh record while Dow retreats
@@ -601,27 +620,6 @@ Last updated: 2024-05-14 HKT 21:38]]>
    </description>
    <pubDate>
     Tue, 14 May 2024 19:07:13 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks end with losses
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753137-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753137-20240514.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks closed slightly lower on Tuesday, even as tech giants including Alibaba and Tencent rose ahead of their earnings releases, while traders were also awaiting key US inflation data.
-
-The Hang Seng Index dropped 0.2 percent, or 41 points, to 19,073.
-
-The Shanghai Composite Index lost 0.1 percent, or 2 points, to 3,145, while the Shenzhen Composite Index added 0.4 percent, or 6 points, to 1,773. (AFP)]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 16:35:00 +0800
    </pubDate>
   </item>
  </channel>
