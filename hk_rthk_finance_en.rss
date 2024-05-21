@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 16:10:44 +0800
+   Tue, 21 May 2024 16:20:25 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 10:28:00 +0800
+   Tue, 21 May 2024 16:19:00 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Hong Kong stocks end with losses
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754064-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754064-20240521.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong stocks fell on Tuesday on profit-taking as traders step back after a long-running rally, with tech and property firms leading the losses, while eyes turn to an upcoming earnings release from chip titan Nvidia.
+
+The Hang Seng Index shed 2.1 percent, or 415 points, to 19,220.
+
+The Shanghai Composite Index lost 0.4 percent, or 13 points, to 3,157, while the Shenzhen Composite Index retreated 0.8 percent, or 13 points, to 1,780. (AFP)]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 16:19:00 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK stocks open with losses
@@ -583,43 +604,6 @@ But despite the recent uptick in inflation, Powell said he did not think it was 
    </description>
    <pubDate>
     Wed, 15 May 2024 01:32:53 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    US raises tariffs on Chinese imports
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753163-20240514.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753163-20240514.htm
-   </link>
-   <description>
-    <![CDATA[China has spoken out against a move by the United States to hike tariffs on US$18 billion worth of Chinese imports such as electric vehicles (EVs), advanced batteries, solar cells, steel, aluminium and medical equipment.
-
-The tariffs are to be phased in over the next three years, with those that take effect in 2024 covering EVs, solar cells, syringes, needles, steel and aluminium and more. 
-
-The tariff rate on EVs is set to quadruple to 100 percent this year, the White House said.
-
-Tariffs for semiconductors, meanwhile, will double from 25 percent to 50 percent by next year.
-
-The action is aimed at encouraging China to "eliminate its unfair trade practices regarding technology transfer, intellectual property, and innovation," the White House said in a statement.
-
-In Beijing, the Commerce Ministry said China is opposed to the US tariff hikes and would take measures to defend its interests, urging Washington to cancel the measures.
-
-The Foreign Ministry said it's against unilateral tariff hikes in violation of World Trade Organisation rules.
-
-China "will take all necessary measures to safeguard its legitimate rights and interests", spokesman Wang Wenbin said.
-
-Xinhua News Agency described it as "a protectionist move widely believed to imperil the American ambition to enhance competitiveness and slash carbon emissions".
-
-The tariffs come in the middle of a heated campaign between US President Joe Biden and his Republican predecessor, Donald Trump, in which both candidates are vying to show who's tougher on China. (Agencies)
-_____________________________
-Last updated: 2024-05-14 HKT 21:38]]>
-   </description>
-   <pubDate>
-    Tue, 14 May 2024 19:07:13 +0800
    </pubDate>
   </item>
  </channel>

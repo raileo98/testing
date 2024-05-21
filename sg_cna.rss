@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 16:15:16 +0800
+   Tue, 21 May 2024 16:28:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Fresh seafood, new medicine tablets: Convergence of tech helps wholesalers sell to consumers directly
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/local-wholesalers-boost-business-convergence-tech-seafood-medicine-4351626
+   </link>
+   <description>
+    <![CDATA[Wholesalers in Singapore are tapping new markets while saving on costs.]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 16:27:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/local-wholesalers-boost-business-convergence-tech-seafood-medicine-4351626
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_xGwV3nY--/c_crop,h_727,w_1293,x_296,y_44/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/screenshot_2024-05-21_160354.png?itok=G191Brwf" width="1600"/>
+  </item>
   <item>
    <title>
     Sarawak minister pushes back against ‘orangutan diplomacy’ idea, says no need to give apes as gifts
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IbHxDrqT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t154008z_2_lynxmpek4j0i2_rtroptp_3_iran-security-president-raisi.jpg?itok=alXHPru0" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Olivia Rodrigo adds 2nd Singapore show after 1st show sold out quickly
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/olivia-rodrigo-singapore-concert-second-show-4351361
-   </link>
-   <description>
-    <![CDATA[Rodrigo will now perform on Oct 1 and 2 at the Singapore Indoor Stadium.]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 14:07:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/olivia-rodrigo-singapore-concert-second-show-4351361
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ItyzOcsL--/c_crop,h_558,w_993,x_7,y_11/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/grammy_nominations_05983.jpg?itok=ChpV3Z8k" width="1600"/>
   </item>
  </channel>
 </rss>
