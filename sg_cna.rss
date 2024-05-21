@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 15:20:36 +0800
+   Tue, 21 May 2024 15:30:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Johor police station attack 'grim reminder' that terrorism threat remains high: PM Wong
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lawrence-wong-johor-police-station-attack-terrorism-vigilance-4351531
+   </link>
+   <description>
+    <![CDATA[Mr Wong urged the public to remain vigilant and report any suspicious individuals to the authorities immediately.]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 15:30:07 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lawrence-wong-johor-police-station-attack-terrorism-vigilance-4351531
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--B41Qbp02--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%203.jpg?itok=VMD-tF48" width="1600"/>
+  </item>
   <item>
    <title>
     Taiwan parliament erupts in arguments at start of Lai's presidency
@@ -114,7 +135,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 21 May 2024 15:08:03 +0800
+    Tue, 21 May 2024 15:08:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/india-new-delhi-shuts-school-early-summer-holiday-temperatures-soar-4351506
@@ -135,7 +156,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 21 May 2024 15:08:03 +0800
+    Tue, 21 May 2024 15:08:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/india-new-delhi-shuts-school-early-summer-holiday-temperatures-soar-4351506
@@ -321,7 +342,7 @@
     https://www.channelnewsasia.com/singapore/evaporisers-vape-products-seized-woodlands-warehouse-raid-ica-hsa-5-million-4351301
    </link>
    <description>
-    <![CDATA[Two men were also arrested and charged for staying in Singapore unlawfully without a valid pass.]]>
+    <![CDATA[Two men were arrested and charged with staying in Singapore unlawfully without a valid pass.]]>
    </description>
    <pubDate>
     Tue, 21 May 2024 14:07:00 +0800
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QoQ0BXkD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t051011z_2_lynxmpek4k041_rtroptp_3_nvidia-results.jpg?itok=aD7Yax3m" width="1600"/>
-  </item>
-  <item>
-   <title>
-    KFC Holdings Japan receives $863 million offer from Carlyle-backed fund
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/kfc-holdings-japan-receives-863-million-offer-carlyle-backed-fund-4351321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 13:01:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/kfc-holdings-japan-receives-863-million-offer-carlyle-backed-fund-4351321
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k2EOhNPH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t050149z_1_lynxmpek4k03y_rtroptp_3_kfc-hldg-japan-christmas-chicken.jpg?itok=kcv2bmci" width="1600"/>
   </item>
  </channel>
 </rss>
