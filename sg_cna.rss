@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 16:40:16 +0800
+   Tue, 21 May 2024 16:48:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    New NUH procedure reduces side effects for prostate cancer patients undergoing radiation treatment
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/new-rectal-spacer-procedure-radiation-therapy-prostate-cancer-nuh-healthcare-treatment-4351731
+   </link>
+   <description>
+    <![CDATA[A rectal spacer acts as a physical barrier to increase the distance between the prostate and the rectum, in order to protect the rectum from unwanted exposure to radiation.]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 16:46:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/new-rectal-spacer-procedure-radiation-therapy-prostate-cancer-nuh-healthcare-treatment-4351731
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k3rpvYsL--/c_crop,h_1193,w_2121,x_1,y_52/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021-09/istock-695596304.jpg?itok=j659vPV-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Exclusive-UAE, US to see more AI partnerships, minister tells Reuters
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/exclusive-uae-us-see-more-ai-partnerships-minister-tells-reuters-4351746
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 16:42:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/exclusive-uae-us-see-more-ai-partnerships-minister-tells-reuters-4351746
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jBACQ-PU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t084227z_1_lynxmpek4k09q_rtroptp_3_ai-britain-summit.jpg?itok=qYkmedyx" width="1600"/>
+  </item>
   <item>
    <title>
     Fresh seafood, new medicine tablets: Convergence of tech helps wholesalers sell to consumers directly
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--puyouzLq--/c_crop,h_562,w_1000,x_0,y_86/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/emirates_bollywood_iifa_awards_17184.jpg?itok=G9djhjGJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singer-composer AR Rahman performing at Singapore National Stadium this August
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/ar-rahman-singapore-concert-2024-4351456
-   </link>
-   <description>
-    <![CDATA[The man behind the soundtrack of multiple Bollywood and Kollywood hits returns to Singapore 10 years after his Infinite Love tour.]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 14:50:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/ar-rahman-singapore-concert-2024-4351456
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--puyouzLq--/c_crop,h_562,w_1000,x_0,y_86/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/emirates_bollywood_iifa_awards_17184.jpg?itok=G9djhjGJ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Iran President Raisi’s death has no significant impact, but succession crisis may arise: Analysts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/iran-ebrahim-raisi-helicopter-crash-supreme-leader-ayatollah-ali-khamenei-succession-crisis-4351411
-   </link>
-   <description>
-    <![CDATA[Ebrahim Raisi was among the potential candidates for the position of Supreme Leader, currently occupied by Ayatollah Ali Khamenei.]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 14:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/iran-ebrahim-raisi-helicopter-crash-supreme-leader-ayatollah-ali-khamenei-succession-crisis-4351411
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IbHxDrqT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t154008z_2_lynxmpek4j0i2_rtroptp_3_iran-security-president-raisi.jpg?itok=alXHPru0" width="1600"/>
   </item>
  </channel>
 </rss>

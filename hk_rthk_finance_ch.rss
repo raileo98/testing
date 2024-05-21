@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 16:30:32 +0800
+   Tue, 21 May 2024 16:40:08 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 15:16:03 +0800
+   Tue, 21 May 2024 16:32:32 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股全日跌415點　理想挫逾19%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754066-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754066-20240521.htm
+   </link>
+   <description>
+    <![CDATA[港股連升3個交易日後回吐，恒指一度低見19175點，跌461點，收市報19220點，跌415點，跌幅2.12%，主板成交額約1506億元。
+
+藍籌股表現最差是理想汽車，急跌逾19%，公布業績後被大行削減目標價。其他汽車股都跟隨向下。互聯網醫療平台股及醫藥相關股份受壓，阿里健康及京東健康跌逾7%至8%以上。
+
+金融股個別發展，港交所、友邦跌近4%，工行及中行升約1%。金礦股下跌，招金及紫金跌近4%至半成。
+
+科技指數失守4000點，收報3980點，跌3.74%。ATMXJ跌逾1%至近4%。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 16:32:32 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     滬深股市跌0.4%至近0.8%
@@ -449,25 +472,6 @@
    </description>
    <pubDate>
     Tue, 21 May 2024 09:40:46 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    恒指低開162點　科指跌逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753986-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753986-20240521.htm
-   </link>
-   <description>
-    <![CDATA[港股低開，恒指競價時段報19473點，跌162點，跌幅0.83%。
-
-科技指數報4079點，跌56點，跌幅1.36%。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 09:25:55 +0800
    </pubDate>
   </item>
  </channel>
