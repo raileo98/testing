@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Tue, 21 May 2024 17:00:01 GMT
+   Mon, 20 May 2024 17:00:01 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,24 +34,6 @@
   <language>
    zh-tw
   </language>
-  <item>
-   <title>
-    伊朗總統死亡空難：一場混亂而敏感的墜機事故，將如何牽動中東變局？
-   </title>
-   <description>
-    <![CDATA[5月19日下午，伊朗總統萊希與外交部長等多名高官遭遇直升機空難，16小時後確認全數罹難。在伊朗─以色列軍事衝突和中東密布戰雲的危機邊緣下，一場突如其來的空難，將在中東掀起複雜的連鎖效應。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/hello-world-2024-05-21
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/hello-world-2024-05-21
-   </guid>
-   <pubDate>
-    Mon, 20 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240521091205-219c71cece9a382ec549d87d076f4af6-mobile.jpg"/>
-  </item>
   <item>
    <title>
     2024總統就職典禮：記一場承載國家未來想望的慶典
@@ -144,24 +126,6 @@
   </item>
   <item>
    <title>
-    專訪巴奈：從都市異鄉「流浪記」到紮營公園2,644天，她的回家之路是把文化「活回來」
-   </title>
-   <description>
-    <![CDATA[這集，我們透過新書《巴奈回家》回顧巴奈這2,644天的抗爭，也聽見她從都市女孩「柯美黛」變成「巴奈．庫穗」的歷程，以及與那布重返「內本鹿部落」，冀望把文化「活回來」的故事。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/podcast-20240-05-17
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/podcast-20240-05-17
-   </guid>
-   <pubDate>
-    Thu, 16 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240521144837-06c8d04d06747620dbf6b96192b4dfdf-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     1996年後新總統首任內閣比一比：賴政府非綠閣員占比低於扁蔡、內閣最老但國安團隊最年輕
    </title>
    <description>
@@ -213,6 +177,42 @@
     Mon, 13 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240513171326-e4a521c796f5f2c56eb4c9f555b19fa2-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    8年併網面積僅18%，「不利耕作區」推動難關揭台灣地面型光電困局
+   </title>
+   <description>
+    <![CDATA[在綠能目標壓力下，政府從不利耕作區、低地力農地、漁電共生到綠能發展區，一再開放專區做光電，推動最久的不利耕作區，併網面積至今只有18%。有土地、業者也有意願，為何還是推不動？光電發展還能倚賴地面型態嗎？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/land-unsuitable-for-farming-photovoltaic
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/land-unsuitable-for-farming-photovoltaic
+   </guid>
+   <pubDate>
+    Sun, 12 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240510221642-5ebcdea87a5c99facbe92bdbc5d60b97-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    汪正翔／觀看如何觀看──《文明：當代生活啟示錄》中的攝影思辨
+   </title>
+   <description>
+    <![CDATA[在《文明：當代生活啟示錄》攝影展中，我們很容易被照片說服，不論是其攝影美學還是所連結的文明主題，但當我們退後一步就會意識到，我們其實不是在觀看文明，而是在觀看某些人如何觀看文明。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-civilization-the-way-we-live-now-a-photography-exhibition
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-civilization-the-way-we-live-now-a-photography-exhibition
+   </guid>
+   <pubDate>
+    Sat, 11 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240507203409-8f1f43139d9e5545e690e6cd8fc0f5e2-mobile.jpg"/>
   </item>
  </channel>
 </rss>
