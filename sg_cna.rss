@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 05:51:29 +0800
+   Wed, 22 May 2024 06:00:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Commentary: It’s a mistake to dismiss Bridgerton as fluffy period drama
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/bridgerton-season-3-polin-fluffy-period-drama-art-4351886
+   </link>
+   <description>
+    <![CDATA[Beyond its implausibly attractive characters and fairy tale-like stories, the popular Netflix period drama explores universal, relatable themes, says a media lecturer from King's College London.]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/bridgerton-season-3-polin-fluffy-period-drama-art-4351886
+   </guid>
+   <category>
+    Commentary
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tvLueUAq--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/02/15/bridgerton_season_3.png?itok=V3c49SwA" width="1600"/>
+  </item>
   <item>
    <title>
     Netherlands' Martens to retire from internationals
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D1LLiSDJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t155407z_1_lynxmpek4k0l9_rtroptp_3_soccer-italy-gen-att-report.jpg?itok=Ozg65zmn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pogacar powers to win number five in weather-hit Giro stage
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pogacar-powers-win-number-five-weather-hit-giro-stage-4352941
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:51:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pogacar-powers-win-number-five-weather-hit-giro-stage-4352941
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
