@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 02:45:29 +0800
+   Wed, 22 May 2024 02:50:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Russia starts tactical nuclear drills near Ukraine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russia-starts-tactical-nuclear-drills-near-ukraine-4353356
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 02:50:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russia-starts-tactical-nuclear-drills-near-ukraine-4353356
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DJexJaFA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t170203z_1_lynxmpek4k0n0_rtroptp_3_ukraine-crisis-russia-nuclear.jpg?itok=zWo2OxP_" width="1600"/>
+  </item>
   <item>
    <title>
     Technical head Symonds leaves FOM for Andretti Cadillac
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3Ym4g922--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t152352z_1_lynxmpek4k0kk_rtroptp_3_russia-technologies.jpg?itok=2ZdbDM99" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Head injuries and bleeding ears: Passengers recount chaos on turbulent Singapore Airlines flight
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singapore-airlines-passengers-death-turbulence-london-bangkok-sq321-4352696
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:20:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singapore-airlines-passengers-death-turbulence-london-bangkok-sq321-4352696
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--M_3Q3v1B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/2024-05-21t142401z_137950052_rc2wu7ayls6o_rtrmadp_3_singaporeairlines-thailand.jpg?itok=FsaSFLQ9" width="1600"/>
   </item>
  </channel>
 </rss>
