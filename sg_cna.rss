@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 00:42:19 +0800
+   Wed, 22 May 2024 00:50:58 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blinken says Gaza truce still possible but set back by ICC move
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/blinken-says-gaza-truce-still-possible-set-back-icc-move-4352946
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 00:50:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/blinken-says-gaza-truce-still-possible-set-back-icc-move-4352946
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZNgfAEf1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t123027z_2_lynxmpek4j0e9_rtroptp_3_israel-palestinians-netanyahu.jpg?itok=E3BxOzDs" width="1600"/>
+  </item>
   <item>
    <title>
     Putellas extends Barca contract until 2026
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UsdzlnZX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t135840z_1_lynxmpek4k0iq_rtroptp_3_germany-malaysia.jpg?itok=3Rq9tV7d" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Toyota mulls over $500 million investment into Texas plant
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/toyota-mulls-over-500-million-investment-texas-plant-4352646
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 21:55:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/toyota-mulls-over-500-million-investment-texas-plant-4352646
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YLPgF7ke--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t135357z_1_lynxmpek4k0ii_rtroptp_3_autoshow-new-york.jpg?itok=gPEVTHCb" width="1600"/>
   </item>
  </channel>
 </rss>
