@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 20:46:18 +0800
+   Tue, 21 May 2024 21:00:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US SEC asks exchanges to fine-tune ether ETF filings in positive sign for approval, say sources
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-sec-asks-exchanges-fine-tune-ether-etf-filings-positive-sign-approval-say-sources-4352461
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 20:46:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-sec-asks-exchanges-fine-tune-ether-etf-filings-positive-sign-approval-say-sources-4352461
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1xgsC7RF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t124612z_1_lynxmpek4k0g7_rtroptp_3_fintech-cryptocurrency.jpg?itok=YejbObIN" width="1600"/>
+  </item>
   <item>
    <title>
     Unbeaten Leverkusen seek second trophy in Europa League final v Atalanta
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v3jSloI7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t091517z_1_lynxmpek4k0am_rtroptp_3_tennis-rome.jpg?itok=0c0OJl7Q" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Alcaraz hopes to shake off injury in quest for maiden French Open title
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/alcaraz-hopes-shake-injury-quest-maiden-french-open-title-4351861
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 17:12:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/alcaraz-hopes-shake-injury-quest-maiden-french-open-title-4351861
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XYBqDwTH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t091245z_1_lynxmpek4k0ak_rtroptp_3_tennis-madrid.jpg?itok=B_Z7s3UO" width="1600"/>
   </item>
  </channel>
 </rss>
