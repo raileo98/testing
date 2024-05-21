@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 12:54:08 +0800
+   Tue, 21 May 2024 13:09:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Nvidia earnings could spark $200 billion swing in shares, options show
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/nvidia-earnings-could-spark-200-billion-swing-shares-options-show-4351316
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 13:02:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/nvidia-earnings-could-spark-200-billion-swing-shares-options-show-4351316
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--lgr81P_E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t050209z_1_lynxmpek4k041_rtroptp_3_nvidia-results.jpg?itok=-37CxPRR" width="1600"/>
+  </item>
+  <item>
+   <title>
+    KFC Holdings Japan receives $863 million offer from Carlyle-backed fund
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/kfc-holdings-japan-receives-863-million-offer-carlyle-backed-fund-4351321
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 13:01:49 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/kfc-holdings-japan-receives-863-million-offer-carlyle-backed-fund-4351321
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k2EOhNPH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t050149z_1_lynxmpek4k03y_rtroptp_3_kfc-hldg-japan-christmas-chicken.jpg?itok=kcv2bmci" width="1600"/>
+  </item>
   <item>
    <title>
     Ipoh-born hawker opens stall in Potong Pasir selling Malaysian-style pork noodles, attracts long queues
@@ -417,48 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--77ArbS1Z--/c_crop,h_450,w_800,x_0,y_73/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t000736z_2_lynxmpek4j0sc_rtroptp_3_israel-palestinians-usa-protests-commencements.jpg?itok=Ipmxz632" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Stocks inch lower, dollar firm as Fed focus intensifies; crypto soars
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/stocks-inch-lower-dollar-firm-fed-focus-intensifies-crypto-soars-4351166
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 11:00:46 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/stocks-inch-lower-dollar-firm-fed-focus-intensifies-crypto-soars-4351166
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VvsQ9qh---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t030046z_1_lynxmpek4k02b_rtroptp_3_global-markets-view-asia.jpg?itok=eFsWtGCh" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ambitious Saudis look to homegrown talent for future success
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/ambitious-saudis-look-homegrown-talent-future-success-4351151
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 10:56:31 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/ambitious-saudis-look-homegrown-talent-future-success-4351151
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
