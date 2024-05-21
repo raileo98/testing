@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 03:50:54 +0800
+   Wed, 22 May 2024 04:11:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel backs down over confiscation of AP camera equipment
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-backs-down-over-confiscation-ap-camera-equipment-4353231
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 04:08:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-backs-down-over-confiscation-ap-camera-equipment-4353231
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mUbTXcyz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/aptopix_israel_palestinians_10191.jpg?itok=hwQrqUaq" width="1600"/>
+  </item>
   <item>
    <title>
     UK blood scandal victims to receive payouts this year: Government
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OHwHkYJn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t152720z_3_lynxmpek4k0kj_rtroptp_3_comcast-streaming-netflix.jpg?itok=SdUKGkSG" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Actors union backs Scarlett Johansson after claim of voice misuse by OpenAI
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/actors-union-backs-scarlett-johansson-after-claim-voice-misuse-openai-4352866
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 23:26:56 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/actors-union-backs-scarlett-johansson-after-claim-voice-misuse-openai-4352866
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1E5AForo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t162701z_2_lynxmpek4k0ks_rtroptp_3_filmfestival-cannes-asteroid-city-premiere.jpg?itok=QynZmu3A" width="1600"/>
   </item>
  </channel>
 </rss>
