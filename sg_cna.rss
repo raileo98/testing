@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 17:49:52 +0800
+   Tue, 21 May 2024 18:07:02 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Mowbray steps down as Birmingham City manager after surgery
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/mowbray-steps-down-birmingham-city-manager-after-surgery-4351981
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 17:49:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/mowbray-steps-down-birmingham-city-manager-after-surgery-4351981
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fYlU8kfx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t094924z_1_lynxmpek4k0bd_rtroptp_3_soccer-england-shf-brc-report.jpg?itok=Jzsh2ypG" width="1600"/>
+  </item>
+  <item>
+   <title>
     Cryptocurrencies gain as investors turn optimistic on ether ETFs
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Tue, 21 May 2024 17:45:55 +0800
+    Tue, 21 May 2024 17:45:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/cryptocurrencies-gain-investors-turn-optimistic-ether-etfs-4351956
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k3rpvYsL--/c_crop,h_1193,w_2121,x_1,y_52/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2021-09/istock-695596304.jpg?itok=j659vPV-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Exclusive-UAE, US to see more AI partnerships, minister tells Reuters
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/exclusive-uae-us-see-more-ai-partnerships-minister-tells-reuters-4351746
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 16:42:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/exclusive-uae-us-see-more-ai-partnerships-minister-tells-reuters-4351746
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jBACQ-PU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t084227z_1_lynxmpek4k09q_rtroptp_3_ai-britain-summit.jpg?itok=qYkmedyx" width="1600"/>
   </item>
  </channel>
 </rss>
