@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 17:44:59 +0800
+   Tue, 21 May 2024 17:49:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Cryptocurrencies gain as investors turn optimistic on ether ETFs
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/cryptocurrencies-gain-investors-turn-optimistic-ether-etfs-4351956
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 17:45:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/cryptocurrencies-gain-investors-turn-optimistic-ether-etfs-4351956
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GgyFc9I7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t094555z_1_lynxmpek4k0b7_rtroptp_3_india-cryptocurrency.jpg?itok=p4dTrpju" width="1600"/>
+  </item>
   <item>
    <title>
     Jail for man who was first of four brothers to start sexually abusing 8-year-old sister
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jBACQ-PU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t084227z_1_lynxmpek4k09q_rtroptp_3_ai-britain-summit.jpg?itok=qYkmedyx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Carlyle Group raises $2.8 billion in largest Japan-focused buyout fund
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/carlyle-group-raises-28-billion-largest-japan-focused-buyout-fund-4351726
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 16:30:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/carlyle-group-raises-28-billion-largest-japan-focused-buyout-fund-4351726
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
