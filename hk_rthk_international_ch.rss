@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 18:20:11 +0800
+   Tue, 21 May 2024 18:30:42 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 17:37:28 +0800
+   Tue, 21 May 2024 18:29:10 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    新航客機因惡劣天氣緊急降落曼谷機場　據報至少1死30傷
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754089-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754089-20240521.htm
+   </link>
+   <description>
+    <![CDATA[新加坡航空一架客機因惡劣天氣在泰國曼谷素萬那普機場緊急降落，新華社引述泰國傳媒報道，造成1人死亡、30人受傷。
+
+外電報道，航班從倫敦出發，原定飛往新加坡。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 18:29:10 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     伊朗已故總統萊希首場遺體告別儀式舉行
@@ -453,25 +472,6 @@
    </description>
    <pubDate>
     Tue, 21 May 2024 03:46:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美國批評對以總理及防長申請逮捕令人憤慨並且無助加沙停火談判
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1753957-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1753957-20240521.htm
-   </link>
-   <description>
-    <![CDATA[美國總統拜登批評國際刑事法院檢察官，申請逮捕以色列總理內塔尼亞胡和國防部長加蘭特的做法令人憤慨，強調無論這名檢察官想暗示什麼，以色列和哈馬斯之間沒有任何對等關係，他重申美國將永遠與以色列站在一起，共同應對以色列安全受到的威脅。
-
-美國國務卿布林肯亦批評國際刑事法院檢察官的做法可恥，警告有關做法無助於達成停火協議，並可能危及目前為解救人質和增加人道主義援助而進行的努力。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 02:21:18 +0800
    </pubDate>
   </item>
  </channel>
