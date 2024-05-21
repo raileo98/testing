@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Tue, 21 May 2024 19:04:47 +0800
+   Tue, 21 May 2024 19:18:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    LIVE: Death on SIA flight after severe turbulence
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/liveblog-sia-singapore-airlines-death-turbulence-london-bangkok-4352156
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 19:15:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/liveblog-sia-singapore-airlines-death-turbulence-london-bangkok-4352156
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f0kFGBis--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t110158z_1_lynxmpek4k0dd_rtroptp_3_singaporeairlines-thailand.jpg?itok=nvkSM5ok" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Germany midfielder Kroos to retire after Euro 2024
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/germany-midfielder-kroos-retire-after-euro-2024-4352206
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 19:10:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/germany-midfielder-kroos-retire-after-euro-2024-4352206
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eip66gp9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t111048z_1_lynxmpek4k0dn_rtroptp_3_soccer-spain-mad-alv-report.jpg?itok=xs89akK1" width="1600"/>
+  </item>
   <item>
    <title>
     One person dead after severe turbulence on London-Singapore SIA flight
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S1mS6z1d--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t090757z_1_lynxmpek4k0ac_rtroptp_3_tennis-atpfinals.jpg?itok=xxk27YxX" width="1600"/>
-  </item>
-  <item>
-   <title>
-    French Open 2024 prize money: how much do winners of men's, women's and doubles finals get?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/french-open-2024-prize-money-how-much-do-winners-mens-womens-and-doubles-finals-get-4351836
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 17:04:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/french-open-2024-prize-money-how-much-do-winners-mens-womens-and-doubles-finals-get-4351836
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FF9TKWPI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t090435z_1_lynxmpek4k0a8_rtroptp_3_tennis-frenchopen.jpg?itok=UkphyQ32" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China hopes ICC will be 'objective' after warrants sought for Israel, Hamas leaders
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-israel-hamas-gaza-arrest-warrants-benjamin-netanyahu-international-criminal-court-4351756
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 16:56:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-israel-hamas-gaza-arrest-warrants-benjamin-netanyahu-international-criminal-court-4351756
-   </guid>
-   <category>
-    Asia ,East Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UIHE4gq0--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t124340z_2_lynxmpek3s0nc_rtroptp_3_warcrimes-ivorycoast.jpg?itok=Z6jsD3UQ" width="1600"/>
   </item>
  </channel>
 </rss>

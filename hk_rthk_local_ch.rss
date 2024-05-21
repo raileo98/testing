@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Tue, 21 May 2024 19:01:08 +0800
+   Tue, 21 May 2024 19:10:45 +0800
   </pubDate>
   <lastBuildDate>
-   Tue, 21 May 2024 18:43:22 +0800
+   Tue, 21 May 2024 19:08:46 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    長期病患31歲男子確診感染猴痘
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754093-20240521.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754093-20240521.htm
+   </link>
+   <description>
+    <![CDATA[一名有長期病患的31歲男子確診感染猴痘，現時情況穩定，初步調查顯示，潛伏期內他曾在本港有高風險接觸，沒有外遊紀錄，衞生防護中心暫未發現個案與本港早前錄得的其他猴痘確診個案有流行病學關連。
+
+中心表示，男子上星期二開始出疹，上星期五到衞生署油麻地男性社會衞生科診所求診，之後被安排入住瑪嘉烈醫院，正繼續就個案進行流行病學調查，將個案通報世界衞生組織。
+
+中心提醒市民提高警覺，避免與懷疑感染猴痘的人士作密切身體接觸，同時強烈建議高風險目標群組人士接種猴痘疫苗。]]>
+   </description>
+   <pubDate>
+    Tue, 21 May 2024 19:08:46 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     本港下半年將舉行逾百盛事　黃偉綸稱當局付出非常物有所值
@@ -449,23 +470,6 @@
    </description>
    <pubDate>
     Tue, 21 May 2024 16:00:20 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    天文台：雷雨區逐漸減弱　下午4時改發黃雨警告取代紅雨
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754057-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754057-20240521.htm
-   </link>
-   <description>
-    <![CDATA[天文台說，現時影響本港的雷雨區正向東移動並逐漸減弱。根據最新評估，天文台會在下午4時發出黃色暴雨警告信號取代紅色暴雨警告信號。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 15:53:51 +0800
    </pubDate>
   </item>
  </channel>
