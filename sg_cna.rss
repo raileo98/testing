@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 14:48:45 +0800
+   Wed, 22 May 2024 14:55:05 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -59,7 +59,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uhVc--D9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t063946z_1_lynxmpek4l06m_rtroptp_3_tcs-results.jpg?itok=vJresJuK" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
