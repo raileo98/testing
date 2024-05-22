@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 05:20:32 +0800
+   Thu, 23 May 2024 05:40:58 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 23:57:09 +0800
+   Thu, 23 May 2024 05:21:15 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks dip as Fed minutes point to inflation angst
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754303-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754303-20240523.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks fell on Wednesday following mixed earnings reports as Federal Reserve meeting minutes highlighted inflation worries.
+
+Equities spent much of the day essentially flat, but tripped into the red after the Fed minutes showed that policy makers were frustrated with the lack of progress in bringing inflation towards the central bank's two percent target.
+
+Briefing.com analyst Patrick O'Hare said the concerns were unsurprising given the mindset of the Fed at the May 1 meeting, but that the release served as an excuse for investors to sell after a big rally since the meeting.
+
+The Dow Jones finished down 0.5 percent at 39,671.
+
+The S&P 500 shed 0.3 percent to 5,307, while the Nasdaq declined 0.2 percent to 16,801, pulling back after two straight records.
+
+Among individual companies, Target slumped 8.0 percent after reporting a drop of 3.7 percent in comparable sales in the first quarter. The big-box retailer characterised the results as being in line with expectations.
+
+Lululemon Athletica dropped 7.2 percent after announcing a number of executive reassignments following the departure of Chief Product Officer Sun Choe, who is leaving for another career opportunity.
+
+But Moderna surged 13.7 percent after announcing that it had been cleared to present abstracts at the 2024 American Society of Clinical Oncology annual meeting, which begins on May 31 in Chicago. (AFP)]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 05:21:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     US home sales slip on still high mortgage rates
@@ -575,27 +606,6 @@ But Deere & Company dropped 4.7 percent as it projected broad-based 2024 sales d
    </description>
    <pubDate>
     Fri, 17 May 2024 04:50:14 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong stocks finish with more gains
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753410-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753410-20240516.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong stocks rallied more than one percent on Thursday as investors returned from a midweek break to news that US inflation had started to slow again, boosting hopes for an interest rate cut.
-
-The Hang Seng Index climbed 1.6 percent, or 302 points, to 19,376.
-
-The Shanghai Composite Index edged up 0.1 percent, or 2 points, to 3,122, while the Shenzhen Composite Index gained 0.3 percent, or 5 points, to 1,764. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 16:34:14 +0800
    </pubDate>
   </item>
  </channel>
