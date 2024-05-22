@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 22 May 2024 16:40:43 +0800
+   Wed, 22 May 2024 17:01:58 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 09:45:09 +0800
+   Wed, 22 May 2024 16:48:13 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks end with a second straight loss
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754239-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754239-20240522.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares closed lower for a second day on Wednesday as investors struggled to track a record day on Wall Street, with focus turning to the release of earnings from US chip giant Nvidia later in the day.
+
+The Hang Seng Index shed 0.1 percent, or 25 points, to 19,195.
+
+The Shanghai Composite Index was flat, inching up 0.6 points to 3,158, while the Shenzhen Composite Index added 0.2 percent, or 4 points, to 1,784. (AFP)]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 16:48:13 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks flat at open
@@ -551,41 +572,6 @@ The Shanghai Composite Index edged up 0.20 percent to 3,126, while the Shenzhen 
    </description>
    <pubDate>
     Thu, 16 May 2024 09:45:29 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Dow, S&amp;P 500, Nasdaq end at records as inflation cools
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753318-20240516.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753318-20240516.htm
-   </link>
-   <description>
-    <![CDATA[Wall Street stocks surged to fresh records on Wednesday after data showed a moderation in US consumer prices in April, boosting the chances for Federal Reserve interest rate cuts.
-
-All three major indices rocketed to fresh all-time highs after monthly US consumer prices came in slightly below expectations, with annual inflation at 3.4 percent in April, down 0.1 percentage points from March.
-
-The Dow Jones gained 0.9 percent to 39,908, putting it back within striking distance of a first-ever close above 40,000 points.
-
-The S&P 500 jumped 1.2 percent to 5,308, while the Nasdaq advanced 1.4 percent to 16,742, notching a second straight record.
-
-Retail sales were flat in April, missing estimates for a 0.4 percent increase.
-
-The reports together "point to a cooling of inflation and economic growth, as well as an increase in the likelihood that the Fed will begin its rate-cutting cycle later this year," said Sam Stovall, chief investment strategist of CFRA Research.
-
-US stocks rallied in the first quarter on expectations for interest rate cuts, but hit obstacles later in the spring as Fed officials pushed back the timeframe for easing.
-
-Among individual companies, Dell surged 11.2 percent after Morgan Stanley analysts lifted their price target on the technology company, highlighting its artificial intelligence offerings.
-
-Boeing slumped 2.1 percent after the Department of Justice said the company had breached a 2021 criminal settlement, potentially leading to criminal prosecution.
-
-GameStop and AMC Entertainment tumbled following two days of gains that prompted talk of a revived "meme stock" craze. GameStop dropped 18.9 percent, while AMC lost 20 percent. (AFP)]]>
-   </description>
-   <pubDate>
-    Thu, 16 May 2024 04:33:06 +0800
    </pubDate>
   </item>
  </channel>
