@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 06:15:18 +0800
+   Thu, 23 May 2024 06:25:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Emotional Atalanta fans celebrate historic European title
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/emotional-atalanta-fans-celebrate-historic-european-title-4356601
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 06:19:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/emotional-atalanta-fans-celebrate-historic-european-title-4356601
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Australia takes Singtel-owned Optus to court over 2022 cyber attack
@@ -378,7 +399,7 @@
   </item>
   <item>
    <title>
-    Snowflake sees second-quarter product revenue above estimates
+    Snowflake expects strong Q2 as AI push boosts demand for cloud services
    </title>
    <link>
     https://www.channelnewsasia.com/business/snowflake-expects-strong-q2-ai-push-boosts-demand-cloud-services-4356336
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8pW1PVVg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t205741z_2_lynxmpek4l0ur_rtroptp_3_openai-ai.jpg?itok=8P_35wfF" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Swedish EV maker Polestar confirms delay in Q1 earnings report
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/swedish-ev-maker-polestar-confirms-delay-q1-earnings-report-4356306
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 04:10:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/swedish-ev-maker-polestar-confirms-delay-q1-earnings-report-4356306
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FwhjUJ5V--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t201021z_1_lynxmpek4l0un_rtroptp_3_autoshow-china.jpg?itok=CBdgQ_pY" width="1600"/>
   </item>
  </channel>
 </rss>
