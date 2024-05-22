@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 18:30:28 +0800
+   Wed, 22 May 2024 18:39:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China announces sanctions on US defence firms
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/china-us-sanctions-defence-firms-4355061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 18:37:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/china-us-sanctions-defence-firms-4355061
+   </guid>
+   <category>
+    World ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fcp_Y0Hb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t005403z_2_lynxmpek4e0gq_rtroptp_3_usa-china-tariffs-evs.jpg?itok=BKyh2QmW" width="1600"/>
+  </item>
+  <item>
+   <title>
+    China announces sanctions on US defence firms
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/china-us-sanctions-defence-firms-4355061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 18:37:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/china-us-sanctions-defence-firms-4355061
+   </guid>
+   <category>
+    World ,Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Fcp_Y0Hb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-16t005403z_2_lynxmpek4e0gq_rtroptp_3_usa-china-tariffs-evs.jpg?itok=BKyh2QmW" width="1600"/>
+  </item>
   <item>
    <title>
     Summit host South Korea says world must cooperate on AI technology
@@ -382,7 +424,7 @@ This article contains affiliate links. If you buy through these links, we may ea
   </item>
   <item>
    <title>
-    Norway, Ireland, Spain say will recognise Palestinian state
+    Norway, Ireland, Spain to recognise Palestinian state; Israel summons envoys
    </title>
    <link>
     https://www.channelnewsasia.com/world/norway-ireland-spain-recognise-palestinian-state-4354836
@@ -421,48 +463,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Dqlq4Okf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t083158z_1_lynxmpek4l09s_rtroptp_3_tennis-rome.jpg?itok=_NCudK9e" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Death penalty sought again in notorious Japan murder saga: Media
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/japan-murder-saga-death-penalty-retrial-iwao-hakamada-4354766
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 16:08:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/japan-murder-saga-death-penalty-retrial-iwao-hakamada-4354766
-   </guid>
-   <category>
-    East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ydQFxstU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/japan_boxer_retrial_94635.jpg?itok=fufoR6iB" width="1600"/>
-  </item>
-  <item>
-   <title>
-    DPM Gan Kim Yong to speak at Nikkei Forum during working visit to Tokyo
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/dpm-gan-kim-yong-nikkei-forum-tokyo-japan-working-visit-4354496
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 15:55:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/dpm-gan-kim-yong-nikkei-forum-tokyo-japan-working-visit-4354496
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z-H1AWqL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/GCM_4656~2.JPG?itok=ztAyZ99h" width="1600"/>
   </item>
  </channel>
 </rss>
