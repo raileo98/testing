@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 12:44:58 +0800
+   Wed, 22 May 2024 12:54:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Global tourism expected to surpass pre-pandemic levels, driven by pent-up demand: WEF index
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/world-economic-forum-travel-and-tourism-development-index-covid-restrictions-demand-4354311
+   </link>
+   <description>
+    <![CDATA[Europe and Asia Pacific continue to have the most favourable conditions for tourism and travel development. ]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 12:51:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/world-economic-forum-travel-and-tourism-development-index-covid-restrictions-demand-4354311
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ddo20b2c--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/v1/one-cms/core/2023-11-22t013428z_1_lynxmpejal01l_rtroptp_3_health-coronavirus-asia-travel.jpg?itok=BvcnoOuC" width="1600"/>
+  </item>
+  <item>
+   <title>
     Yuvraj wants India to avail left-handed variety of Jaiswal and Pant
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--21mcmvMH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t042613z_1_lynxmpek4l03m_rtroptp_3_cricket-test-ind-eng.jpg?itok=25N7WWBe" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Dollar steady as Fed urges patience; kiwi jumps on hawkish RBNZ outlook
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/dollar-steady-fed-urges-patience-kiwi-jumps-hawkish-rbnz-outlook-4353951
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 08:59:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/dollar-steady-fed-urges-patience-kiwi-jumps-hawkish-rbnz-outlook-4353951
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fmO7oac1--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t005905z_1_lynxmpek4l00r_rtroptp_3_global-forex.jpg?itok=q2bIbZ_E" width="1600"/>
   </item>
  </channel>
 </rss>
