@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 22 May 2024 11:20:09 +0800
+   Wed, 22 May 2024 11:50:56 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 11:05:21 +0800
+   Wed, 22 May 2024 11:44:43 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    滬股半日升不足1點　深證成份指數跌0.25%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754181-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754181-20240522.htm
+   </link>
+   <description>
+    <![CDATA[滬深股市半日變動不大。
+
+上證指數窄幅上落，半日報3158點，升不足1點。
+
+深證成份指數報9657點，跌23點，跌幅0.25%。
+
+創業板指數報1858點，跌2點，跌幅0.15%。]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 11:44:43 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     新西蘭央行維持利率不變　利率或要較長時間維持於限制性水平
@@ -122,7 +145,7 @@
     https://news.rthk.hk/rthk/ch/component/k2/1754171-20240522.htm
    </link>
    <description>
-    <![CDATA[內地今年首期30年期特別國債今日在上海證券交易所上市，初段收益率報2.5775厘，略高於2.57厘的票面利率，但與二級市場同期限國債活躍券水平接近。
+    <![CDATA[內地今年首期30年期特別國債今日上市，在上海證券交易所，初段收益率報2.5775厘，略高於2.57厘的票面利率，但與二級市場同期限國債活躍券水平接近。
 
 這筆30年期特別國債掛牌初段升逾13%，觸發臨時停牌，復牌後升幅進一步擴大至25%，再度觸發臨時停牌，下午3時27分起恢復交易。
 
@@ -433,31 +456,6 @@
    </description>
    <pubDate>
     Wed, 22 May 2024 07:21:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    聯儲局官員：應耐心等待首次減息時機　確保通脹重返目標
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754142-20240522.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754142-20240522.htm
-   </link>
-   <description>
-    <![CDATA[多名聯儲局官員認為，應耐心等待首次減息時機，謹慎做法是在開始減息前再等待數個月，以確保通脹處於重返2%目標的軌道上。
-
-聯儲局理事沃勒形容，最新通脹數據顯示取得一些進展，可能沒有必要進一步加息。不過，就業市場沒有明顯趨弱，需要再有數個月良好通脹數據，才能放心支持放鬆貨幣政策。
-
-亞特蘭大聯邦儲備銀行總裁博斯蒂克亦指出，聯儲局啟動減息要謹慎行事，確保不會觸發企業及家庭被壓抑的支出，導致通脹反彈，他寧願等待更長時間以確保不會發生這情況。
-
-博斯蒂克表示，不急於減息，必須對何時採取首次行動持非常謹慎態度。他仍預計今年通脹將會下降，第4季適宜減息1次。
-
-聯儲局監管副主席巴爾表示，需要保持現有利率水平的時間超出原先預期，要看到更有通脹持續取得進展的證據，才能考慮調整政策利率。]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 07:16:04 +0800
    </pubDate>
   </item>
  </channel>
