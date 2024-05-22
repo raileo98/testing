@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 11:55:12 +0800
+   Wed, 22 May 2024 12:11:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Song Joong-ki protects wife and son from fan trying to film them at the park
+   </title>
+   <link>
+    https://www.channelnewsasia.com/entertainment/song-joong-ki-protects-wife-son-4354096
+   </link>
+   <description>
+    <![CDATA[The South Korean actor did, however, allow fans to take his picture.]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 11:56:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/entertainment/song-joong-ki-protects-wife-son-4354096
+   </guid>
+   <category>
+    Entertainment
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YLyRuYMl--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/song_joong_ki_wife_baby_park.jpg?itok=YXsvq7TJ" width="1600"/>
+  </item>
   <item>
    <title>
     Chanel to increase investment in retail sites as brands vie for key locations
@@ -210,7 +231,7 @@
   </item>
   <item>
    <title>
-    CNA Explains: How often does extreme turbulence occur, and how did it affect flight SQ321?
+    CNA Explains: How often does turbulence occur, and how did it affect flight SQ321?
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/cna-explains-sq321-what-turbulence-4354086
@@ -438,27 +459,6 @@
     Women ,CNA Lifestyle ,Singapore ,Wellness
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BlidC4Kk--/c_crop,h_1192,w_2120,x_0,y_173/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/girls_and_perfectionism.jpg?itok=fpvptEle" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore fashion label Arcade Clothing opens first physical store in Funan with coffee joint Alchemist
-   </title>
-   <link>
-    https://www.channelnewsasia.com/style-beauty/alchemist-arcade-funan-coffee-fashion-4340106
-   </link>
-   <description>
-    <![CDATA[Singaporean couple, Collin Goh and Min Poh, founded their online brand Arcade Clothing in 2012. They tell CNA Lifestyle about their label and why they opened their first physical store in Funan in collaboration with coffee joint Alchemist.]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 08:13:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/style-beauty/alchemist-arcade-funan-coffee-fashion-4340106
-   </guid>
-   <category>
-    Style &amp; Beauty ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Vt0PttvL--/c_crop,h_896,w_1594,x_0,y_162/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/16/cfm41ios.jpeg?itok=4kmYCL5_" width="1600"/>
   </item>
  </channel>
 </rss>
