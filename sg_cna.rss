@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 00:49:54 +0800
+   Thu, 23 May 2024 01:06:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Fighting for political life, UK PM Sunak calls election from weak position
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/uk-pm-rishi-sunak-calls-july-4-election-conservative-party-4355821
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 01:01:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/uk-pm-rishi-sunak-calls-july-4-election-conservative-party-4355821
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--S0Czf3qr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t162829z_1_lynxmpek4l0pq_rtroptp_3_migration-britain-austria.jpg?itok=me0yGA6y" width="1600"/>
+  </item>
   <item>
    <title>
     Hong Kong regulator directs Worldcoin to cease operations citing privacy concerns
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OJIF2i0K--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t124419z_1_lynxmpek4l0j0_rtroptp_3_europe-stocks-ai.jpg?itok=bnb-rGLx" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nigerian court adjourns Binance, executives' tax evasion trial to June 14
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/nigerian-court-adjourns-binance-executives-tax-evasion-trial-june-14-4355321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 20:35:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nigerian-court-adjourns-binance-executives-tax-evasion-trial-june-14-4355321
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FoDRN-WE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t123516z_2_lynxmpek4l0im_rtroptp_3_fintech-crypto-binance-nigeria.jpg?itok=eH6kC2--" width="1600"/>
   </item>
  </channel>
 </rss>
