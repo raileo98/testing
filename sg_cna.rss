@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 03:11:20 +0800
+   Thu, 23 May 2024 03:27:38 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US says Palestinian state should come via talks, not unilateral recognition
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-says-palestinian-state-should-come-talks-not-unilateral-recognition-4355701
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 03:16:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-says-palestinian-state-should-come-talks-not-unilateral-recognition-4355701
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JQ0qlYDj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t191223z_2_lynxmpek4l0tr_rtroptp_3_israel-palestinians-isolation.jpg?itok=haooGJfo" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Disney strikes deal to sell stake in India's Tata Play, Bloomberg News reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/disney-strikes-deal-sell-stake-indias-tata-play-bloomberg-news-reports-4356191
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 03:09:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/disney-strikes-deal-sell-stake-indias-tata-play-bloomberg-news-reports-4356191
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W0VuB1Tb--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t190943z_2_lynxmpek4l0p1_rtroptp_3_television-advertising-upfront.jpg?itok=DMmDJ22q" width="1600"/>
+  </item>
   <item>
    <title>
     Amazon.com investors reject all 14 outside proposals at meeting
@@ -417,48 +459,6 @@
     Asia ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bKnfS_Kz--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/IMG_0720.JPG?itok=r363l9gw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    'I'm very fortunate': British passenger on SQ321 counts himself lucky to have suffered only minor injuries
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/sia-sq321-bangkok-british-passengers-injuries-4355246
-   </link>
-   <description>
-    <![CDATA[Mr Josh Silverstone said he bought inflight Wi-Fi and sent his mother a message after the plane experienced severe turbulence. ]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 21:36:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/sia-sq321-bangkok-british-passengers-injuries-4355246
-   </guid>
-   <category>
-    Asia ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bKnfS_Kz--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/IMG_0720.JPG?itok=r363l9gw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    WisdomTree, 21Shares to list crypto products on London Stock Exchange
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/wisdomtree-21shares-list-crypto-products-london-stock-exchange-4355386
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 21:22:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/wisdomtree-21shares-list-crypto-products-london-stock-exchange-4355386
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FGzX2M08--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t135100z_2_lynxmpek4l0jy_rtroptp_3_fintech-crypto-lse.jpg?itok=CRgvhXeJ" width="1600"/>
   </item>
  </channel>
 </rss>
