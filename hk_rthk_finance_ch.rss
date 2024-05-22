@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 22 May 2024 13:10:35 +0800
+   Wed, 22 May 2024 13:20:25 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 12:53:18 +0800
+   Wed, 22 May 2024 13:14:57 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    港股下午初段升約0.3%　科指升1%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754202-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754202-20240522.htm
+   </link>
+   <description>
+    <![CDATA[港股下午初段靠穩，恒生指數較早時報19272點，升52點，升幅0.27%。
+
+科技指數報4023點，升42點，升幅1.07%。]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 13:14:57 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     東方海外：紅海事件令航運高峰提早至5月出現　帶動運費表現
@@ -449,27 +468,6 @@
    </description>
    <pubDate>
     Wed, 22 May 2024 08:21:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日本企業5月信心保持穩定　但日圓疲弱推高成本損害利潤
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754145-20240522.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754145-20240522.htm
-   </link>
-   <description>
-    <![CDATA[路透月度調查顯示，日本企業信心5月保持穩定，但製造業及服務業反映，日圓疲弱帶來的通脹壓力正損害利潤，企業面對原材料價格、勞動力及電費等成本上升。
-
-調查顯示，5月製造業景氣判斷指數維持於正9，未來3個月預計略有改善。
-
-5月非製造業景氣判斷指數微升至正26，比前月高1點；未來3個月則預料有所轉差。]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 08:21:04 +0800
    </pubDate>
   </item>
  </channel>
