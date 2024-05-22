@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 12:54:57 +0800
+   Wed, 22 May 2024 13:12:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Analysis:Europe stock pickers go old-school to ride the next wave in AI
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/analysiseurope-stock-pickers-go-old-school-ride-next-wave-ai-4354456
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 13:05:10 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/analysiseurope-stock-pickers-go-old-school-ride-next-wave-ai-4354456
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--j6RMvtfm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t050510z_2_lynxmpek4l048_rtroptp_3_europe-stocks-ai.jpg?itok=FUI8CkcK" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Analysis:Earnings from AI-heavyweight Nvidia to test US stocks’ record run
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/analysisearnings-ai-heavyweight-nvidia-test-us-stocks-record-run-4354441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 13:01:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/analysisearnings-ai-heavyweight-nvidia-test-us-stocks-record-run-4354441
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JNj1KoEU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t050131z_1_lynxmpek4l045_rtroptp_3_usa-stocks-nvidia.jpg?itok=O_pNr5EC" width="1600"/>
+  </item>
   <item>
    <title>
     Global tourism expected to surpass pre-pandemic levels, driven by pent-up demand: WEF index
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Do08TEgA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t230906z_1_lynxmpek4k0th_rtroptp_3_people-matthew-perry.jpg?itok=a-JQ72YZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Indian equities traders seek cues from election shadow bets
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/indian-equities-traders-seek-cues-election-shadow-bets-4353976
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 09:10:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/indian-equities-traders-seek-cues-election-shadow-bets-4353976
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qI4kIHgh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t011027z_1_lynxmpek4l010_rtroptp_3_firstcry-india-ipo.jpg?itok=907p8xzn" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil slips for third session on likely 'higher for longer' US rates
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-slips-third-session-likely-higher-longer-us-rates-4353946
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 08:59:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-slips-third-session-likely-higher-longer-us-rates-4353946
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
