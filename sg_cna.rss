@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 04:29:55 +0800
+   Thu, 23 May 2024 04:36:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    AI heavyweight Nvidia forecasts quarterly revenue above estimates
+    Snowflake sees second-quarter product revenue above estimates
    </title>
    <link>
-    https://www.channelnewsasia.com/business/ai-heavyweight-nvidia-forecasts-quarterly-revenue-above-estimates-4356326
+    https://www.channelnewsasia.com/business/snowflake-sees-second-quarter-product-revenue-above-estimates-4356336
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 04:30:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/snowflake-sees-second-quarter-product-revenue-above-estimates-4356336
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gY3Z3ELX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t203012z_1_lynxmpek4l0v0_rtroptp_3_snowflake-ipo.jpg?itok=LeEiR8Wr" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Nvidia forecasts quarterly revenue above estimates, announces stock split
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/nvidia-forecasts-quarterly-revenue-above-estimates-announces-stock-split-4356326
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Thu, 23 May 2024 04:22:36 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/ai-heavyweight-nvidia-forecasts-quarterly-revenue-above-estimates-4356326
+    https://www.channelnewsasia.com/business/nvidia-forecasts-quarterly-revenue-above-estimates-announces-stock-split-4356326
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Saudi woos electric flying taxi company Archer as Gulf rivals vie to be aviation hub
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/saudi-woos-electric-flying-taxi-company-archer-gulf-rivals-vie-be-aviation-hub-4355656
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 23:27:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/saudi-woos-electric-flying-taxi-company-archer-gulf-rivals-vie-be-aviation-hub-4355656
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gSiHefYY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t152737z_2_lynxmpek4l0no_rtroptp_3_saudi-aviation-evtols.jpg?itok=11nLAVXV" width="1600"/>
   </item>
  </channel>
 </rss>
