@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 18:19:44 +0800
+   Wed, 22 May 2024 18:30:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Summit host South Korea says world must cooperate on AI technology
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/summit-host-south-korea-says-world-must-cooperate-ai-technology-4355041
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 18:24:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/summit-host-south-korea-says-world-must-cooperate-ai-technology-4355041
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Scotland name provisional squad for Euro 2024
@@ -319,6 +340,27 @@ This article contains affiliate links. If you buy through these links, we may ea
   </item>
   <item>
    <title>
+    Japan's Kishida makes public push on capital market reforms
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japans-kishida-makes-public-push-capital-market-reforms-4354936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 17:19:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japans-kishida-makes-public-push-capital-market-reforms-4354936
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
     Australia reports first human avian flu infection
    </title>
    <link>
@@ -421,48 +463,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--z-H1AWqL--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/13/GCM_4656~2.JPG?itok=ztAyZ99h" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rakuten, eBay team up to test US market for used Japanese fashion goods
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/rakuten-ebay-team-test-us-market-used-japanese-fashion-goods-4354746
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 15:43:05 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/rakuten-ebay-team-test-us-market-used-japanese-fashion-goods-4354746
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Eruj1bOI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t074305z_1_lynxmpek4l08s_rtroptp_3_rakuten-group-mobile.jpg?itok=HisRu77e" width="1600"/>
-  </item>
-  <item>
-   <title>
-    S&amp;P lifts SoftBank Group credit rating to BB+, says outlook stable
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/sp-lifts-softbank-group-credit-rating-bb-says-outlook-stable-4354726
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 15:32:55 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/sp-lifts-softbank-group-credit-rating-bb-says-outlook-stable-4354726
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dpMZ5wrc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t073255z_1_lynxmpek4l08d_rtroptp_3_softbank-ai-harassment.jpg?itok=uKwXRYOz" width="1600"/>
   </item>
  </channel>
 </rss>
