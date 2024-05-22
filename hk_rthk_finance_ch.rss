@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 22 May 2024 10:20:49 +0800
+   Wed, 22 May 2024 10:50:09 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 09:49:39 +0800
+   Wed, 22 May 2024 10:46:59 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,44 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股半日跌0.58%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754173-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754173-20240522.htm
+   </link>
+   <description>
+    <![CDATA[日股半日下跌，日經指數半日報38719點，跌227點，跌幅0.58%。]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 10:46:59 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    內地30年期特別國債掛牌後急升　兩度觸發臨時停牌
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754171-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754171-20240522.htm
+   </link>
+   <description>
+    <![CDATA[內地今年首期30年期特別國債今日在上海證券交易所上市，初段收益率報2.5775厘，略高於2.57厘的票面利率，但與二級市場同期限國債活躍券水平接近。
+
+這筆30年期特別國債掛牌初段升逾13%，觸發臨時停牌，復牌後升幅進一步擴大至25%，再度觸發臨時停牌，下午3時27分起恢復交易。
+
+財政部上周五招標發行這筆國債，是今年超長期特別國債首筆，規模400億元人民幣，中標利率2.57厘。]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 10:27:22 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     滬深股市早段變動不大
@@ -416,52 +454,6 @@
    </description>
    <pubDate>
     Wed, 22 May 2024 06:23:10 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股美國預託證券個別發展　滙控升逾1%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754137-20240522.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754137-20240522.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)個別發展。
-
-滙控ADR比本港昨日收市價升逾1%，以港元計折合報69.6元。友邦、美團、騰訊ADR亦靠穩。
-
-京東集團ADR跌逾1.5%，折合報129.9元。集團昨日港股收市後公布，發行15億美元可換股優先票據，其後公布加碼至17.5億美元。
-
-工行ADR亦跌逾1%，折合報4.7元。阿里巴巴、小米、中行、建行、港交所ADR偏軟。]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 06:22:41 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    金價自紀錄高位回落　仍企穩2400美元以上
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754136-20240522.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754136-20240522.htm
-   </link>
-   <description>
-    <![CDATA[金價自紀錄高位回落，但仍企穩2400美元以上。
-
-現貨金低見每盎司2406.1美元，跌約19美元，跌幅近0.8%，較早時徘徊2420美元以上。
-
-紐約期金收報每盎司2425.9美元，跌12.6美元，跌幅0.5%。
-
-另外，世界黃金協會數據顯示，全球實物黃金支持的黃金交易所買賣基金(ETF)上星期錄得10億美元淨流入，創去年10月以來最大單星期流入規模。]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 06:22:23 +0800
    </pubDate>
   </item>
  </channel>
