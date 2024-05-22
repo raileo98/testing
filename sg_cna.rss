@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 00:20:23 +0800
+   Thu, 23 May 2024 00:35:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Apple challenges $2 billion EU antitrust fine at EU court
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/apple-challenges-2-billion-eu-antitrust-fine-eu-court-4355851
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 00:32:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/apple-challenges-2-billion-eu-antitrust-fine-eu-court-4355851
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3MY3U7Do--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t163212z_1_lynxmpek4l0pu_rtroptp_3_apple-results.jpg?itok=F7Fe1NNS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    FTX's Bankman-Fried being transferred to new prison, WSJ reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/ftxs-bankman-fried-being-transferred-new-prison-wsj-reports-4355811
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 00:19:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/ftxs-bankman-fried-being-transferred-new-prison-wsj-reports-4355811
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dou2qZfv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t161903z_1_lynxmpek4l0p7_rtroptp_3_fintech-crypto-ftx-arraignment.jpg?itok=Hy_tMJ7x" width="1600"/>
+  </item>
   <item>
    <title>
     Knicks' Jalen Brunson, Bojan Bogdanovic undergo surgeries
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Serbian long jumper Spanovic hoping to 'complete her story' at Paris Games
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/serbian-long-jumper-spanovic-hoping-complete-her-story-paris-games-4355146
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 19:05:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/serbian-long-jumper-spanovic-hoping-complete-her-story-paris-games-4355146
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Analog Devices forecasts robust quarterly revenue on chip market recovery
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/analog-devices-forecasts-robust-quarterly-revenue-chip-market-recovery-4355141
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 19:05:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/analog-devices-forecasts-robust-quarterly-revenue-chip-market-recovery-4355141
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Lp85yQ2t--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t110532z_1_lynxmpek4l0fw_rtroptp_3_analog-devices-results.jpg?itok=wLoYOnpD" width="1600"/>
   </item>
  </channel>
 </rss>
