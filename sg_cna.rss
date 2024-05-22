@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 15:57:48 +0800
+   Wed, 22 May 2024 16:23:50 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Death penalty sought again in notorious Japan murder saga: Media
+   </title>
+   <link>
+    https://www.channelnewsasia.com/east-asia/japan-murder-saga-death-penalty-retrial-iwao-hakamada-4354766
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 16:08:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/east-asia/japan-murder-saga-death-penalty-retrial-iwao-hakamada-4354766
+   </guid>
+   <category>
+    East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ydQFxstU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/japan_boxer_retrial_94635.jpg?itok=fufoR6iB" width="1600"/>
+  </item>
   <item>
    <title>
     DPM Gan Kim Yong to speak at Nikkei Forum during working visit to Tokyo
@@ -438,27 +459,6 @@
     Obsessions ,CNA Luxury ,Style &amp; Beauty ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--W9o5nuz---/c_crop,h_900,w_1600,x_0,y_77/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/24/chanel_haute_couture_spring_summer_2024_collection.jpg?itok=Ld_aqTYw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Sean ‘Diddy’ Combs faces new lawsuit from former model alleging he sexually assaulted her in 2003
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/sean-diddy-lawsuit-sexual-assault-2003-4354076
-   </link>
-   <description>
-    <![CDATA[Former model Crystal McKinney's lawsuit is the latest complaint against the American rapper, claiming he assaulted her in 2003 at his New York recording studio.]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 11:44:13 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/sean-diddy-lawsuit-sexual-assault-2003-4354076
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qEvFe1Br--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/diddy-tequila_86795.jpg?itok=OtH1cxY4" width="1600"/>
   </item>
  </channel>
 </rss>
