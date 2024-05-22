@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 21:16:47 +0800
+   Wed, 22 May 2024 21:27:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    WisdomTree to list crypto products on London Stock Exchange
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/wisdomtree-list-crypto-products-london-stock-exchange-4355386
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 21:22:42 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/wisdomtree-list-crypto-products-london-stock-exchange-4355386
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QZhvjp4Z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t132242z_1_lynxmpek4l0jy_rtroptp_3_fintech-crypto-lse.jpg?itok=dwHgQvbk" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Intercontinental Exchange to pay $10 million penalty over cyber intrusion case, SEC says
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/intercontinental-exchange-pay-10-million-penalty-over-cyber-intrusion-case-sec-says-4355391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 21:20:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/intercontinental-exchange-pay-10-million-penalty-over-cyber-intrusion-case-sec-says-4355391
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--otmFCzmt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t132056z_1_lynxmpek4l0jx_rtroptp_3_usa-investing-sec-lawsuit.jpg?itok=ikddpR8I" width="1600"/>
+  </item>
   <item>
    <title>
     Bank of Italy warns against AI-powered fake videos
@@ -417,50 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9ib-yEF8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t092918z_1_lynxmpek4l0c5_rtroptp_3_microsoft-results.jpg?itok=X8__GNX8" width="1600"/>
-  </item>
-  <item>
-   <title>
-    This GPS watch could be your ideal running and training companion, here’s why
-   </title>
-   <link>
-    https://www.channelnewsasia.com/accessories-and-gear/gps-watch-4354856
-   </link>
-   <description>
-    <![CDATA[The Garmin Instinct 2 Solar watch makes it easier to ditch your mobile phone when you’re running or swimming so you can focus on your training programme. 
-This article contains affiliate links. If you buy through these links, we may earn a small commission.]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 17:24:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/accessories-and-gear/gps-watch-4354856
-   </guid>
-   <category>
-    Accessories and Gear ,Buyers' Guide ,Living ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JyHppE0_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/garmin_2_solar_hero.jpg?itok=TorHA3n5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    This GPS watch could be your ideal running and training companion, here’s why
-   </title>
-   <link>
-    https://www.channelnewsasia.com/accessories-and-gear/gps-watch-4354856
-   </link>
-   <description>
-    <![CDATA[The Garmin Instinct 2 Solar watch makes it easier to ditch your mobile phone when you’re running or swimming so you can focus on your training programme. 
-This article contains affiliate links. If you buy through these links, we may earn a small commission.]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 17:24:12 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/accessories-and-gear/gps-watch-4354856
-   </guid>
-   <category>
-    Accessories and Gear ,Buyers' Guide ,Living ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JyHppE0_--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/garmin_2_solar_hero.jpg?itok=TorHA3n5" width="1600"/>
   </item>
  </channel>
 </rss>
