@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 01:30:22 +0800
+   Thu, 23 May 2024 01:40:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US FCC chair backs requiring AI disclosure in campaign TV, radio ads
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/us-fcc-chair-backs-requiring-ai-disclosure-campaign-tv-radio-ads-4356026
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 01:38:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/us-fcc-chair-backs-requiring-ai-disclosure-campaign-tv-radio-ads-4356026
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2U05SnP---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t173817z_2_lynxmpek4l0rl_rtroptp_3_usa-wireless.jpg?itok=ZkGertKK" width="1600"/>
+  </item>
   <item>
    <title>
     Fighting for political life, UK PM Sunak calls election from weak position
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Bank of Italy warns against AI-powered fake videos
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/bank-italy-warns-against-ai-powered-fake-videos-4355336
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 20:44:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/bank-italy-warns-against-ai-powered-fake-videos-4355336
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OJIF2i0K--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t124419z_1_lynxmpek4l0j0_rtroptp_3_europe-stocks-ai.jpg?itok=bnb-rGLx" width="1600"/>
   </item>
  </channel>
 </rss>
