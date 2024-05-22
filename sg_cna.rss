@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 18:51:22 +0800
+   Wed, 22 May 2024 19:09:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Deforestation exacerbated deadly Brazil floods: experts
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sustainability/brazil-floods-deforestation-deadly-climate-change-4355121
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 19:03:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sustainability/brazil-floods-deforestation-deadly-climate-change-4355121
+   </guid>
+   <category>
+    Sustainability
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Zhf0K3ss--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t213416z_1_lynxmpek4k0s1_rtroptp_3_brazil-rains-indigenous.jpg?itok=EJdSKRXp" width="1600"/>
+  </item>
   <item>
    <title>
     China announces sanctions on US defence firms
@@ -442,27 +463,6 @@ This article contains affiliate links. If you buy through these links, we may ea
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--tDVHf01u--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t074244z_3_lynxmpek4l07r_rtroptp_3_israel-palestinians-norway.jpg?itok=Y2YfWArZ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Djokovic eager to regain form ahead of French Open defence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/djokovic-eager-regain-form-ahead-french-open-defence-4354806
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 16:31:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/djokovic-eager-regain-form-ahead-french-open-defence-4354806
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Dqlq4Okf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t083158z_1_lynxmpek4l09s_rtroptp_3_tennis-rome.jpg?itok=_NCudK9e" width="1600"/>
   </item>
  </channel>
 </rss>
