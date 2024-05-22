@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 14:36:00 +0800
+   Wed, 22 May 2024 14:48:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    India's mid-tier IT firms gain share from industry goliaths
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/indias-mid-tier-it-firms-gain-share-industry-goliaths-4354626
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 14:39:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/indias-mid-tier-it-firms-gain-share-industry-goliaths-4354626
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--uhVc--D9--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t063946z_1_lynxmpek4l06m_rtroptp_3_tcs-results.jpg?itok=vJresJuK" width="1600"/>
+  </item>
   <item>
    <title>
     21 taken to hospital after bus hits road blocker at Changi Airport Terminal 3
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E1-P3Yzx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t024624z_1_lynxmpek4l026_rtroptp_3_global-markets.jpg?itok=iJeyG6Aj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Friends star Matthew Perry's death being investigated over lethal ketamine level found in actor's blood
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/matthew-perry-death-cause-police-investigation-4353836
-   </link>
-   <description>
-    <![CDATA[The Los Angeles Police Department has opened an investigation into the death of Matthew Perry and how the Friends actor managed to get hold of ketamine, the prescription drug ruled as the contributing factor to his death in October 2023.]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 10:03:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/matthew-perry-death-cause-police-investigation-4353836
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Do08TEgA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t230906z_1_lynxmpek4k0th_rtroptp_3_people-matthew-perry.jpg?itok=a-JQ72YZ" width="1600"/>
   </item>
  </channel>
 </rss>
