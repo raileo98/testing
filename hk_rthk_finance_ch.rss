@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Wed, 22 May 2024 07:40:42 +0800
+   Wed, 22 May 2024 08:20:47 +0800
   </pubDate>
   <lastBuildDate>
-   Wed, 22 May 2024 07:21:39 +0800
+   Wed, 22 May 2024 08:07:21 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,40 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    韓股初段跌逾0.2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754148-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754148-20240522.htm
+   </link>
+   <description>
+    <![CDATA[南韓股市初段向下，首爾綜合指數較早時報2718點，跌5點，跌幅0.21%。]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 08:07:21 +0800
+   </pubDate>
+  </item>
+  <item>
+   <title>
+    日股早段跌逾200點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754147-20240522.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754147-20240522.htm
+   </link>
+   <description>
+    <![CDATA[日股初段偏軟，日經指數較早時報38745點，跌201點，跌幅0.52%。]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 08:07:10 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     歐洲央行管委：不一定要在6月減息後接連減息
@@ -251,7 +285,7 @@
 
 標準普爾500指數收報5321點，是紀錄高位，升13點，升幅0.25%，連升3日。
 
-全球第3大市值公司Nvidia周三收市後公布業績，績前股價靠穩，升逾0.6%收市。
+全球第3大市值公司Nvidia周三收市後公布業績，績前升逾0.6%，收報953.86美元創新高。
 
 其餘科技股表現，Tesla急升近7%收市，微軟、高通、Netflix、IBM升近2%或以上。]]>
    </description>
@@ -448,44 +482,6 @@
    </description>
    <pubDate>
     Tue, 21 May 2024 18:05:30 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    在岸人民幣兌美元收市創1星期新低
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754081-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754081-20240521.htm
-   </link>
-   <description>
-    <![CDATA[在岸人民幣兌美元收市報7.237兌1美元，創1星期新低，較上日收市價下跌50點子，中間價跌27點子，創近3個月新低，與市場預測偏離擴至近1300點子。
-
-交易員表示，基本面明顯改善前，人民幣調整壓力仍難以減退，但預期監管層仍致力維護市場平穩。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 18:04:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    京東擬發售15億美元可換股優票據
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754077-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754077-20240521.htm
-   </link>
-   <description>
-    <![CDATA[京東集團計劃發售15億美元可換股優先票據，資金用於股份回購、海外業務拓展、供應鏈網絡完善及補充流動資金。
-
-票據將於2029年6月1日到期，將作為公司優先及無擔保債務。]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 17:10:55 +0800
    </pubDate>
   </item>
  </channel>
