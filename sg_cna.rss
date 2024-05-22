@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 21:27:12 +0800
+   Wed, 22 May 2024 21:30:27 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -80,7 +80,28 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--otmFCzmt--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t132056z_1_lynxmpek4l0jx_rtroptp_3_usa-investing-sec-lawsuit.jpg?itok=ikddpR8I" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8nCw4fHE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t132705z_2_lynxmpek4l0jx_rtroptp_3_usa-investing-sec-lawsuit.jpg?itok=Kgm6DtC_" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Amazon lining up AI overhaul, paid plans for Alexa voice assistant, CNBC reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/amazon-lining-ai-overhaul-paid-plans-alexa-voice-assistant-cnbc-reports-4355361
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 20:58:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/amazon-lining-ai-overhaul-paid-plans-alexa-voice-assistant-cnbc-reports-4355361
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KvqxGiTm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t093507z_1_lynxmpek4l0ca_rtroptp_3_amazon-com-aws.jpg?itok=fnCtOj4W" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Microsoft ties up with UAE-based AI firm to invest $1 billion in Kenya data center
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/microsoft-ties-uae-based-ai-firm-invest-1-billion-kenya-data-center-4354931
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 17:29:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/microsoft-ties-uae-based-ai-firm-invest-1-billion-kenya-data-center-4354931
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9ib-yEF8--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t092918z_1_lynxmpek4l0c5_rtroptp_3_microsoft-results.jpg?itok=X8__GNX8" width="1600"/>
   </item>
  </channel>
 </rss>
