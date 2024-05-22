@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 15:39:44 +0800
+   Wed, 22 May 2024 15:48:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Rakuten, eBay team up to test US market for used Japanese fashion goods
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/rakuten-ebay-team-test-us-market-used-japanese-fashion-goods-4354746
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 15:43:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/rakuten-ebay-team-test-us-market-used-japanese-fashion-goods-4354746
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Eruj1bOI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t074305z_1_lynxmpek4l08s_rtroptp_3_rakuten-group-mobile.jpg?itok=HisRu77e" width="1600"/>
+  </item>
   <item>
    <title>
     S&amp;P lifts SoftBank Group credit rating to BB+, says outlook stable
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qEvFe1Br--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/diddy-tequila_86795.jpg?itok=OtH1cxY4" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Driven Barshim still spearheading Qatar's challenge at fourth Games
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/driven-barshim-still-spearheading-qatars-challenge-fourth-games-4354281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 11:31:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/driven-barshim-still-spearheading-qatars-challenge-fourth-games-4354281
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--oDpF7uGM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t033117z_1_lynxmpek4l030_rtroptp_3_olympics-2024-qatar.jpg?itok=4_Rrfwux" width="1600"/>
   </item>
  </channel>
 </rss>
