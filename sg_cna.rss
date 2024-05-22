@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Wed, 22 May 2024 21:30:27 +0800
+   Wed, 22 May 2024 21:39:34 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    'I'm very fortunate': British passenger on SQ321 counts himself lucky to have suffered only minor injuries
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/sia-sq321-bangkok-british-passengers-injuries-4355246
+   </link>
+   <description>
+    <![CDATA[Mr Josh Silverstone said he bought inflight Wi-Fi and sent his mother a message after the plane experienced severe turbulence. ]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 21:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/sia-sq321-bangkok-british-passengers-injuries-4355246
+   </guid>
+   <category>
+    Asia ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bKnfS_Kz--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/IMG_0720.JPG?itok=r363l9gw" width="1600"/>
+  </item>
+  <item>
+   <title>
+    'I'm very fortunate': British passenger on SQ321 counts himself lucky to have suffered only minor injuries
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/sia-sq321-bangkok-british-passengers-injuries-4355246
+   </link>
+   <description>
+    <![CDATA[Mr Josh Silverstone said he bought inflight Wi-Fi and sent his mother a message after the plane experienced severe turbulence. ]]>
+   </description>
+   <pubDate>
+    Wed, 22 May 2024 21:36:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/sia-sq321-bangkok-british-passengers-injuries-4355246
+   </guid>
+   <category>
+    Asia ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bKnfS_Kz--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/IMG_0720.JPG?itok=r363l9gw" width="1600"/>
+  </item>
   <item>
    <title>
     WisdomTree to list crypto products on London Stock Exchange
@@ -417,48 +459,6 @@
     Asia ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ChkNZNha--/c_crop,h_576,w_1024,x_0,y_20/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/000_34TJ2UP.jpg?itok=9VXoJz9C" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oaktree takes over Inter Milan after Chinese owner missed payment
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/oaktree-takes-over-inter-milan-after-chinese-owner-missed-payment-4354951
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 17:36:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/oaktree-takes-over-inter-milan-after-chinese-owner-missed-payment-4354951
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZZQbyFjh--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t093627z_1_lynxmpek4l0cd_rtroptp_3_soccer-italy-int-laz-report.jpg?itok=GcAAn_Ww" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Amazon Web Services to invest $17.02 billion in data centres in Spain
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/amazon-web-services-invest-1702-billion-data-centres-spain-4354946
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 17:35:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amazon-web-services-invest-1702-billion-data-centres-spain-4354946
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KvqxGiTm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-22t093507z_1_lynxmpek4l0ca_rtroptp_3_amazon-com-aws.jpg?itok=fnCtOj4W" width="1600"/>
   </item>
  </channel>
 </rss>
