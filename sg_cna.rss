@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 04:36:43 +0800
+   Thu, 23 May 2024 04:45:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Blinken urges Egypt to ensure aid is flowing into Gaza
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/blinken-urges-egypt-aid-gaza-palestinians-rafah-4355881
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 04:38:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/blinken-urges-egypt-aid-gaza-palestinians-rafah-4355881
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2zFwEInI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-21t031653z_1_lynxmpek4k02l_rtroptp_3_israel-palestinians-aid.jpg?itok=4eyVATi8" width="1600"/>
+  </item>
   <item>
    <title>
     Snowflake sees second-quarter product revenue above estimates
@@ -433,27 +454,6 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/knicks-jalen-brunson-bojan-bogdanovic-undergo-surgeries-4355696
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Steinhauser solos to stage win, Pogacar increases Giro lead
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/steinhauser-solos-stage-win-pogacar-increases-giro-lead-4355661
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 23:28:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/steinhauser-solos-stage-win-pogacar-increases-giro-lead-4355661
    </guid>
    <category>
     Sport
