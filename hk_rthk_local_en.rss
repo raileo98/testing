@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 17:10:23 +0800
+   Thu, 23 May 2024 17:20:43 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 17:06:51 +0800
+   Thu, 23 May 2024 17:17:02 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,45 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Drainage Services steps up flood prevention efforts
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754400-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754400-20240523.htm
+   </link>
+   <description>
+    <![CDATA[The Drainage Services Department said it was taking proactive measures to mitigate the risk of flooding as the rainy season approaches.  
+
+During a press briefing on Thursday, the department stressed that flooding cannot be totally be avoided due to climate change but said it would adopt a multi-pronged approach to reduce the risk.
+
+Besides more frequent inspections of the drainage system, it also plans to use artificial intelligence in more scenarios, such as deploying AI-powered robots to clear obstructions in drains and manholes. 
+
+Director of Drainage Services Ringo Mok also said the department was developing an AI analysis tool to gather rainstorm data to help predict floods in future. 
+
+“We are collaborating with a university team…we need to collect a large amount of data on site to train the computer, to recognise flooding and also to predict it,” he said.
+
+"Having to collect the information from [the Hong Kong Observatory] from the coming rainstorm data, we hope the AI model can predict the water depth in the near future during the rainstorms.” 
+
+In a demonstration for the media, the department also showcased the construction progress of a storm water storage tank on Sau Nga Road in Kwun Tong.
+
+The tank is capable of storing around 64,000 cubic metres of water, which is equivalent to 26 standard swimming pools, and is part of a major project to improve drainage in the surrounding area. 
+
+The HK$930 million water storage tank was expected to be completed in 2028 and Mok said the price tag was reasonable given the scale and complexity of the project. 
+
+“During the heavy rainfall, we need to temporarily store the rainwater in the storage tank and wait until the bad weather and the heavy rainfall has gone,” he said.  
+
+“We will discharge the rainwater subsequently when the rainfall intensity has reduced…because of the quite large volume of the excavation and the quite large volume of the tank, the cost of the storage scheme is at that level.” 
+
+He added the department’s ongoing review of flooding black spots would be completed by the end of the year.]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 17:17:02 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     87-year-old Catholic hospital to be redeveloped
@@ -591,25 +630,6 @@ It said the measure would be implemented at secondary 4 starting from the 2025-2
    </description>
    <pubDate>
     Tue, 21 May 2024 21:25:23 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Observatory issues Amber Rainstorm Warning
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1754060-20240521.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1754060-20240521.htm
-   </link>
-   <description>
-    <![CDATA[The Hong Kong Observatory issued the Amber Rainstorm Warning Signal at 4pm on Tuesday, replacing the red signal that had been in place.
-
-Forecasters said an area of thundery showers was moving eastwards and was weakening gradually.]]>
-   </description>
-   <pubDate>
-    Tue, 21 May 2024 16:06:02 +0800
    </pubDate>
   </item>
  </channel>
