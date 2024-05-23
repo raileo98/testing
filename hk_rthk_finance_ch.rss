@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 10:30:12 +0800
+   Thu, 23 May 2024 11:01:40 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 09:58:39 +0800
+   Thu, 23 May 2024 10:56:07 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股半日升約300點
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754341-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754341-20240523.htm
+   </link>
+   <description>
+    <![CDATA[日股造好，但未能突破39000點水平。
+
+日經指數半日報38913點，升296點，升幅0.77%。]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 10:56:07 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     人行連續15日逆回購20億元人民幣　完全對沖單日到期量
@@ -451,29 +470,6 @@ ATMXJ其餘股份的ADR亦跌約1%至近2%。
    </description>
    <pubDate>
     Thu, 23 May 2024 05:51:38 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    英法德股市兩連跌　法股創逾兩周新低
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754306-20240523.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754306-20240523.htm
-   </link>
-   <description>
-    <![CDATA[歐洲主要股市續跌，英法德股市連跌第2日，創兩星期或以上低位。
-
-德國DAX指數收報18680點，跌46點，跌幅0.25%。
-
-法國CAC指數收報8092點，跌49點，跌幅0.61%，創逾兩星期收市新低。
-
-英國富時100指數收報8370點，跌46點，跌幅0.55%。]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 05:41:21 +0800
    </pubDate>
   </item>
  </channel>
