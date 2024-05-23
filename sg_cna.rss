@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 03:36:08 +0800
+   Fri, 24 May 2024 03:55:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Analysis:Nvidia's split of soaring stock could boost retail investor appeal, Dow chances
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/analysisnvidias-split-soaring-stock-could-boost-retail-investor-appeal-dow-chances-4359441
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 03:41:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/analysisnvidias-split-soaring-stock-could-boost-retail-investor-appeal-dow-chances-4359441
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--RGq2SFpk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t194150z_2_lynxmpek4m0tr_rtroptp_3_usa-stocks.jpg?itok=DjpdPO7A" width="1600"/>
+  </item>
   <item>
    <title>
     Stubborn defence stands between Al Ahly and more Champions League success
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hbXsdJyK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t145730z_2_lynxmpek4m0mf_rtroptp_3_space-exploration-amazon.jpg?itok=bn2KP5a1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Jail for ERP cheat who modified motorcycle licence plate
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lta-jail-erp-cheat-who-modified-motorcycle-licence-plate-4358306
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 22:49:38 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lta-jail-erp-cheat-who-modified-motorcycle-licence-plate-4358306
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YdMhqYBU--/c_crop,h_843,w_1500,x_0,y_152/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/02/06/istock-1155856347.jpg?itok=XcBiSoGw" width="1600"/>
   </item>
  </channel>
 </rss>
