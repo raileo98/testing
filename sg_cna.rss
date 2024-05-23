@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 13:36:56 +0800
+   Thu, 23 May 2024 13:47:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Singapore core inflation in April remains at 3.1%
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singapore-core-inflation-unchanged-april-31-mas-mti-consumer-price-index-4357366
+   </link>
+   <description>
+    <![CDATA[The increase in electricity and gas, and retail inflation was offset by slower price rises in services and food.]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 13:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singapore-core-inflation-unchanged-april-31-mas-mti-consumer-price-index-4357366
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hqlP8sKj--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-03-25t052054z_2_lynxnpek2o04d_rtroptp_3_singapore-tourism.jpg?itok=mM3Jsod7" width="1600"/>
+  </item>
+  <item>
+   <title>
     15 months' jail for seventh man who pleaded guilty in billion-dollar money laundering case
    </title>
    <link>
@@ -63,7 +84,7 @@
   </item>
   <item>
    <title>
-    Thai court accepts complaint seeking PM's removal over cabinet appointment
+    Thai court accepts complaint seeking PM's removal over Cabinet appointment
    </title>
    <link>
     https://www.channelnewsasia.com/asia/thailand-srettha-thavisin-removal-office-pending-verdict-cabinet-appointment-4357486
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 23 May 2024 13:25:48 +0800
+    Thu, 23 May 2024 13:25:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/asia/thailand-srettha-thavisin-removal-office-pending-verdict-cabinet-appointment-4357486
@@ -126,7 +147,7 @@
   </item>
   <item>
    <title>
-    Analysis: More ministries, more problems? Prabowo faces business, corruption risks if Cabinet is expanded
+    Prabowo’s plans to upsize Cabinet could be bad for international business, strain state coffers: Analysts
    </title>
    <link>
     https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-cabinet-ministries-increase-business-strain-4356906
@@ -439,27 +460,6 @@
     Dining ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fWz7YhsB--/c_crop,h_588,w_1046,x_0,y_207/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/mihrimah_birds_nest_prata_1_edited.jpeg?itok=WYsx9zLs" width="1600"/>
-  </item>
-  <item>
-   <title>
-    15,000 to 20,000 public and private homes planned for Bukit Timah Turf City site over next 20 to 30 years
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/bukit-timah-turf-city-hdb-20000-private-homes-mrt-racecourse-4356921
-   </link>
-   <description>
-    <![CDATA[This is the first time in almost 40 years that public housing has been planned in Bukit Timah, said Minister for National Development Desmond Lee.]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 11:01:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/bukit-timah-turf-city-hdb-20000-private-homes-mrt-racecourse-4356921
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hwzNVD4V--/c_crop,h_725,w_1289,x_178,y_89/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/3--Artist-impression-of-the-view-from-the-North-Grandstand_credit-Urban-Redevelopment-Authority.jpg?itok=0c3KZhUT" width="1600"/>
   </item>
  </channel>
 </rss>
