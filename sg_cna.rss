@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 02:45:35 +0800
+   Fri, 24 May 2024 02:55:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Iran's Raisi buried after dying in helicopter crash
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/irans-raisi-buried-after-dying-helicopter-crash-4357216
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 02:50:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/irans-raisi-buried-after-dying-helicopter-crash-4357216
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UZ1cV1Yi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/68c63f8c6799ac823a4f8ea6603dda0754c8195b.jpg?itok=p5n6G9cU" width="1600"/>
+  </item>
   <item>
    <title>
     Ajax name Italian Farioli as coach
@@ -164,7 +185,7 @@
    <category>
     Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vs0cdZ8v--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t164741z_1_lynxmpek4m0pz_rtroptp_3_golf.jpg?itok=Jkq07cnq" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DJcvL8Jf--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t184659z_2_lynxmpek4m0pz_rtroptp_3_golf.jpg?itok=DK7CrOw6" width="1600"/>
   </item>
   <item>
    <title>
@@ -434,27 +455,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8PJE21hY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/debd7d5e719738e9dd14c5e1bf0d01b04393d988.jpg?itok=KJs7JaK3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Formula One statistics for the Monaco Grand Prix
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/formula-one-statistics-monaco-grand-prix-4358661
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 22:10:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/formula-one-statistics-monaco-grand-prix-4358661
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m8877MxD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t141035z_1_lynxmpek4m0kz_rtroptp_3_motor-f1-monaco.jpg?itok=3c4Jg5ZW" width="1600"/>
   </item>
  </channel>
 </rss>
