@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 18:24:18 +0800
+   Thu, 23 May 2024 18:34:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    West Ham appoint Lopetegui as head coach
+    Improved business activity casts doubt over rate cuts
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/west-ham-appoint-lopetegui-head-coach-4358001
+    https://www.channelnewsasia.com/business/improved-business-activity-casts-doubt-over-rate-cuts-4358016
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 18:27:58 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/improved-business-activity-casts-doubt-over-rate-cuts-4358016
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Jrq2WStm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t102758z_1_lynxmpek4m0f4_rtroptp_3_soccer-euro-cologne.jpg?itok=hl3b6r8M" width="1600"/>
+  </item>
+  <item>
+   <title>
+    West Ham appoint former Spain manager Lopetegui as head coach
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/west-ham-appoint-former-spain-manager-lopetegui-head-coach-4358001
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Thu, 23 May 2024 18:14:26 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/west-ham-appoint-lopetegui-head-coach-4358001
+    https://www.channelnewsasia.com/sport/west-ham-appoint-former-spain-manager-lopetegui-head-coach-4358001
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SNrcTPMH--/c_fill,h_900,w_1600/f_auto,q_auto/choa-chu-kang-waterworks.jpg?itok=0rZAxX3t" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Queen of clay Swiatek looking untouchable in Paris
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/queen-clay-swiatek-looking-untouchable-paris-4357846
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 17:05:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/queen-clay-swiatek-looking-untouchable-paris-4357846
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sFqc_Kik--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t090545z_1_lynxmpek4m0bz_rtroptp_3_tennis-rome.jpg?itok=3GM49Jpv" width="1600"/>
   </item>
  </channel>
 </rss>
