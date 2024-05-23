@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 11:01:40 +0800
+   Thu, 23 May 2024 11:20:46 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 10:56:07 +0800
+   Thu, 23 May 2024 11:18:28 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Nvidia料新一代人工智能晶片今年可帶來大額收入
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754345-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754345-20240523.htm
+   </link>
+   <description>
+    <![CDATA[Nvidia行政總裁黃仁勳表示，3月推出的新一代人工智能晶片Blackwell，會在第2季出貨，第3季擴產，客戶第4季可於數據中心安裝相關晶片，預計今年可帶來大額收入。
+
+市場原先憂慮，在產品由Hopper系列繪圖處理器過渡至Blackwell期間，可能面臨需求空窗期，因為客戶可能會暫緩採購，以等待Blackwell。但集團表示，Hopper需求仍在升溫，相信仍有一段時間求過於供。
+
+另外，管理層亦提到，集團已向中國供應不受管制的人工智能產品，但來自中國的數據中心收入比起有出口管制前已大幅下降。]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 11:18:28 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     日股半日升約300點
@@ -445,31 +466,6 @@ ATMXJ其餘股份的ADR亦跌約1%至近2%。
    </description>
    <pubDate>
     Thu, 23 May 2024 05:54:36 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    油價低收逾1%　連跌3日
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754307-20240523.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754307-20240523.htm
-   </link>
-   <description>
-    <![CDATA[國際油價連續3日向下，聯儲局會議紀錄顯示，委員憂慮通脹持續，市場關注會否推遲減息，引發對石油需求的擔憂。
-
-倫敦布蘭特期油收報每桶81.9美元，跌98美仙，跌幅約1.2%，創近4個月低位。
-
-紐約期油收報每桶77.57美元，跌1.09美元，跌幅約1.4%，創3個月收市新低。
-
-美國能源信息署(EIA)數據顯示，美國上星期原油庫存出乎意料增加180萬桶，市場原先估計減少250萬桶。
-
-至於上星期汽油庫存減少約95萬桶，減幅超出預期；蒸餾油庫存意外增加約38萬桶。]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 05:51:38 +0800
    </pubDate>
   </item>
  </channel>
