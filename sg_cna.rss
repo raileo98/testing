@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 17:24:26 +0800
+   Thu, 23 May 2024 17:33:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    India aims to be global superpower of renewable energy, but faces funding shortage
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/india-push-renewable-green-solar-energy-funding-shortage-4357806
+   </link>
+   <description>
+    <![CDATA[Demand for power is surging in the world’s most populous country, which has more than doubled its green energy capacity from a decade ago.]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 17:32:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/india-push-renewable-green-solar-energy-funding-shortage-4357806
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--p5dhIwu_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/screenshot_2024-05-23_165537.png?itok=rS7_Qewy" width="1600"/>
+  </item>
   <item>
    <title>
     Yellen says G7 to discuss responses to China's excess industrial capacity
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Tottenham have deadline to sign Werner, Postecoglou says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/tottenham-have-deadline-sign-werner-postecoglou-says-4357641
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 15:39:02 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/tottenham-have-deadline-sign-werner-postecoglou-says-4357641
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1ZgXhfO7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t073902z_1_lynxmpek4m098_rtroptp_3_soccer-friendly-tot-new-report.jpg?itok=vui1pE7z" width="1600"/>
   </item>
  </channel>
 </rss>

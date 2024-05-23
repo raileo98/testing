@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 17:20:46 +0800
+   Thu, 23 May 2024 17:31:17 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 17:08:16 +0800
+   Thu, 23 May 2024 17:23:24 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    在岸人民幣兌美元收市創逾3星期低位
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754394-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754394-20240523.htm
+   </link>
+   <description>
+    <![CDATA[在岸人民幣兌美元收市微跌，報7.2446兌1美元，較上日收市跌50點子，創逾3星期低位，因市場預計美國聯儲局減息時間再延後，美元指數反彈，人民幣調整壓力預料會持續。
+
+有中資行交易員指，近日中間價下調幅度偏大，可能監管層希望通過讓更靈活的中間價，緩和市場貶值壓力。
+
+美國聯儲局上次會議紀錄顯示，部分聯儲局官員有加息意願，帶動美元在1星期高位附近徘徊。]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 17:23:24 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     李澤鉅：樓盤訂價因應物業條件　剛性需求依然支持長遠發展
@@ -469,27 +490,6 @@
    </description>
    <pubDate>
     Thu, 23 May 2024 11:41:40 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Nvidia料新一代人工智能晶片今年可帶來大額收入
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754345-20240523.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754345-20240523.htm
-   </link>
-   <description>
-    <![CDATA[Nvidia行政總裁黃仁勳表示，3月推出的新一代人工智能晶片Blackwell，會在第2季出貨，第3季擴產，客戶第4季可於數據中心安裝相關晶片，預計今年可帶來大額收入。
-
-市場原先憂慮，在產品由Hopper系列繪圖處理器過渡至Blackwell期間，可能面臨需求空窗期，因為客戶可能會暫緩採購，以等待Blackwell。但集團表示，Hopper需求仍在升溫，相信仍有一段時間求過於供。
-
-另外，管理層亦提到，集團已向中國供應不受管制的人工智能產品，但來自中國的數據中心收入比起有出口管制前已大幅下降。]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 11:18:28 +0800
    </pubDate>
   </item>
  </channel>
