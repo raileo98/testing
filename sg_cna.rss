@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 21:25:08 +0800
+   Thu, 23 May 2024 21:33:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More history beckons Man City as ailing United stand in their way
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/more-history-beckons-man-city-ailing-united-stand-their-way-4358451
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 21:28:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/more-history-beckons-man-city-ailing-united-stand-their-way-4358451
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Miyaichi focused as Marinos set sights on Asian Champions League crown
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/miyaichi-focused-marinos-set-sights-asian-champions-league-crown-4358456
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 21:24:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/miyaichi-focused-marinos-set-sights-asian-champions-league-crown-4358456
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Vimnhl1e--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t132406z_2_lynxmpek4m0iz_rtroptp_3_soccer-afcchampions-uls-yok-report.jpg?itok=nIwxrZoI" width="1600"/>
+  </item>
   <item>
    <title>
     BOJ's Ueda sticks to economic recovery view, keeps alive rate hike chance
@@ -417,48 +459,6 @@
     World ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mWlMX-IM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t100929z_3_lynxmpek4m0cw_rtroptp_3_filmfestival-cannes-asteroid-city.jpg?itok=66zH-8WH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Scarlett Johansson's OpenAI feud rekindles Hollywood fear of artificial intelligence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/scarlett-johanssons-openai-feud-rekindles-hollywood-fear-artificial-intelligence-4357971
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 18:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/scarlett-johanssons-openai-feud-rekindles-hollywood-fear-artificial-intelligence-4357971
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mWlMX-IM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t100929z_3_lynxmpek4m0cw_rtroptp_3_filmfestival-cannes-asteroid-city.jpg?itok=66zH-8WH" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China's food security dream faces land, soil and water woes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/china-food-security-land-soil-water-woes-4357581
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 17:53:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/china-food-security-land-soil-water-woes-4357581
-   </guid>
-   <category>
-    East Asia ,Asia ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X8lk8xVv--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t063705z_1_lynxmpek4m07y_rtroptp_3_china-agriculture.jpg?itok=hQTFjSo1" width="1600"/>
   </item>
  </channel>
 </rss>
