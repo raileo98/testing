@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 02:55:10 +0800
+   Fri, 24 May 2024 03:29:52 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Wall Street mixed as Nvidia boosts Nasdaq, investors mull rate outlook
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/wall-street-turns-lower-ai-fervor-dampened-rate-jitters-4357041
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 23:17:33 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/wall-street-turns-lower-ai-fervor-dampened-rate-jitters-4357041
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Iran's Raisi buried after dying in helicopter crash
@@ -354,23 +375,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f-mf9dSM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t152318z_1_lynxmpek4m0ng_rtroptp_3_soccer-usa-hayes.jpg?itok=bmJ0wyaV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Stocks hitch a ride higher with Nvidia; investors mull rate outlook
-   </title>
-   <link>
-    https://www.channelnewsasia.com/
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate/>
-   <guid isPermaLink="false"/>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
   <item>
    <title>
