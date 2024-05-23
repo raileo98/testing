@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 12:46:19 +0800
+   Thu, 23 May 2024 12:54:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,28 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    More ministries, more problems? Indonesia's Prabowo faces business, corruption risks if cabinet is expanded
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-cabinet-ministries-increase-business-strain-4356906
+   </link>
+   <description>
+    <![CDATA[As the incoming president approaches parties to bulk out his coalition, Indonesia deliberates raising the limit on the number of ministries. But some experts say a focus on partners’ needs could come at the country’s expense. 
+]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 12:47:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-cabinet-ministries-increase-business-strain-4356906
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f_ramlvm--/c_crop,h_576,w_1024,x_0,y_28/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/000_34ne362.jpg?itok=PBQ1S_X-" width="1600"/>
+  </item>
   <item>
    <title>
     NDP 2024 to mark 40 years of total defence with warfighting demonstration between the Padang and Marina Bay
@@ -438,27 +460,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wFBJo2_q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t024145z_1_lynxmpek4m02g_rtroptp_3_olympics-2024-skateboarding-trew.jpg?itok=LBVmbH6N" width="1600"/>
-  </item>
-  <item>
-   <title>
-    New Vision TV series from Marvel set for 2026 with Paul Bettany reprising role
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/vision-disney-series-4356971
-   </link>
-   <description>
-    <![CDATA[The character was last seen in the 2021 Disney+ series WandaVision.]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 10:34:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/vision-disney-series-4356971
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rQ2r1R6p--/c_crop,h_437,w_778,x_0,y_-1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/vision.jpg?itok=5Dma8cJH" width="1600"/>
   </item>
  </channel>
 </rss>
