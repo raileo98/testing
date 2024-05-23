@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 00:14:47 +0800
+   Fri, 24 May 2024 00:27:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Norris is in the championship mix, says Verstappen
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/norris-championship-mix-says-verstappen-4359006
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 00:16:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/norris-championship-mix-says-verstappen-4359006
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Man City's iron grip shows no sign of weakening
@@ -434,27 +455,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Chinese carmaker NIO unfazed by European tariff uncertainties
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/chinese-carmaker-nio-unfazed-european-tariff-uncertainties-4358321
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 20:37:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/chinese-carmaker-nio-unfazed-european-tariff-uncertainties-4358321
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zxbT0l2F--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t144529z_2_lynxmpek4m0i3_rtroptp_3_autos-europe-china.jpg?itok=k6SW6B7C" width="1600"/>
   </item>
  </channel>
 </rss>
