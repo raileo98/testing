@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 04:44:55 +0800
+   Fri, 24 May 2024 04:53:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China holds Taiwan war games, vows blood of 'independence forces'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-holds-taiwan-war-games-vows-blood-independence-forces-4356956
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 04:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-holds-taiwan-war-games-vows-blood-independence-forces-4356956
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NJOSQeRA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/2811a7a02f14a67e8b70ebee754b305a809ac1af.jpg?itok=v_zlto9h" width="1600"/>
+  </item>
+  <item>
+   <title>
+    China holds Taiwan war games, vows blood of 'independence forces'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-holds-taiwan-war-games-vows-blood-independence-forces-4356956
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 04:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-holds-taiwan-war-games-vows-blood-independence-forces-4356956
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--NJOSQeRA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/2811a7a02f14a67e8b70ebee754b305a809ac1af.jpg?itok=v_zlto9h" width="1600"/>
+  </item>
   <item>
    <title>
     Applied Materials says received subpoena from US commerce department
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Hayes seeking right mix in bid to return USWNT to Olympic glory
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/hayes-seeking-right-mix-bid-return-uswnt-olympic-glory-4358881
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 23:23:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/hayes-seeking-right-mix-bid-return-uswnt-olympic-glory-4358881
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f-mf9dSM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t152318z_1_lynxmpek4m0ng_rtroptp_3_soccer-usa-hayes.jpg?itok=bmJ0wyaV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    SQ321 turbulence: Singapore Airlines apologises after injured passenger complains about carrier's silence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-apology-injured-passenger-complaint-lack-information-4358606
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 23:08:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-apology-injured-passenger-complaint-lack-information-4358606
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YccMKnaG--/c_crop,h_2036,w_3621,x_1,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/ap24144223449829_0.jpg?itok=McrwwZT7" width="1600"/>
   </item>
  </channel>
 </rss>
