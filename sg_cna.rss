@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 23:18:18 +0800
+   Thu, 23 May 2024 23:25:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,44 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hayes seeking right mix in bid to return USWNT to Olympic glory
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/hayes-seeking-right-mix-bid-return-uswnt-olympic-glory-4358881
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 23:23:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/hayes-seeking-right-mix-bid-return-uswnt-olympic-glory-4358881
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--f-mf9dSM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t152318z_1_lynxmpek4m0ng_rtroptp_3_soccer-usa-hayes.jpg?itok=bmJ0wyaV" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Stocks hitch a ride higher with Nvidia; investors mull rate outlook
+   </title>
+   <link>
+    https://www.channelnewsasia.com/
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate/>
+   <guid isPermaLink="false"/>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     SQ321 turbulence: Singapore Airlines apologises after injured passenger complains about carrier's silence
@@ -357,10 +395,10 @@
   </item>
   <item>
    <title>
-    Nvidia CEO Huang expects AI-generated videos to drive more demand for its chips
+    AI-generated videos to drive more demand for Nvidia chips, CEO Huang says
    </title>
    <link>
-    https://www.channelnewsasia.com/business/nvidia-ceo-huang-expects-ai-generated-videos-drive-more-demand-its-chips-4358161
+    https://www.channelnewsasia.com/business/ai-generated-videos-drive-more-demand-nvidia-chips-ceo-huang-says-4358161
    </link>
    <description>
     <![CDATA[]]>
@@ -369,7 +407,7 @@
     Thu, 23 May 2024 19:35:18 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/nvidia-ceo-huang-expects-ai-generated-videos-drive-more-demand-its-chips-4358161
+    https://www.channelnewsasia.com/business/ai-generated-videos-drive-more-demand-nvidia-chips-ceo-huang-says-4358161
    </guid>
    <category>
     Business
@@ -417,48 +455,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1AhmjJUo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t112931z_1_lynxmpek4m0gm_rtroptp_3_soccer-spain-preview.jpg?itok=RK1rWgpN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Thailand plans to require permits for medical, research use of cannabis
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/thailand-plans-require-permits-medical-research-use-cannabis-4358041
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 19:16:25 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/thailand-plans-require-permits-medical-research-use-cannabis-4358041
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ik0AG6_U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t104811z_1_lynxmpek4m0fl_rtroptp_3_thailand-cannabis.jpg?itok=svb6Qi0V" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israeli forces kill dozens of Palestinians as they push deeper in Gaza's north and south
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israeli-forces-kill-dozens-palestinians-they-push-deeper-gazas-north-and-south-4357736
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 19:07:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israeli-forces-kill-dozens-palestinians-they-push-deeper-gazas-north-and-south-4357736
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PyyJLBMc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t084431z_2_lynxmpek4m0ag_rtroptp_3_israel-palestinians-eu.jpg?itok=PYTn7xeN" width="1600"/>
   </item>
  </channel>
 </rss>
