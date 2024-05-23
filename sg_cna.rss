@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 01:45:33 +0800
+   Fri, 24 May 2024 01:54:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Ten Hag believes United can salvage season in Cup final, but quiet on his future
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/ten-hag-believes-united-can-salvage-season-cup-final-quiet-his-future-4359206
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 01:46:15 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/ten-hag-believes-united-can-salvage-season-cup-final-quiet-his-future-4359206
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--V58-xhtc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t174615z_1_lynxmpek4m0rd_rtroptp_3_soccer-england-brh-mun-report.jpg?itok=K3mV6GxO" width="1600"/>
+  </item>
   <item>
    <title>
     US political consultant indicted over AI-generated Biden robocalls
@@ -434,27 +455,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---XvSV1cq--/c_crop,h_674,w_1199,x_2,y_731/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/2024-05-21T124611Z_2034467361_RC20V7A4QZ18_RTRMADP_3_SINGAPOREAIRLINES-THAILAND.JPG?itok=iYU38ddY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    More history beckons Man City as ailing United stand in their way
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/more-history-beckons-man-city-ailing-united-stand-their-way-4358451
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 21:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/more-history-beckons-man-city-ailing-united-stand-their-way-4358451
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
