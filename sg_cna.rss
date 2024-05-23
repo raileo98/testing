@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 21:49:52 +0800
+   Thu, 23 May 2024 22:06:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    No meal service when seat belt sign on: Singapore Airlines adjusts turbulence measures in wake of SQ321
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/singapore-airlines-suspend-meal-service-seat-belt-sign-turbulence-sq321-4358501
+   </link>
+   <description>
+    <![CDATA[The carrier said it is adopting a "more cautious approach" to managing turbulence.]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 22:05:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/singapore-airlines-suspend-meal-service-seat-belt-sign-turbulence-sq321-4358501
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---XvSV1cq--/c_crop,h_674,w_1199,x_2,y_731/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/2024-05-21T124611Z_2034467361_RC20V7A4QZ18_RTRMADP_3_SINGAPOREAIRLINES-THAILAND.JPG?itok=iYU38ddY" width="1600"/>
+  </item>
   <item>
    <title>
     More history beckons Man City as ailing United stand in their way
@@ -105,7 +126,7 @@
   </item>
   <item>
    <title>
-    Djokovic to play France's Herbert, Swiatek faces qualifier at French Open
+    Nadal to play Zverev, Swiatek faces qualifier at French Open
    </title>
    <link>
     https://www.channelnewsasia.com/sport/nadal-play-zverev-swiatek-faces-qualifier-french-open-4358401
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PpYB6TgO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t100520z_1_lynxmpek4m0ea_rtroptp_3_tech-conference-mwc.jpg?itok=TT5OJAbe" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Scarlett Johansson's OpenAI feud rekindles Hollywood fear of artificial intelligence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/scarlett-johanssons-openai-feud-rekindles-hollywood-fear-artificial-intelligence-4357971
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 18:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/scarlett-johanssons-openai-feud-rekindles-hollywood-fear-artificial-intelligence-4357971
-   </guid>
-   <category>
-    World ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mWlMX-IM--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t100929z_3_lynxmpek4m0cw_rtroptp_3_filmfestival-cannes-asteroid-city.jpg?itok=66zH-8WH" width="1600"/>
   </item>
  </channel>
 </rss>
