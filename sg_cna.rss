@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 05:42:37 +0800
+   Fri, 24 May 2024 05:52:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Israel launches deadly Gaza strikes, says ready for new truce talks
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/israel-launches-deadly-gaza-strikes-says-ready-new-truce-talks-4359646
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 05:48:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/israel-launches-deadly-gaza-strikes-says-ready-new-truce-talks-4359646
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gRILrvu6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/6fdf2d2c9e329d694344aaec69eeb8bc85e1b5e6.jpg?itok=_L3i1fdq" width="1600"/>
+  </item>
   <item>
    <title>
     Girona aim to end season on a high as Dovbyk eyes place on top of scoring chart
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_xE6VoiT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t163634z_3_lynxmpek4m0ph_rtroptp_3_hp-autonomy-lynch-extradition.jpg?itok=kEam4WUr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Norris is in the championship mix, says Verstappen
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/norris-championship-mix-says-verstappen-4359006
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 00:16:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/norris-championship-mix-says-verstappen-4359006
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
