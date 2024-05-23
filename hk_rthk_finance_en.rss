@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 12:50:24 +0800
+   Thu, 23 May 2024 13:10:22 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 09:46:26 +0800
+   Thu, 23 May 2024 13:02:14 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,39 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Nvidia profits soar driven by demand for AI chips
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754360-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754360-20240523.htm
+   </link>
+   <description>
+    <![CDATA[Tech giant Nvidia easily beat Wall Street estimates as its profits and revenues skyrocketed, boosted by its chipmaking dominance which has made the company an icon of the artificial intelligence boom.
+
+Its net income rose more than sevenfold compared to a year earlier, jumping to US$14.88 billion in its first quarter that ended April 28 from US$2.04 billion a year earlier. 
+
+Revenue more than tripled, rising to US$26.04 billion from US$7.19 billion in the previous year.
+
+“The next industrial revolution has begun,” CEO Jensen Huang declared on a conference call with analysts. 
+
+Huang predicted that the companies snapping up Nvidia chips will use them to build a new type of data centre he called “AI factories” designed to produce “a new commodity — artificial intelligence.”
+
+Huang added that training AI models was becoming a faster process as they learn to become “multimodal” — that is, capable of understanding text, speech, images, video and 3-D data — and also “to reason and plan.”
+
+The company reported earnings per share — adjusted to exclude one-time items — of US$6.12, well above the US$5.60 that Wall Street analysts had expected. 
+
+Shares in Nvidia Corp rose 6 percent in after-hours trading to US$1,006.89. 
+
+The company’s stock has risen more than 200 percent in the past year. (AP)]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 13:02:14 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks extend losses at open
@@ -563,37 +596,6 @@ The Shanghai Composite Index was flat, inching down 0.69 points at 3,122, while 
    </description>
    <pubDate>
     Fri, 17 May 2024 09:47:22 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    OpenAI agrees content deal with Reddit
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753503-20240517.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753503-20240517.htm
-   </link>
-   <description>
-    <![CDATA[Reddit has partnered with OpenAI to bring its content to popular chatbot ChatGPT, the companies said on Thursday, sending the social media platform's shares up 12 percent in extended trade.
-
-The deal underscores Reddit's attempt to diversify beyond its advertising business, and follows its recent partnership with Alphabet to make its content available for training Google's AI models.
-
-ChatGPT and other OpenAI products will use Reddit's application programming interface, the means by which Reddit distributes its content, following the new partnership.
-
-OpenAI will also become a Reddit advertising partner, the company said.
-
-Ahead of Reddit's March IPO, Reuters reported that Reddit struck its deal with Alphabet, worth about US$60 million per year.
-
-Investors view selling its data to train AI models as a key source of revenue beyond Reddit's advertising business.
-
-The social media company earlier this month reported strong revenue growth and improving profitability in the first earnings since its market debut, indicating that its Google deal and its push to grow its ads business were paying off.
-
-Reddit's shares rose 10.5 percent to US$62.31 after the bell. As of Wednesday's close, the stock is up nearly 12 percent since its market debut in March. (Reuters)]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 09:44:31 +0800
    </pubDate>
   </item>
  </channel>

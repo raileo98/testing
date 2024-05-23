@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 12:54:10 +0800
+   Thu, 23 May 2024 13:10:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,7 +42,28 @@
   </image>
   <item>
    <title>
-    More ministries, more problems? Indonesia's Prabowo faces business, corruption risks if cabinet is expanded
+    ASML, Eindhoven Tech University to invest $195 million in partnership
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/asml-eindhoven-tech-university-invest-195-million-partnership-4357426
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 13:05:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/asml-eindhoven-tech-university-invest-195-million-partnership-4357426
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xqrvlf_E--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t050508z_1_lynxmpek4m059_rtroptp_3_asml-ceo.jpg?itok=zxm6ThC5" width="1600"/>
+  </item>
+  <item>
+   <title>
+    More ministries, more problems? Indonesia's Prabowo faces business, corruption risks if Cabinet is expanded
    </title>
    <link>
     https://www.channelnewsasia.com/asia/indonesia-prabowo-subianto-cabinet-ministries-increase-business-strain-4356906
@@ -439,27 +460,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v1c0iucG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t042556z_2_lynxmpek4m02u_rtroptp_3_taiwan-tsmc.jpg?itok=93izzb3V" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Aussie skateboarding gem pumped for Paris after Tokyo heartbreak
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/aussie-skateboarding-gem-pumped-paris-after-tokyo-heartbreak-4357076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 10:41:45 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/aussie-skateboarding-gem-pumped-paris-after-tokyo-heartbreak-4357076
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wFBJo2_q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t024145z_1_lynxmpek4m02g_rtroptp_3_olympics-2024-skateboarding-trew.jpg?itok=LBVmbH6N" width="1600"/>
   </item>
  </channel>
 </rss>
