@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 20:57:45 +0800
+   Thu, 23 May 2024 21:19:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Djokovic to play France's Herbert, Swiatek faces qualifier at French Open
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/djokovic-play-frances-herbert-swiatek-faces-qualifier-french-open-4358401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 21:08:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/djokovic-play-frances-herbert-swiatek-faces-qualifier-french-open-4358401
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Chinese carmaker NIO unfazed by European tariff uncertainties
@@ -309,28 +330,7 @@
     https://www.channelnewsasia.com/business/improved-business-activity-casts-doubt-over-rate-cuts-4358016
    </guid>
    <category>
-    Business ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Jrq2WStm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t102758z_1_lynxmpek4m0f4_rtroptp_3_soccer-euro-cologne.jpg?itok=hl3b6r8M" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Improved business activity casts doubt over rate cuts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/improved-business-activity-casts-doubt-over-rate-cuts-4358016
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 18:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/improved-business-activity-casts-doubt-over-rate-cuts-4358016
-   </guid>
-   <category>
-    Business ,World
+    Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Jrq2WStm--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t102758z_1_lynxmpek4m0f4_rtroptp_3_soccer-euro-cologne.jpg?itok=hl3b6r8M" width="1600"/>
   </item>
