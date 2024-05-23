@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 23:36:30 +0800
+   Thu, 23 May 2024 23:42:43 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Merlier wins stage 18 in sprint finish for second Giro victory
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/merlier-wins-stage-18-sprint-finish-second-giro-victory-4358916
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 23:35:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/merlier-wins-stage-18-sprint-finish-second-giro-victory-4358916
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Family matters as Swiatek pursues Olympic dream
@@ -434,27 +455,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Motta to leave Bologna after opting not to renew contract
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/motta-leave-bologna-after-opting-not-renew-contract-4358211
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 19:58:15 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/motta-leave-bologna-after-opting-not-renew-contract-4358211
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_pG3aVYs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t115815z_1_lynxmpek4m0ha_rtroptp_3_soccer-italy-juv-motta.jpg?itok=Dc1Bf8pv" width="1600"/>
   </item>
  </channel>
 </rss>
