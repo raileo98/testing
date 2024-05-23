@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 19:27:15 +0800
+   Thu, 23 May 2024 19:36:41 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Hungary says ICC warrant against Israel's Netanyahu 'unacceptable'
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/hungary-says-icc-warrant-against-israels-netanyahu-unacceptable-4357936
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 19:35:50 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/hungary-says-icc-warrant-against-israels-netanyahu-unacceptable-4357936
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IuaI_Cng--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t094834z_1_lynxmpek4m0dk_rtroptp_3_israel-palestinians-icc-warrants-fugitives.jpg?itok=O0R0dkMX" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Real fans ready for Kroos farewell party at sold-out Bernabeu
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/real-fans-ready-kroos-farewell-party-sold-out-bernabeu-4358151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 19:29:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/real-fans-ready-kroos-farewell-party-sold-out-bernabeu-4358151
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1AhmjJUo--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t112931z_1_lynxmpek4m0gm_rtroptp_3_soccer-spain-preview.jpg?itok=RK1rWgpN" width="1600"/>
+  </item>
   <item>
    <title>
     Thailand plans to require permits for medical, research use of cannabis
@@ -417,48 +459,6 @@
     East Asia ,Sustainability ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--D-yED5Gc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t091417z_1_lynxmpek4m0ce_rtroptp_3_japan-whaling.jpg?itok=_w_-9WJp" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea, Japan, China to hold first trilateral summit since 2019
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-korea-chinese-japan-first-trilateral-summit-2019-4357796
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 17:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-korea-chinese-japan-first-trilateral-summit-2019-4357796
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0rzmYnNK--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/south_korea_japan_and_china_leaders_comp.jpg?itok=LVfZFLDY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea, Japan, China to hold first trilateral summit since 2019
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/south-korea-chinese-japan-first-trilateral-summit-2019-4357796
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 17:39:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/south-korea-chinese-japan-first-trilateral-summit-2019-4357796
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0rzmYnNK--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/south_korea_japan_and_china_leaders_comp.jpg?itok=LVfZFLDY" width="1600"/>
   </item>
  </channel>
 </rss>
