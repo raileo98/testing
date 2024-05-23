@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 19:09:14 +0800
+   Thu, 23 May 2024 19:18:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    Thailand plans to require permits for medical, research use of cannabis
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/thailand-plans-require-permits-medical-research-use-cannabis-4358041
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 19:16:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/thailand-plans-require-permits-medical-research-use-cannabis-4358041
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ik0AG6_U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t104811z_1_lynxmpek4m0fl_rtroptp_3_thailand-cannabis.jpg?itok=svb6Qi0V" width="1600"/>
+  </item>
+  <item>
+   <title>
     Israeli forces kill dozens of Palestinians as they push deeper in Gaza's north and south
    </title>
    <link>
@@ -51,7 +72,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 23 May 2024 19:07:19 +0800
+    Thu, 23 May 2024 19:07:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/world/israeli-forces-kill-dozens-palestinians-they-push-deeper-gazas-north-and-south-4357736
@@ -63,7 +84,7 @@
   </item>
   <item>
    <title>
-    Some SQ321 casualties suffered brain, spinal cord injuries; 6 were in critical condition: Hospital in Bangkok
+    Some SQ321 casualties suffered brain, spinal cord injuries; 6 were in critical condition: Thai hospital
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-brain-spinal-cord-injuries-4357751
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 23 May 2024 19:06:44 +0800
+    Thu, 23 May 2024 19:06:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-brain-spinal-cord-injuries-4357751
@@ -84,7 +105,7 @@
   </item>
   <item>
    <title>
-    Some SQ321 casualties suffered brain, spinal cord injuries; 6 were in critical condition: Hospital in Bangkok
+    Some SQ321 casualties suffered brain, spinal cord injuries; 6 were in critical condition: Thai hospital
    </title>
    <link>
     https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-brain-spinal-cord-injuries-4357751
@@ -93,7 +114,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Thu, 23 May 2024 19:06:44 +0800
+    Thu, 23 May 2024 19:06:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-brain-spinal-cord-injuries-4357751
@@ -438,27 +459,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--0rzmYnNK--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/south_korea_japan_and_china_leaders_comp.jpg?itok=LVfZFLDY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Nepali smashes women's record for fastest ascent of Everest
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/nepali-smashes-womens-record-fastest-ascent-everest-4357851
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 17:34:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/nepali-smashes-womens-record-fastest-ascent-everest-4357851
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BEhrl-GJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/07b8e7408d8378d34e3c605634e6fe206b99d7da.jpg?itok=HbgPXmGW" width="1600"/>
   </item>
  </channel>
 </rss>
