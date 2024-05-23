@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Thu, 23 May 2024 16:30:49 +0800
+   Thu, 23 May 2024 16:40:12 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 15:42:02 +0800
+   Thu, 23 May 2024 16:33:22 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,31 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    恒指失守19000點　阿里巴巴低收逾5%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754385-20240523.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754385-20240523.htm
+   </link>
+   <description>
+    <![CDATA[港股連跌3日，恒生指數失守19000點關口，是近兩星期以來首次。恒指最多跌近420點，低見18776點，收市報18868點，跌326點，跌幅1.7%，主板成交額約1299億元。
+
+科技指數失守3900點，收市報3896點，跌幅2.4%。阿里巴巴尾市跌逾6%，收市跌逾5%。外電報道，阿里巴巴考慮發行50億美元可轉換債券。
+
+小米和京東集團分別跌逾2%及逾4%。網易公布業績前跌近8%，是表現最差的恒指及科指成份股。
+
+汽車股下跌，小鵬汽車跌逾5%，理想汽車和蔚來跌逾4%，吉利汽車跌逾3%。
+
+消費股普遍向下，金融和地產股亦受壓。]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 16:33:22 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     李澤鉅：港人消費模式轉變為零售業務帶來挑戰
@@ -449,27 +474,6 @@
    </description>
    <pubDate>
     Thu, 23 May 2024 09:58:39 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股初段失守19000點
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754336-20240523.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754336-20240523.htm
-   </link>
-   <description>
-    <![CDATA[港股低開後，跌幅一度擴大至逾300點，恒指失守19000點，較早時報18932點，跌263點，跌幅1.37%。
-
-科技指數報3941點，跌1.28%。
-
-藍籌股普遍下跌。]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 09:56:07 +0800
    </pubDate>
   </item>
  </channel>
