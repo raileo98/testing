@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 03:29:52 +0800
+   Fri, 24 May 2024 03:36:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Stubborn defence stands between Al Ahly and more Champions League success
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/stubborn-defence-stands-between-al-ahly-and-more-champions-league-success-4359416
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 03:28:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/stubborn-defence-stands-between-al-ahly-and-more-champions-league-success-4359416
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_6LY7Bfk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t192857z_1_lynxmpek4m0tc_rtroptp_3_soccer-saudi-ala-alh-report.jpg?itok=_5ckEI0x" width="1600"/>
+  </item>
   <item>
    <title>
     Wall Street mixed as Nvidia boosts Nasdaq, investors mull rate outlook
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YdMhqYBU--/c_crop,h_843,w_1500,x_0,y_152/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/02/06/istock-1155856347.jpg?itok=XcBiSoGw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    UN expert urges Israel to investigate reports of mistreated Palestinian detainees
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/un-expert-urge-israel-investigate-report-mistreated-palestine-hamas-gaza-4358346
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 22:35:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/un-expert-urge-israel-investigate-report-mistreated-palestine-hamas-gaza-4358346
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--8PJE21hY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/debd7d5e719738e9dd14c5e1bf0d01b04393d988.jpg?itok=KJs7JaK3" width="1600"/>
   </item>
  </channel>
 </rss>
