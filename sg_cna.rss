@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 13:10:47 +0800
+   Thu, 23 May 2024 13:27:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    15 months' jail for seventh man who pleaded guilty in billion-dollar money laundering case
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-seventh-man-sentenced-chen-qingyuan-4357206
+   </link>
+   <description>
+    <![CDATA[Chen Qingyuan's 15-month jail term is the longest among those dealt with so far and is on par with Zhang Ruijin. ]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 13:27:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/billion-dollar-money-laundering-case-seventh-man-sentenced-chen-qingyuan-4357206
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--syMJBIuA--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/03/chen_qingyuan.png?itok=hlPZzH-7" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Thai court accepts complaint seeking PM's removal over cabinet appointment
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/thailand-srettha-thavisin-removal-office-pending-verdict-cabinet-appointment-4357486
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 13:25:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/thailand-srettha-thavisin-removal-office-pending-verdict-cabinet-appointment-4357486
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XSWtVV2B--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-04-08t065418z_2_lynxnpek3707n_rtroptp_3_apec-usa-ceos.jpg?itok=3iNNk9A-" width="1600"/>
+  </item>
   <item>
    <title>
     ASML, Eindhoven Tech University to invest $195 million in partnership
@@ -418,48 +460,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--xeqdz7nO--/c_crop,h_3482,w_6192,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/_zc22185_0.jpg?itok=bWcw2cb6" width="1600"/>
-  </item>
-  <item>
-   <title>
-    South Korea announces $19 billion support package for chip industry
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/south-korea-announces-19-billion-support-package-chip-industry-4357116
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 10:58:03 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/south-korea-announces-19-billion-support-package-chip-industry-4357116
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vKpT463k--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t040255z_2_lynxmpek4m02v_rtroptp_3_europe-chips-imec.jpg?itok=P6v-ZCB5" width="1600"/>
-  </item>
-  <item>
-   <title>
-    TSMC sees annual sales growth to reach 10% in semiconductor industry
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tsmc-sees-annual-sales-growth-reach-10-semiconductor-industry-4357121
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 10:54:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tsmc-sees-annual-sales-growth-reach-10-semiconductor-industry-4357121
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--v1c0iucG--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t042556z_2_lynxmpek4m02u_rtroptp_3_taiwan-tsmc.jpg?itok=93izzb3V" width="1600"/>
   </item>
  </channel>
 </rss>
