@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 18:34:10 +0800
+   Thu, 23 May 2024 18:42:11 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    World Court to rule on Friday on measures over Israel's Rafah offensive
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/world-court-rule-friday-measures-over-israels-rafah-offensive-4357731
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 18:39:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/world-court-rule-friday-measures-over-israels-rafah-offensive-4357731
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--fC8GXGaP--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t083258z_1_lynxmpek4m0ak_rtroptp_3_israel-palestinians-gaza-boats.jpg?itok=DaElxw0k" width="1600"/>
+  </item>
   <item>
    <title>
     Improved business activity casts doubt over rate cuts
@@ -438,27 +459,6 @@
     Business ,East Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--M7_EA6s7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t091209z_1_lynxmpek4m0cb_rtroptp_3_ukraine-crisis-yellen-sanctions.jpg?itok=X8-RoqTg" width="1600"/>
-  </item>
-  <item>
-   <title>
-    PUB sub-contractor worker dies after inhaling hydrogen sulphide gas, 2 others in intensive care
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/pub-sub-contractor-worker-dies-after-inhaling-hydrogen-sulphide-gas-choa-chu-kang-waterworks-4357856
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 17:14:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/pub-sub-contractor-worker-dies-after-inhaling-hydrogen-sulphide-gas-choa-chu-kang-waterworks-4357856
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SNrcTPMH--/c_fill,h_900,w_1600/f_auto,q_auto/choa-chu-kang-waterworks.jpg?itok=0rZAxX3t" width="1600"/>
   </item>
  </channel>
 </rss>
