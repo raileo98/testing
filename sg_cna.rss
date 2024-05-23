@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 01:54:44 +0800
+   Fri, 24 May 2024 02:11:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Boeing shares tumble as company lowers 2024 cash forecast
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/boeing-shares-tumble-company-lowers-2024-cash-forecast-4359051
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 01:54:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/boeing-shares-tumble-company-lowers-2024-cash-forecast-4359051
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--asOFfH-G--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/4f4e29fe1514f5f0c1576141ec9ef1210d1f99a0.jpg?itok=5C8jq6Xi" width="1600"/>
+  </item>
   <item>
    <title>
     Ten Hag believes United can salvage season in Cup final, but quiet on his future
@@ -105,10 +126,10 @@
   </item>
   <item>
    <title>
-    British tech founder Mike Lynch testifies at his US trial over HP deal
+    British tech founder Mike Lynch denies defrauding HP at US criminal trial
    </title>
    <link>
-    https://www.channelnewsasia.com/business/british-tech-founder-mike-lynch-testifies-his-us-trial-over-hp-deal-4359056
+    https://www.channelnewsasia.com/business/british-tech-founder-mike-lynch-denies-defrauding-hp-us-criminal-trial-4359056
    </link>
    <description>
     <![CDATA[]]>
@@ -117,7 +138,7 @@
     Fri, 24 May 2024 00:36:34 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/british-tech-founder-mike-lynch-testifies-his-us-trial-over-hp-deal-4359056
+    https://www.channelnewsasia.com/business/british-tech-founder-mike-lynch-denies-defrauding-hp-us-criminal-trial-4359056
    </guid>
    <category>
     Business
@@ -434,27 +455,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2Dwnb6Pj--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t140520z_1_lynxmpek4m0ku_rtroptp_3_rugby-union-champions-nor-mun-report.jpg?itok=apJQqKXM" width="1600"/>
-  </item>
-  <item>
-   <title>
-    No meal service when seat belt sign on: Singapore Airlines adjusts turbulence measures in wake of SQ321
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singapore-airlines-suspend-meal-service-seat-belt-sign-turbulence-sq321-4358501
-   </link>
-   <description>
-    <![CDATA[The carrier said it is adopting a "more cautious approach" to managing turbulence.]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 22:05:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singapore-airlines-suspend-meal-service-seat-belt-sign-turbulence-sq321-4358501
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---XvSV1cq--/c_crop,h_674,w_1199,x_2,y_731/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/21/2024-05-21T124611Z_2034467361_RC20V7A4QZ18_RTRMADP_3_SINGAPOREAIRLINES-THAILAND.JPG?itok=iYU38ddY" width="1600"/>
   </item>
  </channel>
 </rss>
