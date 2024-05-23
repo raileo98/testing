@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 22:39:19 +0800
+   Thu, 23 May 2024 22:51:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Jail for ERP cheat who modified motorcycle licence plate
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lta-jail-erp-cheat-who-modified-motorcycle-licence-plate-4358306
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 22:49:38 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lta-jail-erp-cheat-who-modified-motorcycle-licence-plate-4358306
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YdMhqYBU--/c_crop,h_843,w_1500,x_0,y_152/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/02/06/istock-1155856347.jpg?itok=XcBiSoGw" width="1600"/>
+  </item>
   <item>
    <title>
     UN expert urges Israel to investigate reports of mistreated Palestinian detainees
@@ -248,7 +269,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FCIDPMBF--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t123724z_1_lynxmpek4m0i3_rtroptp_3_autos-europe-china.jpg?itok=Y8FciwHq" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zxbT0l2F--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t144529z_2_lynxmpek4m0i3_rtroptp_3_autos-europe-china.jpg?itok=k6SW6B7C" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Singapore ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yxfPkXfn--/c_crop,h_576,w_1024,x_0,y_66/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/000_34TP8GV.jpg?itok=_45ZoBOF" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tomb Raider owner says humans hold key to game evolution as AI gains ground
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/tomb-raider-owner-says-humans-hold-key-game-evolution-ai-gains-ground-4358076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 18:59:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/tomb-raider-owner-says-humans-hold-key-game-evolution-ai-gains-ground-4358076
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--MG21EPyJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t105959z_1_lynxmpek4m0fy_rtroptp_3_games-embracer.jpg?itok=uOvwswlW" width="1600"/>
   </item>
  </channel>
 </rss>
