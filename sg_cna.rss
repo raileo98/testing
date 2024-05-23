@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 22:56:29 +0800
+   Thu, 23 May 2024 23:18:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,6 +42,27 @@
   </image>
   <item>
    <title>
+    SQ321 turbulence: Singapore Airlines apologises after injured passenger complains about carrier's silence
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-apology-injured-passenger-complaint-lack-information-4358606
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Thu, 23 May 2024 23:08:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-apology-injured-passenger-complaint-lack-information-4358606
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YccMKnaG--/c_crop,h_2036,w_3621,x_1,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/ap24144223449829_0.jpg?itok=McrwwZT7" width="1600"/>
+  </item>
+  <item>
+   <title>
     Amazon to deorbit pair of prototype satellites, calling tests successful
    </title>
    <link>
@@ -59,7 +80,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2K-Is6LD--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t144941z_1_lynxmpek4m0mf_rtroptp_3_space-exploration-amazon.jpg?itok=ooHx2XkZ" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hbXsdJyK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t145730z_2_lynxmpek4m0mf_rtroptp_3_space-exploration-amazon.jpg?itok=bn2KP5a1" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PyyJLBMc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t084431z_2_lynxmpek4m0ag_rtroptp_3_israel-palestinians-eu.jpg?itok=PYTn7xeN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Some SQ321 casualties suffered brain, spinal cord injuries; 6 were in critical condition: Thai hospital
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-brain-spinal-cord-injuries-4357751
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 19:06:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/sq321-turbulence-singapore-airlines-brain-spinal-cord-injuries-4357751
-   </guid>
-   <category>
-    Singapore ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yxfPkXfn--/c_crop,h_576,w_1024,x_0,y_66/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/000_34TP8GV.jpg?itok=_45ZoBOF" width="1600"/>
   </item>
  </channel>
 </rss>
