@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Thu, 23 May 2024 23:54:08 +0800
+   Fri, 24 May 2024 00:14:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,52 @@
   </image>
   <item>
    <title>
-    Merlier wins stage 18 in sprint finish for second Giro victory
+    Man City's iron grip shows no sign of weakening
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/merlier-wins-stage-18-sprint-finish-second-giro-victory-4358916
+    https://www.channelnewsasia.com/sport/man-citys-iron-grip-shows-no-sign-weakening-4358991
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 00:10:23 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-citys-iron-grip-shows-no-sign-weakening-4358991
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--DLUzJ66y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t161023z_1_lynxmpek4m0om_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=QGV-LTUG" width="1600"/>
+  </item>
+  <item>
+   <title>
+    West Ham's Paqueta charged over alleged breaches of betting rules
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/west-hams-paqueta-charged-over-alleged-breaches-betting-rules-4358971
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 00:07:25 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/west-hams-paqueta-charged-over-alleged-breaches-betting-rules-4358971
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rad4Eqtd--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t160725z_1_lynxmpek4m0ol_rtroptp_3_soccer-england-che-whu-report.jpg?itok=ts7VvGy-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Merlier wins Giro stage 18 in sprint finish
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/merlier-wins-giro-stage-18-sprint-finish-4358916
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +96,7 @@
     Thu, 23 May 2024 23:35:51 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/merlier-wins-stage-18-sprint-finish-second-giro-victory-4358916
+    https://www.channelnewsasia.com/sport/merlier-wins-giro-stage-18-sprint-finish-4358916
    </guid>
    <category>
     Sport
@@ -413,48 +455,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zxbT0l2F--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t144529z_2_lynxmpek4m0i3_rtroptp_3_autos-europe-china.jpg?itok=k6SW6B7C" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Global stocks fatigued from bull run, but no correction expected: Reuters poll
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/global-stocks-fatigued-bull-run-no-correction-expected-reuters-poll-4358301
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 20:26:06 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/global-stocks-fatigued-bull-run-no-correction-expected-reuters-poll-4358301
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X7YekIPY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t122606z_2_lynxmpek4m0hq_rtroptp_3_global-markets-view-asia.jpg?itok=v3CQqKLq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Segantii to refund investor money after Hong Kong insider trading charges
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/segantii-refund-investor-money-after-hong-kong-insider-trading-charges-4358286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 20:22:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/segantii-refund-investor-money-after-hong-kong-insider-trading-charges-4358286
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
