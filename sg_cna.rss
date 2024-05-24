@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 19:21:53 +0800
+   Fri, 24 May 2024 19:33:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man shot dead by police in riot-hit New Caledonia: Media
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/man-shot-dead-police-riot-hit-new-caledonia-media-4360586
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 19:29:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/man-shot-dead-police-riot-hit-new-caledonia-media-4360586
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--59Bx0rvK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t072733z_2_lynxmpek4n08e_rtroptp_3_newcaledonia-violence-inequalities.jpg?itok=6JHsPH3V" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Hamilton says a podium is less likely than learning Italian
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/hamilton-says-podium-less-likely-learning-italian-4361111
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 19:21:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/hamilton-says-podium-less-likely-learning-italian-4361111
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Former Labour leader Corbyn to stand as independent in UK election
@@ -417,48 +459,6 @@
     World ,East Asia ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gD_H36I6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t084252z_1_lynxmpek4n0b5_rtroptp_3_g7-finance.jpg?itok=TPDAO-sa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    G7 finance summit kicks off seeking unity on Ukraine, China
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/g7-finance-summit-kicks-seeking-unity-ukraine-china-4360726
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 17:19:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/g7-finance-summit-kicks-seeking-unity-ukraine-china-4360726
-   </guid>
-   <category>
-    World ,East Asia ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--gD_H36I6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t084252z_1_lynxmpek4n0b5_rtroptp_3_g7-finance.jpg?itok=TPDAO-sa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Ulu Tiram attack: Suspect’s family held radical beliefs, remanded further, says police chief
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/malaysia-ulu-tiram-attack-suspects-family-remanded-further-radical-beliefs-4360721
-   </link>
-   <description>
-    <![CDATA[The family isolated themselves from the community and three of the four children, including the suspect, did not finish primary school.]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 17:18:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/malaysia-ulu-tiram-attack-suspects-family-remanded-further-radical-beliefs-4360721
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZqC5egOi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%205.jpg?itok=Utp7v653" width="1600"/>
   </item>
  </channel>
 </rss>
