@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 19:48:18 +0800
+   Fri, 24 May 2024 19:59:45 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Real Madrid's injured Tchouameni to miss Champions League final, says Ancelotti
+    Barcelona sack Xavi as manager
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/real-madrids-injured-tchouameni-miss-champions-league-final-says-ancelotti-4361136
+    https://www.channelnewsasia.com/sport/barcelona-sack-xavi-manager-4361151
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 19:52:24 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/barcelona-sack-xavi-manager-4361151
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SdSegROS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t115224z_1_lynxmpek4n0fw_rtroptp_3_soccer-spain-soc-fcb-preview.jpg?itok=txQNPLt0" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Real Madrid's Tchouameni to miss Champions League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/real-madrids-tchouameni-miss-champions-league-final-4361136
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Fri, 24 May 2024 19:35:04 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/real-madrids-injured-tchouameni-miss-champions-league-final-says-ancelotti-4361136
+    https://www.channelnewsasia.com/sport/real-madrids-tchouameni-miss-champions-league-final-4361136
    </guid>
    <category>
     Sport
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Thhkcnka--/c_crop,h_826,w_1468,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/screenshot_2024-05-24_161845.png?itok=RiYlZChS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    United's European hopes hanging by a thread
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/uniteds-european-hopes-hanging-thread-4360841
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 17:30:18 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/uniteds-european-hopes-hanging-thread-4360841
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U2swGBib--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t093018z_1_lynxmpek4n0c8_rtroptp_3_soccer-england-brh-mun-report.jpg?itok=kMLl5e6E" width="1600"/>
   </item>
  </channel>
 </rss>
