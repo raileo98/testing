@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 03:11:17 +0800
+   Sat, 25 May 2024 03:24:46 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    NASA, Boeing clear two technical hurdles for Starliner's debut crew flight
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/nasa-boeing-clear-two-technical-hurdles-starliners-debut-crew-flight-4362206
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 03:18:41 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/nasa-boeing-clear-two-technical-hurdles-starliners-debut-crew-flight-4362206
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    EU official says G7 zeroes in on Russian assets deal
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/eu-official-says-g7-zeroes-russian-assets-deal-4362181
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 03:16:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/eu-official-says-g7-zeroes-russian-assets-deal-4362181
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ti7YA67G--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t084252z_1_lynxmpek4n0b6_rtroptp_3_g7-finance.jpg?itok=RMxTvvKZ" width="1600"/>
+  </item>
   <item>
    <title>
     Estonia says Russia removed navigation buoys on border river
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7ciCNxRe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151343z_1_lynxmpek4n0l3_rtroptp_3_soccer-champions-fcb-lyo-preview.jpg?itok=XRdcHloq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    What is OPEC+ and how does it affect oil prices?
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/what-opec-and-how-does-it-affect-oil-prices-4361621
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 22:58:28 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/what-opec-and-how-does-it-affect-oil-prices-4361621
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dxiqKab4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t145828z_1_lynxmpek4n0kp_rtroptp_3_opec-oil.jpg?itok=FL1bG8TI" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Tens of thousands protest against contentious Taiwan parliament reforms
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/thousands-protest-against-taiwan-parliament-reforms-4361446
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 22:36:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/thousands-protest-against-taiwan-parliament-reforms-4361446
-   </guid>
-   <category>
-    East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d8PmqLe6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t134812z_1_lynxmpek4n0ix_rtroptp_3_taiwan-politics.jpg?itok=Z_9fLqrV" width="1600"/>
   </item>
  </channel>
 </rss>
