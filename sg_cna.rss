@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 03:24:46 +0800
+   Sat, 25 May 2024 03:34:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Equatorial Guinea forfeit World Cup qualifiers over ineligible Nsue
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/equatorial-guinea-forfeit-world-cup-qualifiers-over-ineligible-nsue-4362226
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 03:26:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/equatorial-guinea-forfeit-world-cup-qualifiers-over-ineligible-nsue-4362226
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hxi66Z7z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t192639z_1_lynxmpek4n0qb_rtroptp_3_soccer-nations-gnq-gin-report.jpg?itok=0G-aMFNj" width="1600"/>
+  </item>
   <item>
    <title>
     NASA, Boeing clear two technical hurdles for Starliner's debut crew flight
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e5XPL24l--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151700z_1_lynxmpek4n0l8_rtroptp_3_tennis-madrid.jpg?itok=ozyY0N9-" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Norwegian FA President Klaveness to attend Women's CL final
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/norwegian-fa-president-klaveness-attend-womens-cl-final-4361671
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 23:13:43 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/norwegian-fa-president-klaveness-attend-womens-cl-final-4361671
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7ciCNxRe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151343z_1_lynxmpek4n0l3_rtroptp_3_soccer-champions-fcb-lyo-preview.jpg?itok=XRdcHloq" width="1600"/>
   </item>
  </channel>
 </rss>
