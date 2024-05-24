@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 22:40:06 +0800
+   Fri, 24 May 2024 22:50:34 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 21:38:11 +0800
+   Fri, 24 May 2024 22:47:36 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美國5月消費者信心按月下跌　1年通脹預期升至3.3%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754603-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754603-20240524.htm
+   </link>
+   <description>
+    <![CDATA[美國密歇根大學5月消費者情緒指數終值跌至69.1，但高於市場預期及初值；現況指數及展望指數終值都較4月下跌，但高於初值。
+
+調查亦顯示，消費者1年通脹預期終值升至3.3%，但低於初值；5年通脹預期終值維持3%，低於初值。]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 22:47:36 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     美股開市後反彈
@@ -461,27 +480,6 @@
    </description>
    <pubDate>
     Fri, 24 May 2024 15:28:58 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    韓股跌逾1%收市
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754534-20240524.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754534-20240524.htm
-   </link>
-   <description>
-    <![CDATA[南韓股市跌逾1%。
-
-首爾綜合指數收報2687點，跌34點，跌幅1.26%。
-
-總結全星期，韓股跌約1.4%。]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 14:40:47 +0800
    </pubDate>
   </item>
  </channel>
