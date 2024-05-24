@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 25 May 2024 05:01:26 +0800
+   Sat, 25 May 2024 05:20:26 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 16:35:08 +0800
+   Sat, 25 May 2024 05:16:57 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,37 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    US stocks close higher, lifted by Nvidia optimism
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754617-20240525.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754617-20240525.htm
+   </link>
+   <description>
+    <![CDATA[Wall Street stocks regained lost ground on Friday to trade higher ahead of the long Memorial Day weekend, with renewed enthusiasm for generative AI-linked companies pushing Nvidia's share price.
+
+The tech-heavy Nasdaq finished the day up 1.1 percent to 16,920, while the S&P 500 rose 0.7 percent to 5,304.
+
+The Dow Jones stabilised after tumbling on Thursday to close almost unchanged at 39,069.
+
+While stocks often rise ahead of the Memorial day weekend, Friday's buoyant trading day also had Nvidia's recent streak to thank, said Tom Cahill from Ventura Wealth Management.
+
+The company, which sells the graphics processing units (GPUs) used in many generative AI products, saw its share price rise 2.6 percent on Friday, leaving it up more than 15 percent this week.
+
+"We know that expectations were very high, and yet they seem to meet or exceed them on more than one level," he said. "So whether we like it or not, artificial intelligence now is an important factor when it comes to the stock market sentiment."
+
+"And to the extent that Nvidia's numbers were able to meet or beat expectations that's supportive for the market," he added.
+
+Other tech companies that saw their share price jump on Friday include Advanced Micro Devices, which closed up 3.7 percent, and Intel, which finished 2.1 percent higher. (AFP)]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 05:16:57 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     HK stocks finish week with fourth straight loss
@@ -575,37 +606,6 @@ He vowed to create tourism experiences with unique characteristics of the SAR to
    </description>
    <pubDate>
     Sun, 19 May 2024 11:36:52 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Dow closes above 40,000 for first time, stocks mixed
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753638-20240518.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753638-20240518.htm
-   </link>
-   <description>
-    <![CDATA[The Dow Jones finished above 40,000 points for the first time on Friday, as stocks were mixed on Wall Street at the end of the trading week.
-
-The Dow Jones rose 0.3 percent to finish at 40,003.
-
-The S&P 500 closed up 0.1 percent at 5,303, while the Nasdaq slipped 0.1 percent to 16,685.
-
-But despite the slight decline in the Nasdaq, all three major indexes still finished the week higher than they were at the start of it.
-
-"We made a breakout to new record high," said Karl Haeling from LBBW.
-
-"The market is just choosing to consolidate, which is probably a healthy thing," he continued. "Because it's racing and getting too exuberant."
-
-Among individual companies, petrochemical producer Valero Energy finished the day up 4.8 percent, while the mining company Freeport McMoRan was up 4.2 percent.
-
-One of the day's big losers was Paramount Global, which saw its share price fall 4.9 percent. (AFP)]]>
-   </description>
-   <pubDate>
-    Sat, 18 May 2024 05:38:33 +0800
    </pubDate>
   </item>
  </channel>
