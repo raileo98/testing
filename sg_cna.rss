@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 14:14:43 +0800
+   Fri, 24 May 2024 14:30:55 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Man Utd not afraid of City's dominance, says Dalot
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-utd-not-afraid-citys-dominance-says-dalot-4360506
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 14:28:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-utd-not-afraid-citys-dominance-says-dalot-4360506
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--doqvPWtB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t062827z_1_lynxmpek4n06w_rtroptp_3_soccer-england-brh-mun-report.jpg?itok=vea4Skcu" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Lee Hsien Yang ordered to pay S$200,000 each to Shanmugam and Vivian Balakrishnan for defamation
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/lee-hsien-yang-defamation-ridout-road-200000-damages-each-shanmugam-vivian-balakrishnan-4360466
+   </link>
+   <description>
+    <![CDATA[The judge found that Mr Lee Hsien Yang had "acted with malice" in posting the offending words on his Facebook page about the ministers' rental of state properties in Ridout Road.]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 14:16:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/lee-hsien-yang-defamation-ridout-road-200000-damages-each-shanmugam-vivian-balakrishnan-4360466
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UilxJbVZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/02/incollage_save%20(99)_0.jpg?itok=NZw9qqkE" width="1600"/>
+  </item>
   <item>
    <title>
     Housing needs, new HDB models paved way for public flats in prime Bukit Timah Turf City area: Analysts
@@ -417,48 +459,6 @@
     Entertainment ,CNA Lifestyle ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EfwoAWkb--/c_crop,h_596,w_1061,x_83,y_343/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/04/12/img_1434.jpg?itok=NFHXDEbl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former Wallabies stalwart Kepu calls time on decorated career
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/former-wallabies-stalwart-kepu-calls-time-decorated-career-4360126
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 10:52:29 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/former-wallabies-stalwart-kepu-calls-time-decorated-career-4360126
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wvDAbpt---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t025229z_1_lynxmpek4n03b_rtroptp_3_rugby-union-england-lon-sal.jpg?itok=-BLgMuVE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singaporean actor Hisyam Hamid ends marriage after 18 years: 'For now, we're more comfortable as good friends'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/hisyam-hamid-divorce-4360051
-   </link>
-   <description>
-    <![CDATA[Hisyam and his ex-wife Rosmawati Hanafi got married in 2006. ]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 10:45:30 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/hisyam-hamid-divorce-4360051
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---LRaSSmI--/c_crop,h_603,w_1072,x_7,y_42/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/hisyam_hamid.jpg?itok=L5JRH-bc" width="1600"/>
   </item>
  </channel>
 </rss>
