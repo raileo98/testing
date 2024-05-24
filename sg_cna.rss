@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 13:16:25 +0800
+   Fri, 24 May 2024 13:26:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Japan factory output seen up, inflation complicates BOJ exit - Reuters poll
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/japan-factory-output-seen-inflation-complicates-boj-exit-reuters-poll-4360436
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 13:22:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/japan-factory-output-seen-inflation-complicates-boj-exit-reuters-poll-4360436
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Scorching heatwave in India's Rajasthan kills nine
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---LRaSSmI--/c_crop,h_603,w_1072,x_7,y_42/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/hisyam_hamid.jpg?itok=L5JRH-bc" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Knowledge and relevant data crucial to ensuring water security, says UN
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sustainability/water-security-shortage-world-water-forum-bali-indonesia-united-nations-unesco-fao-4357826
-   </link>
-   <description>
-    <![CDATA[Reliable data needs to be collected on the ground by communities through methods like using a sensor chip, says the director of UNESCO’s Division of Water Sciences.]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 10:36:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sustainability/water-security-shortage-world-water-forum-bali-indonesia-united-nations-unesco-fao-4357826
-   </guid>
-   <category>
-    Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--m04caa-x--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/246a467daa07edaedc2aadaaf7512783774ed952.jpg?itok=ris18QKT" width="1600"/>
   </item>
  </channel>
 </rss>
