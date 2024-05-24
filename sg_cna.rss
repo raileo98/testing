@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 00:31:24 +0800
+   Sat, 25 May 2024 00:42:10 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Machac upsets Djokovic in Geneva Open semis
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/machac-upsets-djokovic-geneva-open-semis-4361886
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 00:35:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/machac-upsets-djokovic-geneva-open-semis-4361886
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sXp_nu4D--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t163553z_1_lynxmpek4n0ne_rtroptp_3_tennis-rome.jpg?itok=MZ763Sye" width="1600"/>
+  </item>
   <item>
    <title>
     Zverev thought brother was joking when told he had drawn Nadal
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--nqwBqNjk--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t133340z_1_lynxmpek4n0ii_rtroptp_3_tennis-rome.jpg?itok=pMV2t_sE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Investigators analysing data from SQ321's flight recorders: Chee Hong Tat
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/singapore-airlines-turbulence-investigators-analysing-data-sq321-cockpit-flight-recorders-4361286
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 21:32:35 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/singapore-airlines-turbulence-investigators-analysing-data-sq321-cockpit-flight-recorders-4361286
-   </guid>
-   <category>
-    Singapore ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qgheJ4DJ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t040227z_1_lynxmpek4n04d_rtroptp_3_singaporeairlines-thailand.jpg?itok=wo4Ha_s-" width="1600"/>
   </item>
  </channel>
 </rss>
