@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 02:11:06 +0800
+   Sat, 25 May 2024 02:27:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Four dead in restaurant collapse on Spanish holiday island
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/four-dead-restaurant-collapse-spanish-holiday-island-4361261
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 02:16:13 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/four-dead-restaurant-collapse-spanish-holiday-island-4361261
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2eyxLRI---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t133735z_1_lynxmpek4n0im_rtroptp_3_spain-mallorca-building-collapse.jpg?itok=tL_rd6lg" width="1600"/>
+  </item>
   <item>
    <title>
     Inter's Martinez named Serie A player of the season
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w3nrJu3U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t135356z_1_lynxmpek4n0j1_rtroptp_3_israel-palestinians-world-court.jpg?itok=bIDhRI7F" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City eye double double but Cup final is enough motivation - Guardiola
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-city-eye-double-double-cup-final-enough-motivation-guardiola-4361556
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 22:33:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-city-eye-double-double-cup-final-enough-motivation-guardiola-4361556
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Is-IQvbc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t143334z_1_lynxmpek4n0k2_rtroptp_3_soccer-england-mci-guardiola.jpg?itok=V-dA6_ss" width="1600"/>
   </item>
  </channel>
 </rss>
