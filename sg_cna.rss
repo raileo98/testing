@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 16:37:12 +0800
+   Fri, 24 May 2024 16:43:00 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Pioli leaves Milan after disappointing season
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pioli-leaves-milan-after-disappointing-season-4360716
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 16:36:16 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pioli-leaves-milan-after-disappointing-season-4360716
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--FOGqLz9r--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t083616z_1_lynxmpek4n0b1_rtroptp_3_soccer-italy-mil-gen-report.jpg?itok=Q9r-xTq6" width="1600"/>
+  </item>
   <item>
    <title>
     Pope Francis clears sainthood for Italian millennial known as 'God's influencer'
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UilxJbVZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/02/incollage_save%20(99)_0.jpg?itok=NZw9qqkE" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Housing needs, new HDB models paved way for public flats in prime Bukit Timah Turf City area: Analysts
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/turf-city-bukit-timah-hdb-prime-housing-location-model-4359161
-   </link>
-   <description>
-    <![CDATA[The site has been mostly zoned for residential use since 1998, but development was likely put off until now because of "no significant demand", says one academic.]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 13:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/turf-city-bukit-timah-hdb-prime-housing-location-model-4359161
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PlslTo63--/c_crop,h_758,w_1349,x_133,y_66/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/4-Artist-impression-of-a-repurposed-Fairways-Quarters-and-community-spacecredit-Urban-Redevelopment.jpg?itok=K8f2FTeA" width="1600"/>
   </item>
  </channel>
 </rss>

@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 16:30:36 +0800
+   Fri, 24 May 2024 16:40:33 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 09:44:00 +0800
+   Fri, 24 May 2024 16:35:08 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    HK stocks finish week with fourth straight loss
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754552-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754552-20240524.htm
+   </link>
+   <description>
+    <![CDATA[Hong Kong shares ended in negative territory for the fourth straight day on Friday, in line with a global retreat spurred by fresh data that fuelled worries the Federal Reserve will delay cutting interest rates.
+
+The Hang Seng Index sank 1.4 percent, or 259 points, to 18,608.
+
+The Shanghai Composite Index fell 0.9 percent, or 27 points, to 3,088, while the Shenzhen Composite Index tumbled 1.1 percent, or 19 points, to 1,734. (AFP)]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 16:35:08 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Hong Kong stocks fall further in early trading
@@ -585,41 +606,6 @@ One of the day's big losers was Paramount Global, which saw its share price fall
    </description>
    <pubDate>
     Sat, 18 May 2024 05:38:33 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    E-CNY pilot scheme expanded to HK for the first time
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1753582-20240517.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1753582-20240517.htm
-   </link>
-   <description>
-    <![CDATA[The Hong Kong Monetary Authority on Friday announced that a pilot electronic renminibi programme had been expanded to Hong Kong to include cross-border usage of the digital currency. 
-
-It marks the first time since the launch of the e-CNY pilot scheme in 2019 that the nation's official digital currency was available for use outside of the mainland.
-
-The programme, backed by Beijing, allows Hong Kong residents to open digital yuan wallets using a local mobile number via an app developed by China's central bank - the People's Bank of China.
-
-The expansion of the programme permits users to make payments in retail shops and some online stores in Hong Kong, Macau and other Greater Bay Area cities as well as in other places covered by the pilot scheme.
-
-Hongkongers who use the e-CNY wallets can pay up to 2,000 yuan for each transaction, and are limited to use up to 50,000 yuan worth of purchases per year. 
-
-The apps are operated by four mainland banks, namely Bank of China, Bank of Communications, China Construction Bank as well as Industrial and Commercial Bank of China, while users can top up their e-CNY wallets from 17 banks, including HSBC, Hang Seng Bank and Standard Chartered Bank. 
-
-Speaking at a press briefing, the authority's deputy chief executive, Howard Lee, said the expansion of the pilot scheme would make it more convenient for Hongkongers to shop on the mainland.
-
-"This is going to provide an additional means, a safe and secure means for people in Hong Kong to use this wallet across the border when they go there and they have a need to make a payment, or vice versa for mainland users coming to Hong Kong," he explained.
-
-"There are already some other means that can be used for this purpose, but we thought that different people might have different preferences, so one more option is always better than one fewer option."
-
-However, Hong Kong users currently cannot make peer-to-peer (P2P) transactions, or electronic money transfers from oneself to another through the e-CNY wallets.]]>
-   </description>
-   <pubDate>
-    Fri, 17 May 2024 17:35:05 +0800
    </pubDate>
   </item>
  </channel>
