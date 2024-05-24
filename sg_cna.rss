@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 19:14:48 +0800
+   Fri, 24 May 2024 19:21:53 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Former Labour leader Corbyn to stand as independent in UK election
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/former-labour-leader-corbyn-stand-independent-uk-election-4360571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 19:14:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/former-labour-leader-corbyn-stand-independent-uk-election-4360571
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ao-IM_3w--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t070918z_2_lynxmpek4n07z_rtroptp_3_britain-usa-assange.jpg?itok=DJVdfdrd" width="1600"/>
+  </item>
   <item>
    <title>
     US, European powers divided over confronting Iran at IAEA, diplomats say
@@ -438,27 +459,6 @@
     Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZqC5egOi--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/17/ulu%20tiram%20shoot%205.jpg?itok=Utp7v653" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Retrenched Lazada employees to get more payouts but some remain unhappy about differentiated packages
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lazada-retrenchment-package-layoffs-former-employees-updated-4360346
-   </link>
-   <description>
-    <![CDATA[Some former Lazada employees, mostly in lower-ranking roles, will receive two additional weeks of salary for each year of service, while others will receive a sum of S$1,200. ]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 17:16:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lazada-retrenchment-package-layoffs-former-employees-updated-4360346
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ww75bExT--/c_crop,h_436,w_776,x_0,y_31/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/05/lazada%203.jpg?itok=P90z9akK" width="1600"/>
   </item>
  </channel>
 </rss>
