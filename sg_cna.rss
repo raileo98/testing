@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 02:27:25 +0800
+   Sat, 25 May 2024 02:39:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Estonia says Russia removed navigation buoys on border river
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/estonia-says-russia-removed-navigation-buoys-border-river-4358571
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 02:36:36 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/estonia-says-russia-removed-navigation-buoys-border-river-4358571
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U68z-7K5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t135453z_1_lynxmpek4m0k8_rtroptp_3_estonia-russia.jpg?itok=IpXzw0Oj" width="1600"/>
+  </item>
   <item>
    <title>
     Four dead in restaurant collapse on Spanish holiday island
@@ -438,27 +459,6 @@
     East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--d8PmqLe6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t134812z_1_lynxmpek4n0ix_rtroptp_3_taiwan-politics.jpg?itok=Z_9fLqrV" width="1600"/>
-  </item>
-  <item>
-   <title>
-    ICJ orders Israel to 'immediately halt' offensive in Rafah
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/icj-orders-israel-immediately-halt-offensive-rafah-4360371
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 22:33:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/icj-orders-israel-immediately-halt-offensive-rafah-4360371
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--w3nrJu3U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t135356z_1_lynxmpek4n0j1_rtroptp_3_israel-palestinians-world-court.jpg?itok=bIDhRI7F" width="1600"/>
   </item>
  </channel>
 </rss>
