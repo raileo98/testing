@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 15:12:26 +0800
+   Fri, 24 May 2024 15:21:44 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Airbus fits electric truck with airliner cockpit to study safer taxiing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/airbus-fits-electric-truck-airliner-cockpit-study-safer-taxiing-4360576
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 15:12:51 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/airbus-fits-electric-truck-airliner-cockpit-study-safer-taxiing-4360576
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Eight killed in central China stabbing: Report
@@ -438,27 +459,6 @@
     Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hv4A2C9a--/c_crop,h_900,w_1600,x_0,y_143/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=qYPXqwSv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    BOJ to decide bond-purchase reduction by end-July, say economists
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/boj-decide-bond-purchase-reduction-end-july-say-economists-4360281
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 12:07:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/boj-decide-bond-purchase-reduction-end-july-say-economists-4360281
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--INgTVP1U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t040727z_1_lynxmpek4n04f_rtroptp_3_japan-economy-boj.jpg?itok=tHE4YcVk" width="1600"/>
   </item>
  </channel>
 </rss>
