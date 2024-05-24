@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 14:54:18 +0800
+   Fri, 24 May 2024 15:12:26 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Eight killed in central China stabbing: Report
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-stabbing-dead-wounded-hubei-xiaogan-mental-illness-4360561
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 15:08:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-stabbing-dead-wounded-hubei-xiaogan-mental-illness-4360561
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l1IwrmZy--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/hubei_province.jpg?itok=N0KybPeC" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Eight killed in central China stabbing: Report
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-stabbing-dead-wounded-hubei-xiaogan-mental-illness-4360561
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 15:08:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-stabbing-dead-wounded-hubei-xiaogan-mental-illness-4360561
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--l1IwrmZy--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/hubei_province.jpg?itok=N0KybPeC" width="1600"/>
+  </item>
   <item>
    <title>
     Sheriff: Narko Integriti sequel in the works, following Malaysian action movie's success
@@ -417,48 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--INgTVP1U--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t040727z_1_lynxmpek4n04f_rtroptp_3_japan-economy-boj.jpg?itok=tHE4YcVk" width="1600"/>
-  </item>
-  <item>
-   <title>
-    NDP 2024 ticket applications to open on May 27
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/ticket-applications-open-ndp-2024-preview-shows-may-27-4357771
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 12:01:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/ticket-applications-open-ndp-2024-preview-shows-may-27-4357771
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Hfhl88Ao--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/08/09/photo_6240228838890125252_y.jpg?itok=JICnQB6k" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Former Australia skipper Hooper dropped from sevens squad
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/former-australia-skipper-hooper-dropped-sevens-squad-4360241
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 11:58:22 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/former-australia-skipper-hooper-dropped-sevens-squad-4360241
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
