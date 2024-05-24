@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 16:43:00 +0800
+   Fri, 24 May 2024 16:51:51 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -261,15 +261,36 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Fri, 24 May 2024 15:12:51 +0800
+    Fri, 24 May 2024 15:12:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/business/airbus-fits-electric-truck-airliner-cockpit-study-safer-taxiing-4360576
    </guid>
    <category>
-    Business
+    Business ,World
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cft9O6Tx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t071251z_2_lynxmpek4n083_rtroptp_3_france-tech-airbus.jpg?itok=NGO4orJK" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Airbus fits electric truck with airliner cockpit to study safer taxiing
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/airbus-fits-electric-truck-airliner-cockpit-study-safer-taxiing-4360576
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 15:12:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/airbus-fits-electric-truck-airliner-cockpit-study-safer-taxiing-4360576
+   </guid>
+   <category>
+    Business ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cft9O6Tx--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t071251z_2_lynxmpek4n083_rtroptp_3_france-tech-airbus.jpg?itok=NGO4orJK" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--doqvPWtB--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t062827z_1_lynxmpek4n06w_rtroptp_3_soccer-england-brh-mun-report.jpg?itok=vea4Skcu" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Lee Hsien Yang ordered to pay S$200,000 each to Shanmugam and Vivian Balakrishnan for defamation
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lee-hsien-yang-defamation-ridout-road-200000-damages-each-shanmugam-vivian-balakrishnan-4360466
-   </link>
-   <description>
-    <![CDATA[The judge found that Mr Lee Hsien Yang had "acted with malice" in posting the offending words on his Facebook page about the ministers' rental of state properties in Ridout Road.]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 14:16:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lee-hsien-yang-defamation-ridout-road-200000-damages-each-shanmugam-vivian-balakrishnan-4360466
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UilxJbVZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/02/incollage_save%20(99)_0.jpg?itok=NZw9qqkE" width="1600"/>
   </item>
  </channel>
 </rss>
