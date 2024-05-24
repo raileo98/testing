@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 12:31:16 +0800
+   Fri, 24 May 2024 12:41:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Malaysia’s 1MDB seeks US$1.83 billion in lawsuit against PetroSaudi executive over “sham” joint venture
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/1mdb-sues-petrosaudi-executive-patrick-mahony-4360316
+   </link>
+   <description>
+    <![CDATA[The insolvent sovereign fund claims Patrick Mahony misled it into believing a Saudi King owned the oil company and that he assisted former prime minister Najib Razak in the misappropriation of state finances.]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 12:32:48 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/1mdb-sues-petrosaudi-executive-patrick-mahony-4360316
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Woman charged with 'stabbing' 6-year-old boy with pen at childcare centre
@@ -438,27 +459,6 @@
     Entertainment ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--VS1mNm3d--/c_crop,h_572,w_1016,x_0,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2023/11/17/sean_diddy_combs_cassie_ventura_000_343x9dn.jpg?itok=UgoETcQa" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Oil steady as investors weigh US rate fears, firmer seasonal demand
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/oil-steady-investors-weigh-us-rate-fears-firmer-seasonal-demand-4359906
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 08:38:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/oil-steady-investors-weigh-us-rate-fears-firmer-seasonal-demand-4359906
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--18_nr_rs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t003816z_1_lynxmpek4n016_rtroptp_3_global-oil.jpg?itok=VQJ1L0h9" width="1600"/>
   </item>
  </channel>
 </rss>
