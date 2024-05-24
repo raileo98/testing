@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Thu, 23 May 2024 17:00:15 GMT
+   Fri, 24 May 2024 17:00:01 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,24 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    王子榮／逝者已矣？談司法判決中的《破墓》二三事
+   </title>
+   <description>
+    <![CDATA[韓片《破墓》在台韓都創下驚人票房和口碑。其實關於身後事，往往一個處理不慎就成為司法衙門內的事──生前爭一口氣，死後也要爭一席之地。我國法律裡有哪些「特殊」的章節條文？在現代的法治思潮下，是否還能禁得起檢驗？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/saturday-features-legal-profession-exhuma
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/saturday-features-legal-profession-exhuma
+   </guid>
+   <pubDate>
+    Fri, 24 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240523183111-b2186ef5e1b03a372bb19f0e868f7ffd-mobile.jpg"/>
+  </item>
   <item>
    <title>
     在地緣政治史無前例動盪的時代，最強情報組織「五眼聯盟」的前景
@@ -195,24 +213,6 @@
     Sat, 18 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424083642-8fc2c4cc53636c952cc114ded05faca4-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    登不到的釣魚台，紀錄片作為「過程」：訪《誰來釣魚®？》導演陳芯宜、製片樓一安
-   </title>
-   <description>
-    <![CDATA[20年前剛開始接觸紀錄片的陳芯宜和樓一安，在《誰來釣魚®？》中，嘗試以「記錄」靠近這座無法抵達的離島，也試圖透過紀錄片，解消緊跟著釣魚台的商標符號、所有權爭奪，「把釣魚台還給海洋」。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/saturday-features-film-who-is-fishing
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/saturday-features-film-who-is-fishing
-   </guid>
-   <pubDate>
-    Fri, 17 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240423000918-561521bf5ca79c031e02332387f442fb-mobile.jpg"/>
   </item>
  </channel>
 </rss>
