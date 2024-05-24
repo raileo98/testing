@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 14:30:51 +0800
+   Fri, 24 May 2024 14:40:35 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 14:23:12 +0800
+   Fri, 24 May 2024 14:40:27 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股低收約1.2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754532-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754532-20240524.htm
+   </link>
+   <description>
+    <![CDATA[東京股市下挫。日經指數收市報38646點，跌457點，跌幅1.17%。
+
+指數本周累計跌逾0.3%。]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 14:40:27 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     台股收市跌約0.2%　本周累升逾1.4%
@@ -437,29 +456,6 @@ SEC於1月批准了比特幣現貨ETF後，VanEck及貝萊德等多家發行機�
    </description>
    <pubDate>
     Fri, 24 May 2024 06:20:18 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    港股美國預託證券大多下跌　平保跌近2%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754466-20240524.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754466-20240524.htm
-   </link>
-   <description>
-    <![CDATA[港股美國預託證券(ADR)大多下挫。
-
-平保ADR比本港昨日收市價跌約1.9%，以港元計折合報41.8元。
-
-ATMXJ除了阿里巴巴ADR升約0.3%，其餘跌逾1%。阿里巴巴較早時公布，計劃發行本金總額最多50億美元的可轉換債券。
-
-金融股亦偏軟，普遍跌約1%或以上。]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 06:19:40 +0800
    </pubDate>
   </item>
  </channel>
