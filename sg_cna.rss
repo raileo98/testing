@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 22:51:16 +0800
+   Fri, 24 May 2024 23:12:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    What is OPEC+ and how does it affect oil prices?
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/what-opec-and-how-does-it-affect-oil-prices-4361621
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 22:58:28 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/what-opec-and-how-does-it-affect-oil-prices-4361621
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--dxiqKab4--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t145828z_1_lynxmpek4n0kp_rtroptp_3_opec-oil.jpg?itok=FL1bG8TI" width="1600"/>
+  </item>
   <item>
    <title>
     Tens of thousands protest against contentious Taiwan parliament reforms
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Man shot dead by police in riot-hit New Caledonia: Media
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/man-shot-dead-police-riot-hit-new-caledonia-media-4360586
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 19:29:20 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/man-shot-dead-police-riot-hit-new-caledonia-media-4360586
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--59Bx0rvK--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t072733z_2_lynxmpek4n08e_rtroptp_3_newcaledonia-violence-inequalities.jpg?itok=6JHsPH3V" width="1600"/>
   </item>
  </channel>
 </rss>
