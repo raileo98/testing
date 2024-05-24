@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 21:31:14 +0800
+   Fri, 24 May 2024 22:10:18 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 21:29:59 +0800
+   Fri, 24 May 2024 21:38:11 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,29 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    美股開市後反彈
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754600-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754600-20240524.htm
+   </link>
+   <description>
+    <![CDATA[紐約股市反彈。
+
+道瓊斯指數較早時報39145點，升79點。
+
+納斯達克指數報16804點，升68點。
+
+標準普爾500指數報5289點，升21點。]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 21:38:11 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     李強主持召開國常會：積極培育跨境電商主體　加大金融支持
@@ -283,7 +306,7 @@
   </item>
   <item>
    <title>
-    至今15387人獲發新生嬰兒家庭獎勵金涉款逾3500萬元
+    至今15387人獲發新生嬰兒家庭獎勵金
    </title>
    <guid>
     https://news.rthk.hk/rthk/ch/component/k2/1754565-20240524.htm
@@ -294,7 +317,7 @@
    <description>
     <![CDATA[政府為鼓勵市民生育，向新生嬰兒家庭發放兩萬元現金獎勵，計劃為期三年。 
 
-政務司副司長卓永興表示，截止昨日，當局共收到約16118份合資格新生嬰兒獎勵金申請，已向其中15387名申請人發放，共涉款超過3500萬元。他形容推出獎勵金是政策突破，在財政赤字高企下，政府仍推出獎勵金是重大財政承擔，充分反映政府對鼓勵生育的重視及問題的迫切性。
+政務司副司長卓永興表示，截止昨日，當局共收到約16118份合資格新生嬰兒獎勵金申請，已向其中15387名申請人發放獎勵金。他形容推出獎勵金是政策突破，在財政赤字高企下，政府仍推出獎勵金是重大財政承擔，充分反映政府對鼓勵生育的重視及問題的迫切性。
 
 卓永興出席一個有關生育的論壇致辭時表示，政府發放該獎勵金的速度快，由提出申請至發放約需兩星期。他說，社會及立法會要求政府發放獎勵金多年，政策醞釀時都並非討論兩萬元，多數是談及一萬元，形容當局政策進取。
 
@@ -459,25 +482,6 @@
    </description>
    <pubDate>
     Fri, 24 May 2024 14:40:47 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    日股低收約1.2%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754532-20240524.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754532-20240524.htm
-   </link>
-   <description>
-    <![CDATA[東京股市下挫。日經指數收市報38646點，跌457點，跌幅1.17%。
-
-指數本周累計跌逾0.3%。]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 14:40:27 +0800
    </pubDate>
   </item>
  </channel>

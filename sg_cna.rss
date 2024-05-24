@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 21:57:37 +0800
+   Fri, 24 May 2024 22:15:37 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China walnut product recalled over use of prohibited sweetener
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/xiyuguoyuan-xinjiang-paper-roasted-walnut-product-recall-prohibited-sweetener-sfa-4361336
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 22:12:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/xiyuguoyuan-xinjiang-paper-roasted-walnut-product-recall-prohibited-sweetener-sfa-4361336
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--X3mnSyoV--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/incollage_save%20(18).jpg?itok=q8qk6sp6" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Cencora notifies individuals about cyberattack earlier this year, TechCrunch reports
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/cencora-notifies-individuals-about-cyberattack-earlier-year-techcrunch-reports-4361491
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 21:55:27 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/cencora-notifies-individuals-about-cyberattack-earlier-year-techcrunch-reports-4361491
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--H1X2Rdhz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t135527z_1_lynxmpek4n0j6_rtroptp_3_cyber-attack.jpg?itok=6w2WCXQ8" width="1600"/>
+  </item>
   <item>
    <title>
     Kabosu, the face of cryptocurrency Dogecoin, dies at 18, owner says
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BDONg0kV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t110456z_1_lynxmpek4n0ew_rtroptp_3_cycling-tourdefrance-vingegaard.jpg?itok=IUBnzZOi" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Formula 1 interested in second race in Southeast Asia
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/formula-1-interested-second-race-southeast-asia-4361001
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 18:19:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/formula-1-interested-second-race-southeast-asia-4361001
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Hz49fjCc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/09/17/DSC_5448%20(2).jpg?itok=zLv5EI4a" width="1600"/>
-  </item>
-  <item>
-   <title>
-    North Korea preparing to launch military satellite, South says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/east-asia/north-korea-prepare-launch-military-satellite-south-korea-4360851
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 18:17:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/east-asia/north-korea-prepare-launch-military-satellite-south-korea-4360851
-   </guid>
-   <category>
-    East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--4K6_5HLs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t093812z_1_lynxmpek4n0ce_rtroptp_3_northkorea-missiles.jpg?itok=vZlKkxVW" width="1600"/>
   </item>
  </channel>
 </rss>
