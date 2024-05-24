@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 04:54:53 +0800
+   Sat, 25 May 2024 05:09:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    GameStop shares surge after completing at-the-market share sale
+    Families of Uvalde school shooting victims sue Meta, Microsoft, gunmaker
    </title>
    <link>
-    https://www.channelnewsasia.com/business/gamestop-shares-surge-after-completing-market-share-sale-4362371
+    https://www.channelnewsasia.com/business/families-uvalde-school-shooting-victims-sue-meta-microsoft-gunmaker-4362401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 04:58:47 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/families-uvalde-school-shooting-victims-sue-meta-microsoft-gunmaker-4362401
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iQ90TNMu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t205720z_2_lynxmpek4n0r9_rtroptp_3_texas-shooting-uvalde.jpg?itok=tjIuGWub" width="1600"/>
+  </item>
+  <item>
+   <title>
+    GameStop surges after fetching $933 million from stock sale
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/gamestop-surges-after-fetching-933-million-stock-sale-4362371
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Sat, 25 May 2024 04:32:47 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/gamestop-shares-surge-after-completing-market-share-sale-4362371
+    https://www.channelnewsasia.com/business/gamestop-surges-after-fetching-933-million-stock-sale-4362371
    </guid>
    <category>
     Business
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1VRgY-rH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t161014z_1_lynxmpek4n0mp_rtroptp_3_japan-yen.jpg?itok=A4HMCJ9D" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Super Size Me filmmaker Morgan Spurlock dies of cancer aged 53
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/super-size-me-filmmaker-morgan-spurlock-dies-cancer-aged-53-4361706
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 23:43:48 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/super-size-me-filmmaker-morgan-spurlock-dies-cancer-aged-53-4361706
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--QaxngASU--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/000_34tr4q6.jpg?itok=5ju3m6TQ" width="1600"/>
   </item>
  </channel>
 </rss>
