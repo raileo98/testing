@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 11:01:53 +0800
+   Fri, 24 May 2024 11:20:20 +0800
   </pubDate>
   <lastBuildDate>
-   Thu, 23 May 2024 22:42:32 +0800
+   Fri, 24 May 2024 11:09:15 +0800
   </lastBuildDate>
   <category>
    News
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    Sailor injured in cargo ship accident
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/en/component/k2/1754498-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/en/component/k2/1754498-20240524.htm
+   </link>
+   <description>
+    <![CDATA[Police say a sailor has suffered a fractured leg and head injuries after plunging nine metres from a freight container on a cargo ship in Tsing Yi. 
+
+The accident happened just before midnight on Thursday. 
+
+The sailor, 57, was said to have been conscious when he was taken to Princess Margaret Hospital for treatment.]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 11:09:15 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     Authorities probe gastroenteritis outbreak at hospital
@@ -597,43 +618,6 @@ He also argued against claims there were potentially economic benefits to corrup
    </description>
    <pubDate>
     Wed, 22 May 2024 12:52:44 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    Hong Kong renowned for its clean govt: CE
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/en/component/k2/1754176-20240522.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/en/component/k2/1754176-20240522.htm
-   </link>
-   <description>
-    <![CDATA[Hong Kong is at the forefront of the international fight against corruption, Chief Executive John Lee said on Wednesday, while vowing to sustain the territory's "pioneering role" in anti-graft work. 
-
-He also told the opening ceremony of a symposium in Wan Chai that the SAR has a clean and efficient government and zero tolerance for corruption. 
-
-The three-day event, co-hosted by the Independent Commission Against Corruption (ICAC) and International Association of Anti-Corruption Authorities, attracted more than 500 participants, including anti-corruption experts, legal professionals and academics. 
-
-"Under the unique 'One Country, Two Systems' principle, Hong Kong maintains a robust regulatory regime in line with international standards, and is renowned globally for its clean and efficient government, level-playing field for doing business, sound rule of law, a judiciary with independent judicial power, and zero tolerance for corruption," Lee said. 
-
-He also said the anti-corruption body had championed the fight against corruption in the city for half a century. 
-
-"It is a priority of the Hong Kong SAR government to sustain our pioneering role in combating corruption. We are pleased and proud to back the ICAC in widening its international network and cooperating with overseas counterparts," Lee said. 
-
-"We are committed, as well, to ensuring that our legal framework and anti-corruption institutions, as well as public and private sector governance, reflect the highest international obligations and standards."
-
-Danny Woo, the commissioner of the anti-graft body, told the same event that the Hong Kong International Academy Against Corruption had organised 70 training courses for more than 40 agencies around the world since it was established in February. 
-
-He said there would be a training programme on the use of innovation and technology to combat and prevent corruption following the symposium. 
-
-"A unique feature of this training programme is a three-day study tour to the city of Changsha of China. Participants will witness first-hand China's latest development and anti-corruption initiative during the trip," Woo said. 
-
-Also at the symposium was the signing of memoranda of understanding between the ICAC and the United Nations Office on Drugs and Crime, as well as anti-corruption authorities from Kazakhstan, Mauritius, Saudi Arabia, and South Africa.]]>
-   </description>
-   <pubDate>
-    Wed, 22 May 2024 11:40:31 +0800
    </pubDate>
   </item>
  </channel>
