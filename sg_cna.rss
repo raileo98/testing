@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 18:59:15 +0800
+   Fri, 24 May 2024 19:14:48 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    US, European powers divided over confronting Iran at IAEA, diplomats say
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/us-europe-powers-divided-confronting-iran-iaea-diplomats-nuclear-4361061
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 19:10:55 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/us-europe-powers-divided-confronting-iran-iaea-diplomats-nuclear-4361061
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_u01GUwh--/c_fill,h_900,w_1600/f_auto,q_auto/v1/one-cms/core/2024-04-18t210149z_1_lynxnpek3h0wc_rtroptp_3_ukraine-crisis-russia-zaporizhzhia-nuclearpower.jpg?itok=stMSn1Nz" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Vingegaard needs to be 100% recovered for Tour, says team boss
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/vingegaard-needs-be-100-recovered-tour-says-team-boss-4361086
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 19:04:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/vingegaard-needs-be-100-recovered-tour-says-team-boss-4361086
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--BDONg0kV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t110456z_1_lynxmpek4n0ew_rtroptp_3_cycling-tourdefrance-vingegaard.jpg?itok=IUBnzZOi" width="1600"/>
+  </item>
   <item>
    <title>
     Formula 1 interested in second race in Southeast Asia
@@ -417,48 +459,6 @@
     Singapore ,Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ww75bExT--/c_crop,h_436,w_776,x_0,y_31/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/05/lazada%203.jpg?itok=P90z9akK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Retrenched Lazada employees to get more payouts but some remain unhappy about differentiated packages
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/lazada-retrenchment-package-layoffs-former-employees-updated-4360346
-   </link>
-   <description>
-    <![CDATA[Some former Lazada employees, mostly in lower-ranking roles, will receive two additional weeks of salary for each year of service, while others will receive a sum of S$1,200. ]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 17:16:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/lazada-retrenchment-package-layoffs-former-employees-updated-4360346
-   </guid>
-   <category>
-    Singapore ,Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Ww75bExT--/c_crop,h_436,w_776,x_0,y_31/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/01/05/lazada%203.jpg?itok=P90z9akK" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Amid chants and K-pop, Samsung union stages rare rally for fair wages
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/amid-chants-and-k-pop-samsung-union-stages-rare-rally-fair-wages-4360786
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 17:07:16 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/amid-chants-and-k-pop-samsung-union-stages-rare-rally-fair-wages-4360786
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
