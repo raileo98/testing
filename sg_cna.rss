@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 12:19:31 +0800
+   Fri, 24 May 2024 12:31:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Woman charged with 'stabbing' 6-year-old boy with pen at childcare centre
+   </title>
+   <link>
+    https://www.channelnewsasia.com/singapore/woman-charged-stab-boy-pen-childcare-centre-4360306
+   </link>
+   <description>
+    <![CDATA[The boy suffered abrasions on his scalp and over his eyebrow ridge.]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 12:29:56 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/singapore/woman-charged-stab-boy-pen-childcare-centre-4360306
+   </guid>
+   <category>
+    Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--hv4A2C9a--/c_crop,h_900,w_1600,x_0,y_143/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/03/12/jem_0152.jpg?itok=qYPXqwSv" width="1600"/>
+  </item>
   <item>
    <title>
     BOJ to decide bond-purchase reduction by end-July, say economists
@@ -438,27 +459,6 @@
     Business
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--18_nr_rs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t003816z_1_lynxmpek4n016_rtroptp_3_global-oil.jpg?itok=VQJ1L0h9" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Micron hit with $445 million US verdict in Netlist patent trial
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/micron-hit-445-million-us-verdict-netlist-patent-trial-4359901
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 08:35:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/micron-hit-445-million-us-verdict-netlist-patent-trial-4359901
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kuuv33bw--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t003558z_2_lynxmpek4n00x_rtroptp_3_india-semiconductors.jpg?itok=vAJsj9vo" width="1600"/>
   </item>
  </channel>
 </rss>
