@@ -21,7 +21,7 @@
    en
   </language>
   <lastBuildDate>
-   Fri, 24 May 2024 12:35:40 GMT
+   Fri, 24 May 2024 12:54:39 GMT
   </lastBuildDate>
   <ttl>
    5
@@ -48,6 +48,18 @@
    <author>
     王蕙文
    </author>
+   <category>
+    颶風
+   </category>
+   <category>
+    威力
+   </category>
+   <category>
+    預測
+   </category>
+   <category>
+    國家
+   </category>
   </item>
   <item>
    <title>
@@ -559,6 +571,18 @@
    <author>
     沈祿珮
    </author>
+   <category>
+    啤酒
+   </category>
+   <category>
+    水資源
+   </category>
+   <category>
+    展覽
+   </category>
+   <category>
+    酒廠
+   </category>
   </item>
   <image>
    <url>
