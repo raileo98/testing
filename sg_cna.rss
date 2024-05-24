@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 23:24:22 +0800
+   Fri, 24 May 2024 23:30:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Wawrinka clash revives painful memories for Murray
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/wawrinka-clash-revives-painful-memories-murray-4361721
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 23:19:59 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/wawrinka-clash-revives-painful-memories-murray-4361721
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Zea-3h1y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151959z_1_lynxmpek4n0lb_rtroptp_3_tennis-frenchopen-murray.jpg?itok=IRWsAXdb" width="1600"/>
+  </item>
   <item>
    <title>
     Alcaraz pain-free heading into French Open but still concerned
@@ -437,28 +458,7 @@
    <category>
     Business
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PSYVZ5w6--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t131143z_4_lynxmpek4n0gh_rtroptp_3_france-politics-macron.jpg?itok=AfSnQxHS" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Barcelona axe Xavi after season of turmoil
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/barcelona-axe-xavi-after-season-turmoil-4361151
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 19:52:24 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/barcelona-axe-xavi-after-season-turmoil-4361151
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_PuFBTcO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t120059z_2_lynxmpek4n0fw_rtroptp_3_soccer-spain-soc-fcb-preview.jpg?itok=-RIx9UZo" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--de33JwGQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t152714z_5_lynxmpek4n0gh_rtroptp_3_france-politics-macron.jpg?itok=eGDUUnBw" width="1600"/>
   </item>
  </channel>
 </rss>
