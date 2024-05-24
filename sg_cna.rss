@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 11:46:21 +0800
+   Fri, 24 May 2024 11:59:15 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Beaten Leverkusen hope to 'find themselves' in German Cup final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/beaten-leverkusen-hope-find-themselves-german-cup-final-4360201
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 11:52:54 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/beaten-leverkusen-hope-find-themselves-german-cup-final-4360201
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Itochu unit signs renewable energy agreement with Google in Japan
@@ -438,27 +459,6 @@
     Entertainment ,World ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KTQNM2AL--/c_crop,h_576,w_1024,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/ap24144734852291.jpg?itok=fdGVW0FU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Costa Rica goalkeeper Navas announces international retirement
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/costa-rica-goalkeeper-navas-announces-international-retirement-4359881
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 08:15:51 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/costa-rica-goalkeeper-navas-announces-international-retirement-4359881
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
