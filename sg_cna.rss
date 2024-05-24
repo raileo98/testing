@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 03:48:26 +0800
+   Sat, 25 May 2024 04:06:13 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Influential former RFU president Morgan dies at 88
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/influential-former-rfu-president-morgan-dies-88-4362286
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 03:57:53 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/influential-former-rfu-president-morgan-dies-88-4362286
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Qlczux4K--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t195753z_1_lynxmpek4n0qn_rtroptp_3_rugby-union-nations-wal-eng-morgan.jpg?itok=BZasLDW3" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Businessman Textor to sell his stake in Palace
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/businessman-textor-sell-his-stake-palace-4362291
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 03:55:14 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/businessman-textor-sell-his-stake-palace-4362291
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Z38NYtAg--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t195514z_2_lynxmpek4n0qm_rtroptp_3_soccer-brazil-flu-bot-report.jpg?itok=9CyiRs5N" width="1600"/>
+  </item>
   <item>
    <title>
     Equatorial Guinea forfeit World Cup qualifiers over ineligible Nsue
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--vRDF6X_q--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t153003z_1_lynxmpek4n0lq_rtroptp_3_tennis-frenchopen-sinner.jpg?itok=D66z9RsP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Wawrinka clash revives painful memories for Murray
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/wawrinka-clash-revives-painful-memories-murray-4361721
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 23:19:59 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/wawrinka-clash-revives-painful-memories-murray-4361721
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Zea-3h1y--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151959z_1_lynxmpek4n0lb_rtroptp_3_tennis-frenchopen-murray.jpg?itok=IRWsAXdb" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Alcaraz pain-free heading into French Open but still concerned
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/alcaraz-pain-free-heading-french-open-still-concerned-4361701
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 23:17:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/alcaraz-pain-free-heading-french-open-still-concerned-4361701
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e5XPL24l--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151700z_1_lynxmpek4n0l8_rtroptp_3_tennis-madrid.jpg?itok=ozyY0N9-" width="1600"/>
   </item>
  </channel>
 </rss>
