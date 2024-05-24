@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 10:06:29 +0800
+   Fri, 24 May 2024 10:30:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Manipur's ethnic violence splinters teams and sporting dreams
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/manipurs-ethnic-violence-splinters-teams-and-sporting-dreams-4360046
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 10:07:20 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/manipurs-ethnic-violence-splinters-teams-and-sporting-dreams-4360046
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--c2totinI--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t021231z_1_lynxmpek4n02m_rtroptp_3_india-manipur.jpg?itok=5R5J-vtN" width="1600"/>
+  </item>
   <item>
    <title>
     Australia breaststroker Hodges retires with 'hips of 60-year-old'
@@ -357,10 +378,10 @@
   </item>
   <item>
    <title>
-    Japan's April inflation slows further to 2.2%, matches forecast
+    Japan's inflation slows further, keeping BOJ cautious on further rate hikes
    </title>
    <link>
-    https://www.channelnewsasia.com/business/japans-april-inflation-slows-further-22-matches-forecast-4359816
+    https://www.channelnewsasia.com/business/japans-inflation-slows-further-keeping-boj-cautious-further-rate-hikes-4359816
    </link>
    <description>
     <![CDATA[]]>
@@ -369,7 +390,7 @@
     Fri, 24 May 2024 07:32:17 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japans-april-inflation-slows-further-22-matches-forecast-4359816
+    https://www.channelnewsasia.com/business/japans-inflation-slows-further-keeping-boj-cautious-further-rate-hikes-4359816
    </guid>
    <category>
     Business
@@ -387,7 +408,7 @@
     <![CDATA[Most of the time, peculiar colours such as red, pink, blue and green could result from your food or medication. But there are instances when you should have a word with your doctor. ]]>
    </description>
    <pubDate>
-    Fri, 24 May 2024 07:25:40 +0800
+    Fri, 24 May 2024 07:25:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/wellness/pee-urine-colour-health-conditions-uti-kidney-stones-chronic-kidney-disease-4333746
@@ -408,7 +429,7 @@
     <![CDATA[Most of the time, peculiar colours such as red, pink, blue and green could result from your food or medication. But there are instances when you should have a word with your doctor. ]]>
    </description>
    <pubDate>
-    Fri, 24 May 2024 07:25:40 +0800
+    Fri, 24 May 2024 07:25:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/wellness/pee-urine-colour-health-conditions-uti-kidney-stones-chronic-kidney-disease-4333746
@@ -429,7 +450,7 @@
     <![CDATA[Most of the time, peculiar colours such as red, pink, blue and green could result from your food or medication. But there are instances when you should have a word with your doctor. ]]>
    </description>
    <pubDate>
-    Fri, 24 May 2024 07:25:40 +0800
+    Fri, 24 May 2024 07:25:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/wellness/pee-urine-colour-health-conditions-uti-kidney-stones-chronic-kidney-disease-4333746
@@ -438,27 +459,6 @@
     Wellness ,CNA Lifestyle ,Singapore
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--3wRLA5Vd--/c_crop,h_897,w_1595,x_1,y_1/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/15/1.jpg?itok=pvf4JAZt" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Women leaders: She leads 130 healthcare workers at the Home Nursing Foundation to care for the sick and frail
-   </title>
-   <link>
-    https://www.channelnewsasia.com/women/home-nursing-foundation-ceo-dr-christina-tiong-women-leaders-4333721
-   </link>
-   <description>
-    <![CDATA[People may be surviving with health conditions for longer but Dr Christina Tiong, CEO of Home Nursing Foundation, says “surviving” is not enough. In CNA Women’s new series on women leaders, learn how this doctor and her team help severely ill, frail and end-of-life patients find dignity and purpose.]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 07:18:58 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/women/home-nursing-foundation-ceo-dr-christina-tiong-women-leaders-4333721
-   </guid>
-   <category>
-    Women ,CNA Lifestyle ,Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--1cIlNEZs--/c_crop,h_362,w_643,x_1,y_0/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/14/dr_christina_tiong-ceo_of_home_nursing_foundation.jpeg?itok=XtsPq_CH" width="1600"/>
   </item>
  </channel>
 </rss>
