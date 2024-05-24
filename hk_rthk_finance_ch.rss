@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 16:50:27 +0800
+   Fri, 24 May 2024 17:10:24 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 16:49:53 +0800
+   Fri, 24 May 2024 16:58:33 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    本港二手樓價跌幅擴大至1.43%　迫近撤辣前低位
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754548-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754548-20240524.htm
+   </link>
+   <description>
+    <![CDATA[反映本港二手樓價走勢的中原城市領先指數（CCL）最新報144，按周跌1.43%，創9周新低。中小型單位及大型單位樓價按周跌逾1%至2%。4區樓價跌近1%至2%以上。
+
+中原地產表示，整體二手樓價連跌4周合共跌近2%，跌幅擴大，並迫近撤辣前低位，認為撤辣效應逐漸消失，8大指數齊跌是今年以來首次，反映樓市有下調跡象。
+
+另外，新盤繼續低價促銷搶客，二手受壓情況未變，相信CCL將進一步跌穿143點水平，預期6月底下試140點，上半年樓價跌約5%。]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 16:58:33 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     瑞銀：金價年內可升至2500美元新高
@@ -449,25 +470,6 @@
    </description>
    <pubDate>
     Fri, 24 May 2024 09:24:53 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    台股初段跌逾0.8%
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754481-20240524.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754481-20240524.htm
-   </link>
-   <description>
-    <![CDATA[台灣股市初段下跌。
-
-加權指數較早時報21428點，跌178點，跌幅0.83%。]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 09:07:08 +0800
    </pubDate>
   </item>
  </channel>
