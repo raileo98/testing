@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 23:12:09 +0800
+   Fri, 24 May 2024 23:24:22 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Alcaraz pain-free heading into French Open but still concerned
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/alcaraz-pain-free-heading-french-open-still-concerned-4361701
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 23:17:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/alcaraz-pain-free-heading-french-open-still-concerned-4361701
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--e5XPL24l--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151700z_1_lynxmpek4n0l8_rtroptp_3_tennis-madrid.jpg?itok=ozyY0N9-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Norwegian FA President Klaveness to attend Women's CL final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/norwegian-fa-president-klaveness-attend-womens-cl-final-4361671
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 23:13:43 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/norwegian-fa-president-klaveness-attend-womens-cl-final-4361671
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7ciCNxRe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t151343z_1_lynxmpek4n0l3_rtroptp_3_soccer-champions-fcb-lyo-preview.jpg?itok=XRdcHloq" width="1600"/>
+  </item>
   <item>
    <title>
     What is OPEC+ and how does it affect oil prices?
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_PuFBTcO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t120059z_2_lynxmpek4n0fw_rtroptp_3_soccer-spain-soc-fcb-preview.jpg?itok=-RIx9UZo" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Real Madrid's Tchouameni to miss Champions League final
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/real-madrids-tchouameni-miss-champions-league-final-4361136
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 19:35:04 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/real-madrids-tchouameni-miss-champions-league-final-4361136
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ojI8UZO5--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t113504z_1_lynxmpek4n0fn_rtroptp_3_soccer-spain-mad-bet-preview.jpg?itok=jWRqoaeU" width="1600"/>
-  </item>
-  <item>
-   <title>
-    EU data protection board says ChatGPT still not meeting data accuracy standards
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/eu-data-protection-board-says-chatgpt-still-not-meeting-data-accuracy-standards-4361121
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 19:32:27 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/eu-data-protection-board-says-chatgpt-still-not-meeting-data-accuracy-standards-4361121
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail/>
   </item>
  </channel>
 </rss>
