@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 17:30:38 +0800
+   Fri, 24 May 2024 17:40:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Voting in 47°C weather: Experts blame low turnout on poor planning by India’s election body
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/india-heatwave-hot-weather-election-low-voter-turnout-poor-planning-4360766
+   </link>
+   <description>
+    <![CDATA[Polling begins in the Indian capital of New Delhi on Saturday, with temperatures reaching as high as 47 degrees Celsius there.]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 17:32:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/india-heatwave-hot-weather-election-low-voter-turnout-poor-planning-4360766
+   </guid>
+   <category>
+    Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Thhkcnka--/c_crop,h_826,w_1468,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/screenshot_2024-05-24_161845.png?itok=RiYlZChS" width="1600"/>
+  </item>
+  <item>
+   <title>
+    United's European hopes hanging by a thread
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/uniteds-european-hopes-hanging-thread-4360841
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 17:30:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/uniteds-european-hopes-hanging-thread-4360841
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--U2swGBib--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t093018z_1_lynxmpek4n0c8_rtroptp_3_soccer-england-brh-mun-report.jpg?itok=kMLl5e6E" width="1600"/>
+  </item>
   <item>
    <title>
     G7 finance summit kicks off seeking unity on Ukraine, China
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--pDMadNZC--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t074503z_1_lynxmpek4n096_rtroptp_3_italy-politics-europe-league.jpg?itok=LnIyYhw3" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Brown shines as Celtics take 2-0 lead over Pacers, Haliburton hurt
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/brown-shines-celtics-take-2-0-lead-over-pacers-haliburton-hurt-4360196
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 15:38:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/brown-shines-celtics-take-2-0-lead-over-pacers-haliburton-hurt-4360196
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--zfC0-NoE--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/dd661243792d921b54aae46a600324803568d1dd.jpg?itok=V1-MO-HP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man City's Foden doesn't want to think about Pep leaving
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/man-citys-foden-doesnt-want-think-about-pep-leaving-4360596
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 15:32:49 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-citys-foden-doesnt-want-think-about-pep-leaving-4360596
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--p13ImEKY--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t073249z_1_lynxmpek4n08w_rtroptp_3_soccer-england-mci-whu-report.jpg?itok=yIfoN3Uo" width="1600"/>
   </item>
  </channel>
 </rss>
