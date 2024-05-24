@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Fri, 24 May 2024 10:31:05 +0800
+   Fri, 24 May 2024 11:01:28 +0800
   </pubDate>
   <lastBuildDate>
-   Fri, 24 May 2024 09:55:25 +0800
+   Fri, 24 May 2024 10:41:50 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,25 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    日股半日跌約1.2%
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754497-20240524.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754497-20240524.htm
+   </link>
+   <description>
+    <![CDATA[日股捱沽，半日跌幅收窄。
+
+日經指數半日報38649點，跌454點，跌幅1.16%，指數今早曾跌至38367點。]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 10:41:50 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     內地股市初段微升
@@ -451,25 +470,6 @@ Nvidia上季業績好過預期，並宣布拆細股份，股價升穿1000美元�
    </description>
    <pubDate>
     Thu, 23 May 2024 23:49:13 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    美國4月新屋銷售遜預期
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754448-20240523.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754448-20240523.htm
-   </link>
-   <description>
-    <![CDATA[美國4月新屋銷售按月下跌4.7%，以年率計降至63.4萬間，少過市場預期，或反映按揭利率及樓價上升，樓市在第2季正失去動力。
-
-美國4月新屋銷售按年下跌7.7%。4月新屋樓價中位數按年上升3.9%，升至43.35萬美元。]]>
-   </description>
-   <pubDate>
-    Thu, 23 May 2024 23:48:42 +0800
    </pubDate>
   </item>
  </channel>

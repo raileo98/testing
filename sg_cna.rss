@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Fri, 24 May 2024 10:49:53 +0800
+   Fri, 24 May 2024 11:06:47 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Former Wallabies stalwart Kepu calls time on decorated career
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/former-wallabies-stalwart-kepu-calls-time-decorated-career-4360126
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Fri, 24 May 2024 10:52:29 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/former-wallabies-stalwart-kepu-calls-time-decorated-career-4360126
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--wvDAbpt---/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-24t025229z_1_lynxmpek4n03b_rtroptp_3_rugby-union-england-lon-sal.jpg?itok=-BLgMuVE" width="1600"/>
+  </item>
   <item>
    <title>
     Singaporean actor Hisyam Hamid ends marriage after 18 years: 'For now, we're more comfortable as good friends'
@@ -164,7 +185,7 @@
    <category>
     Asia
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--EgvaFAQl--/c_crop,h_843,w_1500,x_0,y_96/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2022/11/07/000_97e3wm.jpg?itok=w_QDMl3Q" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A-UvdMva--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/hanoi%20fire%201.jpg?itok=oWPtcHk6" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--HtsbFBYN--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/0b6f9cf1f37186cc88a8a6e678d3fa964036a36f.jpg?itok=Ys9qV67R" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Japan's inflation slows further, keeping BOJ cautious on further rate hikes
-   </title>
-   <link>
-    https://www.channelnewsasia.com/business/japans-inflation-slows-further-keeping-boj-cautious-further-rate-hikes-4359816
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Fri, 24 May 2024 07:32:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/business/japans-inflation-slows-further-keeping-boj-cautious-further-rate-hikes-4359816
-   </guid>
-   <category>
-    Business
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--bQcX-K29--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t233217z_1_lynxmpek4m0xk_rtroptp_3_japan-economy-inflation.jpg?itok=lEffihfN" width="1600"/>
   </item>
  </channel>
 </rss>
