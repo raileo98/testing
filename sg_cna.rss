@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 01:36:48 +0800
+   Sun, 26 May 2024 01:44:33 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Russian strikes on Ukrainian city of Kharkiv kill at least two, injure many
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/russian-strikes-ukrainian-city-kharkiv-kill-least-two-injure-many-4363416
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 01:37:46 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/russian-strikes-ukrainian-city-kharkiv-kill-least-two-injure-many-4363416
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--OrUwdWoa--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t165742z_2_lynxmpek4o05g_rtroptp_3_ukraine-crisis-attack-kharkiv.jpg?itok=08fQcbAr" width="1600"/>
+  </item>
   <item>
    <title>
     Verstappen says his Red Bull has a fundamental problem
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jrfgu4ae--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t123213z_1_lynxmpek4o048_rtroptp_3_soccer-spain-fcb-xavi.jpg?itok=ZTKr-j9z" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Leclerc stays on top in final Monaco practice
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/leclerc-stays-top-final-monaco-practice-4363271
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 20:22:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/leclerc-stays-top-final-monaco-practice-4363271
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ygpkygLs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t122221z_1_lynxmpek4o044_rtroptp_3_motor-f1-monaco.jpg?itok=V5QImWBl" width="1600"/>
   </item>
  </channel>
 </rss>
