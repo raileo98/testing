@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 07:41:17 +0800
+   Sun, 26 May 2024 07:48:08 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Kroos will leave at the top - Ancelotti
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/kroos-will-leave-top-ancelotti-4364136
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 07:41:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/kroos-will-leave-top-ancelotti-4364136
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Chebet breaks 10,000m record, Kerr beats Ingebrigtsen
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    World Court's order on Rafah does not rule out entire offensive, Israel says
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/world-courts-order-rafah-does-not-rule-out-entire-offensive-israel-says-4363536
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 05:04:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/world-courts-order-rafah-does-not-rule-out-entire-offensive-israel-says-4363536
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yBZ7CDCq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t164003z_1_lynxmpek4o06n_rtroptp_3_israel-palestinians-gaza.jpg?itok=rnKZrbk7" width="1600"/>
   </item>
  </channel>
 </rss>
