@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 19:48:25 +0800
+   Sat, 25 May 2024 20:15:32 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Gaia Series 40: The Challenge Of A Young Leader
+   </title>
+   <link>
+    https://www.channelnewsasia.com/japan-hour/gaia-series-40-challenge-young-leader-4357131
+   </link>
+   <description>
+    <![CDATA[Dive into the bustling world of Japanet Takata in Sasebo City, where dynamic leadership and innovative strategies are reshaping the future of retail in Japan.]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 20:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/japan-hour/gaia-series-40-challenge-young-leader-4357131
+   </guid>
+   <category>
+    Japan Hour
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7zTraB3U--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/ep_20_pix_1.png?itok=N-QyDO2e" width="1600"/>
+  </item>
   <item>
    <title>
     Osaka hopes dedication to clay pays off at Roland Garros
@@ -438,27 +459,6 @@
     Entertainment ,Style &amp; Beauty ,CNA Lifestyle
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Zk4Fhjeq--/c_crop,h_576,w_1024,x_0,y_12/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:afp_watermark,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2023/07/07/Taylor%20Swift%20Eras%20tour%20US.jpg?itok=UMQsK9tT" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Rapper Sean Kingston and his mother allegedly stole more than US$1 million through fraud
-   </title>
-   <link>
-    https://www.channelnewsasia.com/entertainment/rapper-sean-kingston-mother-alleged-fraud-theft-4362341
-   </link>
-   <description>
-    <![CDATA[The pair are accused of stealing money, jewellery, a luxury Cadillac car and furniture.]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 09:50:42 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/entertainment/rapper-sean-kingston-mother-alleged-fraud-theft-4362341
-   </guid>
-   <category>
-    Entertainment ,CNA Lifestyle
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--KTQNM2AL--/c_crop,h_576,w_1024,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/ap24144734852291.jpg?itok=fdGVW0FU" width="1600"/>
   </item>
  </channel>
 </rss>
