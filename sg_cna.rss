@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 03:21:20 +0800
+   Sun, 26 May 2024 03:30:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -60,6 +60,27 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mNWUuySV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t191331z_1_lynxmpek4o08l_rtroptp_3_rugby-union-champions-len-tou-report.jpg?itok=jCH9mVSE" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Kenyan Chebet smashes women's 10,000m world record
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/kenyan-chebet-smashes-womens-10000m-world-record-4363801
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 03:11:40 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/kenyan-chebet-smashes-womens-10000m-world-record-4363801
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XupXOCgz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t145835z_1_lynxmpek4o05a_rtroptp_3_ukraine-crisis-spain.jpg?itok=pUEFWPjj" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Pogacar poised to win Giro after solo stage 20 victory
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/pogacar-poised-win-giro-after-solo-stage-20-victory-4363426
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 23:30:19 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/pogacar-poised-win-giro-after-solo-stage-20-victory-4363426
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cmQIKN3i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t153019z_1_lynxmpek4o05p_rtroptp_3_cycling-giro.jpg?itok=ok5WGbPF" width="1600"/>
   </item>
  </channel>
 </rss>
