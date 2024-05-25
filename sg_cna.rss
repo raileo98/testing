@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 15:32:45 +0800
+   Sat, 25 May 2024 15:45:29 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Copa America to feature its first female referees
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/copa-america-feature-its-first-female-referees-4363066
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 15:29:09 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/copa-america-feature-its-first-female-referees-4363066
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qsk3KMz7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t072909z_1_lynxmpek4o01w_rtroptp_3_soccer-copa.jpg?itok=U8LMgAoq" width="1600"/>
+  </item>
   <item>
    <title>
     Israel strikes Rafah after top UN court orders it to halt offensive
@@ -438,27 +459,6 @@
     Asia ,World ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_ibTdKcZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/25/austin_dong_jun.jpg?itok=J2lcPRHv" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Exploring 3 Japanese onsen towns that are less than 3 hours away from Tokyo by shinkansen
-   </title>
-   <link>
-    https://www.channelnewsasia.com/travel/japan-onsen-kaga-hot-springs-4351216
-   </link>
-   <description>
-    <![CDATA[A new high-speed train stop unlocks Kaga, a destination for onsen, nourishing food and traditional crafts, as an easy-to-reach getaway from Japan's capital.]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 08:07:39 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/travel/japan-onsen-kaga-hot-springs-4351216
-   </guid>
-   <category>
-    Travel ,CNA Lifestyle ,East Asia ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9xCqhZKu--/c_crop,h_896,w_1593,x_1,y_256/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/japan_towns_tourism_5-11.jpg?itok=0fnYIsx9" width="1600"/>
   </item>
  </channel>
 </rss>
