@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 04:39:20 +0800
+   Sun, 26 May 2024 04:48:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    G7 ministers move closer to Russian assets deal to help Ukraine
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/g7-ministers-move-closer-russian-assets-deal-help-ukraine-4363926
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 04:43:37 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/g7-ministers-move-closer-russian-assets-deal-help-ukraine-4363926
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o3zLJSwu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/8b1c0889f80e24cdeb97e3529811d3242f407779.jpg?itok=35RvYQrC" width="1600"/>
+  </item>
   <item>
    <title>
     Ten-man Leverkusen clinch German Cup for first ever domestic double
@@ -433,27 +454,6 @@
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/toulouse-claim-sixth-title-after-epic-victory-over-leinster-4363541
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Atletico Madrid end season with 2-0 win over Real Sociedad
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/atletico-madrid-end-season-2-0-win-over-real-sociedad-4363531
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 00:36:32 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/atletico-madrid-end-season-2-0-win-over-real-sociedad-4363531
    </guid>
    <category>
     Sport
