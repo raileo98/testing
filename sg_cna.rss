@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 21:36:20 +0800
+   Sat, 25 May 2024 21:48:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Espargaro wins Catalunya GP sprint after Bagnaia crashes on final lap
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/espargaro-wins-catalunya-gp-sprint-after-bagnaia-crashes-final-lap-4363341
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 21:38:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/espargaro-wins-catalunya-gp-sprint-after-bagnaia-crashes-final-lap-4363341
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--rUJIAIHn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t133857z_1_lynxmpek4o04t_rtroptp_3_motor.jpg?itok=0u2rGS_c" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Nadal says 2024 may not be his last French Open, ahead of Zverev showdown
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/nadal-says-2024-may-not-be-his-last-french-open-ahead-zverev-showdown-4363336
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 21:36:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/nadal-says-2024-may-not-be-his-last-french-open-ahead-zverev-showdown-4363336
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--N9sg77NO--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t133618z_1_lynxmpek4o04r_rtroptp_3_tennis-frenchopen-preview.jpg?itok=iC53Zx4G" width="1600"/>
+  </item>
   <item>
    <title>
     Yemen's Houthis postpone release of 100 prisoners belonging to government forces
@@ -417,48 +459,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E3INltpR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t082903z_3_lynxmpek4o00s_rtroptp_3_china-taiwan.jpg?itok=tvB_YExY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China ends war games, Taiwan details surge in warplanes and ships
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-ends-war-games-taiwan-surge-warplanes-ships-4362806
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 12:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-ends-war-games-taiwan-surge-warplanes-ships-4362806
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E3INltpR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t082903z_3_lynxmpek4o00s_rtroptp_3_china-taiwan.jpg?itok=tvB_YExY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore police to launch new NSF vocation to fight cybercrimes and scams
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/police-launch-new-nsf-vocation-cybercrimes-scams-4362801
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 10:53:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/police-launch-new-nsf-vocation-cybercrimes-scams-4362801
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A72nTDOu--/c_crop,h_656,w_1166,x_181,y_58/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/25/HSK%20at%20SPF%20workplan%20sem.png?itok=bAbG_9yS" width="1600"/>
   </item>
  </channel>
 </rss>
