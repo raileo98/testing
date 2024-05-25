@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 01:06:37 +0800
+   Sun, 26 May 2024 01:25:30 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Verstappen says his Red Bull has a fundamental problem
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/verstappen-says-his-red-bull-has-fundamental-problem-4363621
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 01:23:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/verstappen-says-his-red-bull-has-fundamental-problem-4363621
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--H2_Ahnwc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t172321z_1_lynxmpek4o07i_rtroptp_3_motor-f1-monaco.jpg?itok=H1BE1zxw" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Buttler knock guides England to 23-run victory over Pakistan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/buttler-knock-guides-england-23-run-victory-over-pakistan-4363611
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 01:15:39 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/buttler-knock-guides-england-23-run-victory-over-pakistan-4363611
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Sociedad win is big boost for Atletico, Lino says
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ygpkygLs--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t122221z_1_lynxmpek4o044_rtroptp_3_motor-f1-monaco.jpg?itok=V5QImWBl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Gaia Series 40: The Challenge Of A Young Leader
-   </title>
-   <link>
-    https://www.channelnewsasia.com/japan-hour/gaia-series-40-challenge-young-leader-4357131
-   </link>
-   <description>
-    <![CDATA[Dive into the bustling world of Japanet Takata in Sasebo City, where dynamic leadership and innovative strategies are reshaping the future of retail in Japan.]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 20:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/japan-hour/gaia-series-40-challenge-young-leader-4357131
-   </guid>
-   <category>
-    Japan Hour
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--7zTraB3U--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/ep_20_pix_1.png?itok=N-QyDO2e" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Scarred by 2020 Hindu-Muslim riots, India district voters want peace
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/scarred-2020-hindu-muslim-riots-india-district-voters-want-peace-4363181
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 19:16:07 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/scarred-2020-hindu-muslim-riots-india-district-voters-want-peace-4363181
-   </guid>
-   <category>
-    Asia ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZcKkjbEe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t105421z_1_lynxmpek4o03b_rtroptp_3_india-election-preps.jpg?itok=uBaXIV59" width="1600"/>
   </item>
  </channel>
 </rss>

@@ -25,7 +25,7 @@
    RSS for Node
   </generator>
   <lastBuildDate>
-   Fri, 24 May 2024 17:00:01 GMT
+   Sat, 25 May 2024 17:00:01 GMT
   </lastBuildDate>
   <atom:link href="https://www.twreporter.org/a/rss2.xml" rel="self" type="application/rss+xml"/>
   <copyright>
@@ -34,6 +34,42 @@
   <language>
    zh-tw
   </language>
+  <item>
+   <title>
+    詹育杰／「不修圖」是攝影的迷思還是神話？從英國王室P圖事件談起
+   </title>
+   <description>
+    <![CDATA[攝影作品到底可不可以修圖？在生成式AI也可以生產新聞照片的現在，回到150年前攝影剛出現的時代，當偉人肖像照、新聞圖照原來都是修圖生成，該如何看待這項技術與攝影的關係？「不修圖」是攝影的迷思還是神話？]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/photo-the-myth-of-photo-retouching
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/photo-the-myth-of-photo-retouching
+   </guid>
+   <pubDate>
+    Sat, 25 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240521111717-c12022f3680748c1a52b58be2a015e6c-mobile.jpg"/>
+  </item>
+  <item>
+   <title>
+    數萬民眾抗議下，立法院二讀通過擴大國會調查權、增加聽證權相關條文
+   </title>
+   <description>
+    <![CDATA[立法院5月24日第三度上演「國會改革」法案表決大戰，午夜前，藍白陣營已二讀通過擴大國會「調查權」、增加「聽證權」相關條文，有學者專家對部分條文表達憂慮。立院場外抗議「沒有討論、不是民主」民眾一度達10萬人，全台各地也湧現集會。]]>
+   </description>
+   <link>
+    https://www.twreporter.org/a/legislature-voting-on-controversial-political-reforms-2
+   </link>
+   <guid isPermaLink="true">
+    https://www.twreporter.org/a/legislature-voting-on-controversial-political-reforms-2
+   </guid>
+   <pubDate>
+    Fri, 24 May 2024 16:00:00 GMT
+   </pubDate>
+   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240525013822-c037d246c969926fff308ddf40b71749-mobile.jpg"/>
+  </item>
   <item>
    <title>
     王子榮／逝者已矣？談司法判決中的《破墓》二三事
@@ -162,24 +198,6 @@
   </item>
   <item>
    <title>
-    賴清德就職演說分析：延續蔡英文「四個堅持」但多次提到「中國」，強調民主台灣的世界布局
-   </title>
-   <description>
-    <![CDATA[比較賴清德與蔡英文的就職演說，賴最大不同在於提到「中國」7次、「中華人民共和國」1次，這在蔡兩次就職演說中從來沒出現過；而賴提到台灣高達79次，遠遠超過蔡英文。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/2024-lai-ching-te-president-inauguration
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/2024-lai-ching-te-president-inauguration
-   </guid>
-   <pubDate>
-    Sun, 19 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240520171502-8bc36d9a4b7033233711abc0293da625-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
     2024總統就職典禮：記一場承載國家未來想望的慶典
    </title>
    <description>
@@ -195,24 +213,6 @@
     Sun, 19 May 2024 16:00:00 GMT
    </pubDate>
    <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240520222912-6705d62949446d0bf19206fc3ea2ac55-mobile.jpg"/>
-  </item>
-  <item>
-   <title>
-    許震唐／不再氤氳的波瓦倫──廬山溫泉紀行
-   </title>
-   <description>
-    <![CDATA[舊稱「波瓦倫」，曾經風華的廬山溫泉，是濁水溪水系中的溫泉鄉，遭遇921地震與多起風災後，終究走上被迫遷徙的歷史命運。經過一段與自然環境共存、拔河的記憶，該如何面對？當輸贏的標線不在我們這邊時。]]>
-   </description>
-   <link>
-    https://www.twreporter.org/a/photo-a-travelogue-of-lushan-buwarung-hot-spring
-   </link>
-   <guid isPermaLink="true">
-    https://www.twreporter.org/a/photo-a-travelogue-of-lushan-buwarung-hot-spring
-   </guid>
-   <pubDate>
-    Sat, 18 May 2024 16:00:00 GMT
-   </pubDate>
-   <enclosure length="0" type="image/jpeg" url="https://www.twreporter.org/images/20240424083642-8fc2c4cc53636c952cc114ded05faca4-mobile.jpg"/>
   </item>
  </channel>
 </rss>
