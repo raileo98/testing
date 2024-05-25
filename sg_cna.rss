@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 03:35:53 +0800
+   Sun, 26 May 2024 03:49:39 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    FA Cup win could be glorious United farewell for Ten Hag
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fa-cup-win-could-be-glorious-united-farewell-ten-hag-4363826
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 03:35:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fa-cup-win-could-be-glorious-united-farewell-ten-hag-4363826
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Attack kings Toulouse go on the defensive to win title
@@ -438,27 +459,6 @@
     Sport ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k8A_4a6M--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t164857z_2_lynxmpek4o06t_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=byjiVOZi" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Spanish defence minister says Gaza war is 'real genocide'
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/spanish-defence-minister-says-gaza-war-real-genocide-4363386
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 23:50:17 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/spanish-defence-minister-says-gaza-war-real-genocide-4363386
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--XupXOCgz--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t145835z_1_lynxmpek4o05a_rtroptp_3_ukraine-crisis-spain.jpg?itok=pUEFWPjj" width="1600"/>
   </item>
  </channel>
 </rss>
