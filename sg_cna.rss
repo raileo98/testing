@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 02:35:47 +0800
+   Sun, 26 May 2024 02:40:57 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Biden highlights US commitment to Israel, Ukraine, Indo-Pacific in West Point speech
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/biden-highlights-us-commitment-israel-ukraine-indo-pacific-west-point-speech-4363691
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 02:38:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/biden-highlights-us-commitment-israel-ukraine-indo-pacific-west-point-speech-4363691
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kTefWrIp--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t215020z_2_lynxmpek4m0sa_rtroptp_3_usa-kenya.jpg?itok=CilomXz0" width="1600"/>
+  </item>
   <item>
    <title>
     Russian strikes on Ukrainian city of Kharkiv kill at least two, dozens injured
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--b5y81fFq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t124522z_1_lynxmpek4o04f_rtroptp_3_soccer-england-ntg-mun-report.jpg?itok=MBK67huD" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Xavi 'proud and calm' after being sacked by Barcelona
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/xavi-proud-and-calm-after-being-sacked-barcelona-4363291
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 20:32:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/xavi-proud-and-calm-after-being-sacked-barcelona-4363291
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jrfgu4ae--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t123213z_1_lynxmpek4o048_rtroptp_3_soccer-spain-fcb-xavi.jpg?itok=ZTKr-j9z" width="1600"/>
   </item>
  </channel>
 </rss>
