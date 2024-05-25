@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 17:52:13 +0800
+   Sat, 25 May 2024 18:12:09 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Espargaro smashes lap record to take pole at Catalunya GP
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/espargaro-smashes-lap-record-take-pole-catalunya-gp-4363136
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 18:02:06 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/espargaro-smashes-lap-record-take-pole-catalunya-gp-4363136
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_JyZIc4Z--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t100206z_1_lynxmpek4o033_rtroptp_3_motor.jpg?itok=UMNnrWKw" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Doncic drills game-winner as Mavs edge T'Wolves for 2-0 NBA series lead
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/doncic-drills-game-winner-mavs-edge-twolves-2-0-nba-series-lead-4362876
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 18:00:08 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/doncic-drills-game-winner-mavs-edge-twolves-2-0-nba-series-lead-4362876
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iMIwIjdS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/58b6f8e2465fe72ac66e1479eb1b13fe11c86935.jpg?itok=3ID0D5k1" width="1600"/>
+  </item>
   <item>
    <title>
     Malaysian footballer discharged from hospital after acid attack: Club CEO
@@ -417,48 +459,6 @@
     People ,Women ,Obsessions ,CNA Luxury
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kfqTSrYP--/c_crop,h_1378,w_2450,x_0,y_20/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/cartier_womens_initiative_2024_dr_lynne_lim.jpg?itok=f6Q6rzNr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singaporean doctor and medtech start-up entrepreneur Lynne Lim wins first prize at 2024 Cartier Women’s Initiative
-   </title>
-   <link>
-    https://www.channelnewsasia.com/people/cartier-womens-initiative-lynne-lim-nousq-singapore-4360286
-   </link>
-   <description>
-    <![CDATA[Dr Lynne Lim, an ear, nose and throat (ENT) specialist and founder of medtech start-up NousQ, was awarded first place in the Science & Technology Pioneer category at the 2024 Cartier Women’s Initiative, an impact entrepreneurship programme started by the French jewellery brand to support women-led businesses driving change.  ]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 09:04:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/people/cartier-womens-initiative-lynne-lim-nousq-singapore-4360286
-   </guid>
-   <category>
-    People ,Women ,Obsessions ,CNA Luxury
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--kfqTSrYP--/c_crop,h_1378,w_2450,x_0,y_20/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/cartier_womens_initiative_2024_dr_lynne_lim.jpg?itok=f6Q6rzNr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    US, China defence chiefs to meet following Taiwan tension
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/us-china-defence-chiefs-meet-taiwan-tension-4362541
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 08:21:40 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/us-china-defence-chiefs-meet-taiwan-tension-4362541
-   </guid>
-   <category>
-    Asia ,World ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--_ibTdKcZ--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/25/austin_dong_jun.jpg?itok=J2lcPRHv" width="1600"/>
   </item>
  </channel>
 </rss>
