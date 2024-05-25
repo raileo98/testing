@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 00:23:21 +0800
+   Sun, 26 May 2024 00:37:31 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -63,24 +63,45 @@
   </item>
   <item>
    <title>
-    Man United stun Man City to win FA Cup final
+    Man United stun Man City to win FA Cup
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/man-united-stun-man-city-win-fa-cup-final-4363486
+    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
    </link>
    <description>
     <![CDATA[]]>
    </description>
    <pubDate>
-    Sun, 26 May 2024 00:09:12 +0800
+    Sun, 26 May 2024 00:09:00 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/man-united-stun-man-city-win-fa-cup-final-4363486
+    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
    </guid>
    <category>
-    Sport
+    Sport ,World
    </category>
-   <media:thumbnail/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2VVGsYgA--/c_crop,h_450,w_800,x_0,y_34/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t160757z_1_lynxmpek4o065_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=I5O5kaeJ" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Man United stun Man City to win FA Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 00:09:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
+   </guid>
+   <category>
+    Sport ,World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--2VVGsYgA--/c_crop,h_450,w_800,x_0,y_34/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t160757z_1_lynxmpek4o065_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=I5O5kaeJ" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GeG04K4x--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t135327z_2_lynxmpek4o02z_rtroptp_3_newcaledonia-violence-macron.jpg?itok=pFvdbNTr" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Espargaro smashes lap record to take pole at Catalunya GP
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/espargaro-smashes-lap-record-take-pole-catalunya-gp-4363136
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 18:02:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/espargaro-smashes-lap-record-take-pole-catalunya-gp-4363136
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jThup_Uf--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t100206z_1_lynxmpek4o033_rtroptp_3_motor.jpg?itok=UMNnrWKw" width="1600"/>
   </item>
  </channel>
 </rss>
