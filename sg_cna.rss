@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 23:30:24 +0800
+   Sat, 25 May 2024 23:42:23 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Unstoppable Pogacar poised to win Giro after solo-run to sixth stage victory
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/unstoppable-pogacar-poised-win-giro-after-solo-run-sixth-stage-victory-4363426
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 23:30:19 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/unstoppable-pogacar-poised-win-giro-after-solo-run-sixth-stage-victory-4363426
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cmQIKN3i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t153019z_1_lynxmpek4o05p_rtroptp_3_cycling-giro.jpg?itok=ok5WGbPF" width="1600"/>
+  </item>
   <item>
    <title>
     Leclerc takes pole in Monaco as Verstappen hits the wall
@@ -438,27 +459,6 @@
     Sport ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08c1-Pfu--/c_crop,h_432,w_768,x_0,y_2/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/f242290167e24df389f7966c05837c4ccaac2048.jpg?itok=AA_tT3NL" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Copa America to feature its first female referees
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/copa-america-feature-its-first-female-referees-4363066
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 15:29:09 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/copa-america-feature-its-first-female-referees-4363066
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qsk3KMz7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t072909z_1_lynxmpek4o01w_rtroptp_3_soccer-copa.jpg?itok=U8LMgAoq" width="1600"/>
   </item>
  </channel>
 </rss>
