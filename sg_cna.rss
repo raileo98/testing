@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 00:04:14 +0800
+   Sun, 26 May 2024 00:23:21 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Celtic leave it late to beat Rangers and win Scottish Cup
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/celtic-leave-it-late-beat-rangers-and-win-scottish-cup-4363481
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 00:12:18 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/celtic-leave-it-late-beat-rangers-and-win-scottish-cup-4363481
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Man United stun Man City to win FA Cup final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/man-united-stun-man-city-win-fa-cup-final-4363486
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 00:09:12 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/man-united-stun-man-city-win-fa-cup-final-4363486
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Spanish defence minister says Gaza war is 'real genocide'
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--jThup_Uf--/c_crop,h_450,w_800,x_0,y_0/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t100206z_1_lynxmpek4o033_rtroptp_3_motor.jpg?itok=UMNnrWKw" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Doncic drills game-winner as Mavs edge T'Wolves for 2-0 NBA series lead
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/doncic-drills-game-winner-mavs-edge-twolves-2-0-nba-series-lead-4362876
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 18:00:08 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/doncic-drills-game-winner-mavs-edge-twolves-2-0-nba-series-lead-4362876
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--iMIwIjdS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/58b6f8e2465fe72ac66e1479eb1b13fe11c86935.jpg?itok=3ID0D5k1" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Malaysian footballer discharged from hospital after acid attack: Club CEO
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/faisal-halim-acid-attack-malaysian-footballer-discharged-hospital-4363061
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 17:37:36 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/faisal-halim-acid-attack-malaysian-footballer-discharged-hospital-4363061
-   </guid>
-   <category>
-    Sport ,Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--08c1-Pfu--/c_crop,h_432,w_768,x_0,y_2/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/f242290167e24df389f7966c05837c4ccaac2048.jpg?itok=AA_tT3NL" width="1600"/>
   </item>
  </channel>
 </rss>
