@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 00:42:12 +0800
+   Sun, 26 May 2024 00:54:18 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Toulouse claim sixth title after epic victory over Leinster
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/toulouse-claim-sixth-title-after-epic-victory-over-leinster-4363541
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 00:40:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/toulouse-claim-sixth-title-after-epic-victory-over-leinster-4363541
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Atletico Madrid end season with 2-0 win over Real Sociedad
@@ -438,27 +459,6 @@
     Asia ,World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--ZcKkjbEe--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t105421z_1_lynxmpek4o03b_rtroptp_3_india-election-preps.jpg?itok=uBaXIV59" width="1600"/>
-  </item>
-  <item>
-   <title>
-    G7 aims to use frozen Russian assets to help 'desperate' Ukraine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/g7-aims-use-frozen-russian-assets-help-desperate-ukraine-4363076
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 18:38:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/g7-aims-use-frozen-russian-assets-help-desperate-ukraine-4363076
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Eankrde2--/c_crop,h_450,w_800,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t182937z_1_lynxmpek4m0s7_rtroptp_3_g7-italy-finance.jpg?itok=PoWtuJLq" width="1600"/>
   </item>
  </channel>
 </rss>
