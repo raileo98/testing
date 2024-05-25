@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 21:12:51 +0800
+   Sat, 25 May 2024 21:24:06 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Yemen's Houthis postpone release of 100 prisoners belonging to government forces
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/yemens-houthis-postpone-release-100-prisoners-belonging-government-forces-4363296
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 21:23:05 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/yemens-houthis-postpone-release-100-prisoners-belonging-government-forces-4363296
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--WpXG3XbT--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-09t062534z_1_lynxmpek4808c_rtroptp_3_israel-palestinians-yemen-houthis.jpg?itok=VbuZhwMQ" width="1600"/>
+  </item>
   <item>
    <title>
     Rooney appointed manager at Plymouth Argyle
@@ -72,7 +93,7 @@
     <![CDATA[]]>
    </description>
    <pubDate>
-    Sat, 25 May 2024 20:32:13 +0800
+    Sat, 25 May 2024 20:32:00 +0800
    </pubDate>
    <guid isPermaLink="false">
     https://www.channelnewsasia.com/sport/xavi-proud-and-calm-after-being-sacked-barcelona-4363291
@@ -438,27 +459,6 @@
     Asia ,East Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E3INltpR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t082903z_3_lynxmpek4o00s_rtroptp_3_china-taiwan.jpg?itok=tvB_YExY" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Singapore police to launch new NSF vocation to fight cybercrimes and scams
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/police-launch-new-nsf-vocation-cybercrimes-scams-4362801
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 10:53:47 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/police-launch-new-nsf-vocation-cybercrimes-scams-4362801
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--A72nTDOu--/c_crop,h_656,w_1166,x_181,y_58/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/25/HSK%20at%20SPF%20workplan%20sem.png?itok=bAbG_9yS" width="1600"/>
   </item>
  </channel>
 </rss>
