@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 03:12:20 +0800
+   Sun, 26 May 2024 03:21:20 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Attack kings Toulouse go on the defensive to win title
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/attack-kings-toulouse-go-defensive-win-title-4363796
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 03:13:31 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/attack-kings-toulouse-go-defensive-win-title-4363796
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--mNWUuySV--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t191331z_1_lynxmpek4o08l_rtroptp_3_rugby-union-champions-len-tou-report.jpg?itok=jCH9mVSE" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Al-Ain crush Marinos to win Asian Champions League final
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/al-ain-crush-marinos-win-asian-champions-league-final-4363806
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 03:10:17 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/al-ain-crush-marinos-win-asian-champions-league-final-4363806
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Leclerc on pole but still haunted by the past
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--cmQIKN3i--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t153019z_1_lynxmpek4o05p_rtroptp_3_cycling-giro.jpg?itok=ok5WGbPF" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Leclerc ends Verstappen's record run with Monaco pole
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/leclerc-ends-verstappens-record-run-monaco-pole-4363401
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 23:12:34 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/leclerc-ends-verstappens-record-run-monaco-pole-4363401
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UxhYLzV_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t151234z_1_lynxmpek4o05f_rtroptp_3_motor-f1-monaco.jpg?itok=eB2rhZEP" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Keys eases to Strasbourg title in straight-sets win over Collins
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/keys-eases-strasbourg-title-straight-sets-win-over-collins-4363391
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 23:06:21 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/keys-eases-strasbourg-title-straight-sets-win-over-collins-4363391
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sXi9q7KS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t150621z_1_lynxmpek4o05e_rtroptp_3_tennis-rome.jpg?itok=eO4pkLSi" width="1600"/>
   </item>
  </channel>
 </rss>
