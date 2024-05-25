@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 21:54:25 +0800
+   Sat, 25 May 2024 22:11:24 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,10 +42,31 @@
   </image>
   <item>
    <title>
-    Espargaro wins Catalunya GP sprint after Bagnaia crashes on final lap
+    More than 10,000 people reach UK in small boats since January
    </title>
    <link>
-    https://www.channelnewsasia.com/sport/espargaro-wins-catalunya-gp-sprint-after-bagnaia-crashes-final-lap-4363341
+    https://www.channelnewsasia.com/world/more-10000-people-reach-uk-small-boats-january-4363231
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 21:58:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/more-10000-people-reach-uk-small-boats-january-4363231
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--eWjR1Hdr--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t115333z_1_lynxmpek4o03w_rtroptp_3_migration-britain.jpg?itok=-Cv-Lt9-" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Espargaro wins Catalunya GP sprint after three race leaders crash
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/espargaro-wins-catalunya-gp-sprint-after-three-race-leaders-crash-4363341
    </link>
    <description>
     <![CDATA[]]>
@@ -54,7 +75,7 @@
     Sat, 25 May 2024 21:38:57 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/espargaro-wins-catalunya-gp-sprint-after-bagnaia-crashes-final-lap-4363341
+    https://www.channelnewsasia.com/sport/espargaro-wins-catalunya-gp-sprint-after-three-race-leaders-crash-4363341
    </guid>
    <category>
     Sport
@@ -269,7 +290,7 @@
    <category>
     World
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Gsr1yNaX--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t095458z_1_lynxmpek4o02z_rtroptp_3_newcaledonia-violence-macron.jpg?itok=2GAz2ab-" width="1600"/>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GeG04K4x--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t135327z_2_lynxmpek4o02z_rtroptp_3_newcaledonia-violence-macron.jpg?itok=pFvdbNTr" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--LXtc6AOn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t054122z_1_lynxmpek4o01e_rtroptp_3_tennis-rome.jpg?itok=juOLySSQ" width="1600"/>
-  </item>
-  <item>
-   <title>
-    China ends war games, Taiwan details surge in warplanes and ships
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/china-ends-war-games-taiwan-surge-warplanes-ships-4362806
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 12:48:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/china-ends-war-games-taiwan-surge-warplanes-ships-4362806
-   </guid>
-   <category>
-    Asia ,East Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--E3INltpR--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t082903z_3_lynxmpek4o00s_rtroptp_3_china-taiwan.jpg?itok=tvB_YExY" width="1600"/>
   </item>
  </channel>
 </rss>
