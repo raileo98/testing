@@ -21,10 +21,10 @@
    webmaster@rthk.hk (webmaster)
   </webMaster>
   <pubDate>
-   Sat, 25 May 2024 17:30:44 +0800
+   Sat, 25 May 2024 17:50:33 +0800
   </pubDate>
   <lastBuildDate>
-   Sat, 25 May 2024 17:09:40 +0800
+   Sat, 25 May 2024 17:42:06 +0800
   </lastBuildDate>
   <category>
    新聞
@@ -46,6 +46,27 @@
     https://news.rthk.hk
    </link>
   </image>
+  <item>
+   <title>
+    民政事務總署澄清無資料外洩　已就網上平台聲稱報警
+   </title>
+   <guid>
+    https://news.rthk.hk/rthk/ch/component/k2/1754676-20240525.htm
+   </guid>
+   <link>
+    https://news.rthk.hk/rthk/ch/component/k2/1754676-20240525.htm
+   </link>
+   <description>
+    <![CDATA[民政事務總署表示，留意到有人在網上平台出售聲稱屬於民政事務總署系統內取得的市民資料，署方調查顯示，系統沒有任何被入侵或盜取資料的跡象，澄清沒有資料外洩。
+
+發言人表示，民政事務總署在得悉網上平台的聲稱後，已通知政府資訊科技總監辦公室，亦已向警務處網絡安全及科技罪案調查科舉報。
+
+民政事務總署對於任何形式的網絡犯罪行為和在網上散布不實消息予以嚴厲譴責，並會全力配合執法機構的調查工作。]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 17:42:06 +0800
+   </pubDate>
+  </item>
   <item>
    <title>
     「一帶一路」專員結束外訪　當局稱未來組織更多考察
@@ -451,27 +472,6 @@
    </description>
    <pubDate>
     Sat, 25 May 2024 09:56:04 +0800
-   </pubDate>
-  </item>
-  <item>
-   <title>
-    發行商接臨時禁制令通知　全球下架《願榮光》
-   </title>
-   <guid>
-    https://news.rthk.hk/rthk/ch/component/k2/1754638-20240525.htm
-   </guid>
-   <link>
-    https://news.rthk.hk/rthk/ch/component/k2/1754638-20240525.htm
-   </link>
-   <description>
-    <![CDATA[上訴庭早前裁定律政司就歌曲《願榮光》申請臨時禁制令的上訴得直，創作該歌曲的團隊在社交平台帖文，表示接獲英國蘇格蘭音樂發行商Emubands的通知，由於收到香港法庭的臨時禁制令通知，將在各大平台下架相關歌曲。
-
-團隊說，試搜尋後確認歌曲已在各平台上消失，並引述發行商回應表示，將歌曲重新上架的可能性非常低。
-
-較早前影片平台YouTube，遵守本港法庭禁制令，限制用戶本地瀏覽上訴庭判詞載列的32條相關歌曲連結。]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 09:48:32 +0800
    </pubDate>
   </item>
  </channel>
