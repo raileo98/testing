@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 07:30:28 +0800
+   Sun, 26 May 2024 07:41:17 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -42,24 +42,24 @@
   </image>
   <item>
    <title>
-    Commentary: The way Singapore Airlines handled SQ321 turbulence crisis is a lesson for other carriers
+    Chebet breaks 10,000m record, Kerr beats Ingebrigtsen
    </title>
    <link>
-    https://www.channelnewsasia.com/commentary/singapore-airlines-sia-sq321-turbulence-crisis-response-death-injuries-4361101
+    https://www.channelnewsasia.com/sport/chebet-breaks-10000m-record-kerr-beats-ingebrigtsen-4364056
    </link>
    <description>
-    <![CDATA[While SIA’s crisis management efforts have been lauded, the safety and security of air travel will be on the minds of passengers and airlines alike, says Endau Analytics’ Shukor Yusof.]]>
+    <![CDATA[]]>
    </description>
    <pubDate>
-    Sun, 26 May 2024 06:00:00 +0800
+    Sun, 26 May 2024 06:21:10 +0800
    </pubDate>
    <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/singapore-airlines-sia-sq321-turbulence-crisis-response-death-injuries-4361101
+    https://www.channelnewsasia.com/sport/chebet-breaks-10000m-record-kerr-beats-ingebrigtsen-4364056
    </guid>
    <category>
-    Commentary ,Singapore
+    Sport
    </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--79bVDuwk--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/cabin_crew_passengers_turbulence_sq321.jpg?itok=3qirm7IN" width="1600"/>
+   <media:thumbnail/>
   </item>
   <item>
    <title>
@@ -228,6 +228,27 @@
     Commentary ,Asia
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qIYKiVgn--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-20t070736z_2_lynxmpek4j07o_rtroptp_3_india-election.jpg?itok=fAkU-o5e" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Commentary: The way Singapore Airlines handled SQ321 turbulence crisis is a lesson for other carriers
+   </title>
+   <link>
+    https://www.channelnewsasia.com/commentary/singapore-airlines-sia-sq321-turbulence-crisis-response-death-injuries-4361101
+   </link>
+   <description>
+    <![CDATA[While SIA’s crisis management efforts have been lauded, the safety and security of air travel will be on the minds of passengers and airlines alike, says Endau Analytics’ Shukor Yusof.]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 06:00:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/commentary/singapore-airlines-sia-sq321-turbulence-crisis-response-death-injuries-4361101
+   </guid>
+   <category>
+    Commentary ,Singapore
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--79bVDuwk--/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/23/cabin_crew_passengers_turbulence_sq321.jpg?itok=3qirm7IN" width="1600"/>
   </item>
   <item>
    <title>
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--yBZ7CDCq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t164003z_1_lynxmpek4o06n_rtroptp_3_israel-palestinians-gaza.jpg?itok=rnKZrbk7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    G7 ministers move closer to Russian assets deal to help Ukraine
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/g7-ministers-move-closer-russian-assets-deal-help-ukraine-4363926
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 04:43:37 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/g7-ministers-move-closer-russian-assets-deal-help-ukraine-4363926
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--o3zLJSwu--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/8b1c0889f80e24cdeb97e3529811d3242f407779.jpg?itok=35RvYQrC" width="1600"/>
   </item>
  </channel>
 </rss>
