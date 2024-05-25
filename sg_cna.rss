@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 04:11:31 +0800
+   Sun, 26 May 2024 04:24:16 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    PGA Tour player Grayson Murray dies - PGA tour
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/pga-tour-player-grayson-murray-dies-pga-tour-4363901
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 04:18:03 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/pga-tour-player-grayson-murray-dies-pga-tour-4363901
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
+  <item>
+   <title>
+    Kewell slams referee after Marinos' CL final loss
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/kewell-slams-referee-after-marinos-cl-final-loss-4363891
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 04:11:57 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/kewell-slams-referee-after-marinos-cl-final-loss-4363891
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s---7nB-fuq--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t201157z_1_lynxmpek4o097_rtroptp_3_soccer-afcchampions-ain-yok-preview.jpg?itok=j8QJzqkG" width="1600"/>
+  </item>
   <item>
    <title>
     FA Cup win could be glorious United farewell for Ten Hag
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Man United stun Man City to win FA Cup
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 00:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
-   </guid>
-   <category>
-    Sport ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k8A_4a6M--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t164857z_2_lynxmpek4o06t_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=byjiVOZi" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Man United stun Man City to win FA Cup
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 00:09:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/fa-cup-man-united-stun-man-city-4363486
-   </guid>
-   <category>
-    Sport ,World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--k8A_4a6M--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t164857z_2_lynxmpek4o06t_rtroptp_3_soccer-england-mci-mun-report.jpg?itok=byjiVOZi" width="1600"/>
   </item>
  </channel>
 </rss>
