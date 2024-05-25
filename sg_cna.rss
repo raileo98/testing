@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sat, 25 May 2024 22:55:39 +0800
+   Sat, 25 May 2024 23:15:56 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Leclerc takes pole in Monaco as Verstappen hits the wall
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/leclerc-takes-pole-monaco-verstappen-hits-wall-4363401
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 23:12:34 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/leclerc-takes-pole-monaco-verstappen-hits-wall-4363401
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--UxhYLzV_--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t151234z_1_lynxmpek4o05f_rtroptp_3_motor-f1-monaco.jpg?itok=eB2rhZEP" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Keys eases to Strasbourg title in straight-sets win over Collins
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/keys-eases-strasbourg-title-straight-sets-win-over-collins-4363391
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sat, 25 May 2024 23:06:21 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/keys-eases-strasbourg-title-straight-sets-win-over-collins-4363391
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--sXi9q7KS--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t150621z_1_lynxmpek4o05e_rtroptp_3_tennis-rome.jpg?itok=eO4pkLSi" width="1600"/>
+  </item>
   <item>
    <title>
     South Africa's ruling ANC rallies to defend solo rule
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--qsk3KMz7--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t072909z_1_lynxmpek4o01w_rtroptp_3_soccer-copa.jpg?itok=U8LMgAoq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Israel strikes Rafah after top UN court orders it to halt offensive
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/israel-strikes-rafah-top-un-court-orders-halt-offensive-4362836
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 15:28:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/israel-strikes-rafah-top-un-court-orders-halt-offensive-4362836
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--IO7dCBrc--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/one-cms/core/cf4112a7503a209ca52d5461da03c2fa65ae3b80.jpg?itok=THKnZhVN" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Edge buffet restaurant at Pan Pacific Hotel suspended after 16 diners fall ill
-   </title>
-   <link>
-    https://www.channelnewsasia.com/singapore/edge-buffet-restaurant-pan-pacific-hotel-16-diners-ill-gastroenteritis-sfa-moh-4363051
-   </link>
-   <description>
-    <![CDATA[The Health Ministry and the Singapore Food Agency are investigating six incidents of gastroenteritis, with 16 people falling ill after eating food prepared by Edge restaurant between May 2 and May 18.]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 14:37:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/singapore/edge-buffet-restaurant-pan-pacific-hotel-16-diners-ill-gastroenteritis-sfa-moh-4363051
-   </guid>
-   <category>
-    Singapore
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--SMq8Wsi---/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/25/edge_2.jpg?itok=aTyI41gX" width="1600"/>
   </item>
  </channel>
 </rss>
