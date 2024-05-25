@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 00:37:31 +0800
+   Sun, 26 May 2024 00:42:12 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,27 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Atletico Madrid end season with 2-0 win over Real Sociedad
+   </title>
+   <link>
+    https://www.channelnewsasia.com/sport/atletico-madrid-end-season-2-0-win-over-real-sociedad-4363531
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 00:36:32 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/sport/atletico-madrid-end-season-2-0-win-over-real-sociedad-4363531
+   </guid>
+   <category>
+    Sport
+   </category>
+   <media:thumbnail/>
+  </item>
   <item>
    <title>
     Celtic leave it late to beat Rangers and win Scottish Cup
@@ -438,27 +459,6 @@
     World
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--Eankrde2--/c_crop,h_450,w_800,x_0,y_83/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-23t182937z_1_lynxmpek4m0s7_rtroptp_3_g7-italy-finance.jpg?itok=PoWtuJLq" width="1600"/>
-  </item>
-  <item>
-   <title>
-    In restive New Caledonia, Macron sees Pacific power and influence
-   </title>
-   <link>
-    https://www.channelnewsasia.com/world/restive-new-caledonia-macron-sees-pacific-power-and-influence-4363131
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sat, 25 May 2024 18:16:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/world/restive-new-caledonia-macron-sees-pacific-power-and-influence-4363131
-   </guid>
-   <category>
-    World
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--GeG04K4x--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t135327z_2_lynxmpek4o02z_rtroptp_3_newcaledonia-violence-macron.jpg?itok=pFvdbNTr" width="1600"/>
   </item>
  </channel>
 </rss>
