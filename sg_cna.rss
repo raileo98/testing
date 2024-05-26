@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 11:36:44 +0800
+   Sun, 26 May 2024 11:51:25 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    China's Li Qiang lands in Seoul for trilateral summit with South Korea, Japan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-south-korea-japan-trilateral-summit-li-qiang-4364346
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 11:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-south-korea-japan-trilateral-summit-li-qiang-4364346
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--keQIbaw---/c_crop,h_576,w_1024,x_0,y_29/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/26/li_qiang.jpg?itok=1JwgyhEn" width="1600"/>
+  </item>
+  <item>
+   <title>
+    China's Li Qiang lands in Seoul for trilateral summit with South Korea, Japan
+   </title>
+   <link>
+    https://www.channelnewsasia.com/asia/china-south-korea-japan-trilateral-summit-li-qiang-4364346
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 11:40:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/asia/china-south-korea-japan-trilateral-summit-li-qiang-4364346
+   </guid>
+   <category>
+    Asia ,East Asia
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--keQIbaw---/c_crop,h_576,w_1024,x_0,y_29/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/26/li_qiang.jpg?itok=1JwgyhEn" width="1600"/>
+  </item>
   <item>
    <title>
     77th Cannes Film Festival: Singaporean Chiang Wei Liang awarded Camera D'Or Special Mention for film Mongrel
@@ -417,48 +459,6 @@
     Singapore ,Sport
    </category>
    <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--moBKjHx7--/c_crop,h_864,w_1536,x_31,y_35/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/24/Matthew%20And%20Loh%20Kean%20Yew%20Comp%20Photo%202_0.jpg?itok=tmNU6MSl" width="1600"/>
-  </item>
-  <item>
-   <title>
-    Commentary: Heatwaves can be deadly for older adults
-   </title>
-   <link>
-    https://www.channelnewsasia.com/commentary/heatwave-deadly-old-ageing-population-risk-4360991
-   </link>
-   <description>
-    <![CDATA[An ageing global population and rising temperatures mean millions are at risk, say academics from Boston University and Ca' Foscari University of Venice.]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/commentary/heatwave-deadly-old-ageing-population-risk-4360991
-   </guid>
-   <category>
-    Commentary ,Sustainability
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--YOIX_aNC--/c_fill,h_900,w_1600/f_auto,q_auto/hot-weather-sun.jpg?itok=oTm4Snx7" width="1600"/>
-  </item>
-  <item>
-   <title>
-    AI in Southeast Asia: 'Algorithm hallucinations' and ethical risks as e-commerce firms adopt new technologies
-   </title>
-   <link>
-    https://www.channelnewsasia.com/asia/ai-southeastasia-ecommerce-shopping-cyber-security-4343206
-   </link>
-   <description>
-    <![CDATA[In the latest in a series exploring the impact of AI in Southeast Asia, e-commerce companies, experts and customers share how machine-learning is streamlining online shopping and helping retailers get to know buyers better. But at what cost?]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 06:00:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/asia/ai-southeastasia-ecommerce-shopping-cyber-security-4343206
-   </guid>
-   <category>
-    Asia
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--PY07VZEQ--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2021-08:cna,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/08/AI%20chatbot%20in%20Lazada%20apps.jpg?itok=kHYN-fGd" width="1600"/>
   </item>
  </channel>
 </rss>
