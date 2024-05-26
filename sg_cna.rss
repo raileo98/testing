@@ -12,7 +12,7 @@
    mediacorp feed news
   </description>
   <lastBuildDate>
-   Sun, 26 May 2024 08:35:56 +0800
+   Sun, 26 May 2024 09:45:28 +0800
   </lastBuildDate>
   <generator>
    Mediacorp
@@ -40,6 +40,48 @@
     mediacorp feed news
    </description>
   </image>
+  <item>
+   <title>
+    Tesla shareholders advised to reject Musk's $56 billion pay
+   </title>
+   <link>
+    https://www.channelnewsasia.com/business/tesla-shareholders-advised-reject-musks-56-billion-pay-4364196
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 09:15:01 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/business/tesla-shareholders-advised-reject-musks-56-billion-pay-4364196
+   </guid>
+   <category>
+    Business
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--JXtIFtFH--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-26t011501z_5_lynxmpek4o0ai_rtroptp_3_xai-supercomputer.jpg?itok=99QQVTFt" width="1600"/>
+  </item>
+  <item>
+   <title>
+    Rapper Nicki Minaj cancels show in England after being held at Amsterdam airport
+   </title>
+   <link>
+    https://www.channelnewsasia.com/world/rapper-nicki-minaj-cancels-show-england-after-being-held-amsterdam-airport-4363696
+   </link>
+   <description>
+    <![CDATA[]]>
+   </description>
+   <pubDate>
+    Sun, 26 May 2024 09:02:00 +0800
+   </pubDate>
+   <guid isPermaLink="false">
+    https://www.channelnewsasia.com/world/rapper-nicki-minaj-cancels-show-england-after-being-held-amsterdam-airport-4363696
+   </guid>
+   <category>
+    World
+   </category>
+   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--9ToCGv4W--/c_fill,h_900,w_1600/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2024-05-25t213027z_3_lynxmpek4o080_rtroptp_3_usa-met-ball.jpg?itok=ADBu1KZF" width="1600"/>
+  </item>
   <item>
    <title>
     How to loosen up those painful muscle knots in your neck and back to relieve discomfort
@@ -417,48 +459,6 @@
     Sport
    </category>
    <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    Leverkusen's 'dream season' will long be remembered - Alonso
-   </title>
-   <link>
-    https://www.channelnewsasia.com/sport/leverkusens-dream-season-will-long-be-remembered-alonso-4364006
-   </link>
-   <description>
-    <![CDATA[]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 05:28:14 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/sport/leverkusens-dream-season-will-long-be-remembered-alonso-4364006
-   </guid>
-   <category>
-    Sport
-   </category>
-   <media:thumbnail/>
-  </item>
-  <item>
-   <title>
-    What will it take for Singapore’s yachting industry to rival that of Phuket’s? ONE15 Marina’s Johnathan Sit has a clue
-   </title>
-   <link>
-    https://www.channelnewsasia.com/people/singapore-yachting-industry-one15-marina-regional-gm-jonathan-sit-4354921
-   </link>
-   <description>
-    <![CDATA[The regional general manager of ONE15 Marina wants you to forget about that typical four-hour charter and consider taking a yacht out to Indonesia’s Nirup Island instead. ]]>
-   </description>
-   <pubDate>
-    Sun, 26 May 2024 05:27:00 +0800
-   </pubDate>
-   <guid isPermaLink="false">
-    https://www.channelnewsasia.com/people/singapore-yachting-industry-one15-marina-regional-gm-jonathan-sit-4354921
-   </guid>
-   <category>
-    People ,CNA Luxury ,Travel ,Experiences ,Living
-   </category>
-   <media:thumbnail height="900" url="https://onecms-res.cloudinary.com/image/upload/s--94qxP3gg--/c_crop,h_843,w_1500,x_0,y_114/c_fill,h_900,w_1600/f_auto,q_auto/v1/mediacorp/cna/image/2024/05/22/singapore_yachting_industry_one15_marina_regional_gm_jonathan_sit.jpg?itok=c_57cp7L" width="1600"/>
   </item>
  </channel>
 </rss>
